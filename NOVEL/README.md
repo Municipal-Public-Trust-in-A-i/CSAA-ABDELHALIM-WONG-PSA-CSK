@@ -63,24 +63,15 @@ Four years later, at the threshold of trial, defense counsel told the court the 
 | 16 | The Binary Trap — Why Every Defense Answer Leads to Liability | [#chapter-16-the-binary-trap--why-every-defense-answer-leads-to-liability](Rosario-v-Goliath-FULL.md#chapter-16-the-binary-trap--why-every-defense-answer-leads-to-liability) |
 | 17 | Pre-Service Warfare — Shaping the Battlefield Before the Enemy Arrives | [#chapter-17-pre-service-warfare--shaping-the-battlefield-before-the-enemy-arrives](Rosario-v-Goliath-FULL.md#chapter-17-pre-service-warfare--shaping-the-battlefield-before-the-enemy-arrives) |
 | 18 | Requests for Admission — The Binary Compulsion Machine | [#chapter-18-requests-for-admission--the-binary-compulsion-machine](Rosario-v-Goliath-FULL.md#chapter-18-requests-for-admission--the-binary-compulsion-machine) |
-| 19 | Bar Complaints and the Judicial Complaint | [#chapter-19-bar-complaints-and-the-judicial-complaint](Rosario-v-Goliath-FULL.md#chapter-19-bar-complaints-and-the-judicial-complaint) |
 
-### Part Five: The Reckoning
-
-| # | Chapter | Link |
-|---|---------|------|
-| 20 | The $75 Million Demand — The Settlement Math | [#chapter-20-the-75-million-demand--the-settlement-math](Rosario-v-Goliath-FULL.md#chapter-20-the-75-million-demand--the-settlement-math) |
-| 21 | The Two Options — Settle or Face the Unraveling | [#chapter-21-the-two-options--settle-or-face-the-unraveling](Rosario-v-Goliath-FULL.md#chapter-21-the-two-options--settle-or-face-the-unraveling) |
-| 22 | The Compounding Clock | [#chapter-22-the-compounding-clock](Rosario-v-Goliath-FULL.md#chapter-22-the-compounding-clock) |
-| 23 | What the Record Proves | [#chapter-23-what-the-record-proves](Rosario-v-Goliath-FULL.md#chapter-23-what-the-record-proves) |
-
-### Part Six: The Larger Story
+### Part Five: The Record and the Larger Story
 
 | # | Chapter | Link |
 |---|---------|------|
-| 24 | Deny, Delay, Defend — The Insurance Industry's Playbook | [#chapter-24-deny-delay-defend--the-insurance-industrys-playbook](Rosario-v-Goliath-FULL.md#chapter-24-deny-delay-defend--the-insurance-industrys-playbook) |
-| 25 | The Pro Per Problem — When the System Fails the People It Was Built For | [#chapter-25-the-pro-per-problem--when-the-system-fails-the-people-it-was-built-for](Rosario-v-Goliath-FULL.md#chapter-25-the-pro-per-problem--when-the-system-fails-the-people-it-was-built-for) |
-| 26 | The Duty of Candor — What Lawyers Owe the Court and What Happens When They Betray It | [#chapter-26-the-duty-of-candor--what-lawyers-owe-the-court-and-what-happens-when-they-betray-it](Rosario-v-Goliath-FULL.md#chapter-26-the-duty-of-candor--what-lawyers-owe-the-court-and-what-happens-when-they-betray-it) |
+| 19 | What the Record Proves | [#chapter-19-what-the-record-proves](Rosario-v-Goliath-FULL.md#chapter-19-what-the-record-proves) |
+| 20 | Deny, Delay, Defend — The Insurance Industry's Playbook | [#chapter-20-deny-delay-defend--the-insurance-industrys-playbook](Rosario-v-Goliath-FULL.md#chapter-20-deny-delay-defend--the-insurance-industrys-playbook) |
+| 21 | The Pro Per Problem — When the System Fails the People It Was Built For | [#chapter-21-the-pro-per-problem--when-the-system-fails-the-people-it-was-built-for](Rosario-v-Goliath-FULL.md#chapter-21-the-pro-per-problem--when-the-system-fails-the-people-it-was-built-for) |
+| 22 | The Duty of Candor — What Lawyers Owe the Court and What Happens When They Betray It | [#chapter-22-the-duty-of-candor--what-lawyers-owe-the-court-and-what-happens-when-they-betray-it](Rosario-v-Goliath-FULL.md#chapter-22-the-duty-of-candor--what-lawyers-owe-the-court-and-what-happens-when-they-betray-it) |
 | 27 | Epilogue: The Transcript Speaks | [#epilogue-the-transcript-speaks](Rosario-v-Goliath-FULL.md#epilogue-the-transcript-speaks) |
 
 ---
