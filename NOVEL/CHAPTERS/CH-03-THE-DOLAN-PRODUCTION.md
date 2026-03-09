@@ -159,3 +159,6 @@ The defense's pretrial posture of ignorance was not a casual misunderstanding. I
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

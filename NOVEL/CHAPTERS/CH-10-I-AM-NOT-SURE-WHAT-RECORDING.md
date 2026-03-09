@@ -150,3 +150,6 @@ Each link is individually documented in the trial transcript. Each link flows di
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

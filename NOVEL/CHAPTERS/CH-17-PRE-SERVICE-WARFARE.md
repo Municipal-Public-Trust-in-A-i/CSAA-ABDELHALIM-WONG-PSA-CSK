@@ -112,3 +112,6 @@ The defendants entered the litigation having already lost the first move. The pr
 ## Word Count Target: 4,000
 
 *Chapter outline prepared for THE TWO LIES.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

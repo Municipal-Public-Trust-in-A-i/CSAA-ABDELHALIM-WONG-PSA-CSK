@@ -161,3 +161,6 @@ Nine to three. The minimum civil majority. The verdict stands today. The three p
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

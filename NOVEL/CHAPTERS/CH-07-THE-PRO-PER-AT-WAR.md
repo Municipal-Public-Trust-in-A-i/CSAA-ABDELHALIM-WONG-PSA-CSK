@@ -164,3 +164,6 @@ The alternative was to let the lies stand. He would not. He went to trial in pro
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

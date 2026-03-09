@@ -392,4 +392,6 @@ Every word of the certified transcript that appears in this outline is a word th
 ---
 
 *Outline prepared March 7, 2026*
-*All rights reserved by Franciscus Dylan Rosario*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

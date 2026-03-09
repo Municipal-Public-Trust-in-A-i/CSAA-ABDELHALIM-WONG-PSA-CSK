@@ -123,3 +123,6 @@ The RFAs force each defendant to commit to answers that, taken together, create 
 ## Word Count Target: 4,000
 
 *Chapter outline prepared for THE TWO LIES.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

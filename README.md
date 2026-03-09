@@ -138,3 +138,6 @@ Plaintiff alleges the verdict was obtained through a scheme by which the defense
 ---
 
 *This record is published for public transparency. All documents are California court filings and public records. Nothing in this repository constitutes legal advice.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

@@ -115,3 +115,6 @@ The remedy: vacatur of the judgment and a new trial on a fair record. The duty o
 ## Word Count Target: 4,000
 
 *Chapter outline prepared for THE TWO LIES.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

@@ -232,3 +232,6 @@ He would use that blueprint to build the architecture that would take it apart.
 ---
 
 *Chapter outline prepared for ROSARIO v. GOLIATH. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

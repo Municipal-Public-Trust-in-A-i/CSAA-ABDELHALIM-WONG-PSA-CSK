@@ -215,3 +215,6 @@ The four words and the five words. The confession and its confirmation. Separate
 ---
 
 *Chapter outline prepared for ROSARIO v. GOLIATH. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

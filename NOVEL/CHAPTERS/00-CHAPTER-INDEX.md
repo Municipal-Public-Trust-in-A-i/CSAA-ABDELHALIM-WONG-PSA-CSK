@@ -95,3 +95,6 @@ Chapters 19–22 (Bar Complaints, $75 Million Demand, Two Options, Compounding C
 ---
 
 *Index prepared for THE TWO LIES. All chapter documents support 4,000-word drafts with explicit exhibit citations.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

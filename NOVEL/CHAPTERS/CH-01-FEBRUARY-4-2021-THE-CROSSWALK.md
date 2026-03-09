@@ -445,3 +445,6 @@ It begins in a crosswalk, on a cold February afternoon, in a city that was not p
 ---
 
 *Chapter outline prepared for ROSARIO v. GOLIATH. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

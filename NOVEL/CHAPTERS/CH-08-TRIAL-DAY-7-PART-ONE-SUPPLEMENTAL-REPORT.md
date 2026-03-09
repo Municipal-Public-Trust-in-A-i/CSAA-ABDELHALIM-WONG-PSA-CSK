@@ -171,3 +171,6 @@ This is Link 6 in the Reliance Matrix: false representation (subpoena shield, cr
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

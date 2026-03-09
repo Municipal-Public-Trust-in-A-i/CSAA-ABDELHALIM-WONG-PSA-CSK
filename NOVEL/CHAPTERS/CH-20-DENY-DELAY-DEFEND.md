@@ -102,3 +102,6 @@ The human cost documented in this book is the cost of the model operating as des
 ## Word Count Target: 4,000
 
 *Chapter outline prepared for THE TWO LIES.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

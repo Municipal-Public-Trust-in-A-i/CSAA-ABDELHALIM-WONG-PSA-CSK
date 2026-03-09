@@ -176,3 +176,6 @@ The admission is the cornerstone of three independent proceedings. In the equity
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

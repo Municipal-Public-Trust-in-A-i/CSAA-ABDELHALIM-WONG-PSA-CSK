@@ -117,3 +117,6 @@ The collision at the crosswalk on February 4, 2021 lasted a fraction of a second
 ## Word Count Target: 4,000
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

@@ -170,3 +170,6 @@ The error did not occur in a vacuum. The trial environment had been shaped by th
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

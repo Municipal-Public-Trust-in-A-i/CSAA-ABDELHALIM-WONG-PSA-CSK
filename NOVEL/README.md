@@ -122,3 +122,6 @@ Every factual claim in this narrative is drawn from the certified court record. 
 ---
 
 *This narrative is based on the certified court record. Nothing herein constitutes legal advice.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

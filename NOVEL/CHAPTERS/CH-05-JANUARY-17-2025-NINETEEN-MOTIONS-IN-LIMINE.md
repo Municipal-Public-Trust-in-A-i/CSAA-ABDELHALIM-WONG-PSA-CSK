@@ -162,3 +162,6 @@ The motions were granted. The exclusionary framework was in place. Rosario would
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

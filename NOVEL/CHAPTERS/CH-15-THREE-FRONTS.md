@@ -168,3 +168,6 @@ No single set of positions satisfies all three fronts. The closed logical system
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

@@ -160,3 +160,6 @@ The court denied the continuance. At page 181, the transcript records the ruling
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

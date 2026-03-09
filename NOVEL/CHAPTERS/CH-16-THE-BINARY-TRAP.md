@@ -126,3 +126,6 @@ Settlement pressure follows from fracture. When co-defendants cannot maintain a 
 ## Word Count Target: 4,000
 
 *Chapter outline prepared for THE TWO LIES.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

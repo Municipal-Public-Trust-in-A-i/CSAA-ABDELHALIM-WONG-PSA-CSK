@@ -184,3 +184,6 @@ The four words are the anchor. The transcript captured the lie and the confessio
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

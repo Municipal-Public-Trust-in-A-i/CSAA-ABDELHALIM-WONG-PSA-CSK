@@ -2903,3 +2903,4 @@ Verba scripta manent.
 Full timeline, statutory citations, and supporting materials: see STORYLINE.md and the certified court record. All quotations are verbatim from the Reporter's Transcript.
 
 ---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

@@ -184,3 +184,6 @@ Rosario refused to accept the product of this process. He ordered the certified 
 ---
 
 *Chapter outline prepared for THE TWO LIES. All exhibits traceable to certified court record or public records.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

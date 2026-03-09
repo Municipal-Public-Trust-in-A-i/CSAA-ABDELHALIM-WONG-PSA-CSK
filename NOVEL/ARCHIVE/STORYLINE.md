@@ -734,3 +734,6 @@ The bad faith case against CSAA in CGC-25-631802 is supported by the certified c
 **Document prepared:** March 8, 2026
 
 **Sources:** Deposition transcripts, trial transcripts, hearing transcripts, clerk's transcript, certified body-worn camera footage and 911 audio from the San Francisco Police Department, post-trial filings, appellate record, and related equity and fraud proceedings in Rosario v. Abdelhalim and related cases.
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

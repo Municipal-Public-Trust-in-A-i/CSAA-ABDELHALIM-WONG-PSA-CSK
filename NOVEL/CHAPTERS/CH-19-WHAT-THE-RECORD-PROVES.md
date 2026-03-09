@@ -111,3 +111,6 @@ The defense did not win because the case was stronger. It won because lawyers li
 ## Word Count Target: 4,000
 
 *Chapter outline prepared for THE TWO LIES.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.

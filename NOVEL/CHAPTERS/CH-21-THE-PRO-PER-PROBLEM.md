@@ -107,3 +107,6 @@ Rosario's fight: holding the system to its promise. The system promised equal ju
 ## Word Count Target: 4,000
 
 *Chapter outline prepared for THE TWO LIES.*
+
+---
+© 2025 Franciscus Dylan Rosario. All rights reserved.
