@@ -7,6 +7,8 @@
 
 [← Back to Case Root](../ROSARIO.md)
 
+**Public record update (March 28, 2026):** The Opening Brief, Cover Letter, and Supplemental Memorandum PDFs on this page were refreshed from the master filing set. Those revisions correct clerk's transcript citations and related references; other appeal PDFs were unchanged.
+
 ---
 
 ## Appeal Documents

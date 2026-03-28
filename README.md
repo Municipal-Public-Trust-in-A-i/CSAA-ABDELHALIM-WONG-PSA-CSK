@@ -4,6 +4,8 @@
 **Court:** Superior Court of California, County of San Francisco
 **Date:** February 4, 2021 -- Pedestrian struck in crosswalk, Tehama & 5th Street, San Francisco
 
+**Last updated (public PDF sync):** March 28, 2026. Appeal Opening Brief, Cover Letter, and Supplemental Memorandum were refreshed (corrected clerk's transcript citations). CGC-25-631801 and CGC-25-631802 standalone filings were synced from master finals where listed in the case indexes; bundled exhibit PDFs were unchanged.
+
 > *"BOOM! I just hit him. HIT HIM. There was barely anything."*
 > -- Defendant Subhi Abdelhalim, 911 call, February 4, 2021
 

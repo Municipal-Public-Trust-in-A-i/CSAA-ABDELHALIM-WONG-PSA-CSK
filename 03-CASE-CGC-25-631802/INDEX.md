@@ -6,6 +6,8 @@
 **Plaintiff:** Franciscus Dylan Rosario
 **Defendant:** CSAA Insurance Exchange
 
+**Last synced (standalone PDFs):** March 28, 2026 from `CGC-25-631802-MASTER/FINAL-PDF/` (Requests for Admission refreshed). Bundled PDFs in this folder were not replaced.
+
 [← Back to Case Root](../ROSARIO.md)
 
 ---

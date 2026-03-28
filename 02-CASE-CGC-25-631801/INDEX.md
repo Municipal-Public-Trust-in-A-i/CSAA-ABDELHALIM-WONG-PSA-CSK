@@ -6,6 +6,8 @@
 **Plaintiff:** Franciscus Dylan Rosario
 **Case Management Conference:** May 27, 2026 at 10:30 a.m., Department 610
 
+**Last synced (standalone PDFs):** March 28, 2026 from `CGC-25-631801-MASTER/FINAL-PDF/`. Bundled exhibit PDFs in this folder were not replaced.
+
 [← Back to Case Root](../ROSARIO.md)
 
 ---
