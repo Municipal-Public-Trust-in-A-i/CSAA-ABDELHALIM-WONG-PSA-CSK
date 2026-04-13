@@ -8,6 +8,8 @@
 
 **Last synced (standalone PDFs):** March 28, 2026 from `CGC-25-631802-MASTER/FINAL-PDF/` (Requests for Admission refreshed). Bundled PDFs in this folder were not replaced.
 
+**April 2026 motion practice:** Plaintiff’s leave-to-amend / proposed SAC packet, opposition to Anti-SLAPP, and CSAA’s Anti-SLAPP clerk PDFs are filed in **CGC-25-631802** (same caption as this case folder). See new tables below.
+
 [← Back to Case Root](../ROSARIO.md)
 
 ---
@@ -76,11 +78,60 @@ investigation" representation is provable from CSAA's own claim file.
 | 1 | First Amended Complaint | [PDF](01-First-Amended-Complaint.pdf) |
 | 2 | Notice of Related Cases | [PDF](02-Notice-of-Related-Cases.pdf) |
 | 3 | Memorandum — Denial Letter Fraud | [PDF](03-Memorandum-Denial-Letter-Fraud.pdf) |
-| 4 | Declaration Re Service | [PDF](04-Declaration-Re-Service.pdf) |
-| 5 | Demand — Judicial Summary of Facts | [PDF](05-Demand-Judicial-Summary-of-Facts.pdf) |
-| 6 | Requests for Admission | [PDF](06-Requests-for-Admission.pdf) |
-| 7 | Ex Parte — Document Preservation | [PDF](07-Ex-Parte-Document-Preservation.pdf) |
-| 8 | Exhibits — Memorandum and Supplemental | [PDF](08-Exhibits-Memorandum-Supplemental.pdf) |
+| 4 | Demand — Judicial Summary of Facts | [PDF](05-Demand-Judicial-Summary-of-Facts.pdf) |
+| 5 | Requests for Admission | [PDF](06-Requests-for-Admission.pdf) |
+| 6 | Ex Parte — Document Preservation | [PDF](07-Ex-Parte-Document-Preservation.pdf) |
+| 7 | Exhibits — Memorandum and Supplemental | [PDF](08-Exhibits-Memorandum-Supplemental.pdf) |
+
+---
+
+## Defense motions (Anti-SLAPP, clerk register)
+
+CSAA’s special motion to strike under Code of Civil Procedure section 425.16 (clerk images).
+
+| # | Document | PDF |
+|---|----------|-----|
+| 1 | Request for Judicial Notice | [PDF](defense-anti-slapp-clerk/10152117.pdf) |
+| 2 | Notice of Motion | [PDF](defense-anti-slapp-clerk/10152119.pdf) |
+| 3 | Memorandum of Points and Authorities | [PDF](defense-anti-slapp-clerk/10152120.pdf) |
+| 4 | Declaration of Tyler J. O’Connell | [PDF](defense-anti-slapp-clerk/10152121.pdf) |
+
+[Index with short descriptions](defense-anti-slapp-clerk/README.md)
+
+---
+
+## Plaintiff filings (April 2026): leave to file Second Amended Complaint
+
+Volume 1 style packet (notice, memorandum, declaration, RJN, proposed order, proposed SAC, bench brief, shared exhibit appendix as built for filing).
+
+| # | Document | PDF |
+|---|----------|-----|
+| 1 | Consolidated leave-to-amend / SAC packet (filed April 14, 2026) | [PDF](apr-2026-sac-leave/802-OUT-CONSOLIDATED-FULL-PACKET.pdf) |
+| 2 | Exhibit appendix only (if split for download) | [PDF](apr-2026-sac-leave/802-OUT-EXHIBIT-APPENDIX.pdf) |
+
+---
+
+## Plaintiff filings (April 2026): opposition to Anti-SLAPP
+
+Ex parte, opposition memorandum (V2 with supporting declaration), evidentiary objections, and consolidated bundles.
+
+| # | Document | PDF |
+|---|----------|-----|
+| 1 | Consolidated full opposition packet (filed April 14, 2026) | [PDF](plaintiff-opposition-apr2026/803-CONSOLIDATED-FULL-OPPOSITION-PACKET.pdf) |
+| 2 | Ex parte application | [PDF](plaintiff-opposition-apr2026/803-01-EX-PARTE-APPLICATION.pdf) |
+| 3 | Opposition memorandum (Anti-SLAPP and demurrer), V2 | [PDF](plaintiff-opposition-apr2026/803-02-OPPOSITION-TO-ANTI-SLAPP-V2.pdf) |
+| 4 | Opposition + declaration combined build | [PDF](plaintiff-opposition-apr2026/803-02-OPPOSITION-PACKET-COMBINED.pdf) |
+| 5 | Declaration of Plaintiff in support of opposition | [PDF](plaintiff-opposition-apr2026/803-02-DECLARATION-PLAINTIFF-ISO-OPPOSITION.pdf) |
+| 6 | Evidentiary objections | [PDF](plaintiff-opposition-apr2026/803-03-EVIDENTIARY-OBJECTIONS.pdf) |
+| 7 | Consolidated opposition with declaration and exhibits (build output) | [PDF](plaintiff-opposition-apr2026/803-OUT-CONSOLIDATED-FULL-WITH-DECL-AND-EXHIBITS.pdf) |
+
+---
+
+## Related legal analysis
+
+| Document | Link |
+|----------|------|
+| Anti-SLAPP rebuttal hub (full narrative + O’Connell page) | [Read](../08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) |
 
 ---
 

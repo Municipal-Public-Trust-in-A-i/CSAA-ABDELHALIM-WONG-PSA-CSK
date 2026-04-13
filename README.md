@@ -4,7 +4,7 @@
 **Court:** Superior Court of California, County of San Francisco
 **Date:** February 4, 2021 -- Pedestrian struck in crosswalk, Tehama & 5th Street, San Francisco
 
-**Last updated (public PDF sync):** March 28, 2026. Appeal Opening Brief, Cover Letter, and Supplemental Memorandum were refreshed (corrected clerk's transcript citations). CGC-25-631801 and CGC-25-631802 standalone filings were synced from master finals where listed in the case indexes; bundled exhibit PDFs were unchanged.
+**Last updated (public PDF sync):** April 13, 2026. **CGC-25-631802:** CSAA Anti-SLAPP clerk PDFs, Plaintiff April 2026 leave-to-amend / proposed SAC consolidated packet, and full Anti-SLAPP opposition set are published under the case index. **Legal analysis:** Anti-SLAPP authority-by-authority rebuttal narrative and Tyler O’Connell declaration page are under `08-LEGAL-ANALYSIS/anti-slapp-rebuttal/`. Earlier March 2026 appeal PDF refreshes remain as described in prior sync notes.
 
 > *"BOOM! I just hit him. HIT HIM. There was barely anything."*
 > -- Defendant Subhi Abdelhalim, 911 call, February 4, 2021
@@ -14,6 +14,21 @@
 
 This repository is an open public record of the litigation filed by Franciscus Dylan Rosario following an adverse 9-3 verdict in a pedestrian-vehicle collision trial, and the three-front post-trial proceedings constructed thereafter. All documents are court filings and public record.
 
+## Latest filings and responses (April 2026)
+
+**Court lookup:** San Francisco Superior Court [Case Information](https://sf.courts.ca.gov/online-services/case-information) (search portal; no stable deep links). Case numbers for this record: **CGC-25-631801**, **CGC-25-631802**, **CGC-21-594102**; appeal **A173827**.
+
+**Strategic sequence (public summary):** Plaintiff sought to file the **proposed Second Amended Complaint** and **leave to amend** so the operative pleading and **gravamen** framing (including *Park* step one and *Baral* step two themes) are in the file alongside CSAA’s Anti-SLAPP motion in **CGC-25-631802**. Opposition materials include a standalone consolidated volume and shared exhibit appendix consistent with the April 14, 2026 filing plan.
+
+| Bucket | Where on this site |
+|--------|-------------------|
+| CSAA Anti-SLAPP (RJN, notice, memorandum, O’Connell declaration) | [631802 index](03-CASE-CGC-25-631802/INDEX.md) → **Defense motions (Anti-SLAPP)** |
+| Plaintiff leave / proposed SAC (consolidated packet) | [631802 index](03-CASE-CGC-25-631802/INDEX.md) → **Plaintiff filings (April 2026): leave** |
+| Plaintiff opposition (ex parte, V2 opposition, declaration ISO opposition, objections, consolidates) | [631802 index](03-CASE-CGC-25-631802/INDEX.md) → **Plaintiff filings (April 2026): opposition** |
+| Authority-by-authority rebuttal narrative | [Anti-SLAPP rebuttal hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) |
+
+**GitHub Pages:** This repo is static Markdown and PDF. In the GitHub repo **Settings → Pages**, use **Deploy from a branch**, usually **`main`** with **`/ (root)`**, unless you intentionally move the site to a `docs/` folder.
+
 ---
 
 ## Quick Navigation
@@ -22,7 +37,7 @@ This repository is an open public record of the litigation filed by Franciscus D
 |---------|-------------------|
 | **[The Evidence](#the-evidence)** | 911 audio, body camera video, images, transcripts, documents |
 | **[The Cases](#the-four-cases)** | All four proceedings with court filings and documents |
-| **[Legal Analysis](#legal-analysis)** | Fraud-on-court analysis, fatal proof, journal article |
+| **[Legal Analysis](#legal-analysis)** | Fraud-on-court analysis, fatal proof, journal article, Anti-SLAPP rebuttal |
 | **[The Novel](#the-novel-rosario-v-goliath)** | Narrative account of the case (PDF, EPUB, online reader) |
 | **[Court Filings by Case](#court-filings-by-case)** | Direct links to every filing in every case |
 | **[Transcripts & Exhibits](#transcripts--exhibits)** | Trial transcripts, depositions, hearing transcripts, exhibits |
@@ -123,14 +138,13 @@ Plaintiff constructed three independent post-trial proceedings, each with its ow
 | 1 | Second Amended Complaint | [PDF](02-CASE-CGC-25-631801/01-Second-Amended-Complaint.pdf) |
 | 2 | Notice of Related Cases | [PDF](02-CASE-CGC-25-631801/02-Notice-of-Related-Cases.pdf) |
 | 3 | Memorandum -- Fraud on the Court | [PDF](02-CASE-CGC-25-631801/03-Memorandum-Fraud-on-Court.pdf) |
-| 4 | Declaration Re Service | [PDF](02-CASE-CGC-25-631801/04-Declaration-Re-Service.pdf) |
-| 5 | Demand -- Judicial Summary of Facts | [PDF](02-CASE-CGC-25-631801/05-Demand-Judicial-Summary-of-Facts.pdf) |
-| 6 | Requests for Admission | [PDF](02-CASE-CGC-25-631801/06-Requests-for-Admission.pdf) |
-| 7 | Ex Parte -- Document Preservation | [PDF](02-CASE-CGC-25-631801/07-Ex-Parte-Document-Preservation.pdf) |
-| 8 | Request for Judicial Notice | [PDF](02-CASE-CGC-25-631801/08-Request-for-Judicial-Notice.pdf) |
-| 9 | Exhibits -- Court Filing Set | [PDF](02-CASE-CGC-25-631801/09-Exhibits-631801-Court.pdf) |
-| 10 | Exhibits -- Memorandum and Supplemental | [PDF](02-CASE-CGC-25-631801/10-Exhibits-Memorandum-Supplemental.pdf) |
-| 11 | Memorandum -- Navaratnasingham Admission (Fatal Proof) | [PDF](02-CASE-CGC-25-631801/11-Motion-Extrinsic-Fraud-Navaratnasingham-Admission.pdf) |
+| 4 | Demand -- Judicial Summary of Facts | [PDF](02-CASE-CGC-25-631801/05-Demand-Judicial-Summary-of-Facts.pdf) |
+| 5 | Requests for Admission | [PDF](02-CASE-CGC-25-631801/06-Requests-for-Admission.pdf) |
+| 6 | Ex Parte -- Document Preservation | [PDF](02-CASE-CGC-25-631801/07-Ex-Parte-Document-Preservation.pdf) |
+| 7 | Request for Judicial Notice | [PDF](02-CASE-CGC-25-631801/08-Request-for-Judicial-Notice.pdf) |
+| 8 | Exhibits -- Court Filing Set | [PDF](02-CASE-CGC-25-631801/09-Exhibits-631801-Court.pdf) |
+| 9 | Exhibits -- Memorandum and Supplemental | [PDF](02-CASE-CGC-25-631801/10-Exhibits-Memorandum-Supplemental.pdf) |
+| 10 | Memorandum -- Navaratnasingham Admission (Fatal Proof) | [PDF](02-CASE-CGC-25-631801/11-Motion-Extrinsic-Fraud-Navaratnasingham-Admission.pdf) |
 
 **Legal analysis for this case:**
 - [Court Reliance on False Representations](08-LEGAL-ANALYSIS/COURT-RELIANCE-FRAUD-ON-COURT.md)
@@ -150,11 +164,12 @@ Plaintiff constructed three independent post-trial proceedings, each with its ow
 | 1 | First Amended Complaint | [PDF](03-CASE-CGC-25-631802/01-First-Amended-Complaint.pdf) |
 | 2 | Notice of Related Cases | [PDF](03-CASE-CGC-25-631802/02-Notice-of-Related-Cases.pdf) |
 | 3 | Memorandum -- Denial Letter Fraud | [PDF](03-CASE-CGC-25-631802/03-Memorandum-Denial-Letter-Fraud.pdf) |
-| 4 | Declaration Re Service | [PDF](03-CASE-CGC-25-631802/04-Declaration-Re-Service.pdf) |
-| 5 | Demand -- Judicial Summary of Facts | [PDF](03-CASE-CGC-25-631802/05-Demand-Judicial-Summary-of-Facts.pdf) |
-| 6 | Requests for Admission | [PDF](03-CASE-CGC-25-631802/06-Requests-for-Admission.pdf) |
-| 7 | Ex Parte -- Document Preservation | [PDF](03-CASE-CGC-25-631802/07-Ex-Parte-Document-Preservation.pdf) |
-| 8 | Exhibits -- Memorandum and Supplemental | [PDF](03-CASE-CGC-25-631802/08-Exhibits-Memorandum-Supplemental.pdf) |
+| 4 | Demand -- Judicial Summary of Facts | [PDF](03-CASE-CGC-25-631802/05-Demand-Judicial-Summary-of-Facts.pdf) |
+| 5 | Requests for Admission | [PDF](03-CASE-CGC-25-631802/06-Requests-for-Admission.pdf) |
+| 6 | Ex Parte -- Document Preservation | [PDF](03-CASE-CGC-25-631802/07-Ex-Parte-Document-Preservation.pdf) |
+| 7 | Exhibits -- Memorandum and Supplemental | [PDF](03-CASE-CGC-25-631802/08-Exhibits-Memorandum-Supplemental.pdf) |
+
+**April 2026 (same case):** Anti-SLAPP defense PDFs, leave / SAC consolidated packet, and opposition PDFs: [631802 index](03-CASE-CGC-25-631802/INDEX.md). **Analysis:** [Anti-SLAPP rebuttal hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md).
 
 ---
 
@@ -226,6 +241,7 @@ In-depth analytical documents drawn from the certified record. Each document cit
 | **Court Reliance on False Representations** | How the court relied on defense counsel's false statements; five instances of institutional reliance; equity framework; damages | [Read](08-LEGAL-ANALYSIS/COURT-RELIANCE-FRAUD-ON-COURT.md) |
 | **Fatal Proof: Navaratnasingham "Dolan" Admission** | Every contradicting statement cataloged; why the Trial Day 7 admission destroys the defense position | [Read](08-LEGAL-ANALYSIS/FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md) |
 | **Journal Article: Three-Front Litigation Architecture** | Technical analysis of the multi-front strategic design; published in *Advanced Civil Litigation Strategy Review* (2026) | [Read](08-LEGAL-ANALYSIS/JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md) |
+| **Anti-SLAPP rebuttal (631802)** | Authority-by-authority response to CSAA’s memorandum; Tyler O’Connell declaration focus page | [Hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) |
 
 ---
 
@@ -308,6 +324,7 @@ This is the story of how one brain-injured plaintiff, proceeding alone against a
 ├── ROSARIO.md                        # Full case overview and document index
 ├── 08-LEGAL-ANALYSIS/                # Legal analysis documents
 │   ├── INDEX.md
+│   ├── anti-slapp-rebuttal/          # CGC-25-631802 Anti-SLAPP rebuttal narrative
 │   ├── COURT-RELIANCE-FRAUD-ON-COURT.md
 │   ├── FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md
 │   └── JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md

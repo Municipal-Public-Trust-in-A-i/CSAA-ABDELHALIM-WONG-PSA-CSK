@@ -49,6 +49,18 @@ Technical analysis of the post-verdict three-front litigation design, published 
 
 ---
 
+### Anti-SLAPP rebuttal (CGC-25-631802)
+
+**[anti-slapp-rebuttal/INDEX.md](anti-slapp-rebuttal/INDEX.md)**
+
+Authority-by-authority rebuttal to CSAA’s Anti-SLAPP memorandum (court file 10152120), with links to filed defense PDFs and a focused page on the Tyler J. O’Connell declaration. Companion PDFs are under [03-CASE-CGC-25-631802/INDEX.md](../03-CASE-CGC-25-631802/INDEX.md).
+
+**Key topics:** *Park* gravamen; *Baral* step two; judicial notice limits; evidentiary objections; master index of authorities.
+
+**Related case:** CGC-25-631802 (Insurance / UCL action)
+
+---
+
 ## How These Documents Relate
 
 | Document | Focus | Primary Case |
@@ -56,6 +68,7 @@ Technical analysis of the post-verdict three-front litigation design, published 
 | Court Reliance Analysis | How the court was deceived and how it affected rulings | CGC-25-631801 (Equity) |
 | Fatal Proof (Dolan Admission) | The specific contradictions that prove the fraud | CGC-25-631801 (Equity) |
 | Journal Article | The strategic architecture across all proceedings | All four cases |
+| Anti-SLAPP rebuttal hub | CSAA Anti-SLAPP memorandum rebuttal; O’Connell declaration | CGC-25-631802 |
 
 Each document builds on the same evidentiary record -- the certified transcripts, clerk's transcript, and defense filings -- but approaches it from a different analytical angle. Together they provide a comprehensive picture of the fraud on the court and the litigation response.
 

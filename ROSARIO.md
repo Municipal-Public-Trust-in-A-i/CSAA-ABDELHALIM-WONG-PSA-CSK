@@ -9,6 +9,8 @@
 > following an adverse 9-3 verdict in a pedestrian-vehicle collision trial, and the three-front
 > post-trial proceedings constructed thereafter. All documents are court filings and public record.
 
+**Latest (April 2026):** In **CGC-25-631802**, the public site now includes CSAA’s Anti-SLAPP clerk PDFs, Plaintiff’s April 2026 leave-to-amend / proposed SAC consolidated packet, and the Anti-SLAPP opposition set. Authority-by-authority rebuttal: [08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md). Court lookup: [SF Superior case information](https://sf.courts.ca.gov/online-services/case-information).
+
 ---
 
 ## Overview
@@ -79,13 +81,13 @@ Following the verdict, Plaintiff filed three independent proceedings:
 | 1 | Second Amended Complaint | [PDF](02-CASE-CGC-25-631801/01-Second-Amended-Complaint.pdf) |
 | 2 | Notice of Related Cases | [PDF](02-CASE-CGC-25-631801/02-Notice-of-Related-Cases.pdf) |
 | 3 | Memorandum — Fraud on the Court | [PDF](02-CASE-CGC-25-631801/03-Memorandum-Fraud-on-Court.pdf) |
-| 4 | Declaration Re Service | [PDF](02-CASE-CGC-25-631801/04-Declaration-Re-Service.pdf) |
-| 5 | Demand — Judicial Summary of Facts | [PDF](02-CASE-CGC-25-631801/05-Demand-Judicial-Summary-of-Facts.pdf) |
-| 6 | Requests for Admission | [PDF](02-CASE-CGC-25-631801/06-Requests-for-Admission.pdf) |
-| 7 | Ex Parte — Document Preservation | [PDF](02-CASE-CGC-25-631801/07-Ex-Parte-Document-Preservation.pdf) |
-| 8 | Request for Judicial Notice | [PDF](02-CASE-CGC-25-631801/08-Request-for-Judicial-Notice.pdf) |
-| 9 | Exhibits — Court Filing Set | [PDF](02-CASE-CGC-25-631801/09-Exhibits-631801-Court.pdf) |
-| 10 | Exhibits — Memorandum and Supplemental | [PDF](02-CASE-CGC-25-631801/10-Exhibits-Memorandum-Supplemental.pdf) |
+| 4 | Demand — Judicial Summary of Facts | [PDF](02-CASE-CGC-25-631801/05-Demand-Judicial-Summary-of-Facts.pdf) |
+| 5 | Requests for Admission | [PDF](02-CASE-CGC-25-631801/06-Requests-for-Admission.pdf) |
+| 6 | Ex Parte — Document Preservation | [PDF](02-CASE-CGC-25-631801/07-Ex-Parte-Document-Preservation.pdf) |
+| 7 | Request for Judicial Notice | [PDF](02-CASE-CGC-25-631801/08-Request-for-Judicial-Notice.pdf) |
+| 8 | Exhibits — Court Filing Set | [PDF](02-CASE-CGC-25-631801/09-Exhibits-631801-Court.pdf) |
+| 9 | Exhibits — Memorandum and Supplemental | [PDF](02-CASE-CGC-25-631801/10-Exhibits-Memorandum-Supplemental.pdf) |
+| 10 | Memorandum — Navaratnasingham Admission (Fatal Proof) | [PDF](02-CASE-CGC-25-631801/11-Motion-Extrinsic-Fraud-Navaratnasingham-Admission.pdf) |
 
 ---
 
@@ -98,11 +100,12 @@ Following the verdict, Plaintiff filed three independent proceedings:
 | 1 | First Amended Complaint | [PDF](03-CASE-CGC-25-631802/01-First-Amended-Complaint.pdf) |
 | 2 | Notice of Related Cases | [PDF](03-CASE-CGC-25-631802/02-Notice-of-Related-Cases.pdf) |
 | 3 | Memorandum — Denial Letter Fraud | [PDF](03-CASE-CGC-25-631802/03-Memorandum-Denial-Letter-Fraud.pdf) |
-| 4 | Declaration Re Service | [PDF](03-CASE-CGC-25-631802/04-Declaration-Re-Service.pdf) |
-| 5 | Demand — Judicial Summary of Facts | [PDF](03-CASE-CGC-25-631802/05-Demand-Judicial-Summary-of-Facts.pdf) |
-| 6 | Requests for Admission | [PDF](03-CASE-CGC-25-631802/06-Requests-for-Admission.pdf) |
-| 7 | Ex Parte — Document Preservation | [PDF](03-CASE-CGC-25-631802/07-Ex-Parte-Document-Preservation.pdf) |
-| 8 | Exhibits — Memorandum and Supplemental | [PDF](03-CASE-CGC-25-631802/08-Exhibits-Memorandum-Supplemental.pdf) |
+| 4 | Demand — Judicial Summary of Facts | [PDF](03-CASE-CGC-25-631802/05-Demand-Judicial-Summary-of-Facts.pdf) |
+| 5 | Requests for Admission | [PDF](03-CASE-CGC-25-631802/06-Requests-for-Admission.pdf) |
+| 6 | Ex Parte — Document Preservation | [PDF](03-CASE-CGC-25-631802/07-Ex-Parte-Document-Preservation.pdf) |
+| 7 | Exhibits — Memorandum and Supplemental | [PDF](03-CASE-CGC-25-631802/08-Exhibits-Memorandum-Supplemental.pdf) |
+
+**April 2026 motions (631802, same index file):** Defense Anti-SLAPP clerk PDFs; Plaintiff leave / SAC consolidated packet; Plaintiff opposition (ex parte, V2, declaration ISO opposition, evidentiary objections, consolidates). See [631802 case index](03-CASE-CGC-25-631802/INDEX.md).
 
 ---
 
@@ -266,6 +269,7 @@ The post-trial litigation was designed so that:
 | [Court Reliance on False Representations](08-LEGAL-ANALYSIS/COURT-RELIANCE-FRAUD-ON-COURT.md) | How the court relied on defense counsel's false statements to make procedural and evidentiary rulings; five reliance instances; equity framework; damages |
 | [Fatal Proof: The Navaratnasingham "Dolan" Admission](08-LEGAL-ANALYSIS/FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md) | Every contradicting statement cataloged; why the Trial Day 7 admission destroys the defense position |
 | [Journal Article: Three-Front Litigation Architecture](08-LEGAL-ANALYSIS/JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md) | Technical analysis of the multi-front strategic design; *Advanced Civil Litigation Strategy Review* (2026) |
+| [Anti-SLAPP rebuttal hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) | CGC-25-631802: authority-by-authority response to CSAA’s Anti-SLAPP memorandum; Tyler O’Connell declaration page |
 
 ---
 
@@ -275,4 +279,4 @@ This record is published for public transparency. All documents are California c
 and public records. Nothing in this repository constitutes legal advice.
 
 **Plaintiff:** Franciscus Dylan Rosario
-**Date Published:** March 2026
+**Date Published:** April 2026 (Anti-SLAPP and April motion PDFs synced April 13, 2026)
