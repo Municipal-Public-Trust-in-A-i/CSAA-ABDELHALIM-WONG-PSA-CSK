@@ -106,7 +106,7 @@ Volume 1 style packet (notice, memorandum, declaration, RJN, proposed order, pro
 
 | # | Document | PDF |
 |---|----------|-----|
-| 1 | Consolidated leave-to-amend / SAC packet (filed April 14, 2026) | [PDF](apr-2026-sac-leave/802-OUT-CONSOLIDATED-FULL-PACKET.pdf) |
+| 1 | Consolidated leave-to-amend / SAC packet (filed April 14, 2026) | [PDF](apr-2026-sac-leave/802-PLAINTIFF-MOTION-LEAVE-PROPOSED-SAC-CONSOLIDATED.pdf) |
 | 2 | Exhibit appendix only (if split for download) | [PDF](apr-2026-sac-leave/802-OUT-EXHIBIT-APPENDIX.pdf) |
 
 ---
@@ -123,7 +123,7 @@ Ex parte, opposition memorandum (V2 with supporting declaration), evidentiary ob
 | 4 | Opposition + declaration combined build | [PDF](plaintiff-opposition-apr2026/803-02-OPPOSITION-PACKET-COMBINED.pdf) |
 | 5 | Declaration of Plaintiff in support of opposition | [PDF](plaintiff-opposition-apr2026/803-02-DECLARATION-PLAINTIFF-ISO-OPPOSITION.pdf) |
 | 6 | Evidentiary objections | [PDF](plaintiff-opposition-apr2026/803-03-EVIDENTIARY-OBJECTIONS.pdf) |
-| 7 | Consolidated opposition with declaration and exhibits (build output) | [PDF](plaintiff-opposition-apr2026/803-OUT-CONSOLIDATED-FULL-WITH-DECL-AND-EXHIBITS.pdf) |
+| 7 | Consolidated opposition with declaration and exhibits (build output) | [PDF](plaintiff-opposition-apr2026/803-PLAINTIFF-ANTI-SLAPP-OPPOSITION-FULL-CONSOLIDATED.pdf) |
 
 ---
 
