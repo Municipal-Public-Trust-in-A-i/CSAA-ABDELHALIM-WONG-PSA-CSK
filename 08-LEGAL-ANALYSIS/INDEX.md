@@ -61,6 +61,18 @@ Authority-by-authority rebuttal to CSAA’s Anti-SLAPP memorandum (court file 10
 
 ---
 
+### Demurrer rebuttal (CGC-25-631802)
+
+**[demurrer-rebuttal/INDEX.md](demurrer-rebuttal/INDEX.md)**
+
+Senior-memorandum-style review of the April 2026 demurrer volley. Narrates what CSAA attempted on April 13, 2026, why each of the eight statutory grounds fails on the four corners of the pleading, what Plaintiff filed in response on April 16, 2026, and what collateral consequences now attach to the filed motions. Links open the individual clerk-filed PDFs for each instrument, split from the defense's consolidated upload, together with the individual instruments in Plaintiff's six-part opposition packet.
+
+**Key topics:** Three structural defects (standard bleed; labels as admitted facts; wall-of-authority substitution); ground-by-ground review of §§ 430.10(a), (c), (e), (f), Civil Code § 47(b), collateral attack, limitations, standing, and *Moradi-Shalal* / *Zhang* channel bars; mandatory leave to amend under *Price* / *Coffman* / *Dalton*; pleading-stage closure under § 430.41(b); fee-shifting under § 425.16(c)(1); § 128.5 and § 128.7 sanctions exposure; State Bar referral exposure under Business and Professions Code § 6086.7.
+
+**Related case:** CGC-25-631802 (Insurance / UCL action)
+
+---
+
 ## How These Documents Relate
 
 | Document | Focus | Primary Case |
@@ -69,6 +81,7 @@ Authority-by-authority rebuttal to CSAA’s Anti-SLAPP memorandum (court file 10
 | Fatal Proof (Dolan Admission) | The specific contradictions that prove the fraud | CGC-25-631801 (Equity) |
 | Journal Article | The strategic architecture across all proceedings | All four cases |
 | Anti-SLAPP rebuttal hub | CSAA Anti-SLAPP memorandum rebuttal; O’Connell declaration | CGC-25-631802 |
+| Demurrer rebuttal hub | Ground-by-ground review of the April 2026 demurrer volley; consequences to the defense | CGC-25-631802 |
 
 Each document builds on the same evidentiary record -- the certified transcripts, clerk's transcript, and defense filings -- but approaches it from a different analytical angle. Together they provide a comprehensive picture of the fraud on the court and the litigation response.
 

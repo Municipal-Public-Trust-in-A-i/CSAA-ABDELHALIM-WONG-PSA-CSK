@@ -4,7 +4,7 @@
 **Court:** Superior Court of California, County of San Francisco
 **Date:** February 4, 2021 -- Pedestrian struck in crosswalk, Tehama & 5th Street, San Francisco
 
-**Last updated (public PDF sync):** April 13, 2026. **CGC-25-631802:** CSAA Anti-SLAPP clerk PDFs, Plaintiff April 2026 leave-to-amend / proposed SAC consolidated packet, and full Anti-SLAPP opposition set are published under the case index. **Legal analysis:** Anti-SLAPP authority-by-authority rebuttal narrative and Tyler O’Connell declaration page are under `08-LEGAL-ANALYSIS/anti-slapp-rebuttal/`. Earlier March 2026 appeal PDF refreshes remain as described in prior sync notes.
+**Last updated (public PDF sync):** April 17, 2026. **CGC-25-631802:** CSAA Anti-SLAPP clerk PDFs, Plaintiff April 2026 leave-to-amend / proposed SAC consolidated packet, full Anti-SLAPP opposition set, and the **April 2026 demurrer volley** (individual defense demurrer filings split from the consolidated upload and Plaintiff's six-instrument opposition packet) are published under the case index. **Legal analysis:** Anti-SLAPP authority-by-authority rebuttal and the new **demurrer rebuttal hub** (senior-memorandum-style ground-by-ground review) are under `08-LEGAL-ANALYSIS/`. Earlier March 2026 appeal PDF refreshes remain as described in prior sync notes.
 
 > *"BOOM! I just hit him. HIT HIM. There was barely anything."*
 > -- Defendant Subhi Abdelhalim, 911 call, February 4, 2021
@@ -23,9 +23,12 @@ This repository is an open public record of the litigation filed by Franciscus D
 | Bucket | Where on this site |
 |--------|-------------------|
 | CSAA Anti-SLAPP (RJN, notice, memorandum, O’Connell declaration) | [631802 index](03-CASE-CGC-25-631802/INDEX.md) → **Defense motions (Anti-SLAPP)** |
+| CSAA Demurrer (notice, MPA, declaration, RFJN, meet-and-confer, proposed order) | [631802 index](03-CASE-CGC-25-631802/INDEX.md) → **April 2026 Demurrer Volley** |
 | Plaintiff leave / proposed SAC (consolidated packet) | [631802 index](03-CASE-CGC-25-631802/INDEX.md) → **Plaintiff filings (April 2026): leave** |
-| Plaintiff opposition (ex parte, V2 opposition, declaration ISO opposition, objections, consolidates) | [631802 index](03-CASE-CGC-25-631802/INDEX.md) → **Plaintiff filings (April 2026): opposition** |
-| Authority-by-authority rebuttal narrative | [Anti-SLAPP rebuttal hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) |
+| Plaintiff opposition to Anti-SLAPP (ex parte, V2 opposition, declaration ISO opposition, objections, consolidates) | [631802 index](03-CASE-CGC-25-631802/INDEX.md) → **Plaintiff filings (April 2026): opposition** |
+| Plaintiff opposition to Demurrer (memorandum, declaration, proposed order, notice, RJN, proof of service) | [631802 index](03-CASE-CGC-25-631802/INDEX.md) → **April 2026 Demurrer Volley** |
+| Anti-SLAPP rebuttal narrative | [Anti-SLAPP rebuttal hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) |
+| Demurrer volley narrative (what defense attempted, why it fails, what plaintiff filed, consequences) | [Demurrer rebuttal hub](08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md) |
 
 **GitHub Pages:** This repo is static Markdown and PDF. In the GitHub repo **Settings → Pages**, use **Deploy from a branch**, usually **`main`** with **`/ (root)`**, unless you intentionally move the site to a `docs/` folder.
 
@@ -169,7 +172,7 @@ Plaintiff constructed three independent post-trial proceedings, each with its ow
 | 6 | Ex Parte -- Document Preservation | [PDF](03-CASE-CGC-25-631802/07-Ex-Parte-Document-Preservation.pdf) |
 | 7 | Exhibits -- Memorandum and Supplemental | [PDF](03-CASE-CGC-25-631802/08-Exhibits-Memorandum-Supplemental.pdf) |
 
-**April 2026 (same case):** Anti-SLAPP defense PDFs, leave / SAC consolidated packet, and opposition PDFs: [631802 index](03-CASE-CGC-25-631802/INDEX.md). **Analysis:** [Anti-SLAPP rebuttal hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md).
+**April 2026 (same case):** Anti-SLAPP defense PDFs, leave / SAC consolidated packet, Anti-SLAPP opposition PDFs, and the new **Demurrer volley** (individual defense demurrer PDFs and Plaintiff's six-instrument opposition): [631802 index](03-CASE-CGC-25-631802/INDEX.md). **Analysis:** [Anti-SLAPP rebuttal hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) | [Demurrer rebuttal hub](08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md).
 
 ---
 
@@ -242,6 +245,7 @@ In-depth analytical documents drawn from the certified record. Each document cit
 | **Fatal Proof: Navaratnasingham "Dolan" Admission** | Every contradicting statement cataloged; why the Trial Day 7 admission destroys the defense position | [Read](08-LEGAL-ANALYSIS/FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md) |
 | **Journal Article: Three-Front Litigation Architecture** | Technical analysis of the multi-front strategic design; published in *Advanced Civil Litigation Strategy Review* (2026) | [Read](08-LEGAL-ANALYSIS/JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md) |
 | **Anti-SLAPP rebuttal (631802)** | Authority-by-authority response to CSAA’s memorandum; Tyler O’Connell declaration focus page | [Hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) |
+| **Demurrer rebuttal (631802)** | April 2026 demurrer volley narrative; ground-by-ground review; collateral consequences to the defense | [Hub](08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md) |
 
 ---
 

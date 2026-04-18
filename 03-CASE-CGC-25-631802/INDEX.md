@@ -85,6 +85,36 @@ investigation" representation is provable from CSAA's own claim file.
 
 ---
 
+## April 2026 Demurrer Volley (Defense Demurrer and Plaintiff Opposition)
+
+On April 13, 2026, CSAA filed a general demurrer to the First Amended Complaint on eight statutory grounds. Plaintiff filed a six-instrument opposition packet on April 16, 2026, and concurrently lodged a Proposed Second Amended Complaint that forecloses any futility argument. The combined demurrer and Special Motion to Strike hearing is set for **May 13, 2026 at 9:00 a.m., Department 302**.
+
+[Full narrative, timeline, and individual PDFs](demurrer-volley-apr2026/README.md) | [Authority-by-authority legal review](../08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md)
+
+### Defense demurrer filings (Apr. 13, 2026)
+
+| # | Document | PDF |
+|---|----------|-----|
+| 1 | Notice of Demurrer | [PDF](demurrer-volley-apr2026/defense-demurrer/01-Notice-of-Demurrer.pdf) |
+| 2 | Memorandum of Points and Authorities ISO Demurrer | [PDF](demurrer-volley-apr2026/defense-demurrer/02-Memorandum-of-Points-and-Authorities-ISO-Demurrer.pdf) |
+| 3 | Declaration and Exhibits ISO Demurrer | [PDF](demurrer-volley-apr2026/defense-demurrer/03-Declaration-and-Exhibits-ISO-Demurrer.pdf) |
+| 4 | Request for Judicial Notice ISO Demurrer | [PDF](demurrer-volley-apr2026/defense-demurrer/04-Request-for-Judicial-Notice-ISO-Demurrer.pdf) |
+| 5 | Meet-and-Confer Statement (CCP § 430.41) | [PDF](demurrer-volley-apr2026/defense-demurrer/05-Meet-and-Confer-Statement-ISO-Demurrer.pdf) |
+| 6 | Proposed Order Sustaining Demurrer | [PDF](demurrer-volley-apr2026/defense-demurrer/06-Proposed-Order-Sustaining-Demurrer.pdf) |
+
+### Plaintiff opposition to demurrer (Apr. 16, 2026)
+
+| # | Document | PDF |
+|---|----------|-----|
+| 1 | Memorandum of Points and Authorities in Opposition to Demurrer | [PDF](demurrer-volley-apr2026/plaintiff-opposition/01-Memorandum-of-Points-and-Authorities-Opposition-to-Demurrer.pdf) |
+| 2 | Declaration of Plaintiff ISO Opposition | [PDF](demurrer-volley-apr2026/plaintiff-opposition/02-Declaration-of-Plaintiff-ISO-Opposition.pdf) |
+| 3 | Proposed Order Overruling Demurrer | [PDF](demurrer-volley-apr2026/plaintiff-opposition/03-Proposed-Order-Overruling-Demurrer.pdf) |
+| 4 | Notice of Opposition to Demurrer | [PDF](demurrer-volley-apr2026/plaintiff-opposition/04-Notice-of-Opposition-to-Demurrer.pdf) |
+| 5 | Request for Judicial Notice ISO Opposition | [PDF](demurrer-volley-apr2026/plaintiff-opposition/05-Request-for-Judicial-Notice-ISO-Opposition.pdf) |
+| 6 | Proof of Service | [PDF](demurrer-volley-apr2026/plaintiff-opposition/06-Proof-of-Service-Opposition.pdf) |
+
+---
+
 ## Defense motions (Anti-SLAPP, clerk register)
 
 CSAA’s special motion to strike under Code of Civil Procedure section 425.16 (clerk images).
@@ -132,6 +162,7 @@ Ex parte, opposition memorandum (V2 with supporting declaration), evidentiary ob
 | Document | Link |
 |----------|------|
 | Anti-SLAPP rebuttal hub (full narrative + O’Connell page) | [Read](../08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) |
+| Demurrer rebuttal hub (April 2026 volley narrative + authority-by-authority review) | [Read](../08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md) |
 
 ---
 
