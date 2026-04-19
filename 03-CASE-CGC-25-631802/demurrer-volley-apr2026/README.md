@@ -97,6 +97,12 @@ Filed as a six-instrument law-and-motion packet. The memorandum is a standalone 
 
 ---
 
+## Consolidated rebuild (801 draft pipeline)
+
+Later build output from the **801 defense-court draft** collapses overlapping preamble text and merges objections, declaration/RJN, and ancillary briefs into six primary volumes plus a lodged bench binder, with consolidated bundles and a master PDF. **Full file list:** [plaintiff-opposition-consolidated-apr2026/README.md](../plaintiff-opposition-consolidated-apr2026/README.md).
+
+---
+
 ## What the Plaintiff's Response Highlights About the Demurrer
 
 The opposition does not merely disagree. It identifies **thirty-two independent structural defects** (nineteen in the demurrer; thirteen in the companion Anti-SLAPP motion), any one of which is sufficient for denial and which together foreclose the motions entirely. Four of those defects are particularly consequential because they appear on the face of CSAA's own filings and cannot be cured by reply briefing.
@@ -146,7 +152,8 @@ Two case-specific factors intensify the consequences. **First**, Plaintiff appea
 | Authority-by-authority rebuttal narrative (expensive legal review) | [Demurrer rebuttal analysis hub](../../08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md) |
 | Anti-SLAPP rebuttal (companion motion) | [Anti-SLAPP rebuttal hub](../../08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) |
 | CSAA Anti-SLAPP clerk images | [defense-anti-slapp-clerk](../defense-anti-slapp-clerk/) |
-| Plaintiff Anti-SLAPP opposition | [plaintiff-opposition-apr2026](../plaintiff-opposition-apr2026/) |
+| Plaintiff consolidated opposition (801 draft build) | [plaintiff-opposition-consolidated-apr2026](../plaintiff-opposition-consolidated-apr2026/README.md) |
+| Plaintiff Anti-SLAPP opposition (803-series build) | [plaintiff-opposition-apr2026](../plaintiff-opposition-apr2026/) |
 | Proposed Second Amended Complaint (leave packet) | [apr-2026-sac-leave](../apr-2026-sac-leave/) |
 | Case index | [CGC-25-631802 INDEX](../INDEX.md) |
 

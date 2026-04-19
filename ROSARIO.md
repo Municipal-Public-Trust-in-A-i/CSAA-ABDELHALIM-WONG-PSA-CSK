@@ -9,7 +9,7 @@
 > following an adverse 9-3 verdict in a pedestrian-vehicle collision trial, and the three-front
 > post-trial proceedings constructed thereafter. All documents are court filings and public record.
 
-**Latest (April 2026):** In **CGC-25-631802**, the public site now includes CSAA’s Anti-SLAPP clerk PDFs, Plaintiff’s April 2026 leave-to-amend / proposed SAC consolidated packet, and the Anti-SLAPP opposition set. Authority-by-authority rebuttal: [08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md). Court lookup: [SF Superior case information](https://sf.courts.ca.gov/online-services/case-information).
+**Latest (April 2026):** In **CGC-25-631802**, the public site includes CSAA’s Anti-SLAPP clerk PDFs; Plaintiff’s April 2026 leave-to-amend / proposed SAC materials; the **[plaintiff consolidated opposition package (801 draft build)](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md)** (six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibits); and the earlier Anti-SLAPP opposition builds for reference. Authority-by-authority rebuttal: [08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md). Court lookup: [SF Superior case information](https://sf.courts.ca.gov/online-services/case-information).
 
 ---
 
@@ -105,7 +105,7 @@ Following the verdict, Plaintiff filed three independent proceedings:
 | 6 | Ex Parte — Document Preservation | [PDF](03-CASE-CGC-25-631802/07-Ex-Parte-Document-Preservation.pdf) |
 | 7 | Exhibits — Memorandum and Supplemental | [PDF](03-CASE-CGC-25-631802/08-Exhibits-Memorandum-Supplemental.pdf) |
 
-**April 2026 motions (631802, same index file):** Defense Anti-SLAPP clerk PDFs; Plaintiff leave / SAC consolidated packet; Plaintiff opposition (ex parte, V2, declaration ISO opposition, evidentiary objections, consolidates). See [631802 case index](03-CASE-CGC-25-631802/INDEX.md).
+**April 2026 motions (631802, same index file):** Defense Anti-SLAPP clerk PDFs; Plaintiff leave / SAC packet(s); **[801-draft consolidated opposition PDFs](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md)**; Plaintiff opposition builds (803 series and consolidated volumes). See [631802 case index](03-CASE-CGC-25-631802/INDEX.md).
 
 ---
 

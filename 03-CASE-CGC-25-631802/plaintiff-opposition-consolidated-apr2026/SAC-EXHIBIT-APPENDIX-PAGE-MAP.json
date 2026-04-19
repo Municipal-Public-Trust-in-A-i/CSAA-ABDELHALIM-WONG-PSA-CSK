@@ -1,0 +1,88 @@
+{
+  "output_pdf": "801-DEFENSE-COURT/DRAFT/OUT/SAC-OUT-EXHIBIT-APPENDIX.pdf",
+  "total_pages": 47,
+  "notice_pages": 1,
+  "index_pages": 1,
+  "exhibits": [
+    {
+      "id": "aaa_denial_p1",
+      "exhibit_mark": "A",
+      "label": "February 25, 2021 CSAA denial letter (page 1 / operative language)",
+      "separator_page_1based": 3,
+      "content_first_page_1based": 4,
+      "content_page_count": 1,
+      "letter_or_primary_first_page_1based": null,
+      "source_path": "CLERKS-TRANSCRIPTS-SOURCES/AAA ins. info.pdf"
+    },
+    {
+      "id": "aaa_denial_p2",
+      "exhibit_mark": "B",
+      "label": "February 25, 2021 CSAA denial letter (page 2 / continuation)",
+      "separator_page_1based": 5,
+      "content_first_page_1based": 6,
+      "content_page_count": 1,
+      "letter_or_primary_first_page_1based": null,
+      "source_path": "CLERKS-TRANSCRIPTS-SOURCES/AAA ins. info.pdf"
+    },
+    {
+      "id": "denial_pack",
+      "exhibit_mark": "C",
+      "label": "631802 EXHIBITS-MEMORANDUM-AND-SUPPLEMENTAL (defense memorandum exhibits B\u2013E)",
+      "separator_page_1based": 7,
+      "content_first_page_1based": 8,
+      "content_page_count": 16,
+      "letter_or_primary_first_page_1based": null,
+      "source_path": "PRINT-READY-2026-03-02-171644/PRINT-SETS/DEFENDANTS/02-CSAA-Insurance-Exchange/CGC-25-631802/EXHIBITS-MEMORANDUM-AND-SUPPLEMENTAL.pdf"
+    },
+    {
+      "id": "mc_letter",
+      "exhibit_mark": "D",
+      "label": "Meet-and-confer / defense correspondence (declaration Ex. 3)",
+      "separator_page_1based": 24,
+      "content_first_page_1based": 25,
+      "content_page_count": 5,
+      "letter_or_primary_first_page_1based": null,
+      "source_path": "DEFENSE/ARCHIVE/2026-04-11-pre-filing/root-essays-letters/Rosario v CSAA - M&C Ltr.pdf"
+    },
+    {
+      "id": "investigation",
+      "exhibit_mark": "E",
+      "label": "CSAA investigation / retrieval record",
+      "separator_page_1based": 30,
+      "content_first_page_1based": 31,
+      "content_page_count": 1,
+      "letter_or_primary_first_page_1based": null,
+      "source_path": "CLERKS-TRANSCRIPTS-SOURCES/EXHIBIT.001.CSAA-INVESTIGATION.pdf"
+    },
+    {
+      "id": "feb18_hearing",
+      "exhibit_mark": "F",
+      "label": "February 18, 2025 pretrial hearing (RJN item)",
+      "separator_page_1based": 32,
+      "content_first_page_1based": 33,
+      "content_page_count": 5,
+      "letter_or_primary_first_page_1based": null,
+      "source_path": "CLERKS-TRANSCRIPTS-SOURCES/_EXHIBIT.HEARING.FEB18.pdf"
+    },
+    {
+      "id": "april16_trial",
+      "exhibit_mark": "G",
+      "label": "April 16, 2025 trial materials incl. Dolan admission context (RJN item)",
+      "separator_page_1based": 38,
+      "content_first_page_1based": 39,
+      "content_page_count": 4,
+      "letter_or_primary_first_page_1based": null,
+      "source_path": "CLERKS-TRANSCRIPTS-SOURCES/_EXHIBIT.APRIL.16.2025.pdf"
+    },
+    {
+      "id": "mil_17_jan17_2025",
+      "exhibit_mark": "H",
+      "label": "January 17, 2025 Motion in Limine No. 17 (Clerk's Transcript excerpt)",
+      "separator_page_1based": 43,
+      "content_first_page_1based": 44,
+      "content_page_count": 4,
+      "letter_or_primary_first_page_1based": null,
+      "source_path": "CLERKS-TRANSCRIPTS-SOURCES/CGC-21-594102_A173827_CTX.pdf"
+    }
+  ]
+}

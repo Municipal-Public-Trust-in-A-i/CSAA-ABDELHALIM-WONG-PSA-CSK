@@ -3,7 +3,7 @@
 **Case:** *Franciscus Dylan Rosario v. CSAA Insurance Exchange*, San Francisco Superior Court Case No. **CGC-25-631802**, Department 302.
 **Hearing:** May 13, 2026, 9:00 a.m.
 
-[< Back to Legal Analysis Index](../INDEX.md) | [Case 631802 Index](../../03-CASE-CGC-25-631802/INDEX.md) | [Demurrer volley PDFs](../../03-CASE-CGC-25-631802/demurrer-volley-apr2026/README.md) | [Anti-SLAPP rebuttal hub](../anti-slapp-rebuttal/INDEX.md)
+[< Back to Legal Analysis Index](../INDEX.md) | [Case 631802 Index](../../03-CASE-CGC-25-631802/INDEX.md) | [Demurrer volley PDFs](../../03-CASE-CGC-25-631802/demurrer-volley-apr2026/README.md) | [801-draft consolidated opposition](../../03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md) | [Anti-SLAPP rebuttal hub](../anti-slapp-rebuttal/INDEX.md)
 
 ---
 
@@ -56,6 +56,8 @@ Plaintiff's opposition is a six-instrument law-and-motion packet. The memorandum
 | Notice of Opposition to Demurrer | Document list for Department 302 | [PDF](../../03-CASE-CGC-25-631802/demurrer-volley-apr2026/plaintiff-opposition/04-Notice-of-Opposition-to-Demurrer.pdf) |
 | Request for Judicial Notice ISO Opposition | Narrow RJN of operative pleadings only; expressly invokes Code of Civil Procedure section 430.70; separate document under California Rules of Court, rule 3.1113(l) | [PDF](../../03-CASE-CGC-25-631802/demurrer-volley-apr2026/plaintiff-opposition/05-Request-for-Judicial-Notice-ISO-Opposition.pdf) |
 | Proof of Service | Records timely electronic service on CSAA counsel under California Rules of Court, rule 2.251 | [PDF](../../03-CASE-CGC-25-631802/demurrer-volley-apr2026/plaintiff-opposition/06-Proof-of-Service-Opposition.pdf) |
+
+**801 draft consolidated opposition.** For the rebuilt opposition memorandum and consolidated companion volumes from the litigation draft pipeline (single themed MPA per motion, merged declaration/RJN, combined objections, fraud-estoppel brief, bench binder), see **[plaintiff consolidated opposition](../../03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md)** — demurrer opposition memorandum: [PDF](../../03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/D801-01-OPPOSITION-TO-DEMURRER-MPA.pdf).
 
 ---
 

@@ -74,7 +74,7 @@ All exhibits trace to the certified court record, filed pleadings, or public rec
 
 ## Archived Chapters (removed 2026-03-07)
 
-Chapters 19–22 (Bar Complaints, $75 Million Demand, Two Options, Compounding Clock) were archived. See [NOVEL/ARCHIVE/chapters-removed-2026-03-07/00-ARCHIVE-INDEX.md](../ARCHIVE/chapters-removed-2026-03-07/00-ARCHIVE-INDEX.md).
+Chapters 19–22 (Bar Complaints, $75 Million Demand, Two Options, Compounding Clock) were archived. See [NOVEL/ARCHIVE/00-ARCHIVE-INDEX.md](../ARCHIVE/00-ARCHIVE-INDEX.md).
 
 ---
 

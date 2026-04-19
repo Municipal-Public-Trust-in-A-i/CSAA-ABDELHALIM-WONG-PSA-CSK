@@ -8,7 +8,9 @@
 
 **Last synced (standalone PDFs):** March 28, 2026 from `CGC-25-631802-MASTER/FINAL-PDF/` (Requests for Admission refreshed). Bundled PDFs in this folder were not replaced.
 
-**April 2026 motion practice:** Plaintiff’s leave-to-amend / proposed SAC packet, opposition to Anti-SLAPP, and CSAA’s Anti-SLAPP clerk PDFs are filed in **CGC-25-631802** (same caption as this case folder). See new tables below.
+**April 2026 motion practice:** Plaintiff’s leave-to-amend / proposed SAC packet, opposition to Anti-SLAPP, and CSAA’s Anti-SLAPP clerk PDFs are filed in **CGC-25-631802** (same caption as this case folder). See tables below.
+
+**Latest consolidated opposition (801 defense-court draft build):** Full PDF set — six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibit appendices, and legacy splits — is published under **[plaintiff-opposition-consolidated-apr2026/](plaintiff-opposition-consolidated-apr2026/README.md)** (synced April 18, 2026).
 
 [← Back to Case Root](../ROSARIO.md)
 
@@ -104,6 +106,10 @@ On April 13, 2026, CSAA filed a general demurrer to the First Amended Complaint 
 
 ### Plaintiff opposition to demurrer (Apr. 16, 2026)
 
+Six-instrument filing as uploaded for the April 2026 demurrer window (notice, proof of service, proposed order, etc.). For the **rebuilt consolidated opposition memorandum** (shared smoking-gun preamble, merged declaration/RJN, combined objections, fraud/estoppel brief, bench binder), use the **801 draft build** hub:
+
+**[→ Plaintiff consolidated opposition package (801 draft)](plaintiff-opposition-consolidated-apr2026/README.md)** — primary demurrer opposition memorandum: [PDF](plaintiff-opposition-consolidated-apr2026/D801-01-OPPOSITION-TO-DEMURRER-MPA.pdf).
+
 | # | Document | PDF |
 |---|----------|-----|
 | 1 | Memorandum of Points and Authorities in Opposition to Demurrer | [PDF](demurrer-volley-apr2026/plaintiff-opposition/01-Memorandum-of-Points-and-Authorities-Opposition-to-Demurrer.pdf) |
@@ -112,6 +118,45 @@ On April 13, 2026, CSAA filed a general demurrer to the First Amended Complaint 
 | 4 | Notice of Opposition to Demurrer | [PDF](demurrer-volley-apr2026/plaintiff-opposition/04-Notice-of-Opposition-to-Demurrer.pdf) |
 | 5 | Request for Judicial Notice ISO Opposition | [PDF](demurrer-volley-apr2026/plaintiff-opposition/05-Request-for-Judicial-Notice-ISO-Opposition.pdf) |
 | 6 | Proof of Service | [PDF](demurrer-volley-apr2026/plaintiff-opposition/06-Proof-of-Service-Opposition.pdf) |
+
+---
+
+## Plaintiff consolidated opposition package (801 draft build)
+
+Oppositions and leave/SAC materials regenerated from the **801-DEFENSE-COURT** draft consolidation (five filed volumes + lodged bench binder; redundant preamble duplication removed). **Full file list and legacy splits:** [README](plaintiff-opposition-consolidated-apr2026/README.md).
+
+### Six core instruments
+
+| # | Document | PDF |
+|---|----------|-----|
+| 1 | Opposition to Demurrer (MPA) | [PDF](plaintiff-opposition-consolidated-apr2026/D801-01-OPPOSITION-TO-DEMURRER-MPA.pdf) |
+| 2 | Opposition to Anti-SLAPP (MPA) | [PDF](plaintiff-opposition-consolidated-apr2026/D801-02-OPPOSITION-TO-ANTI-SLAPP-MPA.pdf) |
+| 3 | Combined Evidentiary Objections | [PDF](plaintiff-opposition-consolidated-apr2026/D801-03-COMBINED-EVIDENTIARY-OBJECTIONS.pdf) |
+| 4 | Plaintiff Declaration and RFJN | [PDF](plaintiff-opposition-consolidated-apr2026/D801-04-PLAINTIFF-DECLARATION-AND-RFJN.pdf) |
+| 5 | Consolidated Fraud / Estoppel Brief | [PDF](plaintiff-opposition-consolidated-apr2026/D801-05-CONSOLIDATED-FRAUD-ESTOPPEL-BRIEF.pdf) |
+| 6 | Bench Binder — Hearing Packet | [PDF](plaintiff-opposition-consolidated-apr2026/D801-06-BENCH-BINDER-HEARING-PACKET.pdf) |
+
+### Consolidated bundles and master record
+
+| Document | PDF |
+|----------|-----|
+| Consolidated Plaintiff Opposition Package | [PDF](plaintiff-opposition-consolidated-apr2026/CONSOLIDATED-PLAINTIFF-OPPOSITION-PACKAGE.pdf) |
+| Consolidated opposition (alternate stitch) | [PDF](plaintiff-opposition-consolidated-apr2026/D801-CONSOLIDATED.pdf) |
+| Demurrer opposition — core | [PDF](plaintiff-opposition-consolidated-apr2026/D801-DEMURRER-OPPOSITION-CORE.pdf) |
+| Anti-SLAPP opposition — core | [PDF](plaintiff-opposition-consolidated-apr2026/D801-ANTISLAPP-OPPOSITION-CORE.pdf) |
+| Master Consolidated Full Packet | [PDF](plaintiff-opposition-consolidated-apr2026/MASTER-CONSOLIDATED-FULL-PACKET.pdf) |
+| Oppositions exhibit appendix | [PDF](plaintiff-opposition-consolidated-apr2026/OPPOSITIONS-EXHIBIT-APPENDIX.pdf) |
+
+---
+
+## FINAL-COURT full packets (April 19, 2026)
+
+Court-facing consolidated PDFs with exhibit volumes (synced from `801-DEFENSE-COURT/FINAL-COURT/`). Index: [final-court-apr2026/README.md](final-court-apr2026/README.md).
+
+| Document | PDF |
+|----------|-----|
+| Plaintiff oppositions — full packet with exhibits | [PDF](final-court-apr2026/PLAINTIFF-OPPOSITIONS-FULL-PACKET-WITH-EXHIBITS.pdf) |
+| Proposed SAC — full packet with exhibits | [PDF](final-court-apr2026/SAC-FULL-PACKET-WITH-EXHIBITS.pdf) |
 
 ---
 
@@ -136,14 +181,18 @@ Volume 1 style packet (notice, memorandum, declaration, RJN, proposed order, pro
 
 | # | Document | PDF |
 |---|----------|-----|
-| 1 | Consolidated leave-to-amend / SAC packet (filed April 14, 2026) | [PDF](apr-2026-sac-leave/802-PLAINTIFF-MOTION-LEAVE-PROPOSED-SAC-CONSOLIDATED.pdf) |
+| 1 | Consolidated leave-to-amend / SAC packet (filed April 14, 2026) | [PDF](apr-2026-sac-leave/802-OUT-CONSOLIDATED-FULL-PACKET.pdf) |
 | 2 | Exhibit appendix only (if split for download) | [PDF](apr-2026-sac-leave/802-OUT-EXHIBIT-APPENDIX.pdf) |
+
+**801 draft rebuild (same motion set, pipeline output):** Full SAC packet — [PDF](plaintiff-opposition-consolidated-apr2026/D801-SAC-FULL-PACKET.pdf) | Individual instruments (notice through bench brief) — see **Leave / SAC** table in [consolidated README](plaintiff-opposition-consolidated-apr2026/README.md). Large exhibit appendix: [PDF](plaintiff-opposition-consolidated-apr2026/SAC-06-EXHIBIT-APPENDIX.pdf).
 
 ---
 
 ## Plaintiff filings (April 2026): opposition to Anti-SLAPP
 
-Ex parte, opposition memorandum (V2 with supporting declaration), evidentiary objections, and consolidated bundles.
+**Latest consolidated Anti-SLAPP opposition (801 draft):** [PDF](plaintiff-opposition-consolidated-apr2026/D801-02-OPPOSITION-TO-ANTI-SLAPP-MPA.pdf) — full hub with objections, declaration/RJN, bundles, and master packet: **[plaintiff-opposition-consolidated-apr2026](plaintiff-opposition-consolidated-apr2026/README.md)**.
+
+Earlier April 2026 build (803 series): ex parte, opposition memorandum (V2 with supporting declaration), evidentiary objections, and consolidated bundles.
 
 | # | Document | PDF |
 |---|----------|-----|
@@ -153,7 +202,7 @@ Ex parte, opposition memorandum (V2 with supporting declaration), evidentiary ob
 | 4 | Opposition + declaration combined build | [PDF](plaintiff-opposition-apr2026/803-02-OPPOSITION-PACKET-COMBINED.pdf) |
 | 5 | Declaration of Plaintiff in support of opposition | [PDF](plaintiff-opposition-apr2026/803-02-DECLARATION-PLAINTIFF-ISO-OPPOSITION.pdf) |
 | 6 | Evidentiary objections | [PDF](plaintiff-opposition-apr2026/803-03-EVIDENTIARY-OBJECTIONS.pdf) |
-| 7 | Consolidated opposition with declaration and exhibits (build output) | [PDF](plaintiff-opposition-apr2026/803-PLAINTIFF-ANTI-SLAPP-OPPOSITION-FULL-CONSOLIDATED.pdf) |
+| 7 | Consolidated opposition with declaration and exhibits (build output) | [PDF](plaintiff-opposition-apr2026/803-OUT-CONSOLIDATED-FULL-WITH-DECL-AND-EXHIBITS.pdf) |
 
 ---
 
