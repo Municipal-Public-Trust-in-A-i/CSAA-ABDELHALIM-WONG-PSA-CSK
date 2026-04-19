@@ -1,6 +1,6 @@
 # Book outline — Markdown files under GITHUB-PAGE
 
-Total: **78** files (auto-generated). Start at [README.md](README.md).
+Total: **79** files (auto-generated). Start at [README.md](README.md).
 
 ## 01-APPEAL
 - [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md)
@@ -13,6 +13,7 @@ Total: **78** files (auto-generated). Start at [README.md](README.md).
 - [03-CASE-CGC-25-631802/defense-anti-slapp-clerk/README.md](03-CASE-CGC-25-631802/defense-anti-slapp-clerk/README.md)
 - [03-CASE-CGC-25-631802/demurrer-volley-apr2026/README.md](03-CASE-CGC-25-631802/demurrer-volley-apr2026/README.md)
 - [03-CASE-CGC-25-631802/final-court-apr2026/README.md](03-CASE-CGC-25-631802/final-court-apr2026/README.md)
+- [03-CASE-CGC-25-631802/final-court-apr2026/source-pdfs/README.md](03-CASE-CGC-25-631802/final-court-apr2026/source-pdfs/README.md)
 - [03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README-FINAL-PACKAGES.md](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README-FINAL-PACKAGES.md)
 - [03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md)
 
