@@ -1,6 +1,6 @@
 # Book outline — Markdown files under GITHUB-PAGE
 
-Total: **77** files (auto-generated). Start at [README.md](README.md).
+Total: **78** files (auto-generated). Start at [README.md](README.md).
 
 ## 01-APPEAL
 - [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md)
@@ -90,6 +90,7 @@ Total: **77** files (auto-generated). Start at [README.md](README.md).
 - [defendants/Phillips-Spallas-Angstadt.md](defendants/Phillips-Spallas-Angstadt.md)
 - [defendants/Priya-Navaratnasingham.md](defendants/Priya-Navaratnasingham.md)
 - [defendants/Subhi-Abdelhalim.md](defendants/Subhi-Abdelhalim.md)
+- [defendants/Tyler-J-OConnell.md](defendants/Tyler-J-OConnell.md)
 
 ## evidence-tree
 - [evidence-tree/INDEX.md](evidence-tree/INDEX.md)

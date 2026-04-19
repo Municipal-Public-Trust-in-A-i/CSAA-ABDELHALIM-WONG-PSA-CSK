@@ -66,6 +66,7 @@ flowchart TB
 | **Phillips, Spallas & Angstadt LLP** | Successor firm; equity defendant; firm bar complaint PDF in repo. | [defendants/Phillips-Spallas-Angstadt.md](defendants/Phillips-Spallas-Angstadt.md) |
 | **Priya D. Navaratnasingham** | Trial counsel; Day 7 transcript; focused equity memorandum; bar complaint PDF. | [defendants/Priya-Navaratnasingham.md](defendants/Priya-Navaratnasingham.md) |
 | **Alberto Reyna** | Trial counsel; Day 7 transcript; equity papers; bar complaint PDF. | [defendants/Alberto-Reyna.md](defendants/Alberto-Reyna.md) |
+| **Tyler J. O'Connell** | Defense counsel (CSAA); false legal narrative in anti-SLAPP declaration. | [defendants/Tyler-J-OConnell.md](defendants/Tyler-J-OConnell.md) |
 
 ### Vertical diagram — defendants to forums (≤4 wide)
 
@@ -76,6 +77,7 @@ flowchart TB
     PC["Navaratnasingham"]
     AR["Reyna"]
     MC["Chambers"]
+    TO["O'Connell"]
   end
   subgraph entities ["Entities"]
     CSAA["CSAA"]
@@ -87,6 +89,7 @@ flowchart TB
   PSA --> PC
   PSA --> AR
   CSK --> MC
+  TO --> CSAA
 ```
 
 ---
@@ -497,6 +500,7 @@ This is the story of how one brain-injured plaintiff, proceeding alone against a
 | 3 | Phillips, Spallas & Angstadt LLP | Retained defense firm (successor counsel) |
 | 4 | Priya D. Navaratnasingham | Defense attorney (PSA); made false representations to court |
 | 5 | Alberto Reyna | Defense attorney (PSA); made false representations to court |
+| 6 | Tyler J. O'Connell | Defense attorney (Porter Scott); false legal narratives in declaration |
 | 6 | Michael R. Chambers | Original defense counsel |
 | 7 | Carbone, Smith & Koyama | Original defense firm |
 

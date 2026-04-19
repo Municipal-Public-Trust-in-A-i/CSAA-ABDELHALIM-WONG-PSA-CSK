@@ -11,5 +11,8 @@ Each page lists **primary-source links** (transcripts, pleadings, complaints, re
 | Phillips, Spallas & Angstadt LLP | [Phillips-Spallas-Angstadt.md](Phillips-Spallas-Angstadt.md) |
 | Priya D. Navaratnasingham | [Priya-Navaratnasingham.md](Priya-Navaratnasingham.md) |
 | Alberto Reyna | [Alberto-Reyna.md](Alberto-Reyna.md) |
+| Tyler J. O'Connell | [Tyler-J-OConnell.md](Tyler-J-OConnell.md) |
+
+*Note: O'Connell is counsel of record / non-party — listed for conduct-based rap sheet.*
 
 [← Homepage](../README.md) · [← SPINE](../SPINE.md)

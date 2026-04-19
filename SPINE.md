@@ -31,7 +31,7 @@ Long-form narratives (each with pleading trees and record citations) live under 
 - **Hearing transcripts (February 18, 2025 and related).** [All-Hearing-Transcripts PDF](05-TRANSCRIPTS/HEARINGS/All-Hearing-Transcripts-Rosario-AAA.pdf).
 - **Clerk’s transcript (full).** [Clerk’s transcript PDF](05-TRANSCRIPTS/CLERKS-TRANSCRIPT/CGC-21-594102-A173827-Clerks-Transcript-Full.pdf).
 
-**Defendants at trial (as listed on the equity index).** Subhi Abdelhalim; CSAA Insurance Exchange; Phillips, Spallas & Angstadt LLP; Priya D. Navaratnasingham; Alberto Reyna; Michael R. Chambers; Carbone, Smith & Koyama — roles summarized in [02-CASE-CGC-25-631801/INDEX.md](02-CASE-CGC-25-631801/INDEX.md).
+**Defendants at trial (as listed on the equity index).** Subhi Abdelhalim; CSAA Insurance Exchange; Phillips, Spallas & Angstadt LLP; Priya D. Navaratnasingham; Alberto Reyna; Michael R. Chambers; Carbone, Smith & Koyama — roles summarized in [02-CASE-CGC-25-631801/INDEX.md](02-CASE-CGC-25-631801/INDEX.md). Tyler J. O'Connell (CSAA defense counsel, non-party) is also documented for his filing conduct in 631802.
 
 **Why this layer matters to the spine.** Later filings treat the trial record as the **shared factual substrate**: what was said under oath, what was offered or excluded, and what the jury was permitted to hear. The appeal briefs catalog preserved error from this record. The equity action alleges extrinsic fraud affecting the fairness of this trial. The UCL action uses a **pre-litigation** insurer letter as a separate timestamped representation.
 
