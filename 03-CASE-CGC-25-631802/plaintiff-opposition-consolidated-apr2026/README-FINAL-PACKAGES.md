@@ -1,6 +1,6 @@
 # Final filing package (801 opposition + SAC)
 
-Generated (UTC): 2026-04-20T02:49:16.342250+00:00
+Generated (UTC): 2026-04-20T03:20:26.823002+00:00
 
 ## Primary combined PDFs
 
@@ -10,13 +10,15 @@ Generated (UTC): 2026-04-20T02:49:16.342250+00:00
 | `SAC-FULL-PACKET-WITH-EXHIBITS.pdf` | SAC leave motion packet (7 instruments) + SAC exhibit appendix A–R |
 | `MASTER-CONSOLIDATED-FULL-PACKET.pdf` | (if present) Opposition package + opp exhibits + SAC packet + SAC exhibits |
 
-## Native digital exhibits (opposition appendix)
+## Native digital exhibits (opposition + SAC appendices)
 
-Exhibits 1–3 use slip sheets with a court-neutral description (no external URLs on the PDF):
+Exhibits 1–3 (opposition appendix) use slip sheets; the exhibit index footers repeat the access URL:
 
-Native audio, video, and CAD materials are identified in the declaration and exhibit index; those materials may be produced on request or lodged under seal per court procedure.
+https://shorturl.at/vC1nm
+
+Native audio, video, and CAD materials are available at https://shorturl.at/vC1nm; they are also identified in the declaration and exhibit index; those materials may be produced on request or lodged under seal per court procedure.
 
 ## Repository mirror (optional)
 
-A separate development mirror may host copies of these materials; the filed PDFs do not embed that address.
+Additional mirrors may host copies of these materials; the canonical access URL for native audio/video/CAD is above.
 
