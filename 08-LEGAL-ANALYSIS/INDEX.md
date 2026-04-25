@@ -61,6 +61,22 @@ Authority-by-authority rebuttal to CSAA’s Anti-SLAPP memorandum (court file 10
 
 ---
 
+### Risk surface, discrepancy, and April 2026 practice mirrors
+
+- **[RISK-AND-ECONOMICS.md](../RISK-AND-ECONOMICS.md)** (top level) and **[`risk-surface/`](../risk-surface/MASTER-CONSOLIDATED.md)**: consolidated dollar model (read **MASTER** and **RISK.SURFACE** for methodology).
+- **[DISCREPANCY-INTEGRATED-ANALYSIS.md](DISCREPANCY-INTEGRATED-ANALYSIS.md)**: integrated discrepancy analysis with court-reliance import.
+- **[bench-cards/README.md](bench-cards/README.md)**: Apr. 2026 judge-facing one-page authorities.
+- **[citation-validation/README.md](citation-validation/README.md)**: Apr. 23–24 citation checks.
+- **[filing-hierarchy/FILING-HIERARCHY-RULES-BY-DEFENSE-POSTURE.md](filing-hierarchy/FILING-HIERARCHY-RULES-BY-DEFENSE-POSTURE.md)**: doctrinal filing-order note.
+- **[side-by-side/](side-by-side/)**: 801/802 authority crossrefs and motion inventory.
+- **[discovery-and-logic/](discovery-and-logic/)**: element maps and logic diagrams.
+- **[csaa-investigation/](csaa-investigation/)**: CSAA investigation memos.
+- **[strategy-essays/](strategy-essays/)**: academic and public-statement strategy files.
+
+**Related cases:** all proceedings.
+
+---
+
 ### Demurrer rebuttal (CGC-25-631802)
 
 **[demurrer-rebuttal/INDEX.md](demurrer-rebuttal/INDEX.md)**

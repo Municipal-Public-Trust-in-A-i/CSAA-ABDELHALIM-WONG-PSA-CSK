@@ -1,0 +1,153 @@
+{
+  "label": "802-MOTION-STRIKE-APR-22",
+  "sources": [
+    "NTC2-CCP436",
+    "MPA2-CCP436",
+    "RFJN2-CCP436",
+    "PROP-ORDER2-CCP436",
+    "DEC-TOC2-CCP436"
+  ],
+  "cases_california": [
+    "11 Cal.4th 274",
+    "12 Cal.4th 631",
+    "146 Cal. App. 3d 470",
+    "15 Cal.App.5th 462",
+    "169 Cal.App.4th 976",
+    "17 Cal.App.4th 468",
+    "227 Cal.App.4th 813",
+    "265 Cal.App.2d 82",
+    "28 Cal.3d 908",
+    "36 Cal.2d 257",
+    "38 Cal. 3d 355",
+    "38 Cal.3d 355",
+    "49 Cal.App.3d 917",
+    "58 Cal.App.2d 878",
+    "59 Cal.2d 618",
+    "71 Cal.App.4th 268",
+    "80 Cal.App.5th 841",
+    "83 Cal. App. 5th 1137",
+    "96 Cal.App.4th 1017"
+  ],
+  "cases_federal": [
+    "98 U.S. 61"
+  ],
+  "statutes": [
+    "C.C.P. \u00a7 435",
+    "C.C.P. \u00a7 436",
+    "Civ. Code \u00a7 3294",
+    "Civ. Code \u00a7 3294(a)",
+    "Civ. Code \u00a7 47(b)",
+    "Code of Civil Procedure \u00a7 430.70"
+  ],
+  "rules_court": [],
+  "secondary": [],
+  "plaintiff_additions": {
+    "source": "TAC-plaintiff-addition",
+    "provenance": "802 TAC hardening (paragraphs 6A, 16A, 21A, 24A, 25A, 29, 41A, 44A, 47A, 52A, 66A)",
+    "cases_california": [
+      {"citation": "37 Cal.4th 1048", "name": "Rusheen v. Cohen (2006)", "pincite": "1058", "role": "Non-communicative conduct exception to Civ. Code \u00a7 47(b)"},
+      {"citation": "41 Cal.4th 1232", "name": "Action Apartment Ass'n v. City of Santa Monica (2007)", "pincite": "1248-49", "role": "Pre-litigation contemplation test"},
+      {"citation": "39 Cal.4th 299", "name": "Flatley v. Mauro (2006)", "pincite": "317-21", "role": "Illegality carve-out to \u00a7 47(b)"},
+      {"citation": "51 Cal.3d 335", "name": "Lucido v. Superior Court (1990)", "pincite": "341", "role": "Issue preclusion five-factor test"},
+      {"citation": "28 Cal.4th 888", "name": "Mycogen Corp. v. Monsanto Co. (2002)", "pincite": "904", "role": "Primary-rights doctrine"},
+      {"citation": "8 Cal.4th 666", "name": "Crowley v. Katleman (1994)", "pincite": "681-82", "role": "Primary-rights doctrine"},
+      {"citation": "49 Cal.App.3d 22", "name": "G.D. Searle & Co. v. Superior Court (1975)", "pincite": "29", "role": "Pleading-vs-evidentiary bright line for punitive damages"},
+      {"citation": "59 Cal.2d 618", "name": "Prentice v. North American Title Guaranty Corp. (1963)", "pincite": "620-21", "role": "Tort-measure attorney-fee damages"},
+      {"citation": "45 Cal.App.4th 1093", "name": "State Farm Fire & Casualty Co. v. Superior Court (1996)", "pincite": "1103-04", "role": "Moradi-Shalal UCL carve-out"},
+      {"citation": "46 Cal.3d 287", "name": "Moradi-Shalal v. Fireman's Fund Insurance Cos. (1988)", "pincite": "", "role": "No private \u00a7 790.03 cause of action (carve-out anchor)"},
+      {"citation": "220 Cal.App.4th 217", "name": "Chapman v. Skype, Inc. (2013)", "pincite": "226", "role": "UCL reasonable-consumer test"},
+      {"citation": "49 Cal.3d 39", "name": "Doctors' Company v. Superior Court (1989)", "pincite": "", "role": "Insurer direct liability outside ordinary role"}
+    ],
+    "cases_federal": [
+      {"citation": "552 F.3d 934", "name": "Williams v. Gerber Products Co. (9th Cir. 2008)", "pincite": "938", "role": "UCL reasonable-consumer test"}
+    ],
+    "statutes": [
+      {"citation": "Civ. Code \u00a7 2338", "role": "Principal-agent statutory liability"},
+      {"citation": "Bus. & Prof. Code \u00a7 6128(a)", "role": "Attorney deceit (cross-reference to 801 spine)"},
+      {"citation": "Ins. Code \u00a7 790.03(h)(5)", "role": "Liability-reasonably-clear UCL unlawful-prong predicate"},
+      {"citation": "10 CCR \u00a7 2695.4", "role": "Claims-handling standards"},
+      {"citation": "10 CCR \u00a7 2695.7", "role": "Claim investigation and denial standards"},
+      {"citation": "CCP \u00a7 1021.5", "role": "Private Attorney General fees (conditional)"}
+    ]
+  },
+  "by_document": {
+    "NTC2-CCP436": {
+      "cases_california": [],
+      "cases_federal": [],
+      "statutes": [
+        "C.C.P. \u00a7 435",
+        "C.C.P. \u00a7 436",
+        "Civ. Code \u00a7 47(b)"
+      ],
+      "rules_court": [],
+      "secondary": []
+    },
+    "MPA2-CCP436": {
+      "cases_california": [
+        "36 Cal.2d 257",
+        "11 Cal.4th 274",
+        "169 Cal.App.4th 976",
+        "17 Cal.App.4th 468",
+        "28 Cal.3d 908",
+        "83 Cal. App. 5th 1137",
+        "80 Cal.App.5th 841",
+        "96 Cal.App.4th 1017",
+        "12 Cal.4th 631",
+        "38 Cal. 3d 355",
+        "38 Cal.3d 355",
+        "71 Cal.App.4th 268",
+        "49 Cal.App.3d 917",
+        "146 Cal. App. 3d 470",
+        "15 Cal.App.5th 462",
+        "58 Cal.App.2d 878",
+        "265 Cal.App.2d 82",
+        "227 Cal.App.4th 813"
+      ],
+      "cases_federal": [
+        "98 U.S. 61"
+      ],
+      "statutes": [
+        "C.C.P. \u00a7 435",
+        "C.C.P. \u00a7 436",
+        "Civ. Code \u00a7 3294(a)",
+        "Civ. Code \u00a7 3294",
+        "Civ. Code \u00a7 47(b)"
+      ],
+      "rules_court": [],
+      "secondary": []
+    },
+    "RFJN2-CCP436": {
+      "cases_california": [],
+      "cases_federal": [],
+      "statutes": [
+        "C.C.P. \u00a7 435",
+        "C.C.P. \u00a7 436",
+        "Code of Civil Procedure \u00a7 430.70"
+      ],
+      "rules_court": [],
+      "secondary": []
+    },
+    "PROP-ORDER2-CCP436": {
+      "cases_california": [],
+      "cases_federal": [],
+      "statutes": [
+        "C.C.P. \u00a7 435",
+        "C.C.P. \u00a7 436"
+      ],
+      "rules_court": [],
+      "secondary": []
+    },
+    "DEC-TOC2-CCP436": {
+      "cases_california": [
+        "59 Cal.2d 618"
+      ],
+      "cases_federal": [],
+      "statutes": [
+        "C.C.P. \u00a7 435",
+        "C.C.P. \u00a7 436"
+      ],
+      "rules_court": [],
+      "secondary": []
+    }
+  }
+}

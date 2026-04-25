@@ -1,0 +1,8 @@
+{
+  "source_pdf": "802-MOTION-STRIKE-APR-22/(2) NTC - CCP436.pdf",
+  "page_count": 6,
+  "extracted": "pdftotext -layout + clean_pleading_text.py",
+  "case": "CGC-25-631802",
+  "role": "NTC",
+  "doc_type": "NTC"
+}

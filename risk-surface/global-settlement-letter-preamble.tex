@@ -1,0 +1,25 @@
+% Professional letter PDF styling (pandoc --include-in-header)
+\usepackage{microtype}
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries}{\thesection}{0.65em}{}
+\titlespacing*{\section}{0pt}{1.6ex plus .2ex}{1ex plus .1ex}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.65em}{}
+\titlespacing*{\subsection}{0pt}{1.35ex plus .15ex}{0.85ex plus .08ex}
+\titleformat{\subsubsection}{\normalsize\bfseries\scshape}{}{0em}{}
+\titlespacing*{\subsubsection}{0pt}{1.15ex plus .12ex}{0.65ex plus .06ex}
+\usepackage{setspace}
+\setstretch{1.12}
+\usepackage{parskip}
+\setlength{\parskip}{0.65em}
+\usepackage{enumitem}
+\setlist{itemsep=0.35em, parsep=0pt, topsep=0.4em}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+% Slightly tighter table lines for legal appendix
+\renewcommand{\arraystretch}{1.25}

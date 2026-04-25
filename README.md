@@ -3,7 +3,7 @@
 **Plaintiff:** Franciscus Dylan Rosario  
 **Forums:** San Francisco Superior Court; California Court of Appeal, First District, Division Three  
 **Case numbers:** CGC-21-594102 (underlying trial); **A173827** (appeal); **CGC-25-631801** (equity / extrinsic fraud); **CGC-25-631802** (denial-letter / UCL and April 2026 motion practice)  
-**Last site refresh:** April 19, 2026. Added narrative spine, defendant pages, timelines, **FINAL-COURT** PDFs under `03-CASE-CGC-25-631802/final-court-apr2026/`, **source-pdfs** mirrors (FINAL-COURT pre-merge instruments), academic homepage introduction, and this homepage.
+**Last site refresh:** April 24, 2026. Added attorney **entry pages** ([FOR-ATTORNEYS.md](FOR-ATTORNEYS.md), [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md), [RISK-AND-ECONOMICS.md](RISK-AND-ECONOMICS.md), [JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md)), a **`risk-surface/`** mirror plus [`RISK.SURFACE.md`](RISK.SURFACE.md), **April 22–24, 2026** motion-practice PDFs (SAC-leave, Anti-SLAPP supplement, bench cards, lodgment, clerk packets), and expanded **April 2026** ingress for **both** 801 and 802 below.
 
 > *"BOOM! I just hit him. HIT HIM. There was barely anything."* — transcript and audio context: [evidence.md](evidence.md) · [Trial Day 8 reporter PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-08-April-17-2025.pdf)
 
@@ -14,6 +14,44 @@ This page is a **reading path** through **court PDFs** and **transcripts** store
 **Legacy navigation hub (tables and quick links):** [README.LEGACY.md](README.LEGACY.md) — same material is **[embedded below](#appendix-legacy-full-record)**.  
 **Logical backbone (≈2,400 words + diagram):** [SPINE.md](SPINE.md)  
 **Every Markdown file (book outline):** [BOOK-OUTLINE.md](BOOK-OUTLINE.md)
+
+---
+
+## Start here (choose your reader path)
+
+| **For attorneys** | **For journalists** | **For the public / academics** |
+|-------------------|---------------------|---------------------------------|
+| **[FOR-ATTORNEYS.md](FOR-ATTORNEYS.md)** (intake, damages summary, calendar, contact) | **[JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md)** (plain-English, long read) | **This homepage** (neutral map, evidence links, and legacy appendix below) |
+| Deeper: [CASE-DOSSIER.md](CASE-DOSSIER.md) · [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md) · [RISK-AND-ECONOMICS.md](RISK-AND-ECONOMICS.md) | | |
+
+### Latest filings snapshot (next hearings)
+
+Hearing table with PDF links: **[HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md)**.
+
+```mermaid
+gantt
+    title April to May 2026 - key superior-court events (see calendar for departments)
+    dateFormat  YYYY-MM-DD
+    section CGC-25-631802
+    SAC leave reply (Apr. 30)           :milestone, m802a, 2026-04-30, 0d
+    Demurrer and strike (May 13)        :m802b, 2026-05-13, 1d
+    section CGC-25-631801
+    SAC leave reply (May 6)            :milestone, m801a, 2026-05-06, 0d
+    CMC (May 27)                       :m801b, 2026-05-27, 1d
+    section A173827
+    Appellate docket and briefing      :a173, 2026-04-24, 40d
+```
+
+### Latest PDF drops (roughly last 14 days, mirrored here)
+
+| Topic | 801 (equity) | 802 (UCL) |
+|--------|-------------|-----------|
+| Apr. 23 defense opposition to SAC leave | [defense PDFs](02-CASE-CGC-25-631801/apr-2026-sac-leave/defense-opposition-apr23/README.md) | [defense PDFs](03-CASE-CGC-25-631802/apr-2026-sac-leave/defense-opposition-apr23/README.md) |
+| Apr. 24 court-ready **reply** (leave) | [REPLY PDF](02-CASE-CGC-25-631801/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) | [REPLY PDF](03-CASE-CGC-25-631802/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) |
+| Apr. 24 Anti-SLAPP / OST supplement | [801 PDFs + Flatley check](02-CASE-CGC-25-631801/anti-slapp-supplemental-apr24/README.md) | [802 PDFs + Flatley check](03-CASE-CGC-25-631802/anti-slapp-supplemental-apr24/README.md) |
+| Apr. 24 bench cards | [May 6 card](08-LEGAL-ANALYSIS/bench-cards/BENCH-CARD-MAY06-801-THREE-AUTHORITIES.pdf) | [Apr. 30 card](08-LEGAL-ANALYSIS/bench-cards/BENCH-CARD-APR30-802-THREE-AUTHORITIES.pdf) |
+| Apr. 22 motion to strike (mirror) | [801 folder](02-CASE-CGC-25-631801/motion-strike-apr2026/README.md) | [802 folder](03-CASE-CGC-25-631802/motion-strike-apr2026/README.md) |
+| Citation validation memos | [citation-validation hub](08-LEGAL-ANALYSIS/citation-validation/README.md) | (same hub) |
 
 ---
 
@@ -137,16 +175,23 @@ flowchart TB
 
 ---
 
-## April 2026 631802 motion practice (quick ingress)
+## April 2026 motion practice (801 and 802 — quick ingress)
 
-| Bucket | Where |
-|--------|--------|
-| Defense Anti-SLAPP | [defense-anti-slapp-clerk](03-CASE-CGC-25-631802/defense-anti-slapp-clerk/README.md) |
-| Demurrer volley | [demurrer-volley-apr2026](03-CASE-CGC-25-631802/demurrer-volley-apr2026/README.md) |
-| Plaintiff 801 consolidated opposition | [plaintiff-opposition-consolidated-apr2026](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md) |
-| FINAL-COURT packets with exhibits | [final-court-apr2026](03-CASE-CGC-25-631802/final-court-apr2026/README.md) |
-| Anti-SLAPP analysis annex | [08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) |
-| Demurrer analysis annex | [08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md) |
+| Bucket | 631801 (equity) | 631802 (UCL) |
+|--------|-----------------|--------------|
+| **Case index** | [02-CASE-CGC-25-631801/INDEX](02-CASE-CGC-25-631801/INDEX.md) | [03-CASE-CGC-25-631802/INDEX](03-CASE-CGC-25-631802/INDEX.md) |
+| **Defense Anti-SLAPP (clerk PDFs)** | — | [defense-anti-slapp-clerk](03-CASE-CGC-25-631802/defense-anti-slapp-clerk/README.md) |
+| **Demurrer volley** | — | [demurrer-volley-apr2026](03-CASE-CGC-25-631802/demurrer-volley-apr2026/README.md) |
+| **Plaintiff consolidated opposition (801 draft build)** | — (caption is 802; papers apply to both departments) | [plaintiff-opposition-consolidated-apr2026](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md) |
+| **FINAL-COURT exhibit-integrated packets** | — | [final-court-apr2026](03-CASE-CGC-25-631802/final-court-apr2026/README.md) |
+| **SAC leave — defense (Apr. 23)** | [opposition + TOC](02-CASE-CGC-25-631801/apr-2026-sac-leave/defense-opposition-apr23/README.md) | [opposition + TOC](03-CASE-CGC-25-631802/apr-2026-sac-leave/defense-opposition-apr23/README.md) |
+| **SAC leave — plaintiff reply (Apr. 24)** | [REPLY (May 6 setting)](02-CASE-CGC-25-631801/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) | [REPLY (Apr. 30 setting)](03-CASE-CGC-25-631802/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) |
+| **Apr. 24 Anti-SLAPP / OST supplement** | [801 court PDFs](02-CASE-CGC-25-631801/anti-slapp-supplemental-apr24/README.md) | [802 court PDFs](03-CASE-CGC-25-631802/anti-slapp-supplemental-apr24/README.md) |
+| **Apr. 22 motion to strike (source mirror)** | [801 folder](02-CASE-CGC-25-631801/motion-strike-apr2026/README.md) | [802 folder](03-CASE-CGC-25-631802/motion-strike-apr2026/README.md) |
+| **Anti-SLAPP analysis** | — | [08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) |
+| **Demurrer analysis** | — | [08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md) |
+| **Filing-hierarchy note (defense posture)** | [filing-hierarchy](08-LEGAL-ANALYSIS/filing-hierarchy/FILING-HIERARCHY-RULES-BY-DEFENSE-POSTURE.md) (both cases) | same |
+| **Side-by-side / discovery mirrors** | [side-by-side](08-LEGAL-ANALYSIS/side-by-side/) | [discovery-and-logic](08-LEGAL-ANALYSIS/discovery-and-logic/) |
 
 ---
 

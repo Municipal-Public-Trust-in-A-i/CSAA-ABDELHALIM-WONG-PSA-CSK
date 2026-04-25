@@ -82,3 +82,16 @@
 | Evidentiary error | Abuse of discretion; reversal if substantial right affected |
 | Juror misconduct | Mixed; structural errors subject to heightened review |
 | Cumulative error | Whether aggregate errors rendered trial fundamentally unfair |
+
+---
+
+## Remand and post-vacatur materials (non-filing analysis)
+
+Mirrored memos and citation quick reference (intake for appellate and post-judgment counsel):
+
+| File | Description |
+|------|-------------|
+| [remand-plan/REMAND-FULL-RECORD-LITIGATION-PLAN.md](remand-plan/REMAND-FULL-RECORD-LITIGATION-PLAN.md) | Full-record remand operating plan |
+| [remand-plan/AFTER-VACATE.md](remand-plan/AFTER-VACATE.md) | Post-vacatur strategy notes |
+| [remand-plan/APR.14.FILING.md](remand-plan/APR.14.FILING.md) | April 14 supplemental filing context |
+| [remand-plan/APPEAL-CITATION-QUICK-REFERENCE/](remand-plan/APPEAL-CITATION-QUICK-REFERENCE/) | Citation quick-reference folder |

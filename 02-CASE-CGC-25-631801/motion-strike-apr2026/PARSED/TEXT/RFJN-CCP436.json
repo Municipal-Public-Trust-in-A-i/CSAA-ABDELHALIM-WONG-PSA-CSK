@@ -1,0 +1,8 @@
+{
+  "source_pdf": "801-MOTION-STRIKE-APR-22/RFJN  - CCP436.pdf",
+  "page_count": 3,
+  "extracted": "pdftotext -layout + clean_pleading_text.py",
+  "case": "CGC-25-631801",
+  "role": "RFJN",
+  "doc_type": "RFJN"
+}

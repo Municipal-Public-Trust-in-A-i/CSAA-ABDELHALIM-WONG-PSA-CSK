@@ -1,12 +1,38 @@
-I now have a comprehensive understanding of the record. Here is the full analysis.
-
----
-
 ## Summary of the Passage (Record Overview)
 
 The record documents a sequence of false representations by defense counsel Priya D. Navaratnasingham and Alberto Reyna (Phillips, Spallas & Angstadt LLP) regarding their receipt and possession of 911 audio recordings, body-worn camera footage, CAD logs, and a supplemental police report in *Rosario v. Abdelhalim*, CGC-21-594102. The trial court (Hon. Garrett L. Wong, Dept. 504, SF Superior Court) made procedural and evidentiary rulings in direct reliance on those representations. The resulting judgment (9-3 defense verdict, April 25, 2025) is challenged through an independent action in equity (CGC-25-631801) to set aside the judgment for extrinsic fraud.
 
 ---
+
+I have a thorough understanding of the case from the meet-and-confer demand. Here is the 1,200-word narrative explanation suitable for the Court and jury.
+
+---
+
+**WHY PLAINTIFF SEEKS EQUITABLE RELIEF FOR FRAUD ON THE COURT**
+
+*Rosario v. Abdelhalim, Case No. CGC-21-594102 (Underlying Action)*
+*Rosario v. CSAA Insurance Exchange, et al., Case No. CGC-25-631801 (Independent Action in Equity)*
+
+This is not a request born of dissatisfaction with a jury's verdict. This is a request born of proof -- documented on the certified Reporter's Transcript and in the Clerk's Transcript of the underlying action -- that the verdict itself was the product of a corrupted process. Plaintiff brings this independent action in equity because the judgment in CGC-21-594102 was procured through a continuous pattern of false representations made by defense counsel to the trial court, representations upon which the court relied in making the procedural and evidentiary rulings that defined the trial, and which deprived Plaintiff of the opportunity to present critical, dispositive evidence to the jury on a fair and complete record.
+
+The evidence that was suppressed through these false representations includes the defendant's own words. In a 911 call placed immediately after the collision, Defendant Abdelhalim told the operator: "BOOM! I just hit him. HIT HIM. There was barely anything." He later authenticated that recording under oath at trial, stating: "Yes. That is my voice." The suppressed evidence also includes body-worn camera footage from the responding officer in which eyewitness Dustin Rosemond stated: "The man in the van hit the guy". It includes the CAD logs corroborating the emergency dispatch timeline. And it includes a supplemental police report that would have corroborated Plaintiff's account of the incident. The jury never had timely, orderly access to this evidence because defense counsel told the Court things about that evidence that were not true, and the Court believed them.
+
+The false representations began on January 17, 2025, when defense counsel Ms. Navaratnasingham filed Motions in Limine Nos. 6 and 17, supported by her signed declaration, asserting that the recorded materials, including the 911 call audio, "were not produced in discovery" and that "Defendant has no idea where this 911 call log or audio recording came from." These were not legal arguments about admissibility. They were factual assertions about receipt and possession, made under penalty of perjury.
+
+On February 18, 2025, at the pretrial hearing before the Honorable Garrett L. Wong, attorney Jeremy Jessup of the Dolan Law Firm -- the attorney who had handled Plaintiff's case prior to Plaintiff proceeding in pro per -- testified under oath that the 911 audio, approximately five body-worn camera videos, and the CAD log had been "produced to defense counsel" and "served on them in the production for discovery as well at Mr. Rosario's deposition" in August and September of 2022. Immediately after that sworn testimony, Ms. Navaratnasingham told the Court the 911 evidence was "news to me," that her office "did not receive the 911 call until the day of the MSC," and that the materials were "not produced in the normal course of discovery." The Court's response was: "I see. Okay." The Court accepted that representation without inquiry, as it was entitled to do, because a court is entitled to rely on the candor of officers of the court.
+
+From that moment forward, every procedural and evidentiary ruling the Court made about this evidence was built on a false foundation. The Court denied Plaintiff's continuance request, reasoning that Plaintiff had possessed the materials since August 2024 and that the defense was "not blocking" their admission. That framing depended entirely on Ms. Navaratnasingham's representation that her office had not received the evidence until the day of the mandatory settlement conference. The Court granted MIL No. 17, excluding the evidence "without prejudice subject to discovery being produced," premised on defense counsel's assertion that the materials were of "unknown origin." Each ruling compounded the one before it, and the compounding was driven by the initial false premise: "news to me."
+
+The false representations continued at trial. On April 16, 2025, Mr. Reyna told the Court that the supplemental police report was "not anything that we received as part of the subpoena," and the Court excluded it. Mr. Reyna then told the Court he was "not sure what recording" Plaintiff was referring to when Plaintiff raised the 911 call, and the Court deferred admission of the 911 recording. Mr. Reyna's claimed confusion is irreconcilable with the record. On February 1, 2024, Mr. Reyna himself signed a Deposition Subpoena for Production of Business Records directed to the San Francisco Police Department that explicitly requested the "9-1-1 CALL" and "ANY AND ALL VIDEO RECORDINGS FROM BODY-WORN CAMERAS." One does not sign a subpoena requesting a specific recording by name and then profess ignorance of that recording fourteen months later.
+
+Then came the admission that proves the entire edifice was false. On that same day, April 16, 2025, minutes after Mr. Reyna's professed confusion, Ms. Navaratnasingham stated on the certified record: "Sure. They were provided by Dolan. He has had them for whatever, sure." She then described having "five videos" and curating them into "about 8 or 9 minutes" for the jury. That statement -- casual, familiar, unqualified -- establishes that the Dolan origin of the body-worn camera footage was an established, recognized fact within the defense trial team. One does not casually name a specific law firm as the source of evidence years after receipt if one is genuinely ignorant of the evidence's existence. The body-worn camera footage and the 911 audio were part of the same discovery production. Mr. Jessup testified they were served together. Receipt of the body-camera footage from Dolan is receipt of the 911 audio from Dolan. The April 16 admission is a confession.
+
+This is why Plaintiff asks for equity. The fraud was  committed on the judge. The false representations shaped the procedural and evidentiary framework of the entire trial. They were not arguments that a jury could weigh and accept or reject. They were factual predicates that the Court relied upon to decide what evidence the jury would see and when the jury would see it. Plaintiff could not "cross-examine" the Court's reliance on defense counsel's representations. That is the hallmark of extrinsic fraud: fraud that prevents a real contest on the merits by corrupting the process itself, rather than the evidence within it.
+
+The direct appeal addresses the Court's independent instructional errors. But the appellate court cannot conduct a fact-finding inquiry into whether "news to me" was a knowing falsehood. It cannot subpoena the defense file. It cannot take testimony. It cannot order discovery. Those are fact-bound inquiries that require a trial-level proceeding with evidence, witnesses, and equitable jurisdiction. The independent action in equity is the only procedural vehicle available for that inquiry.
+
+The verdict was 9-3, the minimum civil majority. A single juror changing sides would have altered the outcome. The suppressed evidence includes the defendant's own spontaneous admission of fault. The prejudice is not speculative. It is structural. When attorney misconduct is sufficiently egregious, it constitutes a denial of due process rendering the trial fundamentally unfair regardless of the strength of the evidence. This Court possesses the inherent equitable power to vacate a judgment procured by extrinsic fraud. That power exists precisely for cases like this one, where the corruption was not in the evidence but in the process, where the fraud was not committed on twelve jurors but on the institution itself, and where no remedy short of vacatur and a new trial on a truthful record can restore the integrity of the proceeding. That is what Plaintiff asks this Court to do.
+
 
 ## Identified Potential Errors
 
@@ -261,3 +287,95 @@ This compartmentalization is a deliberate litigation design. The equity action s
 The damages identified above are not static. They continue to accrue with each month that the fraudulently procured judgment remains in place. Lost earnings at a rate of approximately $30,000 per month accumulate. Out-of-pocket costs for the ongoing equity litigation accumulate. Medical and therapeutic expenses tied to the continuing litigation strain accumulate. The emotional and psychological toll deepens. The fraud period, now approximately eighteen months and counting, represents a sustained deprivation of professional capacity, financial stability, physical health, and psychological well-being -- all traceable to a single false statement made to a judge who was entitled to rely on the candor of officers of the court, and to the cascade of rulings that flowed from it.
 
 Plaintiff will present competent evidence, records, documentation, and testimony to substantiate every category of damages at the appropriate stage of the proceedings. The precise totals are not stated at this time because the damages continue to accrue. But the magnitude of the harm is substantial, the causal chain is documented on the certified record, and the fraud that caused it is proven by the defense's own words.
+
+
+===============
+
+
+Here is a comprehensive explanation of why CSAA's reliance on the police report was insufficient to deny the claim.
+
+---
+
+## Why CSAA's Reliance on the Police Report Was Insufficient to Deny the Claim
+
+The insufficiency breaks down into four interlocking categories: (1) the police report itself was incomplete; (2) CSAA had a legal duty to go beyond it; (3) "concluded" was an objectively false representation; and (4) the evidence the police report omitted would have changed the outcome.
+
+---
+
+### 1. The Police Report Was an Incomplete Record of the Incident
+
+The police report was a summary document that **did not contain the most probative evidence** generated by the same law enforcement response. Specifically, the record establishes that the police report:
+
+- **Did not include Abdelhalim's 911 admission.** The insured told the 911 operator: "BOOM! I just hit him. HIT HIM. There was barely anything." and "He cross from me, and he's barely hitting anything, but I'm calling for him." None of this appeared in the police report itself (RFA 20 in the 631802 discovery).
+
+- **Did not include the body-worn camera footage.** Officer Thompson's BWC captured eyewitness Dustin Rosemond stating: "The man in the van hit the guy" and "That man in the van hit the guy who was laying on the ground." The police report did not reference this footage (RFA 21).
+
+- **Did not include Plaintiff's own BWC statements** to officers that the driver struck him (RFA 22-23).
+
+- **Did reference a CAD number** -- a direct link to the dispatch records, 911 audio, and other underlying materials. That CAD number was a roadmap to the suppressed evidence. CSAA saw it and did nothing with it (RFA 16).
+
+A police report is a narrative summary written by an officer after the fact. It is not a substitute for the raw, contemporaneous evidence -- the 911 recording, the body-worn camera footage, and the CAD logs -- that the report's very existence signals are available.
+
+---
+
+### 2. California Law Required CSAA to Investigate Beyond the Police Report
+
+CSAA had affirmative legal duties -- statutory, regulatory, and common-law -- that made reliance on the police report alone legally insufficient.
+
+**a. The Implied Covenant and the *Egan* Standard.**
+Under *Egan v. Mutual of Omaha Ins. Co.* (1979) 24 Cal.3d 809, an insurer may not deny a claim without first "thoroughly investigating the foundation for its denial." A thorough investigation of a vehicle-pedestrian collision where law enforcement responded requires obtaining the 911 audio, BWC, and CAD -- not just a one-page summary report. An investigation confined to the insured's own account and a bare police report is what *Egan* calls "perfunctory" and "outcome-driven."
+
+**b. The *Mariscal* Neutral-Investigator Duty.**
+Under *Mariscal v. Old Republic Life Ins. Co.* (1996) 42 Cal.App.4th 1617, an insurer must act as a "neutral investigator" who affirmatively searches for evidence that **supports** coverage, not just evidence that defeats it. By relying only on the police report and the insured's self-serving account -- while ignoring the 911 recording in which the insured admitted fault -- CSAA was conducting a one-directional investigation designed to find reasons to deny.
+
+**c. The *Bartel* Expansion of the Duty.**
+*Bartel v. Chicago Title Insurance Co.* (2025) confirms that the duty to investigate is not limited to the narrow framing of the initial claim. When obvious leads exist -- and a CAD number on a police report is the most obvious lead imaginable -- the insurer must pursue them. CSAA's failure to follow the CAD number to the 911 audio and BWC violates *Bartel*.
+
+**d. The Fair Claims Settlement Practices Regulations.**
+CCR title 10, section 2695.7(d) requires that "every insurer shall conduct and diligently pursue a thorough, fair and objective investigation." The 911 audio, BWC, and CAD records are standard, routine products of any law enforcement response. They are "reasonably available" within the meaning of the regulation. Issuing a denial without requesting them violates the regulation on its face.
+
+**e. Insurance Code section 790.03(h).**
+Section 790.03(h)(3) requires insurers to "adopt and implement reasonable standards for the prompt investigation and processing of claims." Section 790.03(h)(5) prohibits failing to attempt good-faith settlement "in which liability has become reasonably clear." A reasonable standard for investigating a pedestrian collision includes pulling the 911 audio where the insured may have made admissions. CSAA's failure to do so is a statutory violation.
+
+---
+
+### 3. "Concluded" Was an Objectively False Statement
+
+CSAA issued its denial letter on February 25, 2021 -- just 21 days after the collision -- stating its investigation was "concluded" and its insured was "not liable." But as of that date, CSAA had:
+
+- **Not obtained** the 911 audio recording
+- **Not obtained** body-worn camera footage
+- **Not obtained** CAD records
+- **Not obtained** any medical records from the Plaintiff
+- **Not retained** an accident reconstruction or biomechanical expert
+- **Not taken** a recorded statement from its own insured
+- **Not contacted** the Plaintiff at all
+- **Relied exclusively** on the insured's own account as the only liability-relevant information
+
+Under California law, an investigation cannot truthfully be described as "concluded" when the insurer has not obtained foundational objective evidence that is known or reasonably knowable to exist. The word "concluded" is not mere opinion -- it is an implied assertion that objective investigative steps were taken. The Superior Knowledge doctrine applies: CSAA has exclusive control over its claims file, and the Plaintiff had no way to verify what CSAA actually did or did not do. When a party with superior knowledge makes a statement about a verifiable process to a party who lacks that knowledge, it is an actionable statement of fact, not opinion (Civil Code section 1710; *Randi W. v. Muroc Joint Unified School Dist.*).
+
+The "based on available evidence" qualifier fails as a defense because "available" under CCR section 2695.7 means "reasonably obtainable," not "whatever is sitting on the adjuster's desk." CSAA cannot artificially restrict the evidence pool by refusing to look, and then cite that self-created ignorance as justification. This is the **willful blindness** doctrine: an insurer that puts on a blindfold cannot legally justify a denial by saying, "Based on what I can currently see, your claim has no merit."
+
+---
+
+### 4. The Evidence the Police Report Omitted Would Have Changed the Outcome
+
+The evidence CSAA chose not to obtain was devastating to its own insured's position:
+
+- **Party admission against interest**: Abdelhalim told the 911 operator he hit the pedestrian. This is a spontaneous, excited utterance, authenticated by the defendant himself at trial ("Yes. That is my voice.").
+
+- **Eyewitness corroboration**: On the BWC, an independent eyewitness stated "The man in the van hit the guy" and "That man in the van hit the guy who was laying on the ground."
+
+- **Inconsistency with insured's account**: Abdelhalim's 911 admission ("I barely hit him") directly contradicted the defense's trial position of "no contact."
+
+If CSAA had obtained the 911 recording before issuing its denial, it would have heard its own insured admit fault. Under Insurance Code section 790.03(h)(5), liability was "reasonably clear" once that admission was available. CSAA's failure to obtain it before issuing a denial is not just negligent -- it is an investigation strategy designed to avoid discovering coverage.
+
+This is confirmed by the timeline: Plaintiff's counsel (the Dolan Law Firm) obtained the same 911 audio through a routine California Public Records Act request in under three months. The evidence was not hidden, exotic, or difficult to find. It was standard public-agency material that any competent insurer investigating a serious auto-versus-pedestrian collision would have obtained as a matter of course.
+
+---
+
+### The Combined Effect
+
+The police report was not the end of CSAA's investigation -- it was a starting point that CSAA refused to follow. The report contained a CAD number pointing directly to the 911 audio, BWC, and dispatch records. CSAA saw that number and did nothing. It then declared the investigation "concluded" and the insured "not liable" based solely on the insured's own self-serving account, without obtaining the objective evidence that would have proven the insured admitted fault.
+
+Under *Egan*, *Mariscal*, *Bartel*, *Gruenberg*, Insurance Code section 790.03(h), and CCR section 2695.7, this is not a defensible investigation. It is a claim denial engineered to succeed by avoiding the truth -- and the "concluded" representation is the mechanism that weaponized that avoidance by deceiving the Plaintiff into believing a thorough inquiry had occurred.

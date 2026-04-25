@@ -1,0 +1,100 @@
+% Shared pleading-paper preamble for CGC-25-631801 TAC-RESPONSE court PDFs (extends DEFENSE 801 court style).
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{geometry}
+    \geometry{top=1in, bottom=2.2in, left=1.0in, right=1.0in, textheight=336pt}
+    \setlength{\footskip}{55pt}
+\usepackage{ulem}
+\usepackage{fancyhdr}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0pt}
+\usepackage{parskip}
+    \setlength{\parskip}{0mm}
+\usepackage{quoting}
+    \quotingsetup{leftmargin=0.5in, rightmargin=0.5in, vskip=-1.5mm}
+    \makeatletter
+        \g@addto@macro\quoting\singlespacing
+        \g@addto@macro\quoting{\vspace{-2mm}}
+    \makeatother
+\usepackage{mathptmx}
+\usepackage{amssymb}
+\renewcommand{\rmdefault}{ptm}
+\renewcommand{\normalsize}{\fontsize{12}{12}\selectfont}
+\newcommand*{\ptm}{\fontfamily{ptm} \selectfont \fontsize{12}{12}\selectfont}
+\usepackage{setspace}
+    \doublespacing
+\newcommand{\tab}{\hspace*{.0in}}
+\newenvironment{tightcenter}{%
+    \setlength\topsep{0pt}
+    \setlength\parskip{0pt}
+    \begin{center}
+}{%
+    \end{center}
+}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\AddToHook{shipout/background}{%
+    \begin{tikzpicture}[remember picture, overlay]
+        \draw[line width=0.5pt] ($(current page.north west) + (0.75in,0)$) -- ($(current page.south west) + (0.75in,0)$);
+        \draw[line width=0.5pt] ($(current page.north west) + (0.80in,0)$) -- ($(current page.south west) + (0.80in,0)$);
+    \end{tikzpicture}%
+}
+\usepackage[left, pagewise]{lineno}
+\setlength{\linenumbersep}{0.35in}
+\renewcommand{\linenumberfont}{\normalfont\small}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{bookmark}
+\usepackage{textcomp}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{calc}
+% Pandoc pipe-table column widths use \real{#}; map to pgf math (pgf loaded via tikz).
+\newcommand{\real}[1]{\pgfmathparse{#1}\pgfmathresult}
+\titleformat{\section}{\fontsize{15}{15}\selectfont\normalfont\bfseries\uppercase}{}{0em}{}
+\titleformat{\subsection}{\fontsize{15}{15}\selectfont\normalfont\bfseries\uppercase}{}{0em}{}
+\titleformat{\subsubsection}{\normalfont\bfseries}{}{0em}{}
+\titlespacing*{\section}{0pt}{0pt}{0pt}
+\titlespacing*{\subsection}{0pt}{0pt}{0pt}
+\titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+\newcommand{\calrules}[1]{Cal. Rules of Court, rule #1}
+\newcommand{\ccp}[1]{Code Civ. Proc., \textsection~#1}
+\newcommand{\evidcode}[1]{Evid. Code, \textsection~#1}
+\newcommand{\vehcode}[1]{Veh. Code, \textsection~#1}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+% --- TOC / TOA hyperlink infrastructure (avoid hyperref's \\toclink name clash) ---
+\newcommand{\tacctoclink}[2]{\hyperref[toc:#1]{#2}}
+% In-text citation link to authority label (target is usually TABLE OF AUTHORITIES row).
+\newcommand{\citecase}[2]{\textit{\hyperref[auth:#1]{#2}}}
+\newcommand{\citestatute}[2]{\hyperref[auth:#1]{#2}}
+\newcommand{\toclink}[2]{\hyperref[toc:#1]{#2}}
+% Authority entries in TABLE OF AUTHORITIES (#1 label slug, #2 italic case name or title, #3 citation tail)
+\newcommand{\caseentry}[3]{\par\noindent\hangindent=2em\hangafter=1%
+  \phantomsection\label{auth:#1}\textit{#2}, #3\par}
+\newcommand{\statuteentry}[3]{\par\noindent\hangindent=2em\hangafter=1%
+  \phantomsection\label{auth:#1}#2\ #3\par}
+\newcommand{\ruleentry}[2]{\par\noindent\hangindent=2em\hangafter=1%
+  \phantomsection\label{auth:#1}#2\par}
+\makeatletter
+\newlength{\CourtTOCmarkwd}
+\newlength{\CourtTOCpagewd}
+\newlength{\CourtTOCtitlewd}
+\setlength{\CourtTOCmarkwd}{2.8em}
+\setlength{\CourtTOCpagewd}{4.2em}
+\newcommand{\CourtTOCRow}[3]{%
+  \begingroup
+  \setlength{\CourtTOCtitlewd}{\dimexpr\linewidth - \CourtTOCmarkwd - \CourtTOCpagewd - 0.6em\relax}%
+  \par\nobreak\noindent
+  \begin{minipage}[b]{\CourtTOCmarkwd}\raggedright\strut #1\strut\end{minipage}\hspace{0.3em}%
+  \begin{minipage}[b]{\CourtTOCtitlewd}\raggedright\strut #2\strut\end{minipage}\hspace{0.3em}%
+  \begin{minipage}[b]{\CourtTOCpagewd}\raggedleft\strut #3\strut\end{minipage}\par
+  \endgroup
+  \vspace{1pt}%
+}
+\newcommand{\CourtTOCSubitem}[2]{\CourtTOCRow{}{#1}{#2}}
+\newcommand{\CourtTOCSubsubitem}[2]{\CourtTOCRow{}{\quad\quad #1}{#2}}
+\makeatother

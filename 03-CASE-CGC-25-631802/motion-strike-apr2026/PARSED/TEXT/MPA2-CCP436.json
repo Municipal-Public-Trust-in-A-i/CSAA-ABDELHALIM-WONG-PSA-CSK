@@ -1,0 +1,8 @@
+{
+  "source_pdf": "802-MOTION-STRIKE-APR-22/(2) MPAs - CCP436.pdf",
+  "page_count": 13,
+  "extracted": "pdftotext -layout + clean_pleading_text.py",
+  "case": "CGC-25-631802",
+  "role": "MPA",
+  "doc_type": "MPA"
+}
