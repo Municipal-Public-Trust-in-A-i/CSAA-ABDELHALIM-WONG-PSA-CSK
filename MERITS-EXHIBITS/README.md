@@ -1,6 +1,6 @@
 # MERITS-EXHIBITS
 
-Evidentiary artifacts referenced in the [TAC-aligned merits statement](../MERITS.md). These are the two cornerstone documents the merits letter is built on, plus the underlying-trial denial-letter source.
+Evidentiary artifacts and **certified operative pleadings** referenced in the [TAC-aligned merits statement](../MERITS.md): the three cornerstone PDFs (denial letter plus MIL Nos. 6 and 17 from the underlying trial clerk's transcript) and the **Third Amended Complaints** for both companion actions (court-stamped `TAC-801-06-TAC` and `TAC-802-06-TAC` mirrors).
 
 > **Note:** These PDFs are the artifacts the merits letter cites as the **face of the record**, not as merits proof outside the operative pleadings. Their evidentiary character is fixed by the Third Amended Complaints (802 TAC ¶¶ 7–9, 46; 801 TAC ¶¶ 3, 5, 9, 48–50) and by the procedural posture (demurrer / Anti-SLAPP) defendants chose to file.
 
@@ -11,6 +11,17 @@ Evidentiary artifacts referenced in the [TAC-aligned merits statement](../MERITS
 | 1 | **CSAA Denial Letter** | February 25, 2021 | CSAA's pre-litigation written representation that its investigation was complete. Signed by Sarah Rash. Issued in the regular course of claim handling under 10 C.C.R. § 2695.7. (802 TAC ¶¶ 3, 45–46.) | [CSAA_Denial_Letter-Feb-25-2021.pdf](CSAA_Denial_Letter-Feb-25-2021.pdf) |
 | 2 | **MIL No. 6 declaration** | January 17, 2025 | Defense Motion in Limine No. 6 declaration, signed under Code Civ. Proc. § 2015.5 by appointed defense counsel. From the Clerk's Transcript Vol. 1, pp. 149–151 in CGC-21-594102. (801 TAC ¶¶ 3(b), 5, 45, 48.) | [CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf](CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf) |
 | 3 | **MIL No. 17 declaration** | January 17, 2025 | Defense Motion in Limine No. 17 declaration, signed under Code Civ. Proc. § 2015.5. From the Clerk's Transcript Vol. 1, pp. 238–241 in CGC-21-594102. Contains the *"Defendant has no idea where this 911 call log or audio recording came from and who created it"* representation. (MIL No. 17, p. 3, § II.A, line 22; CT Vol. 1, p. 240, ln. 22.) | [CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf](CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf) |
+
+## Operative pleadings (Third Amended Complaint, certified PDF)
+
+These are the **801** and **802** TAC PDFs from the motion-to-strike response set (`court-pdfs` mirrors). Every `(801 TAC ¶ …)` / `(802 TAC ¶ …)` inline citation in [MERITS.md](../MERITS.md) links to the corresponding file.
+
+| # | Case | Caption | PDF |
+|---|------|---------|-----|
+| 4 | **CGC-25-631801** | Third Amended Complaint (equity / extrinsic fraud) | [TAC-801-06-TAC.pdf](TAC-801-06-TAC.pdf) |
+| 5 | **CGC-25-631802** | Third Amended Complaint (denial-letter fraud / UCL) | [TAC-802-06-TAC.pdf](TAC-802-06-TAC.pdf) |
+
+Canonical copies also live under each case folder: [02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RESPONSE/court-pdfs/TAC-801-06-TAC.pdf](../02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RESPONSE/court-pdfs/TAC-801-06-TAC.pdf) · [03-CASE-CGC-25-631802/motion-strike-apr2026/TAC-RESPONSE/court-pdfs/TAC-802-06-TAC.pdf](../03-CASE-CGC-25-631802/motion-strike-apr2026/TAC-RESPONSE/court-pdfs/TAC-802-06-TAC.pdf).
 
 ## Why these three artifacts together
 

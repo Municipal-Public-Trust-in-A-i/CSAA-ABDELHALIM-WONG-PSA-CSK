@@ -28,13 +28,15 @@
 
 **Why click:** the document doubles as both a meet-and-confer letter under CCP §§ 430.41 / 435.5 *and* a section-by-section implications analysis (Sections 1–7) that walks through what changes the moment this hits the multi-channel record — including the *Stansfield v. Starkey*, *D'Amico*, *Committee on Children's Television v. General Foods*, and CCP § 128.7 ramifications, plus the withdrawal-or-correct dilemma now confronting successor counsel.
 
-**Cornerstone exhibits attached** (see [MERITS-EXHIBITS/](MERITS-EXHIBITS/README.md)):
+**Cornerstone exhibits and operative TACs** (see [MERITS-EXHIBITS/](MERITS-EXHIBITS/README.md)):
 
 | # | Exhibit | PDF |
 |---|---------|-----|
 | 1 | February 25, 2021 CSAA denial letter (Sarah Rash) | [CSAA_Denial_Letter-Feb-25-2021.pdf](MERITS-EXHIBITS/CSAA_Denial_Letter-Feb-25-2021.pdf) |
 | 2 | January 17, 2025 MIL No. 6 declaration (CT Vol. 1, pp. 149–151) | [MIL-No-6 PDF](MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf) |
 | 3 | January 17, 2025 MIL No. 17 declaration (CT Vol. 1, pp. 238–241) | [MIL-No-17 PDF](MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf) |
+| 4 | CGC-25-631801 — Third Amended Complaint (certified) | [TAC-801-06-TAC.pdf](MERITS-EXHIBITS/TAC-801-06-TAC.pdf) |
+| 5 | CGC-25-631802 — Third Amended Complaint (certified) | [TAC-802-06-TAC.pdf](MERITS-EXHIBITS/TAC-802-06-TAC.pdf) |
 
 ### **➤ [Open MERITS.md and read the full statement](MERITS.md)**
 
@@ -69,7 +71,7 @@ Pick the entry that matches why you opened this site.
 **April 25, 2026 refresh.**
 
 - **NEW:** [MERITS.md](MERITS.md) — TAC-aligned merits statement and meet-and-confer letter for CGC-25-631801 and CGC-25-631802. Every count tied to operative TAC paragraphs; cornerstone-document contradiction (Rash 2021 denial letter vs. Priya MIL Nos. 6 / 17 declarations) framed on a single record. Includes the seven-section implications analysis (procedural foreclosure of "no merits"; demurrer / Anti-SLAPP ramifications; § 6128(a), § 128.7, and Civ. Code § 2338 exposure; multi-channel transmission to Court · CDI · all defendants · counsel of record). See banner above.
-- **NEW:** [MERITS-EXHIBITS/](MERITS-EXHIBITS/README.md) — three cornerstone PDFs attached to the merits letter: the [Feb. 25, 2021 CSAA denial letter (Sarah Rash)](MERITS-EXHIBITS/CSAA_Denial_Letter-Feb-25-2021.pdf), the [Jan. 17, 2025 MIL No. 6 declaration (CT pp. 149–151)](MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf), and the [Jan. 17, 2025 MIL No. 17 declaration (CT pp. 238–241)](MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf).
+- **NEW:** [MERITS-EXHIBITS/](MERITS-EXHIBITS/README.md) — three cornerstone PDFs attached to the merits letter: the [Feb. 25, 2021 CSAA denial letter (Sarah Rash)](MERITS-EXHIBITS/CSAA_Denial_Letter-Feb-25-2021.pdf), the [Jan. 17, 2025 MIL No. 6 declaration (CT pp. 149–151)](MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf), and the [Jan. 17, 2025 MIL No. 17 declaration (CT pp. 238–241)](MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf). Same folder now mirrors the **certified Third Amended Complaints**: [TAC-801-06-TAC.pdf](MERITS-EXHIBITS/TAC-801-06-TAC.pdf) (631801) and [TAC-802-06-TAC.pdf](MERITS-EXHIBITS/TAC-802-06-TAC.pdf) (631802). [MERITS.md](MERITS.md) uses inline links on every `(801 TAC ¶ …)` / `(802 TAC ¶ …)` block citation (including `¶¶ 3(b)`-style references) to those PDFs.
 
 **April 24, 2026 refresh.**
 
@@ -460,7 +462,7 @@ The story of how one brain-injured plaintiff, proceeding alone against a multi-b
 ├── README.md                         (this file: main navigation)
 ├── README.LEGACY.md                  (older index, kept for diffs)
 ├── MERITS.md                         (TAC-aligned merits statement + implications)
-├── MERITS-EXHIBITS/                  (3 cornerstone PDFs attached to MERITS.md)
+├── MERITS-EXHIBITS/                  (3 cornerstone PDFs + 2 certified TAC PDFs)
 ├── FOR-ATTORNEYS.md                  (intake cover for California counsel)
 ├── CASE-DOSSIER.md                   (30-minute deep read)
 ├── HEARINGS-CALENDAR.md              (calendar with PDF links)
