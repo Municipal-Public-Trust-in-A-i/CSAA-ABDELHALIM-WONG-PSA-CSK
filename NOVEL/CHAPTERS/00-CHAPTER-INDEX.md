@@ -89,7 +89,7 @@ Chapters 19–22 (Bar Complaints, $75 Million Demand, Two Options, Compounding C
 | Compex Subpoena | GITHUB-PAGE/04-EXHIBITS/2024-02-01-Compex-Subpoena.pdf |
 | CSAA Investigation Report | GITHUB-PAGE/04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf |
 | Support Narratives | Support/NARRATIVE-*.md, Support/Letter-to-OConnell-*.md, Support/DEMAND-LETTER-*.md |
-| Pleadings | Support/Pleadings/; GITHUB-PAGE/02-CASE-*, 03-CASE-* |
+| Pleadings | Support/Pleadings/; 02-CASE-*, 03-CASE-* (repository root) |
 | Bar/Judicial Complaints | GITHUB-PAGE/06-EVIDENCE/; Support/California-bar-complaint/; Support/Judicial-complaint/ |
 
 ---

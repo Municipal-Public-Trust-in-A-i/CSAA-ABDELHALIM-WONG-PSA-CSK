@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Extract text and structured metadata from DEFENSE-FILINGS-PDF for CGC-25-631801 and
-631802. Writes GITHUB-PAGE/DEFENSE-FILINGS/ with extractions, analysis companions,
+631802. Writes DEFENSE-FILINGS/ at repository root with extractions, analysis companions,
 per-day memos, and index files.
 
 Usage:
@@ -25,7 +25,6 @@ from typing import Any
 
 # Reuse citation parsers
 _SCRIPTS = Path(__file__).resolve().parent
-_GH = _SCRIPTS.parents[1]  # GITHUB-PAGE
 _WORKSPACE = _SCRIPTS.parents[2]  # repo root
 sys.path.insert(0, str(_SCRIPTS))
 from cache_demurrer_authorities import (  # noqa: E402
@@ -38,7 +37,7 @@ from cache_demurrer_authorities import (  # noqa: E402
 )
 
 DEFAULT_PDF_DIR = _WORKSPACE / "DEFENSE-FILINGS-PDF"
-DEFAULT_OUT = _GH / "DEFENSE-FILINGS"
+DEFAULT_OUT = _WORKSPACE / "DEFENSE-FILINGS"
 
 MONTHS_MAP = {
     "january": 1,

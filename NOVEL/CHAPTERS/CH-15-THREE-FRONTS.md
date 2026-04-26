@@ -109,8 +109,8 @@ No single set of positions satisfies all three fronts. The closed logical system
 | Exhibit ID | Description | Source Path | Use in Chapter |
 |------------|-------------|-------------|----------------|
 | DOC-15-001 | Notice of Appeal (A173827) | GITHUB-PAGE/01-APPEAL/ | Appeal filing |
-| DOC-15-002 | Second Amended Complaint (631801) | GITHUB-PAGE/02-CASE-CGC-25-631801/ | Equity action |
-| DOC-15-003 | First Amended Complaint (631802) | GITHUB-PAGE/03-CASE-CGC-25-631802/ | Fraud action |
+| DOC-15-002 | Second Amended Complaint (631801) | 02-CASE-CGC-25-631801/ | Equity action |
+| DOC-15-003 | First Amended Complaint (631802) | 03-CASE-CGC-25-631802/ | Fraud action |
 | DOC-15-004 | Appellant's Opening Brief | GITHUB-PAGE/01-APPEAL/01-Appellants-Opening-Brief.pdf | Appeal issues |
 
 ### Legal Authority

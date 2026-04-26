@@ -383,7 +383,7 @@ It begins in a crosswalk, on a cold February afternoon, in a city that was not p
 | Exhibit ID | Document | Source Path | Use in Chapter |
 |------------|----------|-------------|----------------|
 | DOC-01-001 | Demand Letter (economic damages) | Support/DEMAND-LETTER-CSAA-75M.md | Rosario's earnings, occupation |
-| DOC-01-002 | Second Amended Complaint (631801) | GITHUB-PAGE/02-CASE-CGC-25-631801/ | Collision facts, injury allegations |
+| DOC-01-002 | Second Amended Complaint (631801) | 02-CASE-CGC-25-631801/ | Collision facts, injury allegations |
 | DOC-01-003 | CSAA Denial Letter (Feb 25, 2021) | GITHUB-PAGE/04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf | Twenty-one days; first lie |
 
 ### Legal Authority

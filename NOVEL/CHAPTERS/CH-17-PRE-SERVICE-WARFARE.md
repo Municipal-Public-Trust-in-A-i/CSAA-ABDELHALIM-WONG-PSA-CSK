@@ -95,7 +95,7 @@ The defendants entered the litigation having already lost the first move. The pr
 | DOC-17-001 | Notice of Related Cases | GITHUB-PAGE/07-SUPPORT-FILINGS/Notice-of-Related-Cases-Joint.pdf | Related proceedings |
 | DOC-17-002 | Ex Parte Document Preservation | Support/Pleadings/06-EX-PARTE-DOCUMENT-PRESERVATION.tex/.md | Preservation order |
 | DOC-17-003 | Demand Judicial Summary of Facts | Support/Pleadings/CGC-25-631801/04-DEMAND-JUDICIAL-SUMMARY-OF-FACTS.md | Factual demand |
-| DOC-17-004 | Request for Judicial Notice | GITHUB-PAGE/02-CASE-CGC-25-631801/08-Request-for-Judicial-Notice.pdf | Court records |
+| DOC-17-004 | Request for Judicial Notice | 02-CASE-CGC-25-631801/08-Request-for-Judicial-Notice.pdf | Court records |
 
 ---
 

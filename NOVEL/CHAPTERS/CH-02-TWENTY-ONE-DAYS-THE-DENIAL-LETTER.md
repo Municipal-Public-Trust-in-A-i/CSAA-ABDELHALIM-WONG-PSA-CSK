@@ -122,8 +122,8 @@ Rosario refused to accept the product of this process. He ordered the certified 
 
 | Exhibit ID | Document | Source Path | Use in Chapter |
 |------------|----------|-------------|----------------|
-| DOC-02-001 | First Amended Complaint (631802) | GITHUB-PAGE/03-CASE-CGC-25-631802/01-First-Amended-Complaint.pdf | Denial letter fraud allegations |
-| DOC-02-002 | Memorandum re: Denial Letter Fraud | GITHUB-PAGE/03-CASE-CGC-25-631802/03-Memorandum-Denial-Letter-Fraud.pdf | Legal theory |
+| DOC-02-001 | First Amended Complaint (631802) | 03-CASE-CGC-25-631802/01-First-Amended-Complaint.pdf | Denial letter fraud allegations |
+| DOC-02-002 | Memorandum re: Denial Letter Fraud | 03-CASE-CGC-25-631802/03-Memorandum-Denial-Letter-Fraud.pdf | Legal theory |
 
 ### Legal Authority
 

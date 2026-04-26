@@ -96,7 +96,7 @@ The alternative was to let the lies stand. He would not. He went to trial in pro
 | Exhibit ID | Description | Source Path | Use in Chapter |
 |------------|-------------|-------------|----------------|
 | DOC-07-001 | California Rules of Court 3.1110(f) | CRC 3.1110(f) | Exhibit formatting |
-| DOC-07-002 | Second Amended Complaint (defendants list) | GITHUB-PAGE/02-CASE-CGC-25-631801/ | Seven defendants |
+| DOC-07-002 | Second Amended Complaint (defendants list) | 02-CASE-CGC-25-631801/ | Seven defendants |
 | DOC-07-003 | Demand Letter (costs, damages) | Support/DEMAND-LETTER-CSAA-75M.md | Out-of-pocket costs |
 
 ### Narrative Exhibits
