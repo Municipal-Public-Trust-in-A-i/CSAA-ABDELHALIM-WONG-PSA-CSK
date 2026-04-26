@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) NTC - CCP436.pdf",
+  "normalized_stem": "NTC - CCP436",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-22",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "notice",
+  "motion_family": "CCP436",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "2bc7d56ea4194b85fba208a974d57170a2eb3b4b82ff64b7b9cc568d26e4f742",
+  "page_count": 6,
+  "output_relpath": "CGC-25-631802/2026-04-22__notice__notice-ccp436-ntc---ccp436"
+}

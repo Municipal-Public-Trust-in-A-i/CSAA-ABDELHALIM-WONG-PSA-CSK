@@ -1,0 +1,14 @@
+{
+  "original_filename": "Consent to Electronic Service [draft].pdf",
+  "normalized_stem": "Consent to Electronic Service [draft]",
+  "case_number": "CGC-25-631801",
+  "filing_date": null,
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "consent",
+  "motion_family": null,
+  "is_procedural_chaff": true,
+  "role_guess": "procedural",
+  "sha256": "b3359166bd0b61d377b7b375d0993f5489fd0d2a436aad88f1878abe2e00bc24",
+  "page_count": 2,
+  "output_relpath": "CGC-25-631801/undated__consent__consent-na-consent-to-electronic-service-draft"
+}

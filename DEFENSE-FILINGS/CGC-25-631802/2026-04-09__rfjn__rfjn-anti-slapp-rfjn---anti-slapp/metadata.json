@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) RFJN - Anti-SLAPP.pdf",
+  "normalized_stem": "RFJN - Anti-SLAPP",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-09",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "rfjn",
+  "motion_family": "Anti-SLAPP",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "71211d8d3ba008bfe163534cc4d1b401139478d3ea18774ab9a37075ae7186c1",
+  "page_count": 5,
+  "output_relpath": "CGC-25-631802/2026-04-09__rfjn__rfjn-anti-slapp-rfjn---anti-slapp"
+}

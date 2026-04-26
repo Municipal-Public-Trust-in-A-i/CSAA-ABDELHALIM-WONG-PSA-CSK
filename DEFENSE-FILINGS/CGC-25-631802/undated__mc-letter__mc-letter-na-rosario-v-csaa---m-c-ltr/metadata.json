@@ -1,0 +1,14 @@
+{
+  "original_filename": "Rosario v CSAA - M&C Ltr.pdf",
+  "normalized_stem": "Rosario v CSAA - M&C Ltr",
+  "case_number": "CGC-25-631802",
+  "filing_date": null,
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "mc-letter",
+  "motion_family": null,
+  "is_procedural_chaff": false,
+  "role_guess": "procedural",
+  "sha256": "09caf5f0cea23e42860f9e30829b41d1805a3d98885718e37af507a60434f061",
+  "page_count": 5,
+  "output_relpath": "CGC-25-631802/undated__mc-letter__mc-letter-na-rosario-v-csaa---m-c-ltr"
+}

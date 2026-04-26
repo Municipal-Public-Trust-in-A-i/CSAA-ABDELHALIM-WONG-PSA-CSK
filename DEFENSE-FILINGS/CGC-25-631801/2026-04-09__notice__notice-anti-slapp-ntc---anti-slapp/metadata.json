@@ -1,0 +1,14 @@
+{
+  "original_filename": "NTC - Anti-SLAPP.pdf",
+  "normalized_stem": "NTC - Anti-SLAPP",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-04-09",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "notice",
+  "motion_family": "Anti-SLAPP",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "6c8b4c215b9e4174b777a4b356021efcdff9c0b5ab4c296128f33f12b38157c1",
+  "page_count": 4,
+  "output_relpath": "CGC-25-631801/2026-04-09__notice__notice-anti-slapp-ntc---anti-slapp"
+}

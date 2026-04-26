@@ -1,0 +1,14 @@
+{
+  "original_filename": "Prop Order - Anti-SLAPP.pdf",
+  "normalized_stem": "Prop Order - Anti-SLAPP",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-04-09",
+  "filing_date_inferred_from_motion_bundle": true,
+  "pleading_type": "prop-order",
+  "motion_family": "Anti-SLAPP",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "5428546ea5af136e4e3042bd5ae390c64cf6c1ff887c4a2abe7ec08c8efec31a",
+  "page_count": 3,
+  "output_relpath": "CGC-25-631801/2026-04-09__prop-order__prop-order-anti-slapp-prop-order---anti-slapp"
+}

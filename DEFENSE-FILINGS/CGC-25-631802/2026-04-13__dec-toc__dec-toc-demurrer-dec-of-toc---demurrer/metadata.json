@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) DEC of TOC - Demurrer.pdf",
+  "normalized_stem": "DEC of TOC - Demurrer",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-13",
+  "filing_date_inferred_from_motion_bundle": true,
+  "pleading_type": "dec-toc",
+  "motion_family": "Demurrer",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "277dc1ea8a8ed73a0ce424502712a98478902ae3010fb570f56ffb70d7d3009a",
+  "page_count": 335,
+  "output_relpath": "CGC-25-631802/2026-04-13__dec-toc__dec-toc-demurrer-dec-of-toc---demurrer"
+}

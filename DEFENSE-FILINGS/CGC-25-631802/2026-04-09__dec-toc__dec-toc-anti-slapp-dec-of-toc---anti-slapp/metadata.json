@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) DEC of TOC - Anti-SLAPP.pdf",
+  "normalized_stem": "DEC of TOC - Anti-SLAPP",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-09",
+  "filing_date_inferred_from_motion_bundle": true,
+  "pleading_type": "dec-toc",
+  "motion_family": "Anti-SLAPP",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "72581dacc3abcbf5972faa01ed43a574715b2ebdce4a0fe3a92403ea0eb75fee",
+  "page_count": 336,
+  "output_relpath": "CGC-25-631802/2026-04-09__dec-toc__dec-toc-anti-slapp-dec-of-toc---anti-slapp"
+}

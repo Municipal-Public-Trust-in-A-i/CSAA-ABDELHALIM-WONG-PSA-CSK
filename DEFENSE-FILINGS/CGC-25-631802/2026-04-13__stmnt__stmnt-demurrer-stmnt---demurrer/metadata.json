@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) STMNT - Demurrer.pdf",
+  "normalized_stem": "STMNT - Demurrer",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-13",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "stmnt",
+  "motion_family": "Demurrer",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "65af470350d525730a5f3a1f65f07c9b482ea0a08388d696bc1de31a3ea31e9e",
+  "page_count": 3,
+  "output_relpath": "CGC-25-631802/2026-04-13__stmnt__stmnt-demurrer-stmnt---demurrer"
+}

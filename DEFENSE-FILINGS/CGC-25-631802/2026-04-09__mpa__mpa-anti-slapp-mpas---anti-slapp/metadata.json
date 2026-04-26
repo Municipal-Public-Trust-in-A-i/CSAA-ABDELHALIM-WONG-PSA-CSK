@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) MPAs - Anti-SLAPP.pdf",
+  "normalized_stem": "MPAs - Anti-SLAPP",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-09",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "mpa",
+  "motion_family": "Anti-SLAPP",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "4f1e27b34385488e7225d19acf20c2cc1d7b1af48357ff7ce7a39a11c0c3eddf",
+  "page_count": 21,
+  "output_relpath": "CGC-25-631802/2026-04-09__mpa__mpa-anti-slapp-mpas---anti-slapp"
+}

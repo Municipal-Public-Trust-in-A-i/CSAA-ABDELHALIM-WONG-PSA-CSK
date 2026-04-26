@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) PROP ORDER - Demurrer.pdf",
+  "normalized_stem": "PROP ORDER - Demurrer",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-13",
+  "filing_date_inferred_from_motion_bundle": true,
+  "pleading_type": "prop-order",
+  "motion_family": "Demurrer",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "622fbdcb549684bed0625edbbd182975fc4376b22670f1e08378542b269392ad",
+  "page_count": 3,
+  "output_relpath": "CGC-25-631802/2026-04-13__prop-order__prop-order-demurrer-prop-order---demurrer"
+}

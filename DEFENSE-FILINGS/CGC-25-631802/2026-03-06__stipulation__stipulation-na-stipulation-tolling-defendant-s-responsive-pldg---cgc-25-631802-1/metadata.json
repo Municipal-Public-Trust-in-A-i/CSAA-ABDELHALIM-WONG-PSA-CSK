@@ -1,0 +1,14 @@
+{
+  "original_filename": "Stipulation Tolling Defendant's Responsive Pldg - CGC-25-631802 (1).pdf",
+  "normalized_stem": "Stipulation Tolling Defendant's Responsive Pldg - CGC-25-631802 (1)",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-03-06",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "stipulation",
+  "motion_family": null,
+  "is_procedural_chaff": true,
+  "role_guess": "procedural",
+  "sha256": "a5a0b3025ded84d2e6db961e6645cec9561dcf00527bfaf5a792e3eb3cb53ed7",
+  "page_count": 3,
+  "output_relpath": "CGC-25-631802/2026-03-06__stipulation__stipulation-na-stipulation-tolling-defendant-s-responsive-pldg---cgc-25-631802-1"
+}

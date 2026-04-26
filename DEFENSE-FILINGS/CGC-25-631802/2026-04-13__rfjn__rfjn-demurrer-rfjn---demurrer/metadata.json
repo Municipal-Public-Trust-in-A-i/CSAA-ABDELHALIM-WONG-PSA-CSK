@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) RFJN - Demurrer.pdf",
+  "normalized_stem": "RFJN - Demurrer",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-13",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "rfjn",
+  "motion_family": "Demurrer",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "f725a27c1ad291e16e6cf3ffc06db1d8084b6d430e9b7efa7a0cefff9dfd643b",
+  "page_count": 5,
+  "output_relpath": "CGC-25-631802/2026-04-13__rfjn__rfjn-demurrer-rfjn---demurrer"
+}

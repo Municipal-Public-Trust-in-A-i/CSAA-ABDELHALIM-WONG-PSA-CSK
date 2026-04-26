@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) RFJN - CCP436.pdf",
+  "normalized_stem": "RFJN - CCP436",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-22",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "rfjn",
+  "motion_family": "CCP436",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "3e78006197f916c36c9c0821a4556eaf45f6c7996be966b3d948049ad95d8117",
+  "page_count": 3,
+  "output_relpath": "CGC-25-631802/2026-04-22__rfjn__rfjn-ccp436-rfjn---ccp436"
+}

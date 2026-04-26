@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) Prop Order - CCP436.pdf",
+  "normalized_stem": "Prop Order - CCP436",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-22",
+  "filing_date_inferred_from_motion_bundle": true,
+  "pleading_type": "prop-order",
+  "motion_family": "CCP436",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "a5fa0b0e09f81a32a30a457ab825cef62f75feb5cf8a28fd35af63dc6913fcf4",
+  "page_count": 3,
+  "output_relpath": "CGC-25-631802/2026-04-22__prop-order__prop-order-ccp436-prop-order---ccp436"
+}

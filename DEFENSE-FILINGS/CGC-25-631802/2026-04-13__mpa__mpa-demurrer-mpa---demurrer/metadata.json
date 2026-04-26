@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) MPA - Demurrer.pdf",
+  "normalized_stem": "MPA - Demurrer",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-13",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "mpa",
+  "motion_family": "Demurrer",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "a9c823c70ba0c579b440ca603c45ffe78a6b975e16096837bff3b090310edaa5",
+  "page_count": 20,
+  "output_relpath": "CGC-25-631802/2026-04-13__mpa__mpa-demurrer-mpa---demurrer"
+}

@@ -1,0 +1,14 @@
+{
+  "original_filename": "MPAs - CCP436.pdf",
+  "normalized_stem": "MPAs - CCP436",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-04-22",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "mpa",
+  "motion_family": "CCP436",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "1a5c9da251bbab761898729de368133a0aa98cc9a7c405bc93d5e49c83faf033",
+  "page_count": 11,
+  "output_relpath": "CGC-25-631801/2026-04-22__mpa__mpa-ccp436-mpas---ccp436"
+}

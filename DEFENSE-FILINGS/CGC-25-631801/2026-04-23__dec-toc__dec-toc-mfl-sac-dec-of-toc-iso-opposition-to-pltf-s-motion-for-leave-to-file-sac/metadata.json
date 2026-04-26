@@ -1,0 +1,14 @@
+{
+  "original_filename": "DEC of TOC iso Opposition to Pltf's Motion for Leave to File SAC (1).pdf",
+  "normalized_stem": "DEC of TOC iso Opposition to Pltf's Motion for Leave to File SAC (1)",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-04-23",
+  "filing_date_inferred_from_motion_bundle": true,
+  "pleading_type": "dec-toc",
+  "motion_family": "MFL-SAC",
+  "is_procedural_chaff": false,
+  "role_guess": "moving",
+  "sha256": "ca8cbf683f1ee741b168ce4c940a6e26bc571c495ded7248f71b746d6e0a006f",
+  "page_count": 69,
+  "output_relpath": "CGC-25-631801/2026-04-23__dec-toc__dec-toc-mfl-sac-dec-of-toc-iso-opposition-to-pltf-s-motion-for-leave-to-file-sac"
+}

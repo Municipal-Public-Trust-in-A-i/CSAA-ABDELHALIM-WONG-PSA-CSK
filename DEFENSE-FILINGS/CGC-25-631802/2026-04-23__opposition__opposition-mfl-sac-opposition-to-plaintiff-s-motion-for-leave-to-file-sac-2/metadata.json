@@ -1,0 +1,14 @@
+{
+  "original_filename": "(2) Opposition to Plaintiff's Motion for Leave to File SAC (2).pdf",
+  "normalized_stem": "Opposition to Plaintiff's Motion for Leave to File SAC (2)",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-23",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "opposition",
+  "motion_family": "MFL-SAC",
+  "is_procedural_chaff": false,
+  "role_guess": "opposing",
+  "sha256": "6afd39fb440100dc70662191ad26aa16fa46484b26a83eee9d39327ce8e191f8",
+  "page_count": 7,
+  "output_relpath": "CGC-25-631802/2026-04-23__opposition__opposition-mfl-sac-opposition-to-plaintiff-s-motion-for-leave-to-file-sac-2"
+}
