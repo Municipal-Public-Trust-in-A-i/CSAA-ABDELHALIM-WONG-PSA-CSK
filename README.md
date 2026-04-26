@@ -6,7 +6,39 @@
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud) · CGC-25-631802 (UCL / denial-letter fraud)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** April 24, 2026 (see [What's new](#whats-new)).
+**Last refresh:** April 25, 2026 (see [What's new](#whats-new)).
+
+---
+
+# **MERITS HERE!**
+
+## **➤ [Read the full Merits Statement → MERITS.md](MERITS.md)**
+
+**A single-record, paragraph-cited statement of the merits in CGC-25-631801 (independent action in equity to set aside judgment) and CGC-25-631802 (denial-letter fraud / UCL).** Every cause of action in both Third Amended Complaints is tethered, element-by-element, to the operative TAC paragraphs that plead it (801 TAC ¶¶ 52–87; 802 TAC ¶¶ 5–69). After this letter, the defense's "no merits" posture is no longer available as a procedural matter.
+
+**The pivot point is one sentence:** the **February 25, 2021 CSAA denial letter** signed by Sarah Rash represented that the investigation **was** performed; the **January 17, 2025 MIL Nos. 6 and 17 declarations** signed by appointed defense counsel under CCP § 2015.5 represented that the investigative product **was not** in counsel's possession. Both cannot be true on the face of the record. The reconciliation *requires bearing false witness in one direction or the other*.
+
+**What the document does on a single record:**
+
+- **Forecloses the "merits not articulated" posture.** Every count is mapped to TAC paragraphs and counsel is given a written demand to identify any specific element/cause/paragraph claimed deficient — silence is converted into procedural forfeiture.
+- **Catalogs the procedural admissions** flowing from the demurrer / Anti-SLAPP vehicles defendants chose under *Blank v. Kirwan* (1985) 39 Cal.3d 311, 318 and *Soukup v. Hafif* (2006) 39 Cal.4th 260, 291.
+- **Stages personal exposure** under Business and Professions Code § 6128(a) (attorney deceit), officer-of-the-court fiduciary breach, aiding and abetting (as to CSAA), and Civil Code § 2338 ratification.
+- **Pairs the cornerstone artifacts** (Rash 2021 denial letter; Priya MIL Nos. 6 / 17 declarations) with **Jeremy Jessup's** sworn officer-of-the-court testimony from the Dolan firm that the materials *were* delivered to CSAA's defense counsel.
+- **Multi-channel record:** transmitted simultaneously to the Court, all defendants, the California Department of Insurance (CDI), and CSAA's current counsel of record (Tyler J. O'Connell) — boxing in four parallel records that must remain consistent.
+
+**Why click:** the document doubles as both a meet-and-confer letter under CCP §§ 430.41 / 435.5 *and* a section-by-section implications analysis (Sections 1–7) that walks through what changes the moment this hits the multi-channel record — including the *Stansfield v. Starkey*, *D'Amico*, *Committee on Children's Television v. General Foods*, and CCP § 128.7 ramifications, plus the withdrawal-or-correct dilemma now confronting successor counsel.
+
+**Cornerstone exhibits attached** (see [MERITS-EXHIBITS/](MERITS-EXHIBITS/README.md)):
+
+| # | Exhibit | PDF |
+|---|---------|-----|
+| 1 | February 25, 2021 CSAA denial letter (Sarah Rash) | [CSAA_Denial_Letter-Feb-25-2021.pdf](MERITS-EXHIBITS/CSAA_Denial_Letter-Feb-25-2021.pdf) |
+| 2 | January 17, 2025 MIL No. 6 declaration (CT Vol. 1, pp. 149–151) | [MIL-No-6 PDF](MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf) |
+| 3 | January 17, 2025 MIL No. 17 declaration (CT Vol. 1, pp. 238–241) | [MIL-No-17 PDF](MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf) |
+
+### **➤ [Open MERITS.md and read the full statement](MERITS.md)**
+
+---
 
 > *"BOOM! I just hit him. HIT HIM. There was barely anything."*
 > Defendant Subhi Abdelhalim, 911 call, February 4, 2021. Authenticated under oath at trial: *"Yes. That is my voice."* See [Trial Day 8 reporter PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-08-April-17-2025.pdf) and [evidence.md](evidence.md).
@@ -33,6 +65,11 @@ Pick the entry that matches why you opened this site.
 ---
 
 ## What's new
+
+**April 25, 2026 refresh.**
+
+- **NEW:** [MERITS.md](MERITS.md) — TAC-aligned merits statement and meet-and-confer letter for CGC-25-631801 and CGC-25-631802. Every count tied to operative TAC paragraphs; cornerstone-document contradiction (Rash 2021 denial letter vs. Priya MIL Nos. 6 / 17 declarations) framed on a single record. Includes the seven-section implications analysis (procedural foreclosure of "no merits"; demurrer / Anti-SLAPP ramifications; § 6128(a), § 128.7, and Civ. Code § 2338 exposure; multi-channel transmission to Court · CDI · all defendants · counsel of record). See banner above.
+- **NEW:** [MERITS-EXHIBITS/](MERITS-EXHIBITS/README.md) — three cornerstone PDFs attached to the merits letter: the [Feb. 25, 2021 CSAA denial letter (Sarah Rash)](MERITS-EXHIBITS/CSAA_Denial_Letter-Feb-25-2021.pdf), the [Jan. 17, 2025 MIL No. 6 declaration (CT pp. 149–151)](MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf), and the [Jan. 17, 2025 MIL No. 17 declaration (CT pp. 238–241)](MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf).
 
 **April 24, 2026 refresh.**
 
@@ -422,6 +459,8 @@ The story of how one brain-injured plaintiff, proceeding alone against a multi-b
 .
 ├── README.md                         (this file: main navigation)
 ├── README.LEGACY.md                  (older index, kept for diffs)
+├── MERITS.md                         (TAC-aligned merits statement + implications)
+├── MERITS-EXHIBITS/                  (3 cornerstone PDFs attached to MERITS.md)
 ├── FOR-ATTORNEYS.md                  (intake cover for California counsel)
 ├── CASE-DOSSIER.md                   (30-minute deep read)
 ├── HEARINGS-CALENDAR.md              (calendar with PDF links)
