@@ -1,0 +1,1275 @@
+{
+  "count": 254,
+  "files": [
+    {
+      "path": "01-APPEAL/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "01-APPEAL/remand-plan/AFTER-VACATE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "01-APPEAL/remand-plan/APPEAL-CITATION-QUICK-REFERENCE/00-README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "01-APPEAL/remand-plan/APPEAL-CITATION-QUICK-REFERENCE/CITATION-INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "01-APPEAL/remand-plan/APR.14.FILING.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "01-APPEAL/remand-plan/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "01-APPEAL/remand-plan/REMAND-FULL-RECORD-LITIGATION-PLAN.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": true
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/anti-slapp-supplemental-apr24/CITATION-VALIDATION-42517C-FLATLEY.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/anti-slapp-supplemental-apr24/FRIDAY-PACKAGE-ANTISLAPP-README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/anti-slapp-supplemental-apr24/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/apr-2026-sac-leave/defense-opposition-apr23/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/apr-2026-sac-leave/plaintiff-reply-apr24/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/clerk-packets-apr24/CLERK-PACKET-README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/clerk-packets-apr24/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/lodgment-apr24/801/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/lodgment-apr24/802/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/lodgment-apr24/CRITICAL-NOW/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/lodgment-apr24/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/ARG/MPA-CCP436.arg.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/ARG/NTC-CCP436.arg.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/MASTER-AUTHORITY-LIST-DEFENSE-ONLY.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/MASTER-AUTHORITY-LIST.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/VALIDATION.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/by-document/MPA-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/by-document/NTC-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/by-document/PROP-ORDER-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/by-document/RFJN-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/BREAKDOWN/MPA-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/BREAKDOWN/NTC-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/BREAKDOWN/PROP-ORDER-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/BREAKDOWN/RFJN-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/DEFENSE-LEGAL-SPINE-631801.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/PART/MPA-CCP436.part.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/PART/NTC-CCP436.part.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/PART/PROP-ORDER-CCP436.part.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/PART/RFJN-CCP436.part.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/TEXT/MPA-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/TEXT/NTC-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/TEXT/PROP-ORDER-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/PARSED/TEXT/RFJN-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RESPONSE/00-FILING-INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RESPONSE/01-NOTICE-OF-MOTION-FOR-LEAVE-TO-FILE-TAC.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RESPONSE/02-MEMORANDUM-ISO-LEAVE-TAC.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RESPONSE/03-DECLARATION-OF-ROSARIO-ISO-LEAVE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RESPONSE/04-REQUEST-FOR-JUDICIAL-NOTICE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RESPONSE/05-PROPOSED-ORDER-GRANTING-LEAVE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RESPONSE/06-THIRD-AMENDED-COMPLAINT.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RESPONSE/07-CURE-MATRIX-DEFENSE-OBJECTION-MAP.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": true
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/anti-slapp-supplemental-apr24/CITATION-VALIDATION-42517C-FLATLEY.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/anti-slapp-supplemental-apr24/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/apr-2026-sac-leave/defense-opposition-apr23/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/apr-2026-sac-leave/plaintiff-reply-apr24/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/clerk-packets-apr24/CLERK-PACKET-README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/clerk-packets-apr24/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/defense-anti-slapp-clerk/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/demurrer-volley-apr2026/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/final-court-apr2026/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/final-court-apr2026/source-pdfs/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/lodgment-apr24/801/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/lodgment-apr24/802/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/lodgment-apr24/CRITICAL-NOW/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/lodgment-apr24/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/ARG/MPA2-CCP436.arg.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/ARG/NTC2-CCP436.arg.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/MASTER-AUTHORITY-LIST.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/VALIDATION.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/by-document/DEC-TOC2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/by-document/MPA2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/by-document/NTC2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/by-document/PROP-ORDER2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/AUTHORITY-INDEX/by-document/RFJN2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/BREAKDOWN/DEC-TOC2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/BREAKDOWN/MPA2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/BREAKDOWN/NTC2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/BREAKDOWN/PROP-ORDER2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/BREAKDOWN/RFJN2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/DEFENSE-LEGAL-SPINE-631802.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/PART/DEC-TOC2-CCP436.part.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/PART/MPA2-CCP436.part.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/PART/NTC2-CCP436.part.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/PART/PROP-ORDER2-CCP436.part.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/PART/RFJN2-CCP436.part.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/TEXT/DEC-TOC2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/TEXT/MPA2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/TEXT/NTC2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/TEXT/PROP-ORDER2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/TEXT/RFJN2-CCP436.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/TAC-RESPONSE/00-FILING-INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/TAC-RESPONSE/01-NOTICE-OF-MOTION-FOR-LEAVE-TO-FILE-TAC.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/TAC-RESPONSE/02-MEMORANDUM-ISO-LEAVE-TAC.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/TAC-RESPONSE/03-DECLARATION-OF-ROSARIO-ISO-LEAVE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/TAC-RESPONSE/04-REQUEST-FOR-JUDICIAL-NOTICE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/TAC-RESPONSE/05-PROPOSED-ORDER-GRANTING-LEAVE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/TAC-RESPONSE/06-THIRD-AMENDED-COMPLAINT.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/motion-strike-apr2026/TAC-RESPONSE/07-CURE-MATRIX-DEFENSE-OBJECTION-MAP.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README-FINAL-PACKAGES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "04-EXHIBITS/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "05-TRANSCRIPTS/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "06-EVIDENCE/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "07-SUPPORT-FILINGS/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/COURT-RELIANCE-FRAUD-ON-COURT.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/DISCREPANCY-INTEGRATED-ANALYSIS.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/ERRORS-TYLER.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/anti-slapp-rebuttal/Plaintiff-Rebuttal-Anti-SLAPP-Full-Narrative.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/anti-slapp-rebuttal/tyler-oconnell-declaration-rebuttal.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/bench-cards/BENCH-CARD-APR30-802-THREE-AUTHORITIES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/bench-cards/BENCH-CARD-MAY06-801-THREE-AUTHORITIES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/bench-cards/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/citation-validation/CITATION-VALIDATION-801-OPPOSITION.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/citation-validation/CITATION-VALIDATION-APRIL-24-ARTIFACTS.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/citation-validation/CITATION-VALIDATION-FIVE-SUPREME-COURT-AUTHORITIES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/citation-validation/FIVE-CALIF-SUPREME-COURT-AUTHORITIES-AMENDMENT-TO-ADD-CAUSE-OF-ACTION.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/citation-validation/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/csaa-investigation/CSAA-INVESTIGATION-FRAUD-COROLLARY.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/csaa-investigation/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/csaa-investigation/STRATEGIC-MEMO-CSAA-INVESTIGATION-THIRD-PARTY-BI-RFAS-INTERROGATORIES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/defense.logic.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/discovery-and-logic/ANALYSIS-DISCOVERY-631801.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/discovery-and-logic/ANALYSIS-DISCOVERY-631802.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/discovery-and-logic/DISCOVERY-LOGIC-MAP-631801.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/discovery-and-logic/DISCOVERY-LOGIC-MAP-631802.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/discovery-and-logic/LOGIC-DIAGRAMS-631801.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/discovery-and-logic/LOGIC-DIAGRAMS-631802.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/discovery-and-logic/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/filing-hierarchy/FILING-HIERARCHY-RULES-BY-DEFENSE-POSTURE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/side-by-side/801-vs-802-AUTHORITY-CROSSREF.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/side-by-side/801-vs-802-CONCLUSORY-STATEMENTS.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/side-by-side/801-vs-802-MOTION-STRIKE-SIDEBYSIDE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/side-by-side/DEFENSE-MOTIONS-INVENTORY-AND-DELTA.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/side-by-side/DEFENSE-THEORY-ANALYSIS-801-802.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/side-by-side/DEFENSE-THEORY-ANALYSIS-802-ONLY.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/side-by-side/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/side-by-side/RECYCLED-AUTHORITIES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/strategy-essays/ACADEMIC-LEGAL-STRATEGY-ESSAY.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/strategy-essays/EQUITY.FRAUD.COURT.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/strategy-essays/LEGAL-JOURNAL-EDITORIAL-STRATEGY-ANALYSIS.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/strategy-essays/Mar.27th.EMAIL.Response.OCONNELL.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/strategy-essays/Mar.27th.EMAIL.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/strategy-essays/PUBLIC-STATEMENT-THREE-CASES-STRATEGY.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/strategy-essays/PUBLIC-STATEMENT-THREE-CASES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "08-LEGAL-ANALYSIS/strategy-essays/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "BOOK-OUTLINE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "CASE-DOSSIER.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "CONTRADICTION-LETTER-EMAIL.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "CONTRADICTION-LETTER.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md",
+      "has_leg_auth_anchors": true,
+      "has_authority_heading": true
+    },
+    {
+      "path": "FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "FOR-ATTORNEYS.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "HEARINGS-CALENDAR.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "JOURNALIST-NARRATIVE-THREE-CASES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "LEGAL-AUTHORITIES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": true
+    },
+    {
+      "path": "MERITS-EXHIBITS/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "MERITS.md",
+      "has_leg_auth_anchors": true,
+      "has_authority_heading": true
+    },
+    {
+      "path": "NOVEL/ARCHIVE/00-ARCHIVE-INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/ARCHIVE/OUTLINE-THE-TWO-LIES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/ARCHIVE/STORYLINE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/00-CHAPTER-INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-00-PROLOGUE-FIVE-WORDS-ON-911-CALL.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-01-FEBRUARY-4-2021-THE-CROSSWALK.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-02-TWENTY-ONE-DAYS-THE-DENIAL-LETTER.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-03-THE-DOLAN-PRODUCTION.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-04-THE-SUBSTITUTION-HANDOFF-OR-BURIAL.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-05-JANUARY-17-2025-NINETEEN-MOTIONS-IN-LIMINE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-06-FEBRUARY-18-2025-I-SEE-OKAY.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-07-THE-PRO-PER-AT-WAR.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-08-TRIAL-DAY-7-PART-ONE-SUPPLEMENTAL-REPORT.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-09-TRIAL-DAY-7-PART-TWO-SURE-THEY-WERE-PROVIDED-BY-DOLAN.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-10-I-AM-NOT-SURE-WHAT-RECORDING.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-11-YES-THAT-IS-MY-VOICE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-12-THE-JURYS-QUESTION-VEHICLE-CODE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-13-9-3-THE-MINIMUM-MAJORITY.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-14-THE-RECOGNITION.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-15-THREE-FRONTS.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-16-THE-BINARY-TRAP.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-17-PRE-SERVICE-WARFARE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-18-REQUESTS-FOR-ADMISSION.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-19-WHAT-THE-RECORD-PROVES.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-20-DENY-DELAY-DEFEND.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-21-THE-PRO-PER-PROBLEM.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-22-THE-DUTY-OF-CANDOR.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/CHAPTERS/CH-27-EPILOGUE-THE-TRANSCRIPT-SPEAKS.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "NOVEL/Rosario.Thriller.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "README.LEGACY.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "RISK-AND-ECONOMICS.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "RISK-SURFACE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "RISK.SURFACE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "ROSARIO.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "SPINE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "defendants/Alberto-Reyna.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "defendants/CSAA-Insurance-Exchange.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "defendants/Carbone-Smith-Koyama.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "defendants/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "defendants/Michael-R-Chambers.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "defendants/Phillips-Spallas-Angstadt.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "defendants/Priya-Navaratnasingham.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "defendants/Subhi-Abdelhalim.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "defendants/Tyler-J-OConnell.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "evidence-tree/INDEX.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "evidence.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "narrative/00-OVERVIEW.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "narrative/01-UNDERLYING-CGC-21-594102.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "narrative/02-APPEAL-A173827.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "narrative/03-EQUITY-CGC-25-631801.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "narrative/04-UCL-CGC-25-631802.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "pleadings/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/EMAIL-PROOF-OF-SERVICE-DEFENSE-PACKETS-2026-04-19.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/EMAIL-TO-DEFENSE-SUPPLEMENTAL-SERVICE-POS-SUPERSESSION-2026-04-20.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/GLOBAL-DEFENSE-SETTLEMENT-LETTER-NARRATIVE-FILED.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/GLOBAL-DEFENSE-SETTLEMENT-RISK-LETTER-BALLPARK.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/GLOBAL-SETTLEMENT-COMMUNICATION-AND-STRATEGIC-ATTRITION-MEMO-MERGED.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/GLOBAL-SETTLEMENT-LETTER-TO-DEFENSE-PLAINTIFF.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/LITIGATION-RISK.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/MASTER-CONSOLIDATED.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/RISK-SURFACE-CONSOLIDATED-FOR-PDF.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/RISK-SURFACE-PDF-HEADER.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/WHY-PLAINTIFF-SHOULD-NOT-SETTLE-STRATEGIC-MEMO.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-case/APPEAL-A173827.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-case/EQUITY-801-CGC-25-631801.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-case/FRAUD-UCL-802-CGC-25-631802.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-case/RETRIAL-CGC-21-594102.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-party/_grouped/Abdelhalim.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-party/_grouped/CSAA.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-party/_grouped/Chambers-CSK.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-party/_grouped/PSA-firm.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-party/_individuals/Chambers.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-party/_individuals/Navaratnasingham.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/per-party/_individuals/Reyna.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/settlement-demand-CSAA/00-README.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/settlement-demand-CSAA/01-CONSERVATIVE-demand.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/settlement-demand-CSAA/02-MEDIAN-demand.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "risk-surface/settlement-demand-CSAA/03-AGGRESSIVE-demand.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "timelines/appeal-A173827.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "timelines/equity-CGC-25-631801.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "timelines/trial-CGC-21-594102.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    },
+    {
+      "path": "timelines/ucl-CGC-25-631802.md",
+      "has_leg_auth_anchors": false,
+      "has_authority_heading": false
+    }
+  ]
+}

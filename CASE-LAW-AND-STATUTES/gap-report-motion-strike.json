@@ -1,0 +1,403 @@
+{
+  "source_jsons": [
+    "/Users/rosario/Downloads/fwdrosariovabdelhalimcasecgc21594102_transcripts/801-MOTION-STRIKE-APR-22/PARSED/AUTHORITY-INDEX/MASTER-AUTHORITY-LIST.json",
+    "/Users/rosario/Downloads/fwdrosariovabdelhalimcasecgc21594102_transcripts/802-MOTION-STRIKE-APR-22/PARSED/AUTHORITY-INDEX/MASTER-AUTHORITY-LIST.json"
+  ],
+  "statutes_cited": [
+    "C.C.P. § 435",
+    "C.C.P. § 436",
+    "Civ. Code § 3294",
+    "Civ. Code § 3294(a)",
+    "Civ. Code § 47(b)",
+    "Code of Civil Procedure § 430.70",
+    "Code of Civil Procedure § 436"
+  ],
+  "statute_gaps": [],
+  "california_cases": [
+    {
+      "citation": "1 Cal.3d 467",
+      "parsed": {
+        "volume": "1",
+        "reporter": "3d",
+        "first_page": "467",
+        "is_appellate": false
+      },
+      "cache_hits": [
+        "opinions-pdf/Demurrer-cal-3d-vol1-p467-Kulchar-v-Kulchar.pdf",
+        "cases-cal-supreme/Kulchar-v-Kulchar-1-Cal3d-467.md"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/supreme-court/3d/1/467.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "11 Cal.4th 274",
+      "parsed": {
+        "volume": "11",
+        "reporter": "4th",
+        "first_page": "274",
+        "is_appellate": false
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-4th-vol11-p274-Trope-v-Katz.pdf",
+        "opinions-pdf/Motion-Strike-cal-4th-vol11-p274-Trope-v-Katz.raw.txt",
+        "opinions-pdf/Motion-Strike-cal-4th-vol11-p274-Trope-v-Katz.md"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/supreme-court/4th/11/274.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "12 Cal.4th 631",
+      "parsed": {
+        "volume": "12",
+        "reporter": "4th",
+        "first_page": "631",
+        "is_appellate": false
+      },
+      "cache_hits": [
+        "opinions-pdf/Demurrer-cal-4th-vol12-p631-Lazar-v-Superior-Court.pdf",
+        "opinions-pdf/Lazar-v-Superior-Court-12-Cal-4th-631.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/supreme-court/4th/12/631.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "146 Cal. App. 3d 470",
+      "parsed": {
+        "volume": "146",
+        "reporter": "3d",
+        "first_page": "470",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Demurrer-cal-app-3d-vol146-p470-Omega-Video-Inc-v-Superior-Court.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/3d/146/470.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "146 Cal.App.3d 470",
+      "parsed": {
+        "volume": "146",
+        "reporter": "3d",
+        "first_page": "470",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Demurrer-cal-app-3d-vol146-p470-Omega-Video-Inc-v-Superior-Court.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/3d/146/470.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "15 Cal.App.5th 462",
+      "parsed": {
+        "volume": "15",
+        "reporter": "5th",
+        "first_page": "462",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol15-p463-FEV-v-City-of-Anaheim-same-slip-as-p462.md",
+        "opinions-pdf/Demurrer-cal-app-5th-vol15-p462-FEV-v-City-of-Anaheim-Justia.pdf",
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol15-p463-FEV-v-City-of-Anaheim-same-slip-as-p462.pdf",
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol15-p463-FEV-v-City-of-Anaheim-same-slip-as-p462.raw.txt",
+        "opinions-pdf/curated-demurrer-auth/california-court-of-appeal/FEV-v-City-of-Anaheim-15-Cal-App-5th-462-2017-g052460.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/5th/15/462.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "15 Cal.App.5th 463",
+      "parsed": {
+        "volume": "15",
+        "reporter": "5th",
+        "first_page": "463",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol15-p463-FEV-v-City-of-Anaheim-same-slip-as-p462.md",
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol15-p463-FEV-v-City-of-Anaheim-same-slip-as-p462.pdf",
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol15-p463-FEV-v-City-of-Anaheim-same-slip-as-p462.raw.txt"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/5th/15/463.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "169 Cal.App.4th 976",
+      "parsed": {
+        "volume": "169",
+        "reporter": "4th",
+        "first_page": "976",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-app-4th-vol169-p976-Food-Pro-International-Inc-v-Farmers-Insurance-Exchange.md",
+        "opinions-pdf/Motion-Strike-cal-app-4th-vol169-p976-Food-Pro-International-Inc-v-Farmers-Insurance-Exchange.pdf",
+        "opinions-pdf/Motion-Strike-cal-app-4th-vol169-p976-Food-Pro-International-Inc-v-Farmers-Insurance-Exchange.raw.txt"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/4th/169/976.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "17 Cal.App.4th 468",
+      "parsed": {
+        "volume": "17",
+        "reporter": "4th",
+        "first_page": "468",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-app-4th-vol17-p468-Stewart-v-Truck-Insurance-Exchange.md",
+        "opinions-pdf/Motion-Strike-cal-app-4th-vol17-p468-Stewart-v-Truck-Insurance-Exchange.pdf",
+        "opinions-pdf/Motion-Strike-cal-app-4th-vol17-p468-Stewart-v-Truck-Insurance-Exchange.raw.txt"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/4th/17/468.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "227 Cal.App.4th 813",
+      "parsed": {
+        "volume": "227",
+        "reporter": "4th",
+        "first_page": "813",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Demurrer-cal-app-4th-vol227-p813-Singh-v-Lipworth.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/4th/227/813.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "265 Cal.App.2d 82",
+      "parsed": {
+        "volume": "265",
+        "reporter": "2d",
+        "first_page": "82",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Demurrer-cal-app-2d-vol265-p82-Wouldridge-v-Burns.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/2d/265/82.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "28 Cal.3d 908",
+      "parsed": {
+        "volume": "28",
+        "reporter": "3d",
+        "first_page": "908",
+        "is_appellate": false
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-3d-vol28-p908-Department-of-Social-Services-v-Ronald-P.raw.txt",
+        "opinions-pdf/Motion-Strike-cal-3d-vol28-p908-Department-of-Social-Services-v-Ronald-P.md",
+        "opinions-pdf/Motion-Strike-cal-3d-vol28-p908-Department-of-Social-Services-v-Ronald-P.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/supreme-court/3d/28/908.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "35 Cal.2d 257",
+      "parsed": {
+        "volume": "35",
+        "reporter": "2d",
+        "first_page": "257",
+        "is_appellate": false
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-2d-vol35-p257-Coyne-v-Krempels-same-opinion-CAP-uses-vol36.raw.txt",
+        "opinions-pdf/Motion-Strike-cal-2d-vol35-p257-Coyne-v-Krempels-same-opinion-CAP-uses-vol36.pdf",
+        "opinions-pdf/Motion-Strike-cal-2d-vol35-p257-Coyne-v-Krempels-same-opinion-CAP-uses-vol36.md"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/supreme-court/2d/35/257.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "36 Cal.2d 257",
+      "parsed": {
+        "volume": "36",
+        "reporter": "2d",
+        "first_page": "257",
+        "is_appellate": false
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-2d-vol36-p257-Coyne-v-Krempels.md",
+        "opinions-pdf/Motion-Strike-cal-2d-vol36-p257-Coyne-v-Krempels.raw.txt",
+        "opinions-pdf/Motion-Strike-cal-2d-vol36-p257-Coyne-v-Krempels.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/supreme-court/2d/36/257.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "38 Cal. 3d 355",
+      "parsed": {
+        "volume": "38",
+        "reporter": "3d",
+        "first_page": "355",
+        "is_appellate": false
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-3d-vol38-p355-Ribas-v-Clark.pdf",
+        "opinions-pdf/Motion-Strike-cal-3d-vol38-p355-Ribas-v-Clark.md",
+        "opinions-pdf/Motion-Strike-cal-3d-vol38-p355-Ribas-v-Clark.raw.txt"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/supreme-court/3d/38/355.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "38 Cal.3d 355",
+      "parsed": {
+        "volume": "38",
+        "reporter": "3d",
+        "first_page": "355",
+        "is_appellate": false
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-3d-vol38-p355-Ribas-v-Clark.pdf",
+        "opinions-pdf/Motion-Strike-cal-3d-vol38-p355-Ribas-v-Clark.md",
+        "opinions-pdf/Motion-Strike-cal-3d-vol38-p355-Ribas-v-Clark.raw.txt"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/supreme-court/3d/38/355.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "49 Cal.App.3d 917",
+      "parsed": {
+        "volume": "49",
+        "reporter": "3d",
+        "first_page": "917",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Demurrer-cal-app-3d-vol49-p917-Norton-v-Hines.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/3d/49/917.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "58 Cal.App.2d 878",
+      "parsed": {
+        "volume": "58",
+        "reporter": "2d",
+        "first_page": "878",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Demurrer-cal-app-2d-vol58-p878-Rico-v-Nasser-Bros-Realty-Co.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/2d/58/878.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "59 Cal.2d 618",
+      "parsed": {
+        "volume": "59",
+        "reporter": "2d",
+        "first_page": "618",
+        "is_appellate": false
+      },
+      "cache_hits": [
+        "opinions-pdf/Demurrer-cal-2d-vol59-p618-Prentice-v-North-American-Title-Guaranty-Corp.pdf",
+        "cases-cal-supreme/Prentice-v-North-American-Title-Guar-Corp-59-Cal2d-618.md"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/supreme-court/2d/59/618.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "71 Cal.App.4th 268",
+      "parsed": {
+        "volume": "71",
+        "reporter": "4th",
+        "first_page": "268",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Demurrer-cal-app-4th-vol71-p268-Shaolian-v-Safeco-Insurance.pdf"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/4th/71/268.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "80 Cal.App.5th 841",
+      "parsed": {
+        "volume": "80",
+        "reporter": "5th",
+        "first_page": "841",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol80-p841-McNeal-v-Whittaker-B313472-courts-ca-gov.pdf",
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol80-p841-McNeal-v-Whittaker-B313472-courts-ca-gov.raw.txt",
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol80-p841-McNeal-v-Whittaker-B313472-courts-ca-gov.md"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/5th/80/841.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "83 Cal. App. 5th 1137",
+      "parsed": {
+        "volume": "83",
+        "reporter": "5th",
+        "first_page": "1137",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol83-p1137-Todays-IV-v-LAMTA-courtlistener-storage.pdf",
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol83-p1137-Todays-IV-v-LAMTA-courtlistener-storage.md",
+        "opinions-pdf/Motion-Strike-cal-app-5th-vol83-p1137-Todays-IV-v-LAMTA-courtlistener-storage.raw.txt"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/5th/83/1137.html",
+      "needs_fetch": false
+    },
+    {
+      "citation": "96 Cal.App.4th 1017",
+      "parsed": {
+        "volume": "96",
+        "reporter": "4th",
+        "first_page": "1017",
+        "is_appellate": true
+      },
+      "cache_hits": [
+        "opinions-pdf/Motion-Strike-cal-app-4th-vol96-p1017-American-Airlines-Inc-v-Sheppard-Mullin-Richter-Hampton.md",
+        "opinions-pdf/Motion-Strike-cal-app-4th-vol96-p1017-American-Airlines-Inc-v-Sheppard-Mullin-Richter-Hampton.pdf",
+        "opinions-pdf/Motion-Strike-cal-app-4th-vol96-p1017-American-Airlines-Inc-v-Sheppard-Mullin-Richter-Hampton.raw.txt"
+      ],
+      "has_opinion_pdf": true,
+      "justia_url": "https://law.justia.com/cases/california/court-of-appeal/4th/96/1017.html",
+      "needs_fetch": false
+    }
+  ],
+  "federal_cases": [
+    {
+      "citation": "98 U.S. 61",
+      "has_opinion_pdf": true,
+      "cache_hits": [
+        "opinions-pdf/Demurrer-us-vol98-p61-States-v-Throckmorton.pdf"
+      ]
+    }
+  ]
+}

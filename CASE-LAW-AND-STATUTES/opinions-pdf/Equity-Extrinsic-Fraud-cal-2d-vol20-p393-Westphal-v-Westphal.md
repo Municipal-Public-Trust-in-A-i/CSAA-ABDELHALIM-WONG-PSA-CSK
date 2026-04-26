@@ -1,0 +1,246 @@
+---
+source_pdf: Equity-Extrinsic-Fraud-cal-2d-vol20-p393-Westphal-v-Westphal.pdf
+title: 20 Cal.2d 393 — Westphal v. Westphal
+---
+
+## Full text (pdftotext -layout)
+
+```
+                                                         393
+
+the suit which was instituted against her husband for the
+purpose of adjudicating his liability as the accommodation
+maker upon the promissory note. The wife would neither
+gain nor lose by the direct legal operation and effect of a
+money judgment rendered against her husband, the defendant
+Axelrod. Admittedly, the community property which she
+sought to protect by intervening in this action had not been
+endangered by an actual seizure or in any other manner.
+No seizure of the community property has as yet even been
+threatened. Granting that it was the plaintiff’s intention in
+the event of his recovery, to attempt to satisfy his judgment
+from the community property, it is entirely conceivable that
+the defendant Axelrod might decide to discharge the indebted-
+ness by payment from his separate funds or that the plaintiff
+might not in fact initiate proceedings to enforce collection.
+From these observations it is manifest that the intervener’s
+interest in the instant action was remote and contingent and
+was not of the direct and immediate character required by
+law to support her intervention. (Elliott v. Superior Court,
+supra.)
+   The judgment is affirmed.
+
+  Gibson, C. J., Shenk, J., Carter, J., and Traynor, J., con-
+curred.
+
+
+
+
+         [S. F. No. 16056. In Bank. May 27, 1942.]
+
+FRITZ WESTPHAL et al., Appellants, v. THEODORE
+         WESTPHAL et al., Respondents.
+394
+                                                            395
+
+
+
+
+  Frank D. Parker, James H. Boyer, Treadwell & Laughlin
+and Russell E. Barnes for Appellants.
+
+  Donahue, Richards & Hamlin for Respondents.
+
+   TRAYNOR, J.                Westphal died testate March 9,
+                          John C.
+1912, leaving five sons surviving him, Theodore, William,
+George, Fred and John G. Jr. Under his will Theodore,
+William and George were each to receive an undivided one--
+fifth of his estate. The remaining two-fifths was given to
+Theodore and George in trust to pay the income therefrom
+to Fred and John C. Jr. for life.
+   The will provided that “In the event of the death of my
+said son, John C. Westphal, Jr., after my death, I direct that
+one-half (%) of said fund and property so held in trust, as
+aforesaid, (the income of which is directed to be paid as afore-
+said) immediately vest in, and I hereby give, devise and
+bequeath to the widow and children of said John C. Westphal,
+Jr., share and share alike, a vested remainder in fee in and
+to one-half (%) of said property so devised in trust, as afore-
+said, and, if he leaves no wife surviving him, then said one-
+half (%) of said trust property shall vest in, and I hereby
+give, devise and bequeath to the children of said John C.
+Westphal, Jr., by right of representation, a vested remainder
+in fee in and to one-half (y2) of said property so devised in
+trust as aforesaid. In the event that said John C. Westphal,
+Jr., should die leaving no wife surviving him and leaving no
+children and having no children of a deceased child or
+children, then I direct that said one-half (%) of the said
+trust property shall immediately vest in Theodore Westphal,
+William Westphal, and George Westphal, named hereinabove,
+share and share alike, and to their heirs respectively, and,
+in that event, I do hereby give, devise and bequeath to said
+Theodore Westphal, William Westphal and George Westphal,
+share and share alike, and to their heirs, respectively, a vested
+remainder in fee in and to said one-half (y2) of said property
+so devised in trust, as aforesaid, to take effect in possession
+immediately upon the termination of said trust, as provided
+in paragraph four of this will.” A similar provision gov-
+erned the interest of Fred Westphal. The will also provided
+396
+
+that if any child contested the will, he should take nothing,
+and the share given to him in trust or otherwise should go
+to the testator’s other children.
+   In March, 1912, the will was admitted to probate. In
+March, 1913, John C. Westphal, Jr., and Fred Westphal filed
+a petition to revoke the probate of the will, and on June 18th
+of that year dismissed their petition. On June 24, 1913,
+Theodore and William Westphal filed, as executors of the
+estate, a verified petition requesting final distribution of the
+estate to themselves and to George Westphal on the ground
+that John C. Westphal, Jr., and Fred Westphal, having con-
+tested the will, forfeited their interests in the estate. On July
+28, 1913, the probate court entered its order for a decree of
+distribution in accordance with the petition, but made no
+reference to the interest of the widow and children of John
+C. Westphal, Jr.
+   On January 25, 1935, John C. Westphal, Jr., died. His
+widow and eleven children brought the present action on
+August 31, 1937, claiming an undivided one-fifth interest in
+the estate of John 0. Westphal. The complaint alleges that
+the will contest of March, 1913, was instituted pursuant to a
+conspiracy by all the sons of the testator to defraud plaintiffs
+of their conditional remainder in the estate, and that the
+plaintiffs’ remainder interest in the estate was concealed from
+the probate court. Theodore, William and George Westphal,
+who took equal shares of John G. Westphal, Jr.’s undivided
+one-fifth interest under the decree of distribution, are named
+defendants. Two causes of action are set forth, one based
+upon extrinsic fraud and the other upon extrinsic mistake.
+Plaintiffs ask that defendants be adjudged involuntary
+trustees, that an accounting be had, that plaintiffs be declared
+ owners of the property and that defendants be compelled to
+ convey the property to them.
+    Defendants demurred on the grounds that the decree of
+ distribution is not now subject to attack because the alleged
+ fraud and mistake were intrinsic and that the action is
+ barred by the statute of limitations as set forth in sections
+ 338(4), 338(3), 318 and 343 of the Code of Civil Procedure.
+ The trial court overruled the demurrer as to plaintiffs Ray-
+ mond C. Westphal and Adele B. Westphal, who were unborn
+ at the time of the alleged fraud and minors at the death of
+ their father, John C. Westphal, Jr., and sustained the de-
+ murrer as to the other plaintiffs. The latter have appealed.
+                                                           397
+
+          The final judgment of a court having jurisdiction
+over persons and subject matter can be attacked in equity
+after the time for appeal or other direct attack has expired
+only if the alleged fraud or mistake is extrinsic rather than
+intrinsic. (United States v. Throckmorton, 98 U. S. 61 [25
+L. Ed. 93]-; In Re Griffith, 84 Cal. 107 [23 Pac. 528, 24 Pac.
+381]; Pico v. Cohn, 91 Cal. 129 [25 Pac. 970, 27 Pac. 537,
+25 Am. St. Rep. 159, 13 L. R. A. 336]; Olivera v. Grace,
+19 Cal. (2d) 570 [122 P. (2d) 564].)          Fraud or mistake
+is extrinsic when it deprives the unsuccessful party of an
+opportunity to present his case to the court. (Caldwell v.
+Taylor, 218 Cal. 471 [23 P. (2d) 758, 88 A. L. R. 1194]- ;
+Tracy v. Muir, 151 Cal. 363 [90 Pac. 832, 121 Am. St. Rep.
+117]; Bacon v. Bacon, 150 Cal. 477 [89 Pac. 317]; Sohler v.
+Sohler, 135 Cal. 323 [67 Pac. 282, 87 Am. St. Rep. 98]. See
+23 Cal. L. Rev. 80; 9 Cal. L. Rev. 156). If an unsuccess-
+ful party to an action has been kept in ignorance thereof
+ (Purinton v. Dyson, 8 Cal. (2d) 322 [65 P. (2d) 777, 113
+A. L. R. 1230]- ; Zaremba v. Woods, 17 Cal. App. (2d) 309
+ [61 P. (2d) 976]) or has been prevented from fully partici-
+pating therein (Caldwell v. Taylor, supra), there has been
+no true adversary proceeding, and the judgment is open to
+attack at any time. A party who has been given proper notice
+of an action, however, and who has not been prevented from
+full participation therein, has had an opportunity to present
+his case to the court and to protect himself from any fraud
+attempted by his adversary. (Tracy v. Muir, 151 Cal. 363
+ [90 Pac. 832, 121 Am. St. Rep. 117]; Abels v. Frey, 126 Cal.
+App. 48 [14 P. (2d) 594]; Langdon v. Blackburn, 109 Cal.
+19 [41 Pac. 814].) Fraud perpetrated under such circum-
+stances is intrinsic, even though the unsuccessful party does
+not avail himself of his opportunity to appear before the
+court. Having had an opportunity to protect his interest, he
+cannot attack the judgment once the time has elapsed for
+ appeal or other direct attack. (Langdon v. Blackburn, 109
+ Cal. 19 [41 Pac. 814]; Tracy v. Muir, 151 Cal. 363 [90 Pac.
+832, 121 Am. St. Rep. 117]; see Eichhoff v. Eichhoff, 107 Cal.
+42, 48 [40 Pac. 24, 48 Am. St. Rep. 110].)
+           In the present case plaintiffs allege that after the
+simulated will contest by Fred Westphal and John C. West-
+phal, Jr., the defendants obtained a decree of distribution
+that awarded them the entire estate by concealing from the
+398
+probate court the existence of the plaintiffs and the latter’s
+contingent remainder in a portion of the estate. There is no
+allegation, however, that plaintiffs did not receive proper
+notice of the probate proceedings and the petition for the
+decree of distribution, or that plaintiffs were in any way
+prevented from appearing in the proceedings and calling the
+attention of the court to their interest in the estate.      It
+will be presumed in support of a final judgment of a court
+of general jurisdiction in California that proper notice was
+given to the parties in the absence of an affirmative showing
+to the contrary. (Estate of Twombley, 120 Cal. 350, 351 [52
+Pac. 815]-; Daly v. Pennie, 86 Cal. 552 [25 Pac. 67, 21 Am.
+St. Rep. 61]; Miller v. Pitman, 180 Cal. 540 [182 Pac. 50];
+Abels v. Frey, 126 Cal. App. 48 [14 P. (2d) 594]-; Langdon
+v. Blackburn, supra; Estate of Chapman, 158 Cal. 740 [112
+Pac. 302]; In Re Griffith, 84 Cal. 107 [23 Pac. 528, 24 Pac.
+381]; Tracy v. Muir, 151 Cal. 363 [90 Pac. 832, 121 Am. St.
+Rep. 117].)            The application of this presumption to
+the decree of distribution under attack in the present case is
+not affected by Probate Code section 1242, requiring that the
+judgment roll in probate proceedings include proof of service
+upon the parties concerned (Cf. F. H. Dam, The New Judg-
+ment Roll in Probate, 8 State Bar Journal 234; see 11A Cal.
+Jur., § 116), because this decree was rendered long before the
+enactment of that section. In the absence of an allegation that
+plaintiffs did not receive proper notice of the proceedings it
+must be presumed that they received such notice in accordance
+with the statutory requirements effective at that time.
+The allegation that defendants concealed from the probate
+court the existence of plaintiffs and the latter’s contingent
+remainder in a portion of the estate is not an allegation that
+plaintiffs did not receive notice but is at best an allegation
+that proof of such notice was not made to the court. So long
+as plaintiffs received notice, however, a failure to make proof
+of such notice would not deprive the court of jurisdiction
+or prevent the plaintiffs from presenting their case. (Herman
+v. Santee, 103 Cal. 519 [37 Pac. 509, 42 Am. St. Rep. 145],
+overruling Reinhart v. Lugo, 86 Cal. 395 [24 Pac. 1089],
+see, also, Estate of Eikerenkotter, 126 Cal. 54 [58 Pac. 370],
+and 15 Cal. Jur. 68, § 150.)
+   Under the presumption of service plaintiffs had notice of
+the proceedings, and there was nothing to prevent their
+participating therein. They therefore had an opportunity to
+present their case and direct the attention of the court to
+                                                           399
+
+their interest in the estate. It follows that there is no ex-
+trinsic fraud or mistake alleged in the present case that is
+sufficient to constitute the basis for an attack in equity upon
+the decree of distribution.
+   The judgment is affirmed.
+
+  Gibson, C. J., Shenk, J., Curtis, J., and Carter, J., con-
+curred.
+
+  Appellants’   petition for a rehearing was denied June 25,
+1942.
+
+
+
+
+          [Crim. No. 4402. In Bank. May 28, 1942.]
+
+   THE PEOPLE,       Respondent, v. JOHN LAWRENCE
+                    COLEMAN, Appellant.
+
+```

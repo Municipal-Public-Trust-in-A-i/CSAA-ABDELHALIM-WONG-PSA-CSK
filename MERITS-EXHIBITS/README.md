@@ -8,9 +8,9 @@ Evidentiary artifacts and **certified operative pleadings** referenced in the [T
 
 | # | Exhibit | Date | What it is | PDF |
 |---|---------|------|------------|-----|
-| 1 | **CSAA Denial Letter** | February 25, 2021 | CSAA's pre-litigation written representation that its investigation was complete. Signed by Sarah Rash. Issued in the regular course of claim handling under 10 C.C.R. § 2695.7. (802 TAC ¶¶ 3, 45–46.) | [CSAA_Denial_Letter-Feb-25-2021.pdf](CSAA_Denial_Letter-Feb-25-2021.pdf) |
-| 2 | **MIL No. 6 declaration** | January 17, 2025 | Defense Motion in Limine No. 6 declaration, signed under Code Civ. Proc. § 2015.5 by appointed defense counsel. From the Clerk's Transcript Vol. 1, pp. 149–151 in CGC-21-594102. (801 TAC ¶¶ 3(b), 5, 45, 48.) | [CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf](CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf) |
-| 3 | **MIL No. 17 declaration** | January 17, 2025 | Defense Motion in Limine No. 17 declaration, signed under Code Civ. Proc. § 2015.5. From the Clerk's Transcript Vol. 1, pp. 238–241 in CGC-21-594102. Contains the *"Defendant has no idea where this 911 call log or audio recording came from and who created it"* representation. (MIL No. 17, p. 3, § II.A, line 22; CT Vol. 1, p. 240, ln. 22.) | [CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf](CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf) |
+| 1 | **CSAA Denial Letter** | February 25, 2021 | CSAA's pre-litigation written representation that its investigation was complete. Signed by Sarah Rash. Issued in the regular course of claim handling under [10 C.C.R. § 2695.7](../LEGAL-AUTHORITIES.md#gaps-and-external-fallbacks). (802 TAC ¶¶ 3, 45–46.) | [CSAA_Denial_Letter-Feb-25-2021.pdf](CSAA_Denial_Letter-Feb-25-2021.pdf) |
+| 2 | **MIL No. 6 declaration** | January 17, 2025 | Defense Motion in Limine No. 6 declaration, signed under [Code Civ. Proc. § 2015.5](../CASE-LAW-AND-STATUTES/statutes-cal/CCP-2015.5.md) by appointed defense counsel. From the Clerk's Transcript Vol. 1, pp. 149–151 in CGC-21-594102. (801 TAC ¶¶ 3(b), 5, 45, 48.) | [CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf](CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf) |
+| 3 | **MIL No. 17 declaration** | January 17, 2025 | Defense Motion in Limine No. 17 declaration, signed under [Code Civ. Proc. § 2015.5](../CASE-LAW-AND-STATUTES/statutes-cal/CCP-2015.5.md). From the Clerk's Transcript Vol. 1, pp. 238–241 in CGC-21-594102. Contains the *"Defendant has no idea where this 911 call log or audio recording came from and who created it"* representation. (MIL No. 17, p. 3, § II.A, line 22; CT Vol. 1, p. 240, ln. 22.) | [CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf](CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf) |
 
 ## Operative pleadings (Third Amended Complaint, certified PDF)
 
@@ -34,6 +34,7 @@ Both cannot be true. The reconciliation, on the face of the record, *requires be
 
 ## Cross-references in this repository
 
+- **California legal authorities** cited on this site: [LEGAL-AUTHORITIES.md](../LEGAL-AUTHORITIES.md) (index to [opinion PDFs and statutes](../CASE-LAW-AND-STATUTES/INDEX.md)).
 - **Sworn officer-of-the-court delivery testimony** (Jeremy Jessup, Dolan firm) corroborating that the investigative materials were provided to CSAA's defense counsel: [Trial Day 7 reporter PDF, April 16, 2025](../05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-07-April-16-2025.pdf).
 - **Driver authentication of the 911 recording** (*"Yes. That is my voice."*): [Trial Day 8 reporter PDF, April 17, 2025](../05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-08-April-17-2025.pdf).
 - **CSAA Investigation Report (Exhibit 001 at trial):** [04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf](../04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf).

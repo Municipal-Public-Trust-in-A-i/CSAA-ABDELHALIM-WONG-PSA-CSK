@@ -8,12 +8,12 @@
 
 ## Part I — Why CGC-25-631801 Pleads Extrinsic, Not Intrinsic, Fraud
 
-The line between intrinsic and extrinsic fraud is not "how bad was the lie." It is **where the lie landed and what it corrupted.** Apply the test from `Kulchar v. Kulchar` (1969) 1 Cal.3d 467 and `Caldwell v. Taylor` (1933) 218 Cal. 471, 476, and the 801 facts fall on the extrinsic side of the line on five independent axes simultaneously.
+The line between intrinsic and extrinsic fraud is not "how bad was the lie." It is **where the lie landed and what it corrupted.** Apply the test from [*Kulchar v. Kulchar* (1969) 1 Cal.3d 467](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-3d-vol1-p467-Kulchar-v-Kulchar.pdf) ([narrative](CASE-LAW-AND-STATUTES/cases-cal-supreme/Kulchar-v-Kulchar-1-Cal3d-467.md)) [Leg.Auth. #1](#leg-auth-1) and *Caldwell v. Taylor* (1933) 218 Cal. 471, 476 ([gap / external](LEGAL-AUTHORITIES.md#gaps-and-external-fallbacks)) [Leg.Auth. #2](#leg-auth-2), and the 801 facts fall on the extrinsic side of the line on five independent axes simultaneously. ([Legal authorities](LEGAL-AUTHORITIES.md).)
 
 ### 1. The Kulchar test: target of the deception
 
 > **[4] Extrinsic fraud usually arises when a party is denied a fair adversary hearing because he has been "deliberately kept in ignorance of the action or proceeding, or in some other way fraudulently prevented from presenting his claim or defense."**
-> — *Kulchar v. Kulchar* (1969) 1 Cal.3d 467, 471
+> — [*Kulchar v. Kulchar* (1969) 1 Cal.3d 467, 471](CASE-LAW-AND-STATUTES/cases-cal-supreme/Kulchar-v-Kulchar-1-Cal3d-467.md) · [opinion PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-3d-vol1-p467-Kulchar-v-Kulchar.pdf)
 
 - **Intrinsic fraud** = a lie aimed at the **jury / fact-finder on the merits** (perjured testimony about who ran the red light). The adversary system is presumed adequate; cross-examination is supposed to catch it.
 - **Extrinsic fraud** = a lie aimed at the **tribunal itself** that distorts the *frame* of the contest (concealing the action, blocking presentation, manipulating procedural rulings).
@@ -41,7 +41,7 @@ None of those rulings were merits calls the jury weighed. They were **procedural
 | **Intrinsic fraud** | A witness lies on the stand about a fact (e.g., the color of a traffic light). The adversary system is expected to expose the lie via cross-examination. The system works as designed. |
 | **Extrinsic fraud** | Opposing counsel lies **directly to the judge** about possessing the body-cam footage of the traffic light, causing the judge to exclude it from trial entirely. The latter is an existential threat to the adversary system. |
 
-The January 17, 2025 MIL declarations ("no idea where this came from"), the February 18, 2025 in-court statements ("news to me"; "did not receive until the MSC"), and the April 16, 2025 "not received as part of the subpoena" line were all on-the-record-to-the-bench representations made by an officer of the court — **not testimony the jury weighed.** Cross-examination cannot reach a Bus. & Prof. Code § 6068(d) artifice made in MIL papers.
+The January 17, 2025 MIL declarations ("no idea where this came from"), the February 18, 2025 in-court statements ("news to me"; "did not receive until the MSC"), and the April 16, 2025 "not received as part of the subpoena" line were all on-the-record-to-the-bench representations made by an officer of the court — **not testimony the jury weighed.** Cross-examination cannot reach a Bus. & Prof. Code § 6068(d) artifice made in MIL papers. [Leg.Auth. #17](#leg-auth-17)
 
 ### 4. The harm was "prevented from presenting," not "lost on the merits"
 
@@ -75,14 +75,14 @@ That single line:
 
 - Destroys the defense's good-faith defense by proving specific knowledge of the chain of custody;
 - Triggers judicial estoppel against every prior representation of non-receipt and unknown provenance;
-- Violates Cal. R. Prof. Conduct 3.3 and Bus. & Prof. Code § 6068(d) by exposing the artifice;
+- Violates Cal. R. Prof. Conduct 3.3 and [Bus. & Prof. Code § 6068(d)](CASE-LAW-AND-STATUTES/statutes-cal/BPC-6068.md) by exposing the artifice;
 - **Elevates the conduct from intrinsic to extrinsic fraud** by showing that the Court was deceived into making rulings that prevented plaintiff from fully presenting his case.
 
 Without this admission, the defense could still characterize the January 17 / February 18 statements as good-faith mistakes about a fact the jury ultimately got to weigh — i.e., intrinsic. With the admission, scienter is locked, the target is the bench, and the harm is procedural exclusion. All three Kulchar factors are satisfied **on the four corners of the certified Reporter's Transcript.**
 
 ### The needle, threaded in one paragraph
 
-801 is extrinsic, not intrinsic, because the lies were not told to the jury about a disputed merits fact (which the adversary system is designed to police via cross-examination), but to the **trial judge** about the **discovery provenance and custody** of evidence — and the judge **relied** on those lies to make **procedural** rulings (continuance denial, MIL No. 17 grant, supplemental-report exclusion, 911 deferral) that **prevented plaintiff from "fully exhibiting his case"** within the *Kulchar* meaning. The April 16, 2025 "provided by Dolan" admission is the in-record confession that converts what could have been characterized as intrinsic perjury into a *Caldwell* "regularity of the proceedings" fraud — corruption of the **frame** of the trial, not the **merits** within the frame. That is the entire reason the equity action (CGC-25-631801) lies in the first place: appellate review can only test rulings against the record the trial judge saw, but only an equity court with original-jurisdiction fact-finding power can pierce the record to reach the lie *behind* the record. (`Kulchar v. Kulchar` (1969) 1 Cal.3d 467, 471; `Caldwell v. Taylor` (1933) 218 Cal. 471, 476; `Aldrich v. San Fernando Valley Lumber Co.` (1985) 170 Cal.App.3d 725, 735.)
+801 is extrinsic, not intrinsic, because the lies were not told to the jury about a disputed merits fact (which the adversary system is designed to police via cross-examination), but to the **trial judge** about the **discovery provenance and custody** of evidence — and the judge **relied** on those lies to make **procedural** rulings (continuance denial, MIL No. 17 grant, supplemental-report exclusion, 911 deferral) that **prevented plaintiff from "fully exhibiting his case"** within the *Kulchar* meaning. The April 16, 2025 "provided by Dolan" admission is the in-record confession that converts what could have been characterized as intrinsic perjury into a *Caldwell* "regularity of the proceedings" fraud — corruption of the **frame** of the trial, not the **merits** within the frame. That is the entire reason the equity action (CGC-25-631801) lies in the first place: appellate review can only test rulings against the record the trial judge saw, but only an equity court with original-jurisdiction fact-finding power can pierce the record to reach the lie *behind* the record. ([*Kulchar v. Kulchar* (1969) 1 Cal.3d 467, 471](CASE-LAW-AND-STATUTES/cases-cal-supreme/Kulchar-v-Kulchar-1-Cal3d-467.md); *Caldwell v. Taylor* (1933) 218 Cal. 471, 476 — [external](LEGAL-AUTHORITIES.md#gaps-and-external-fallbacks); [*Aldrich v. San Fernando Valley Lumber Co.* (1985) 170 Cal.App.3d 725, 735](CASE-LAW-AND-STATUTES/cases-cal-appellate/Aldrich-v-San-Fernando-Valley-Lumber-Co-170-Cal-App-3d-725.md) · [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-app-3d-vol170-p725-Aldrich-v-San-Fernando-Valley-Lumber-Co.pdf).) [Leg.Auth. #1](#leg-auth-1) [Leg.Auth. #2](#leg-auth-2) [Leg.Auth. #3](#leg-auth-3)
 
 ---
 
@@ -180,7 +180,7 @@ CSAA paid for, directed, and ratified the PSA defense in the underlying case. PS
 ## Part V — Why This Matters Strategically
 
 1. **801 vacatur and 802 punitive exposure are mutually reinforcing.** A finding for plaintiff in 801 supplies the ratification amplifier in 802. A finding for plaintiff in 802 (especially on the institutional "deny-delay-defend" pattern in SAC ¶¶ 48B–C) supplies the institutional motive that explains why counsel committed the 801 fraud — i.e., not a one-off lawyer mistake, but the trial-level execution of the same statewide claims-handling pattern.
-2. **The litigation-privilege / anti-SLAPP defense is foreclosed at both layers.** 801 pierces Civ. Code § 47(b) via *Rusheen v. Cohen* (2006) 37 Cal.4th 1048, 1065. 802 pierces it via *Action Apartment Assn.* and *Flatley v. Mauro*. Same outcome, different doctrine, both extrinsic-fraud-driven.
+2. **The litigation-privilege / anti-SLAPP defense is foreclosed at both layers.** 801 pierces [Civ. Code § 47(b)](CASE-LAW-AND-STATUTES/statutes-cal/CIV-47.md) via [*Rusheen v. Cohen* (2006) 37 Cal.4th 1048, 1065](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-4th-vol37-p1048-Rusheen-v-Cohen.pdf) [Leg.Auth. #7](#leg-auth-7). 802 pierces it via [*Action Apartment Assn.*](CASE-LAW-AND-STATUTES/opinions-pdf/Action-Apartment-Assn-v-City-of-Santa-Monica-41-Cal-4th-1232.pdf) [Leg.Auth. #5](#leg-auth-5) and [*Flatley v. Mauro*](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-4th-vol39-p299-Flatley-v-Mauro.pdf) [Leg.Auth. #6](#leg-auth-6). Same outcome, different doctrine, both extrinsic-fraud-driven.
 3. **No harmless-error or no-causation defense on either side.** 801: structural fraud defies harmless-error analysis. 802: *Prentice* causation is satisfied as a matter of law once the underlying litigation is shown to be a foreseeable consequence of the original fraud.
 4. **Pleading discipline in the 802 SAC is what protects the case from a *Moradi-Shalal* collapse.** By treating the denial letter as evidence of the non-investigation rather than as the wrongful act itself, the SAC keeps the gravamen on conduct (failure to investigate) and lets `Zhang v. Superior Court` (2009) 46 Cal.4th 1027 restore UCL standing for the *fraudulent*-prong unfair-competition claim. (See `DEFENSE/802/12-LEGAL-AUTHORITY-ROADMAP-AND-SAC-MAP.md` § E-6.)
 
@@ -188,27 +188,29 @@ CSAA paid for, directed, and ratified the PSA defense in the underlying case. PS
 
 ## Authority Index
 
-| Authority | Proposition | Used in |
-|---|---|---|
-| *Kulchar v. Kulchar* (1969) 1 Cal.3d 467, 471 | Defines extrinsic fraud as preventing a fair adversary hearing | 801 + 802 |
-| *Caldwell v. Taylor* (1933) 218 Cal. 471, 476 | Fraud going to "regularity of proceedings" is extrinsic | 801 + 802 |
-| *Aldrich v. San Fernando Valley Lumber Co.* (1985) 170 Cal.App.3d 725, 735 | Equitable vacatur power | 801 |
-| *Pico v. Cohn* (1891) 91 Cal. 129 | Safety-valve test for guarding against fraud at trial | 801 + 802 |
-| *Action Apartment Assn., Inc. v. City of Santa Monica* (2007) 41 Cal.4th 1232 | Extrinsic-fraud exception to litigation privilege | 802 |
-| *Flatley v. Mauro* (2006) 39 Cal.4th 299 | Illegal-conduct exception to anti-SLAPP | 802 |
-| *Rusheen v. Cohen* (2006) 37 Cal.4th 1048, 1065 | Civ. Code § 47(b) does not shield fraud on the court | 801 |
-| *Park v. Board of Trustees* (2017) 2 Cal.5th 1057 | Gravamen / conduct vs. communication | 802 |
-| *City of Cotati v. Cashman* (2002) 29 Cal.4th 69 | Anti-SLAPP gravamen analysis | 802 |
-| *Crowley v. Katleman* (1994) 8 Cal.4th 666 | Primary rights doctrine | 802 |
-| *Zhang v. Superior Court* (2009) 46 Cal.4th 1027 | UCL fraudulent-prong standing post-*Moradi-Shalal* | 802 |
-| *Prentice v. North American Title Guar. Corp.* (1963) 59 Cal.2d 618 | Tort-of-another / consequential litigation costs | 802 |
-| *Smith v. Superior Court* (1992) 10 Cal.App.4th 1033, 1042 | Egregious attorney misconduct as due-process violation | 801 |
-| *In re Marriage of Rosevear* (1998) 65 Cal.App.4th 673, 682 | Discretion based on misleading information is abuse | 801 |
-| *Blanton v. Womancare, Inc.* (1985) 38 Cal.3d 396, 403 | Right to rely on candor of officers of the court | 801 |
-| Civ. Code § 3294(b) | Punitive damages — authorization / ratification | 802 |
-| Bus. & Prof. Code § 6068(d) | Duty of candor; no artifice | 801 |
-| Cal. R. Prof. Conduct 3.3 | Candor toward the tribunal; duty to correct | 801 |
+Anchors match inline bookmarks `[Leg.Auth. #n](#leg-auth-n)`.
+
+| # | Authority | Source (PDF preferred, else MD, else external) | Proposition | Used in |
+|---:|---|---|---|---|
+| <span id="leg-auth-1">1</span> | *Kulchar v. Kulchar* (1969) 1 Cal.3d 467, 471 | [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-3d-vol1-p467-Kulchar-v-Kulchar.pdf) · [MD](CASE-LAW-AND-STATUTES/cases-cal-supreme/Kulchar-v-Kulchar-1-Cal3d-467.md) | Defines extrinsic fraud as preventing a fair adversary hearing | 801 + 802 |
+| <span id="leg-auth-2">2</span> | *Caldwell v. Taylor* (1933) 218 Cal. 471, 476 | [External](LEGAL-AUTHORITIES.md#gaps-and-external-fallbacks) | Fraud going to "regularity of proceedings" is extrinsic | 801 + 802 |
+| <span id="leg-auth-3">3</span> | *Aldrich v. San Fernando Valley Lumber Co.* (1985) 170 Cal.App.3d 725, 735 | [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-app-3d-vol170-p725-Aldrich-v-San-Fernando-Valley-Lumber-Co.pdf) · [MD](CASE-LAW-AND-STATUTES/cases-cal-appellate/Aldrich-v-San-Fernando-Valley-Lumber-Co-170-Cal-App-3d-725.md) | Equitable vacatur power | 801 |
+| <span id="leg-auth-4">4</span> | *Pico v. Cohn* (1891) 91 Cal. 129 | [External (historical; use neutral reporter database)](LEGAL-AUTHORITIES.md#gaps-and-external-fallbacks) | Safety-valve test for guarding against fraud at trial | 801 + 802 |
+| <span id="leg-auth-5">5</span> | *Action Apartment Assn., Inc. v. City of Santa Monica* (2007) 41 Cal.4th 1232 | [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Action-Apartment-Assn-v-City-of-Santa-Monica-41-Cal-4th-1232.pdf) | Extrinsic-fraud exception to litigation privilege | 802 |
+| <span id="leg-auth-6">6</span> | *Flatley v. Mauro* (2006) 39 Cal.4th 299 | [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-4th-vol39-p299-Flatley-v-Mauro.pdf) | Illegal-conduct exception to anti-SLAPP | 802 |
+| <span id="leg-auth-7">7</span> | *Rusheen v. Cohen* (2006) 37 Cal.4th 1048, 1065 | [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-4th-vol37-p1048-Rusheen-v-Cohen.pdf) · [MD](CASE-LAW-AND-STATUTES/cases-cal-supreme/Rusheen-v-Cohen-37-Cal4th-1048.md) | Civ. Code § 47(b) does not shield fraud on the court | 801 |
+| <span id="leg-auth-8">8</span> | *Park v. Board of Trustees* (2017) 2 Cal.5th 1057 | [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Park-v-Board-of-Trustees-CSU-2-Cal-5th-1057.pdf) | Gravamen / conduct vs. communication | 802 |
+| <span id="leg-auth-9">9</span> | *City of Cotati v. Cashman* (2002) 29 Cal.4th 69 | [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/City-of-Cotati-v-Cashman-29-Cal-4th-69.pdf) | Anti-SLAPP gravamen analysis | 802 |
+| <span id="leg-auth-10">10</span> | *Crowley v. Katleman* (1994) 8 Cal.4th 666 | [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-4th-vol8-p666-Crowley-v-Katleman.pdf) | Primary rights doctrine | 802 |
+| <span id="leg-auth-11">11</span> | *Zhang v. Superior Court* (2009) 46 Cal.4th 1027 | [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-4th-vol57-p364-Zhang-v-Superior-Court.pdf) | UCL fraudulent-prong standing post-*Moradi-Shalal* | 802 |
+| <span id="leg-auth-12">12</span> | *Prentice v. North American Title Guar. Corp.* (1963) 59 Cal.2d 618 | [PDF](CASE-LAW-AND-STATUTES/opinions-pdf/Demurrer-cal-2d-vol59-p618-Prentice-v-North-American-Title-Guaranty-Corp.pdf) · [MD](CASE-LAW-AND-STATUTES/cases-cal-supreme/Prentice-v-North-American-Title-Guar-Corp-59-Cal2d-618.md) | Tort-of-another / consequential litigation costs | 802 |
+| <span id="leg-auth-13">13</span> | *Smith v. Superior Court* (1992) 10 Cal.App.4th 1033, 1042 | [Justia](https://law.justia.com/cases/california/court-of-appeal/4th/10/1033.html) | Egregious attorney misconduct as due-process violation | 801 |
+| <span id="leg-auth-14">14</span> | *In re Marriage of Rosevear* (1998) 65 Cal.App.4th 673, 682 | [Justia](https://law.justia.com/cases/california/court-of-appeal/4th/65/673.html) | Discretion based on misleading information is abuse | 801 |
+| <span id="leg-auth-15">15</span> | *Blanton v. Womancare, Inc.* (1985) 38 Cal.3d 396, 403 | [Justia](https://law.justia.com/cases/california/supreme-court/3d/38/396.html) | Right to rely on candor of officers of the court | 801 |
+| <span id="leg-auth-16">16</span> | Civ. Code § 3294(b) | [MD](CASE-LAW-AND-STATUTES/statutes-cal/CIV-3294.md) | Punitive damages — authorization / ratification | 802 |
+| <span id="leg-auth-17">17</span> | Bus. & Prof. Code § 6068(d) | [MD](CASE-LAW-AND-STATUTES/statutes-cal/BPC-6068.md) | Duty of candor; no artifice | 801 |
+| <span id="leg-auth-18">18</span> | Cal. R. Prof. Conduct 3.3 | [State Bar: Rules of Professional Conduct (index)](https://www.calbar.ca.gov/Attorneys/Conduct-Enforcement/Attorney-Regulation/Rules-of-Professional-Conduct) | Candor toward the tribunal; duty to correct | 801 |
 
 ---
 
-*Document compiled for use across CGC-25-631801, CGC-25-631802, and the appellate record of CGC-21-594102. All transcript citations verified against workspace records. Cross-references: `FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md`; `DEFENSE/802/12-LEGAL-AUTHORITY-ROADMAP-AND-SAC-MAP.md`; `CGC-25-631802-MASTER/02-FIRST-AMENDED-COMPLAINT-REVISED.md`; `RISK-SURFACE/per-case/FRAUD-UCL-802-CGC-25-631802.md`; `CASE-LAW-AND-STATUTES/cases-cal-supreme/Kulchar-v-Kulchar-1-Cal3d-467.md`.*
+*Document compiled for use across CGC-25-631801, CGC-25-631802, and the appellate record of CGC-21-594102. All transcript citations verified against workspace records. **Published authorities mirror:** [LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md) and [Kulchar (MD)](CASE-LAW-AND-STATUTES/cases-cal-supreme/Kulchar-v-Kulchar-1-Cal3d-467.md). Cross-references: `FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md`; `DEFENSE/802/12-LEGAL-AUTHORITY-ROADMAP-AND-SAC-MAP.md`; `CGC-25-631802-MASTER/02-FIRST-AMENDED-COMPLAINT-REVISED.md`; `RISK-SURFACE/per-case/FRAUD-UCL-802-CGC-25-631802.md`.*

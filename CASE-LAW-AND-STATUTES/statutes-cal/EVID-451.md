@@ -1,0 +1,32 @@
+# Evidence Code section 451
+
+**Citation:** Evid. Code § 451 | **Source:** California Legislative Information (leginfo.legislature.ca.gov)
+
+---
+
+## Statutory Text
+
+**Evidence Code - EVID**  
+**DIVISION 4. JUDICIAL NOTICE**
+
+### 451.
+
+Judicial notice shall be taken of the following:
+
+(a) The decisional, constitutional, and public statutory law of this state and of the United States and the provisions of any charter described in Section 3, 4, or 5 of Article XI of the California Constitution.
+
+(b) Any matter made a subject of judicial notice by Section 11343.6, 11344.6, or 18576 of the Government Code or by Section 1507 of Title 44 of the United States Code.
+
+(c) Rules of professional conduct for members of the bar adopted pursuant to Section 6076 of the Business and Professions Code and rules of practice and procedure for the courts of this state adopted by the Judicial Council.
+
+(d) Rules of pleading, practice, and procedure prescribed by the United States Supreme Court, such as the Rules of the United States Supreme Court, the Federal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, the Admiralty Rules, the Rules of the Court of Claims, the Rules of the Customs Court, and the General Orders and Forms in Bankruptcy.
+
+(e) The true signification of all English words and phrases and of all legal expressions.
+
+(f) Facts and propositions of generalized knowledge that are so universally known that they cannot reasonably be the subject of dispute.
+
+(Amended by Stats. 1986, Ch. 248, Sec. 43.)
+
+---
+
+**Relevance in case:** Statutory law subject to mandatory judicial notice; statutes are law, not evidence requiring admission.

@@ -1,0 +1,744 @@
+ 468
+
+
+
+
+[No. B055991. Second Dist, Div. Three. July 23, 1993.]
+
+JEROME T. STEWART, Plaintiff and Respondent, v.
+TRUCK INSURANCE EXCHANGE, Defendant and Appellant.
+469
+470
+                                                                                          471
+
+
+
+
+Counsel
+
+Rushfeldt, Shelley & Drake, Alan L. Rushfeldt, Horvitz & Levy, David S.
+Ettinger and Mary F. Dant for Defendant and Appellant.
+
+Michael J. Piuze, Frank D. Potito and John Keiser for Plaintiff and Respon-
+dent.
+
+
+Opinion
+
+CROSKEY, Acting P. J.                  “Royal Globe” bad faith action, Truck
+                                  In this
+Insurance Exchange (Truck), the defendant below, appeals from the order of
+the trial court (1) granting the motion of the plaintiff, Jerome T. Stewart
+(Stewart), for a new trial on the issue of punitive damages, which had
+previously been eliminated by an order of nonsuit, and (2) denying Truck’s
+motion for a new trial as to the issue of its liability for compensatory
+damages.1 While the record in this case demonstrates substantial evidence of
+Truck’s bad faith conduct,2 it does not support Stewart’s claim for punitive
+damages, given the “clear and convincing” burden of proof which such a
+claim must satisfy. In addition, the trial court failed to comply with Code of
+   1The trial court did agree with Truck, however, that the jury had awarded excessive
+compensatory damages to Stewart; thus, the actual order of the trial court was for a
+conditional new trial on that issue. This ruling included the denial of Truck’s request for a
+new trial on liability.
+   2Stewart brought this bad faith action against Truck under Royal Globe Ins. Co. v. Superior
+Court (1979) 23 Cal.3d 880, 885, 888 [153 Cal.Rptr. 842, 592 P.2d 329]. His claim is based
+upon a judgment in the underlying action brought against Truck’s insured which was entered
+in 1986 and thus comes within the transition window of Moradi-Shalal v. Fireman’s Fund Ins.
+Companies (1988) 46 Cal.3d 287, 313 [250 Cal.Rptr. 116, 758 P.2d 58], which overruled
+Royal Globe.
+ 472
+
+
+Civil Procedure section 657 when it granted a new trial on the punitive
+damage issue without setting forth, in writing, the reasons therefore. We
+therefore will reverse the trial court’s order granting Stewart’s motion for a
+new trial as to punitive damages but will otherwise affirm.
+
+                     Factual     and   Procedural        Background
+
+  The following chronology of events, which necessarily form the factual
+basis of Stewart’s bad faith claim, are not in substantial dispute.3 However,
+as the principal issue before us relates to the substantiality of the evidence
+supporting a claim for punitive damages, we discuss that chronology in some
+detail.
+
+   In February 1984, Stewart, who was then 74 years of age, underwent hip
+surgery at Good Samaritan Hospital (Hospital). On February 26, he was
+given a shot of Demerol which was negligently administered by a nurse into
+his left arm, rather than in the buttocks. The shot caused considerable pain
+and when he awoke the next morning he could not use his left arm. He was
+diagnosed as having a radial nerve palsy which rendered his left arm mostly
+paralyzed. Stewart was discharged from the Hospital in this condition on
+March 17, 1984.
+
+   On March 2, 1984, a written report of this incident was prepared by
+Hospital personnel and submitted to the Hospital’s attorney.4 However, it
+was not until June 14, 1984 that the Hospital received a letter from an
+attorney representing Stewart which gave notice of an intent to bring suit for
+professional negligence.5
+
+   Hospital notified Truck, its liability insurer, on June 27, 1984.6 Truck
+insists that this was the first notice that it ever received of the injury to
+Stewart’s left arm. However, there was testimony from a former Truck
+   3That is not to say that Stewart does not argue that reasonable inferences may be drawn
+from the undisputed facts which are supportive of his claim for punitive damages. As we
+discuss in some detail, however, even drawing every reasonable inference in Stewart’s favor,
+these facts simply will not support the conclusion that Truck was guilty of malice.
+   4This letter report was labeled and referred to during the trial as a “Report to Attorney.”
+   5This letter constituted the 90-day notice required by Code of Civil Procedure section 364,
+subdivision (a), before an action for professional negligence may be brought against a health
+care provider.
+   6The Hospital’s report to Truck included (1) a copy of an internal Hospital memorandum
+stating the injection should have been given in the buttocks rather than in the arm and that it
+would be at least two weeks before it could be determined whether the injury was permanent;
+(2) the “Report To Attorney” form (of March 2, 1984) describing the effect of the injection as
+“Radial Nerve Palsy, Complete”; and (3) excerpts of Stewart’s hospital records containing a
+February 27, 1984, note that Stewart’s condition was not expected to change for about three
+weeks.
+                                                                                            473
+
+
+claims representative that the so-called “Report To Attorney” form was often
+used to notify the insurer of potential claims and that they were ordinarily
+sent to the insurer within a few days of an incident. Thus, the jury was
+certainly entitled to infer that Truck had received notice of a possible claim
+from Stewart as early as the first or second week in March of 1984.
+
+   Within two weeks after receipt of the attorney’s statutory notice letter,
+Truck’s claims representative wrote to the attorney and asked for informa-
+tion regarding the injury to Stewart, together with names of treating physi-
+cians and copies of all relevant medical reports. Although most of this
+information could have been obtained directly from the Hospital, Truck
+claims it needed to determine what medical evaluation or treatment Stewart
+had received since his discharge on March 17, 1984, and from whom.7 For
+reasons not disclosed by the record, Stewart’s attorney did not respond to
+this request.
+
+   On July 24, 1984, this case became much more serious. On that date,
+Stewart fell in his bathroom and suffered severe spinal injuries. He was
+taken back to the Hospital where he underwent surgery. He remained there
+until October 12, 1984, when he was discharged as a partial quadriplegic.
+While he was still in the Hospital, Stewart filed the underlying action in
+which he alleged that the Hospital had negligently administered an injection
+to his left arm the previous February.
+
+   In October 1984, soon after the filing of the action, Truck’s claims
+representative telephoned Stewart’s attorney and requested information as to
+Stewart’s claimed medical expenses. Again, however, the attorney did not
+respond. At this point, Truck retained an attorney to represent Hospital’s
+interests. That attorney then answered the complaint and made a demand on
+Stewart for a statement of damages. (Code Civ. Proc., § 425.11.)8
+
+   By mid-November 1984, it appears that Truck’s attorney had satisfied
+himself that the Hospital had been negligent when it administered the
+Demerol injection. Truck’s investigator came to the same conclusion by the
+first week in December. The question was the nature of Stewart’s claimed
+injuries. What was particularly uncertain was the question of whether Stew-
+art’s very serious spinal injury of July 24, 1984, could be connected to the
+Hospital’s admitted negligence five months earlier. By January 1985, how-
+ever, it was clear that Stewart intended to take the position that these events
+   7Understandably, Stewart makes much of this kind of arguably unnecessary activity by
+Truck and correctly notes that it permits a reasonable inference supporting the claim of
+Truck’s bad faith.
+   8For reasons not disclosed by the record, Stewart did not respond to this request until April
+10, 1985, a delay of approximately six months. Code of Civil Procedure section 425.11
+requires that a statement of damages be served within 15 days of a request therefore.
+ 474
+
+
+were causally related.9 What was as yet undetermined was the extent of the
+monetary damages which would be claimed.
+
+   This contention by Stewart obviously impacted the settlement potential of
+this case and significantly influenced the investigative activity which was
+required. That investigation initially consisted of obtaining and examining
+Stewart’s medical and employment records and taking his deposition.
+Truck’s counsel was unable to obtain these records voluntarily and had to
+subpoena them. By June 4,1985, he had finally obtained the medical records
+although not the employment records (as Stewart’s former employer no
+longer had the records in its possession).
+
+   The medical records included reports which gave conflicting evaluations
+of Stewart’s pre-July 24 condition.10 The medical records also suggested that
+Stewart’s fall may have been caused by alcohol or dizziness. Stewart’s son
+had informed one doctor that his fattier had “always been a two-fisted
+drinker” and a cardiologist, who had seen Stewart in April 1984, noted that
+Stewart complained of episodes of fainting and lightheadedness. The possi-
+bility of alcohol involvement became much more concrete after Truck’s
+attorney obtained a copy of a report by the paramedics who had responded to
+Stewart’s home on the date of his fall. The report stated that Stewart had
+been found lying laterally on the bathroom floor and was unable to get up; a
+strong odor of alcohol was noted and Stewart told them he had “8-10 strong
+drinks at a ‘stag party.’ ”
+
+   Stewart’s deposition was taken on May 31, 1985. At that time he testified
+that (1) his arm had not improved following the injection and prior to his
+fall, (2) he had two to three drinks the night he fell, (3) he believed he could
+have broken his fall with his left hand had it not been injured, (4) as a result
+   9On January 3, 1985, Truck’s counsel advised the insurer, “There may be some allegation
+from [Stewart] that the reason he fell on July 24, 1984, and injured his back was because of
+his inability to brace himself because of his left radial nerve palsy. However, we have not
+been so informed by [Stewart’s] attorney of any connection between the two injuries.” This
+contention by Stewart was not long in coming. In interrogatory answers served on or about
+January 25, 1985, Stewart included, in a list of claimed damages, medical bills in the sum of
+$76,891.58 which would only be justified if they included those incurred during the hospital
+stay from July 24 through October 10, 1984.
+   10For example, a report by a neurosurgeon who had examined Stewart in December 1984 at
+the request of Stewart’s attorney stated that a week before his July 24 fall, Stewart had gone
+golfing, held a club in his hands and had driven a ball about 150 yards. This report also stated
+that (1) Stewart’s arm had improved prior to his fall, (2) the spinal cord injury resulting from
+his fall tended to mask the extent of his earlier radial nerve injury and (3) his current
+disability was due primarily to the spinal cord injury resulting from the fall. However, the
+reports of other doctors indicated that Stewart continued to have complete radial nerve palsy
+up until the time he fell on July 24, 1984. Based on his examination of all of these records,
+Truck’s counsel advised the insurer that Stewart’s arm had not improved prior to his fall.
+                                                                                           475
+
+
+
+of his fall his arms and legs were partially paralyzed and (5) he intended to
+assert a claim for lost earnings but he could not describe the extent thereof.
+
+   In early June 1985, Truck’s attorney advised that estimating the extent of
+Stewart’s damages was difficult as it was unclear as to whether the injury to
+his left arm in February of 1984 in fact contributed to his fall in July and the
+serious spinal injury which resulted therefrom. The attorney advised Truck
+that he thought Stewart’s claim was worth a minimum of $25,000 assuming
+a jury found no connection between the Hospital’s negligence and the
+subsequent fall. However, if such a connection was found then a jury could
+award as much as $250,000 to $350,000. Truck’s attorney therefore recom-
+mended additional discovery regarding causation and damages, including (1)
+further information regarding Stewart’s claim of “lost earnings,” (2) inquiry
+into Stewart’s drinking history and habits, (3) subpoenaing the paramedic’s
+report and taking his deposition, (4) taking the deposition of the neighbor
+who had hosted the “stag party” where Stewart had admittedly consumed
+some alcohol, (5) further inquiry into Stewart’s claimed out-of-pocket ex-
+penditures and (6) an independent medical examination of Stewart.
+
+   Based on this report, Truck increased its reserves on Stewart’s claim from
+$50,000 to the policy limit of $190,000. Shortly thereafter, on July 16, 1985,
+Truck’s attorney recommended that an offer of settlement be made based on
+Stewart’s arm injury only and he sought authority to settle for $35,000 to
+$50,000. This authority was granted and the attorney was so advised on
+August 7, 1985. This settlement range was selected by the attorney because
+of the differing medical opinions as to whether the radial nerve injury would
+have been permanent had the subsequent fall not occurred and because
+Stewart had provided no information as to the separate medical costs for the
+arm injury alone. Thus, the amount of such damages had to be estimated.
+
+   However, in spite of this authority, Truck’s attorney did not submit any
+offer to Stewart. He did attempt on several occasions to obtain a demand
+from Stewart’s attorney but these efforts were not successful. On July 24,
+1985, Truck’s attorney had obtained a copy of the paramedic’s report which
+caused him to become even more optimistic about the causation issue. This,
+together with the difficulty in evaluating Stewart’s damages and his coun-
+sel’s continued insistence that the fall was connected to the Hospital’s
+negligent injection apparently caused Truck’s attorney to refrain from sub-
+mitting any offer. Indeed, he did not ultimately make any offer until the
+mandatory settlement conference later in the year.11
+
+  On November 21, 1985, the paramedic’s deposition was taken and the
+contents of the report were confirmed. The paramedic also stated that
+   11These facts certainly provided some substantial evidence in support of Stewart’s bad faith
+claim. Beyond doubt, Hospital’s liability for Stewart’s original injury was clear from the very
+ 476
+
+
+
+Stewart’s speech had been slurred. Truck’s attorney also interviewed guests
+who were at the party with Stewart on the night of July 23,1984. They stated
+that Stewart’s drinking was “normal, only a couple.”12
+
+   On December 3, 1985, Stewart sent a statutory settlement demand (Code
+Civ. Proc., § 998) of $500,000. Truck’s attorney recommended that it make
+a counteroffer of $40,000 which in his opinion was “a reasonable sum and
+[would] compensate Stewart for the damages to his left arm only.”
+
+   On December 9, an independent medical examination was conducted by a
+Dr. Daniel Levine. His report concluded that Stewart’s radial nerve had
+improved and that Stewart’s existing injuries were primarily the result of his
+fall on July 24, 1984. The content of this report, in the opinion of Truck’s
+attorney, gave further support to the lack of causation argument which the
+Hospital could raise at trial.13
+
+   On December 13, 1985, Truck’s attorney submitted a settlement offer to
+Stewart in the sum of $20,000. The reasons for this amount, as set forth
+in the offer, were the testimony of the paramedic and the medical conclu-
+sions reached by Dr. Levine during his medical examination. This offer
+was clearly unacceptable to Stewart, particularly in view of the fact that he
+was incurring annual nursing expenses of $50,000. As a result, the manda-
+tory settlement conference on December 23, 1985, was both short and
+unproductive.
+
+   The case went to trial on January 15, 1986. Just before jury selection,
+Truck increased its offer to settle to $50,000. Its attorney had advised Truck
+that there was a risk of a six-figure verdict but, given all of the evidence
+which he had developed on the causation issue, he believed there would, at
+least, be a substantial comparative negligence argument which could be
+asserted. This offer was rejected by Stewart, and his attorney advised
+Truck’s counsel that further negotiations would not be productive unless
+Truck was willing to make an offer in the range of six figures. On January
+beginning, yet no attempt was made to effectuate a settlement (beyond requesting that Stewart
+make an initial demand) until the mandatory settlement conference in December 1985.
+   12Truck’s attorney later testified that he assumed that this discrepancy with what Stewart
+had told the paramedics was explained by either (1) the other guests’ attempt to “soft-peddle”
+Stewart’s drinking in order to help him out or (2) Stewart’s consumption of additional drinks
+after he left the party. There were, of course, other possibilities. Stewart could have misspoke
+himself or the paramedics could have misunderstood.
+   13Dr. Levine explained that the muscles affected by the radial nerve were not atrophied to
+the degree one would expect if there was radial nerve injury to the extent claimed by Stewart;
+also, the right hand showed the same problems as the left. In addition, Dr. Levine reported
+that Stewart suffered from peripheral neuropathy, a nerve disease that can be caused by old
+age.
+                                                                                            477
+
+
+30, 1986, Stewart’s counsel wrote to Truck’s attorney and detailed what he
+described as the insurer’s “history of efforts at delay.”14
+
+   The jury returned its verdict in February 1986. It found that the Hospital
+had been negligent and that its negligence had been a legal cause of
+Stewart’s damages which it set at $880,610.35.15 However, it also found that
+Stewart was 75 percent responsible for his own injuries and the Hospital 25
+percent.16 Thus, Hospital was liable for only $220,152.59. Shortly thereafter,
+in April 1986, the case was settled for the total sum of $210,00017 of which
+Truck paid all but $14,600 (the balance being paid by Hospital’s excess
+insurer).
+
+   On January 20, 1987, Stewart filed this action against Truck in which he
+alleged that the insurer’s handling of the claim against the Hospital violated
+Insurance Code section 790.03, subdivision (h)(3) and (5).18 After some law
+and motion activity, the case went to trial on Stewart’s second amended
+complaint on September 26, 1990.
+   14The letter from Stewart’s counsel stated:
+   “1. You mailed your request for designation of experts to us on the last legal day,
+including two extra days allowed because of a weekend. [1] 2. Your request for depositions of
+some of the experts was not made until approximately two weeks later. [1] 3. When I said that
+there was then no longer time to depose all of the experts before trial, but agreed to cooperate
+with you on arranging for the depositions that were possible, you asked the law and motion
+department for a continuance of trial. [1] 4. When the law and motion department denied your
+request for the continuance, you appeared on the morning of trial and asked the trial
+department for a continuance. That motion was also not granted. [1] 5. You used the same
+delay as a basis to request the trial judge continue the trial, a request which was again denied.
+[1] 6. The trial judge did permit you to have one-half day off during trial so that you could
+depose one of plaintiffs’ experts. [1] If there has been no effort to postpone payment to Mr.
+Stewart because of his age and infirmity, can you explain why the defendant offered only
+$20,000.00 before trial and, only when we were in the courtroom about to commence trial
+was that offer increased to $50,000.00? [1] Finally, as you know, there are two plaintiffs in
+this case and it is not fair to make a combined offer to both.”
+   15The $880,610.35 figure was broken down by the jury’s special verdicts as follows: (1)
+$87,010.35 for past medical costs, (2) $427,600 for future medical costs, (3) $48,000 for past
+lost wages, (4) $68,000 for future lost wages, and (5) $250,000 for past and future emotional
+distress.
+   16Inaddition, the jury awarded Stewart’s wife $35,000 on her loss of consortium complaint
+which had been separately filed, but had been consolidated prior to trial.
+   17Thesum paid the claims of both Stewart and his wife.
+   18Insurance Code section 790.03, subdivision (h)(3) and (5), provide that it is an unfair
+method of competition and an unfair and deceptive act of practice in the business of insurance
+to: “(h) Knowingly [commit or perform] with such frequency as to indicate a general business
+practice any of the following unfair claims settlement practices: H] . . . [1] (3) Failing to
+adopt and implement reasonable standards for the prompt investigation and processing of
+claims arising under insurance policies, [J] . . . FO (5) Not attempting in good faith to
+effectuate prompt, fair, and equitable settlements of claims in which liability has become
+reasonably clear.”
+ 478
+
+
+   In addition to the evidence of Truck’s handling of Stewart’s claim,
+conflicting opinions of Truck’s alleged bad faith conduct were offered.
+Stewart produced an expert witness who expressed the opinion that Truck
+had violated the provisions of Insurance Code section 790.03, subdivision
+(h)(3) and (5), when (1) it failed to investigate the probable damages
+resulting from the radial nerve injury to Stewart’s left arm and, (2) in spite of
+the fact that Hospital’s liability became reasonably clear very early, it failed
+to make an earlier settlement offer. He also testified that the offer of
+$20,000, when it was finally made, was too low and clearly failed to take
+into account that Hospital might have at least some responsibility for
+Stewart’s quadriplegia. This opinion was countered by Truck’s expert who
+expressed directly contrary views.
+
+   Stewart also offered the testimony of one Robert Mars, who had been the
+claims representative originally assigned to Stewart’s claim.19 He testified
+that his previous supervisors at Truck had followed a practice of trying to
+settle the claims of elderly claimants quickly as they might die before their
+cases could come to trial. By contrast, he had been told by Joanne Core, the
+supervisor for whom he had worked while assigned to the Stewart claim, that
+such cases should be “worked up to the hilt.’’20
+
+   It was Stewart’s contention at trial that this evidence not only demon-
+strated bad faith but also supported his claim for punitive damages. How-
+ever, the trial court disagreed. The court concluded that whatever may have
+been said to Mars about how he should chum or delay his investigations of
+claims of the elderly, there was no evidence in this case that such a practice
+   19The record reflects that Mars was assigned to this matter until September 1984, when he
+resigned from Truck’s employ. Just prior to his resignation, his supervisor (Branch Claims
+Manager Joanne Core) had threatened to place him on probation for not investigating claims.
+   20Mars also testified that he was instructed, in effect, to hold off on the investigation of
+claims of the elderly. Specifically, his testimony was as follows:
+   “A. Ms. Core expressed to me her feelings that these cases should be sort of worked up
+to the hilt.
+   “Q. Did she ever explain her reasons why?
+   “A. Well, yes.
+   “Q. What were those reasons?
+   “A. Well, we were aware and she discussed with me that it takes about three to five years
+to bring a case to trial from the date you come in and you get your case number stamped on
+your case until the date you get to come and stand in front of the jury and get your story
+because of the sheer backlog in the courts and all the drug cases that go on, that it would take
+three to five years, no matter what you did to try to speed it up, and when you have, as you
+did, most of the people who make claims against hospitals who are injured were by definition
+either very old or very sick, they would either pass away or become senile before they could
+fully utilize the legal system.
+   “Q. So were there discussions where she said, ‘hold off on doing anything until they
+either passed away or became incompetent’?
+   “A. I don’t believe it was put quite so bluntly, but, yes.”
+                                                                                                  479
+
+
+
+had been followed. After reviewing the evidence of Truck’s actual conduct
+in this matter, the trial court, on October 16, 1990, granted a nonsuit on
+Stewart’s punitive damage claim.21 The court found that there simply was no
+evidence of any conduct by Truck, in this case, that was malicious, oppres-
+sive or fraudulent.22
+
+   On October 30, 1990, the jury returned its special verdict that Truck had
+violated Insurance Code section 790.03, subdivision (h)(3) and (5), and
+that such violations were a legal cause of injury to Stewart. The jury
+   21Stewart argued that Mars’s testimony as to what he was told about how he should conduct
+investigations was sufficient evidence to enable the punitive damage issue to go to the jury.
+The trial court responded with the following explanation of its ruling:
+   “The Court: But, see the language [used] doesn’t mean anything. There is no punitive
+damages for language. That is why I kept emphasizing in my voice the word ‘conduct.’ [1]
+You can go out and use all kinds of nasty words and you can say all kinds of unpleasant and
+rotten things, but only conduct is actionable, and I don’t see any evidence at all of any
+conduct here that was oppressive, malicious or fraudulent. [1] . . . [J] Let us face it, the
+question of clear and convincing goes to the extent that the jury is persuaded of the truth, but
+there has to be some evidence, competent evidence, on which they can be persuaded, and I
+don’t think there is any here. [1] . . . .
+   “The Court: The chronology is something we are all familiar with after these days of
+testimony: The injury in February; Mr. Stewart remained in the hospital until March. His
+attorney sent the 90-day letter in June. I mean, even if you took Mr. Hale’s opinion that, well,
+they should have gone out and found Mr. Stewart, they should have made him an offer for his
+injured arm, even if that were true, it couldn’t possibly have been despicable. I mean, that is
+ridiculous. So the demand letter goes out on June 14th, the demand letter goes to the hospital.
+Then it goes to the carrier on June 27th, and they have knowledge that Mr. Stewart has a
+lawyer. [1] Well, it couldn’t possibly be despicable conduct not to contact Mr. Stewart after
+that because they have a duty to deal with his lawyer and not to go throwing money at him.
+They have got to deal with his lawyer, so they write a response letter on the 12th of [July]
+asking for documentation of the claim. ... [1] The letter has been variously characterized.
+Mr. Kinkle thought it was a stall letter. Mr. Hall thought it was a worthless letter asking for
+information that they might have already had. I will accept that for the purposes of this
+argument. [1] But is it malicious conduct to send out a letter asking for documentation? The
+evidence is also that that is a customary and usual thing to do. [1] So then what is the next
+thing that happens after the July 12th letter? The next thing that happens is that Mr. Stewart
+falls in his bathroom on July 24, and immediately thereafter, Mr. Kinkle hooks up the injury
+of July 24 to the injection of February. [5] Well, can it possibly be malicious or oppressive not
+to make him an offer then when he has just now made a claim for a catastrophic injury? No.
+No way. [1] So then what happens? The next thing that occurs is that on September 14, 1984,
+the plaintiff files suit. So after the plaintiff files suit, they have to get a lawyer, they give it to
+Mr. Davis’ office, and Davis takes it over after that. [1] I don’t see any evidence of any
+oppressive, malicious or despicable conduct here whatsoever, and after the case is in litigation
+and Mr. Davis is handling it, making the decisions with it, I don’t see any evidence of any
+oppressive or malicious or fraudulent conduct. [1] The case was processed, interrogatories,
+discovery, and what have you, settlement discussion, inadequate claim to the plaintiff. But a
+settlement offer was made and rejected and the case goes to trial. [1] So the motion for
+nonsuit as to the punitive damages sought pursuant to Civil Code section 3294 is granted.”
+   22The trial court subsequently denied Stewart’s motion for reconsideration and Stewart’s
+petition for a writ of mandate was denied by another division of this court.
+ 480
+
+
+awarded him $175,000 for his “financial injury” and $25,000 for emotional
+distress. Truck moved for a new trial on the issues of both liability and
+damages. The trial court disagreed as to the issue of liability but did agree
+that the financial injury damages awarded to Stewart were excessive in that
+the evidence did not reflect a loss of more than $62,000. Truck’s motion was
+therefore partially and conditionally granted: unless Stewart accepted a
+remittitur of the amount of his judgment to $87,000 (i.e., $62,000 financial
+injury damages plus $25,000 for emotional distress), there would be a new
+trial as to damages. Although the trial court did not limit the conditional new
+trial to financial injury damages, the only explanation given for the order
+was the excessiveness of those damages.
+
+   Stewart also moved for a new trial with respect to the trial court’s grant of
+a nonsuit on the issue of punitive damages. Without explanation, this motion
+was granted.23
+
+   Truck then noticed this timely appeal. Stewart moved in this court to
+dismiss the appeal on the ground that the trial court had, in effect, ruled that
+if Stewart was unwilling to accept the remittitur a new trial on all issues had
+been ordered. We denied that motion, concluding that the trial court had
+ordered a new trial only on the damages issue.24 Stewart petitioned for
+rehearing and Supreme Court review. Both petitions were denied.
+
+                                     Issues    Presented
+
+   Truck raises two principal issues. First, it asserts that there was no
+substantial evidence to support the jury’s determination that it had violated
+Insurance Code section 790.03, subdivision (3) and (5). Therefore, it con-
+tends that it is entitled to entry of judgment in its favor on all issues.
+
+  Secondly, Truck argues that the trial court properly granted a nonsuit as to
+punitive damages and its order thereafter granting a new trial on that issue
+was error. Truck contends that there was no substantial evidence of conduct
+by Truck which would support a punitive damage claim.
+   23Although the court explained the basis for its ruling on Truck’s new trial motion, it did
+not do so with respect to the one made by Stewart. The court simply included in its minute
+order the sentence, “[Stewart’s] motion for new trial is granted.” In its oral announcement of
+this decision the trial court does not provide much additional information: “I’m going to grant
+[Stewart’s] motion. In other words, if the motion for new trial is granted because of
+[Stewart’s] failure to file the remittitur, then his motion for a new trial on the issue of punitive
+damages is likewise granted. ...[?]         In other words, you try the case, everything all over
+again.”
+    24As the point was not raised or argued in Stewart’s motion papers, we made no distinction
+between “financial injury” damages and those for emotional distress. However, on this record
+it is clear that the only damages which the trial court thought to be excessive, or to which its
+new trial order was directed, were the former.
+                                                                                         481
+
+
+  Truck finally asserts that if we agree with either of these contentions then
+we need not consider or address any other issue. In such event, Truck
+withdraws all remaining contentions.25 As we believe that the trial court
+improperly granted a new trial on the punitive damage claim, we accept
+Truck’s reduction of the issues before us. We therefore will deal solely with
+that question and will conclude that the trial court was in error for two
+reasons, the first substantive and the second procedural: (1) there was no
+substantial evidence to support a punitive damage claim and (2) the trial
+court failed to explain its reasons for granting a new trial on the issue as
+required by Code of Civil Procedure section 657.
+
+                                       Discussion
+
+   1. Standard of Review
+
+   In reviewing the trial court’s order granting Stewart a new trial on the
+punitive damage claim, we necessarily review the correctness of the court’s
+original order granting Truck a nonsuit on that issue. If the trial court
+correctly granted the nonsuit motion, then there was no error of law on
+which to base the grant of a new trial.
+
+         The standard by which we review an order granting a motion for a
+nonsuit is well and long settled. Truck’s motion was properly granted only if
+it appeared from the evidence, viewed in the light most favorable to Stewart,
+that there was no substantial evidence supporting a punitive damage claim. If
+there was some credible evidence, even though in conflict with other credi-
+ble evidence, that is sufficient; similarly, it is enough if reasonable infer-
+ences may be drawn from the evidence presented which will satisfy the
+requirements of a claim for punitive damages. In making this evaluation of
+the evidence the trial court may not weigh the evidence or judge the
+credibility of witnesses. (Carson v. Facilities Development Co. (1984) 36
+Cal.3d 830, 838-839 [206 Cal.Rptr. 136, 686 P.2d 656]; Ashcraft v. King
+(1991) 228 Cal.App.3d 604, 611 [278 Cal.Rptr. 900].)
+
+  2. A Claim for Punitive Damages Must Be Evaluated in Light of the
+  Applicable Evidentiary Standard
+
+       Since January 1, 1988, a claim for punitive damages has required
+evidence which establishes by “clear and convincing evidence” that the
+   25At oral argument Truck insisted that this concession should not be construed as an
+abandonment of its argument that there was no substantial evidence of its liability for bad
+faith and thus it is entitled to entry of judgment. We do not mistake the point; however, we
+believe that this record certainly provides substantial evidence of Truck’s liability on that
+claim and thus this alternative contention is without merit.
+ 482
+
+
+
+defendant has been “guilty of oppression, fraud, or malice.” If a plaintiff is
+to recover on such a claim, it will be necessary that the evidence presented
+meet this higher evidentiary standard. As the United States Supreme Court
+put it, in the context of ruling on a motion for summary judgment, “the judge
+must view the evidence presented through the prism of the substantive [clear
+and convincing] evidentiary burden ....[$          Our holding that the clear-
+and-convincing standard of proof should be taken into account in ruling on
+summary judgment motions does not denigrate the role of the jury.” (Ander-
+son v. Liberty Lobby, Inc. (1986) 477 U.S. 242, 254-255 [91 L.Ed.2d
+202, 215-216, 106 S.Ct. 2505]; see also Reader’s Digest Assn. v. Superior
+Court (1984) 37 Cal.3d 244, 252 [208 Cal.Rptr. 137, 690 P.2d 610]; Live
+Oak Publishing Co. v. Cohagan (1991) 234 Cal.App.3d 1277, 1288 [286
+Cal.Rptr. 198].)
+
+   We see no reason why this standard should not apply here. If Stewart was
+ever going to prevail on his punitive damage claim he could only do so by
+the presentation of clear and convincing evidence that Truck had by its
+conduct, demonstrated malice.26 Thus, the trial court properly viewed the
+evidence presented by Stewart with that higher burden in mind.27 In our
+review of the trial court’s order granting the nonsuit, we can do no differ-
+ently.
+
+   3.   Stewart Did Not Present Any Substantial Evidence of Malice
+
+         As already noted, Stewart claimed only that Truck was guilty of
+malice. However, the evidence presented, while sufficient to support a
+verdict based on bad faith, provided no basis whatever for the conclusion
+that Truck had acted with malice.28
+
+   Stewart’s attorney himself underscores this conclusion by his own argu-
+ment summarizing what he perceived to be the strong points of the case
+offered in support of the punitive damage claim. In opposing Truck’s motion
+for a nonsuit on this issue he argued only that, “the conduct [demonstrating
+malice] is then taking his time on this claim, and it’s supported by the way
+the claim was handled and the fact there was never an investigation done
+   26The only basis asserted by Stewart in the trial court for imposing punitive damages on
+Truck was malice. He does not contend otherwise here.
+   27Beyond doubt, when the Legislature amended Civil Code section 3294 in 1987 to impose
+a “clear and convincing” evidentiary standard, it intended to impose a new statutory limitation
+on the award of punitive damages. (Mock v. Michigan Millers Mutual Ins. Co. (1992) 4
+Cal.App.4th 306, 331 [5 Cal.Rptr.2d 594].)
+   28Civil Code section 3294, subdivision (c)(1) defines malice as “conduct which is [1]
+intended by the defendant to cause injury to the plaintiff or [2] despicable conduct which is
+carried on by the defendant with a willful and conscious disregard of the rights or safety of
+others.” (Italics added.)
+                                                                                         483
+
+
+until [the new adjustor] got on the phone, and then even after that, that some
+of the delay that is not explained, especially in [the claims supervisor’s]
+testimony, that within, I believe it was 30 to 60 days, an investigation report
+should be done, and within 30 to 60 days the hospital should be contacted,
+this is way beyond that. And [it] explains Mr. Mars’ conduct in accordance
+with the way he was instructed.”
+
+   While we have no trouble concluding that the evidence in this case was
+sufficient to support the jury’s finding of bad faith, it does not follow that it
+also established a basis for punitive damages.            As we recently noted,
+“Evidence that an insurer has violated its duty of good faith and fair dealing
+does not thereby establish that it has acted with the requisite malice ... to
+justify an award of punitive damages. [Citations.] In order to establish that
+an insurer’s conduct has gone sufficiently beyond mere bad faith to warrant
+a punitive award, it must be shown by clear and convincing evidence that the
+insurer has acted maliciously . . . .” (Mock v. Michigan Millers Mutual Ins.
+Co., supra, 4 Cal.App.4th at p. 328, italics in original.)
+
+          Did Truck’s conduct, viewed in the light most favorable to Stewart,
+rise to the level of malice? Was there any evidence that Truck intended to
+cause Stewart injury? Did Truck’s actions constitute despicable conduct29
+carried out in a conscious disregard of Stewart’s rights? We think, as the trial
+judge obviously did,30that the answer to each of these questions is no. While
+Truck’s investigation could possibly have been pursued with more vigor, it
+was nonetheless pursued, not ignored. By the time that Stewart’s “intent to
+sue” letter had been received by Truck there were only four or five weeks
+before Stewart’s fall seriously complicated not only his recovery from the
+consequences of the negligent injection but also the investigation and eval-
+uation of this case.
+
+   There simply was no evidence of either an intent to injure Stewart or any
+despicable conduct carried out in conscious disregard of his rights. To the
+contrary, the record reflects an ongoing effort by Truck to obtain the
+necessary information to evaluate Stewart’s damages which was only made
+more difficult by his unfortunate fall on July 24, 1984. The conclusion
+reached by Truck’s attorney that the fall was unrelated to the earlier negli-
+gent injection and that most of Stewart’s damages appeared to have resulted
+from his fall was not an obviously unreasonable one. We will not quarrel
+   29“Despicable conduct” is defined in BAJI No. 14.72.1 (1992) Re-rev.) as “conduct which
+is so vile, base, contemptible, miserable, wretched or loathsome that it would be looked down
+upon and despised by ordinary decent people.”
+   30See footnote 21, ante, for the remarks of the trial judge summarizing the evidence when
+he granted Truck’s nonsuit motion.
+ 484
+
+
+
+with the jury’s conclusion that it violated Insurance Code section 790.03,
+subdivision (h)(3) and (5), but we certainly cannot agree with Stewart’s
+claim that such acts provide any evidence of malice. In this regard, we also
+note that the record is undisputed that Truck relied entirely on the advice of
+its counsel from and after October 1984 when it was served with Stewart’s
+complaint in the underlying action.
+
+  4. The Order for a New Trial as to Punitive Damages Did Not Comply
+  With the Requirements of Code of Civil Procedure Section 657
+
+   Code of Civil Procedure section 657, as it was amended in 1965 and 1967,
+provides, “When a new trial is granted, on all or part of the issues, the court
+shall specify the ground or grounds upon which it is granted and the court’s
+reason or reasons for granting the new trial upon each ground stated.”
+(Italics added.) Such specification must be put in writing and the statute
+prohibits the court from delegating this task to counsel.        This statutory
+change was designed to serve the dual purposes of (1) promoting some
+deliberation on the part of the trial court in the exercise of its broad
+discretionary power to grant a new trial and (2) making the right of appeal
+more meaningful by focusing the reviewing court’s attention on the portion
+of the record which justifies the new trial order. (.Mercer v. Perez (1968) 68
+Cal.2d 104, 112-113, 115 [65 CaLRptr. 315, 436 P.2d 315].)
+
+   Appellate review of such an order is also limited by the statute. Where the
+only ground for granting the new trial motion was excessive damages, it
+“shall not be affirmed . . . unless such ground is stated in the order granting
+the motion and ... it shall be conclusively presumed that said order as to
+such ground was made only for the reasons specified. . . .” (Code Civ.
+Proc., § 657, italics added.)         Here the only reason given by the trial
+court for conditionally granting Truck’s new trial motion was the excessive
+nature of Stewart’s “financial injury” damages. Thus, it is conclusively
+presumed that such ground is the only basis for a new trial on damages. The
+retrial of the damage issue must therefore, be limited to that issue.
+
+   With respect to Stewart’s motion for a new trial, the trial court assigned
+no ground therefor and gave no reasons whatever. This is contrary to the
+mandate of the statute which requires that the trial court state the grounds
+and supporting reasons in writing, either in the order itself or in a separate
+statement filed within 10 days. (Code Civ. Proc., § 657; La Manna v. Stewart
+(1975) 13 Cal.3d 413, 422 [118 Cal.Rptr. 761, 530 P.2d 1073].) Oral
+statements by the judge are not sufficient. (Steinhart v. South Coast Area
+Transit (1986) 183 Cal.App.3d 770, 773,11A [228 Cal.Rptr. 283].) Substan-
+tial compliance by the trial court is likewise not sufficient; ‘full and timely
+                                                                             485
+
+
+compliance” with the statute is required. (LaManna v. Stewart, supra, 13
+Cal.3d 413 at p. 423, quoting from Mercer v. Perez, supra, 68 Cal.2d at p.
+124, italics added by the La Manna court.)
+
+   It is clear that the trial court did not comply with the statute and therefore
+the new trial order as to punitive damages cannot stand. We reject Stewart’s
+argument that no separate reasons were required because the court had
+properly granted a conditional new trial as to financial injury damages.
+Those were separate motions made by separate parties. That it may have
+been the trial court’s intent to ensure that if there was to be a new trial as to
+any damages there would be one as to all damages makes no difference.
+Compliance with the strict requirements of Code of Civil Procedure section
+657 was not excused.
+
+   Moreover, this is not a case where it would be prejudicial or unjust to
+either party to have a limited retrial. (See, e.g., Liodas v. Sahadi (1977) 19
+Cal.3d 278, 286 [137 Cal.Rptr. 635, 562 P.2d 316].) We do not have before
+us a verdict where an award of punitive damages is so interwoven with a
+compensatory award as to make it unfair to have a retrial limited to the
+latter. (Cf. Pelletier v. Eisenberg (1986) 111 Cal.App.3d 558, 563-566 [223
+Cal.Rptr. 84].) The jury never received or considered the issue of punitive
+damages. Its decision as to the amount of compensatory damages was thus
+not affected or impacted by that issue. In addition, there is no logical
+connection between the presence or absence of malice and the amount of
+compensatory damages which Stewart is entitled to recover. There is no
+apparent rationale for reviving the punitive damage issue merely because
+there is to be a new trial as to a portion of the compensatory damages.
+
+                                 Conclusion
+
+   During the trial, the trial court properly viewed Stewart’s evidence
+through the prism of the substantive burden of “clear and convincing”
+evidence. When the evidence of Truck’s alleged “malice” is so examined it
+is obvious that there is no issue to be submitted to a jury. There simply was
+no evidence of malice presented. The trial court’s original order of nonsuit
+was correct. For that reason, and because it was procedurally defective, the
+order granting a new trial on that issue must be reversed. However, the
+conditional new trial order, limited to the issue of Stewart’s financial injury
+damages, was proper.
+
+                                 Disposition
+
+  The portion of the trial court’s order granting a new trial as to punitive
+damages is reversed. The portion of the order denying a new trial as to
+ 486
+
+
+Truck’s bad faith liability but granting one as to Stewart’s financial injury
+damages is affirmed. The case is remanded for further proceedings consis-
+tent with the views expressed herein. The parties shall bear their own costs
+on appeal.
+
+  Hinz, J„ and Kitching, J., concurred.
+
+  A petition for a rehearing was denied August 23, 1993.
+

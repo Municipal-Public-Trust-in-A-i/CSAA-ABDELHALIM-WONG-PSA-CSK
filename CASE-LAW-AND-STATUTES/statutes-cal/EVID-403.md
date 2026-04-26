@@ -1,0 +1,22 @@
+Source: leginfo.legislature.ca.gov (EVID § 403)
+
+## Text
+
+Evidence Code - EVID
+DIVISION 3. GENERAL PROVISIONS [300 - 413]
+( Division 3 enacted by Stats. 1965, Ch. 299. )
+CHAPTER 4. Admitting and Excluding Evidence [350 - 406]
+( Chapter 4 enacted by Stats. 1965, Ch. 299. )
+ARTICLE 2. Preliminary Determinations on Admissibility of Evidence [400 - 406]
+( Article 2 enacted by Stats. 1965, Ch. 299. )
+403.
+(a) The proponent of the proffered evidence has the burden of producing evidence as to the existence of the preliminary fact, and the proffered evidence is inadmissible unless the court finds that there is evidence sufficient to sustain a finding of the existence of the preliminary fact, when:
+(1) The relevance of the proffered evidence depends on the existence of the preliminary fact;
+(2) The preliminary fact is the personal knowledge of a witness concerning the subject matter of his testimony;
+(3) The preliminary fact is the authenticity of a writing; or
+(4) The proffered evidence is of a statement or other conduct of a particular person and the preliminary fact is whether that person made the statement or so conducted himself.
+(b) Subject to Section 702, the court may admit conditionally the proffered evidence under this section, subject to evidence of the preliminary fact being supplied later in the course of the trial.
+(c) If the court admits the proffered evidence under this section, the court:
+(1) May, and on request shall, instruct the jury to determine whether the preliminary fact exists and to disregard the proffered evidence unless the jury finds that the preliminary fact does exist.
+(2) Shall instruct the jury to disregard the proffered evidence if the court subsequently determines that a jury could not reasonably find that the preliminary fact exists.
+(Enacted by Stats. 1965, Ch. 299.)

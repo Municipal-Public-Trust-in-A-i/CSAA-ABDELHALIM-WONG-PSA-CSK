@@ -1,0 +1,182 @@
+{
+  "fetched_at_utc": "2026-04-24T03:34:25.080512+00:00",
+  "source_index": "https://courts.ca.gov/rules-forms/rules-court",
+  "sf_local_rules_page": "https://sf.courts.ca.gov/general-information/san-francisco-local-rules-court",
+  "artifacts": [
+    {
+      "path": "statewide-crc/roc-title-1.pdf",
+      "url": "https://courts.ca.gov/system/files?file=file/roc-title-1.pdf",
+      "bytes": 295898,
+      "sha256": "980514a6d7072b2b911e7bcfd14e1dff1b8a024ddad78c4d20f15c11d589ef01",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-title-2.pdf",
+      "url": "https://courts.ca.gov/system/files?file=file/roc-title-2.pdf",
+      "bytes": 945660,
+      "sha256": "95cf391e253ecf07a1bc847b37cf4df7bfd0ed57a53e94a14f7d16c7f959c545",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-title-3.pdf",
+      "url": "https://courts.ca.gov/system/files?file=file/roc-title-3_0.pdf",
+      "bytes": 1636318,
+      "sha256": "3a8c40f0862fd8a9ad6d6612d109002e972a90f2daa1990e202698304f0d4beb",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-title-4.pdf",
+      "url": "https://courts.ca.gov/system/files?file=file/roc-title-4.pdf",
+      "bytes": 894931,
+      "sha256": "28800aa0f531d61ad9cd71898bc244b191ab170f9d5cda14a411a24872cec6f8",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-title-5.pdf",
+      "url": "https://courts.ca.gov/system/files?file=file/roc-title-5.pdf",
+      "bytes": 3378111,
+      "sha256": "3088489a79b9532035341af77919e55cba2f07bc8cd2e29e87147c85f3830537",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-title-6.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/roc-title-6.pdf",
+      "bytes": 49338,
+      "sha256": "3a93bdbe78ecef3cd229404de9f27f6bef723395e2b512067f5d201d1126f030",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-title-7.pdf",
+      "url": "https://courts.ca.gov/system/files?file=file/roc-title-7.pdf",
+      "bytes": 738619,
+      "sha256": "f8b6debc5570dc3e1903fa73c5407fe389f61969609ce1462c62015fa6891b79",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-title-8.pdf",
+      "url": "https://courts.ca.gov/system/files?file=file/roc-title-8_0.pdf",
+      "bytes": 2960605,
+      "sha256": "fac82a3ca3546c0e8929e0ac8d929d8d41e5a456bf4a18d8c2c10015448f4c32",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-title-9.pdf",
+      "url": "https://courts.ca.gov/system/files?file=file/roc-title-9.pdf",
+      "bytes": 767870,
+      "sha256": "4c2aaeba57460604a60897b5b536d716a4c168f51dd65e480a3947681a8a04c6",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-title-10.pdf",
+      "url": "https://courts.ca.gov/system/files?file=file/roc-title-10.pdf",
+      "bytes": 1685623,
+      "sha256": "8f17b5408ccc4f2651973cdd485dd9ea543428db825854dd8b52eb20b641e7eb",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-standards-judicial-administration.pdf",
+      "url": "https://courts.ca.gov/system/files?file=file/roc-standards-judicial-administration.pdf",
+      "bytes": 642454,
+      "sha256": "2c37060f78b591c3640d8ec41b5eebdcf60948a098e6a346925b762223bb5877",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-ethics-standards-neutral-arbitrators.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/roc-ethics-standards-neutral-arbitrators.pdf",
+      "bytes": 314012,
+      "sha256": "b3f7fbf657c879a759534becf54ebb511eb30ff87228ad9a8a323ed37dd1c11c",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-appendix-a-forms-list.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/appendix.pdf",
+      "bytes": 1648927,
+      "sha256": "d1fa41ae32ce383070af6b2a218677dc5da3c677cbe2e0c77fdd9560de18c808",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-appendix-b.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/appendix_b.pdf",
+      "bytes": 100139,
+      "sha256": "5734dcdf01ddba6290828467f4f5584042dc4a21a07f9d579355bdda3f98787c",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-appendix-c.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/roc-appendix-c.pdf",
+      "bytes": 122916,
+      "sha256": "ce03f8f5e23ab3ca4cdf7ceaad6603ca7bc3c1f55ea87d49f0a2f6b2c88d3fb8",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-appendix-d.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/roc-appendix-d.pdf",
+      "bytes": 797050,
+      "sha256": "35c7bf1a1b06364f675d45b5ae8e8b515f91206bc756a2ea3fb9cc60631e2660",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-appendix-e.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/roc-appendix-e.pdf",
+      "bytes": 129595,
+      "sha256": "424f84f1d5f781d0a8dad6ed30f454c18c5725e31c0055cd7adac00856743c6c",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-appendix-f.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/roc-appendix-f.pdf",
+      "bytes": 274541,
+      "sha256": "3bb234fdd5d27aaf29e0c01f794aebfe44b451359e82892406912063f266f7c1",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-appendix-g.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/roc-appendix-g.pdf",
+      "bytes": 300194,
+      "sha256": "e2ee3390966e40749b3e3cb1374f3d5d7beac620a1fa10a87976c40ad3d5b611",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-appendix-h.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/roc-appendix-h.pdf",
+      "bytes": 147474,
+      "sha256": "12bcc2e7be580f8e4f83ec0e8f963677f319d7027127df591da4e3c347553887",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/roc-appendix-i-covid-emergency.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/roc-appendix-i.pdf",
+      "bytes": 231597,
+      "sha256": "4b4f5e77e5733b36c7ac4d7b3654c8a66952f46cb9a7623b4ac11a526f78163f",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/rules-conversion-table-new-to-old.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/rules_conversion_table_06_06_06__2_.pdf",
+      "bytes": 1773574,
+      "sha256": "ce4324d53141a924a243c09dd1c49cd600b94a653de73210c036a68d687ef7ba",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/rules-conversion-table-old-to-new.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/rules_conversion_table_reverse_060606.pdf",
+      "bytes": 1352816,
+      "sha256": "9759f42631a573640c0bb5c6e9e73e993b7798c49c81f3398d7c72ff85422a87",
+      "status": "ok"
+    },
+    {
+      "path": "statewide-crc/ca-code-of-judicial-ethics.pdf",
+      "url": "https://courts.ca.gov/system/files?file=rules-court/ca_code_judicial_ethics.pdf",
+      "bytes": 612043,
+      "sha256": "5997fd8ad0dc3b65c6fb578cd8896ab7d85c55cce8b37a9d742b8a76ac1b726c",
+      "status": "ok"
+    },
+    {
+      "path": "sf-superior/SF-Local-Rules-effective-2026-01-01.pdf",
+      "url": "https://sf.courts.ca.gov/system/files/local-rules/final-proposed-changes-lrsf-effective-january-1-2026_0.pdf",
+      "bytes": 2374924,
+      "sha256": "ece6a73e5defd7c9040526d0fa287fc283052ca8882824ec20415b0ba5c5ff94",
+      "status": "ok"
+    }
+  ]
+}

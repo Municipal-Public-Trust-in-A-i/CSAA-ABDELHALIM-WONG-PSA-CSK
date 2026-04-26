@@ -1,0 +1,1029 @@
+{
+  "version": 1,
+  "source": "scripts/extract_defense_authorities.py",
+  "authorities_json": "COURT-DEFENSE/cache/defense-pleadings-authorities.json",
+  "items": [
+    {
+      "type": "case",
+      "citation": "1 Cal.3d 467",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*1-cal3d-467*.pdf",
+      "found_pdf": [],
+      "found_md": [
+        "CASE-LAW-AND-STATUTES/cases-cal-supreme/Kulchar-v-Kulchar-1-Cal3d-467.md"
+      ],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "1 Cal.5th 376",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*1-cal5th-376*.pdf",
+      "found_pdf": [
+        "CASE-LAW-AND-STATUTES/opinions-pdf/Baral-v-Schnitt-1-Cal-5th-376.pdf"
+      ],
+      "found_md": [],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "10 Cal.4th 1226",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*10-cal4th-1226*.pdf",
+      "found_pdf": [
+        "CASE-LAW-AND-STATUTES/opinions-pdf/Alliance-Mortgage-Co-v-Rothwell-10-Cal-4th-1226.pdf"
+      ],
+      "found_md": [],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "107 Cal.App.3d 1",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*107-calapp3d-1*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "112 Cal.App.4th 1416",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*112-calapp4th-1416*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "113 Cal.App.4th 181",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*113-calapp4th-181*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "114 Cal.App.3d 503",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*114-calapp3d-503*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "115 Cal.App.2d 834",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*115-calapp2d-834*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "12 Cal.4th 631",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*12-cal4th-631*.pdf",
+      "found_pdf": [
+        "CASE-LAW-AND-STATUTES/opinions-pdf/Lazar-v-Superior-Court-12-Cal-4th-631.pdf"
+      ],
+      "found_md": [],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "12 Cal.4th 826",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*12-cal4th-826*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "128 Cal.App.4th 1009",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*128-calapp4th-1009*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "129 Cal.App.4th 1228",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*129-calapp4th-1228*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "137 Cal.App.4th 1118",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*137-calapp4th-1118*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "141 Cal.App.2d 722",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*141-calapp2d-722*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "147 Cal.App.4th 13",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*147-calapp4th-13*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "15 Cal.4th 951",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*15-cal4th-951*.pdf",
+      "found_pdf": [
+        "CASE-LAW-AND-STATUTES/opinions-pdf/Engalla-v-Permanente-Medical-Group-15-Cal-4th-951.pdf"
+      ],
+      "found_md": [],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "15 Cal.App.5th 462",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*15-calapp5th-462*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "162 Cal.App.4th 1107",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*162-calapp4th-1107*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "170 Cal.App.3d 725",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*170-calapp3d-725*.pdf",
+      "found_pdf": [],
+      "found_md": [
+        "CASE-LAW-AND-STATUTES/cases-cal-appellate/Aldrich-v-San-Fernando-Valley-Lumber-Co-170-Cal-App-3d-725.md"
+      ],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "177 Cal.App.4th 471",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*177-calapp4th-471*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "179 Cal.App.3d 241",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*179-calapp3d-241*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "18 Cal.2d 409",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*18-cal2d-409*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "18 Cal.3d 631",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*18-cal3d-631*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "181 Cal.App.4th 1108",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*181-calapp4th-1108*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "183 Cal.App.2d 431",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*183-calapp2d-431*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "189 Cal.App.4th 1296",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*189-calapp4th-1296*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "19 Cal.4th 1106",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*19-cal4th-1106*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "194 Cal.App.4th 873",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*194-calapp4th-873*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "198 Cal.App.4th 1153",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*198-calapp4th-1153*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "2 Cal.3d 285",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*2-cal3d-285*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "2 Cal.App.4th 521",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*2-calapp4th-521*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "20 Cal.4th 1178",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*20-cal4th-1178*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "202 Cal.App.4th 280",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*202-calapp4th-280*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "206 Cal.App.4th 751",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*206-calapp4th-751*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "21 Cal.4th 563",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*21-cal4th-563*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "21 Cal.4th 71",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*21-cal4th-71*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "211 Cal.App.4th 809",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*211-calapp4th-809*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "212 Cal.App.3d 66",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*212-calapp3d-66*.pdf",
+      "found_pdf": [],
+      "found_md": [
+        "CASE-LAW-AND-STATUTES/cases-cal-appellate/In-re-Marriage-of-Baltins-212-Cal-App-3d-66.md"
+      ],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "219 Cal.App.3d 318",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*219-calapp3d-318*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "221 Cal.App.4th 1510",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*221-calapp4th-1510*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "222 Cal.App.4th 945",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*222-calapp4th-945*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "226 Cal.App.4th 1599",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*226-calapp4th-1599*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "226 Cal.App.4th 578",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*226-calapp4th-578*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "226 Cal.App.4th 830",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*226-calapp4th-830*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "227 Cal.App.4th 428",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*227-calapp4th-428*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "227 Cal.App.4th 813",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*227-calapp4th-813*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "236 Cal.App.4th 793",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*236-calapp4th-793*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "237 Cal.App.4th 368",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*237-calapp4th-368*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "239 Cal.App.4th 555",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*239-calapp4th-555*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "244 Cal.App.4th 982",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*244-calapp4th-982*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "25 Cal.3d 932",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*25-cal3d-932*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "25 Cal.4th 62",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*25-cal4th-62*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "25 Cal.App.5th 211",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*25-calapp5th-211*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "26 Cal.2d 680",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*26-cal2d-680*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "265 Cal.App.2d 82",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*265-calapp2d-82*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "29 Cal.4th 69",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*29-cal4th-69*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "29 Cal.App.3d 270",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*29-calapp3d-270*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "31 Cal.3d 637",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*31-cal3d-637*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "32 Cal.4th 350",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*32-cal4th-350*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "32 Cal.App.5th 745",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*32-calapp5th-745*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "34 Cal.4th 979",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*34-cal4th-979*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "34 Cal.App.4th 117",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*34-calapp4th-117*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "34 Cal.App.5th 341",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*34-calapp5th-341*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "35 Cal.4th 797",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*35-cal4th-797*.pdf",
+      "found_pdf": [
+        "CASE-LAW-AND-STATUTES/opinions-pdf/Fox-v-Ethicon-Endo-Surgery-35-Cal-4th-797.pdf"
+      ],
+      "found_md": [],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "36 Cal.App.4th 237",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*36-calapp4th-237*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "37 Cal.4th 1048",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*37-cal4th-1048*.pdf",
+      "found_pdf": [],
+      "found_md": [
+        "CASE-LAW-AND-STATUTES/cases-cal-supreme/Rusheen-v-Cohen-37-Cal4th-1048.md"
+      ],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "38 Cal.App.3d 519",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*38-calapp3d-519*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "39 Cal.4th 299",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*39-cal4th-299*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "39 Cal.App.5th 779",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*39-calapp5th-779*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "41 Cal.4th 624",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*41-cal4th-624*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "42 Cal.3d 1051",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*42-cal3d-1051*.pdf",
+      "found_pdf": [],
+      "found_md": [
+        "CASE-LAW-AND-STATUTES/cases-cal-supreme/In-re-Marriage-of-Arceneaux-42-Cal3d-1051.md"
+      ],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "42 Cal.App.2d 794",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*42-calapp2d-794*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "42 Cal.App.4th 628",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*42-calapp4th-628*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "44 Cal.App.4th 1807",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*44-calapp4th-1807*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "45 Cal.4th 309",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*45-cal4th-309*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "45 Cal.App.3d 925",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*45-calapp3d-925*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "46 Cal.3d 287",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*46-cal3d-287*.pdf",
+      "found_pdf": [
+        "CASE-LAW-AND-STATUTES/opinions-pdf/Moradi-Shalal-v-Firemans-Fund-Ins-Companies-46-Cal-3d-287.pdf"
+      ],
+      "found_md": [],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "47 Cal.App.4th 777",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*47-calapp4th-777*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "48 Cal.2d 166",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*48-cal2d-166*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "5 Cal.App.3d 728",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*5-calapp3d-728*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "53 Cal.App.4th 15",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*53-calapp4th-15*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "55 Cal.4th 747",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*55-cal4th-747*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "55 Cal.App.4th 1497",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*55-calapp4th-1497*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "57 Cal.4th 364",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*57-cal4th-364*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "58 Cal.App.2d 878",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*58-calapp2d-878*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "58 Cal.App.4th 254",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*58-calapp4th-254*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "59 Cal.2d 618",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*59-cal2d-618*.pdf",
+      "found_pdf": [],
+      "found_md": [
+        "CASE-LAW-AND-STATUTES/cases-cal-supreme/Prentice-v-North-American-Title-Guar-Corp-59-Cal2d-618.md"
+      ],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "59 Cal.App.5th 995",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*59-calapp5th-995*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "60 Cal.4th 335",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*60-cal4th-335*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "63 Cal.4th 665",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*63-cal4th-665*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "66 Cal.App.4th 195",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*66-calapp4th-195*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "66 Cal.App.5th 504",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*66-calapp5th-504*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "71 Cal.App.3d 841",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*71-calapp3d-841*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "71 Cal.App.4th 268",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*71-calapp4th-268*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "78 Cal.App.4th 66",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*78-calapp4th-66*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "84 Cal.App.4th 416",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*84-calapp4th-416*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "86 Cal.App.4th 303",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*86-calapp4th-303*.pdf",
+      "found_pdf": [
+        "CASE-LAW-AND-STATUTES/opinions-pdf/Neu-Visions-Sports-v-Soren-86-Cal-App-4th-303.pdf"
+      ],
+      "found_md": [
+        "CASE-LAW-AND-STATUTES/cases-cal-appellate/Neu-Visions-Sports-v-Soren-McAdam-Bartells-86-Cal-App-4th-303.md"
+      ],
+      "status": "present"
+    },
+    {
+      "type": "case",
+      "citation": "92 Cal.App.3d 146",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*92-calapp3d-146*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "96 Cal.App.4th 17",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*96-calapp4th-17*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "98 Cal.App.4th 744",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*98-calapp4th-744*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "case",
+      "citation": "98 Cal.App.4th 892",
+      "expected_pdf_guess": "CASE-LAW-AND-STATUTES/opinions-pdf/*98-calapp4th-892*.pdf",
+      "found_pdf": [],
+      "found_md": [],
+      "status": "missing"
+    },
+    {
+      "type": "statute",
+      "key": "BPC-17200",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/BPC-17200.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "BPC-6068",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/BPC-6068.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-1015",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-1015.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-128",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-128.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-128.5",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-128.5.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-128.7",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-128.7.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-170.1",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-170.1.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-187",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-187.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-2023.010",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-2023.010.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-284",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-284.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-338",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-338.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-425.16",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-425.16.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-437c",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-437c.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CCP-657",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CCP-657.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CIV-1709",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CIV-1709.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CIV-1710",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CIV-1710.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CIV-3281",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CIV-3281.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CIV-3287",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CIV-3287.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CIV-3294",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CIV-3294.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CIV-3333",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CIV-3333.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "CIV-47",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/CIV-47.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "EVID-1155",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/EVID-1155.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "EVID-1200",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/EVID-1200.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "EVID-1220",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/EVID-1220.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "EVID-1401p",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/EVID-1401p.md",
+      "status": "missing"
+    },
+    {
+      "type": "statute",
+      "key": "EVID-210",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/EVID-210.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "EVID-225",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/EVID-225.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "EVID-350",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/EVID-350.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "EVID-402",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/EVID-402.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "EVID-403",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/EVID-403.md",
+      "status": "present"
+    },
+    {
+      "type": "statute",
+      "key": "INS-790.03",
+      "expected_md": "CASE-LAW-AND-STATUTES/statutes-cal/INS-790.03.md",
+      "status": "present"
+    }
+  ]
+}

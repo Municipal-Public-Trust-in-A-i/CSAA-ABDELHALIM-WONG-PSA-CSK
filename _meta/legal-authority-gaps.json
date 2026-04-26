@@ -1,0 +1,47 @@
+{
+  "gaps": [
+    {
+      "citation_href": "https://law.justia.com/cases/california/court-of-appeal/4th/10/1033.html",
+      "source_file": "EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md",
+      "local_file": null,
+      "note": "justia; fetch via download_defense_authorities or manual"
+    },
+    {
+      "citation_href": "https://law.justia.com/cases/california/court-of-appeal/4th/65/673.html",
+      "source_file": "EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md",
+      "local_file": null,
+      "note": "justia; fetch via download_defense_authorities or manual"
+    },
+    {
+      "citation_href": "https://law.justia.com/cases/california/supreme-court/3d/38/396.html",
+      "source_file": "EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md",
+      "local_file": null,
+      "note": "justia; fetch via download_defense_authorities or manual"
+    },
+    {
+      "citation_href": "https://law.justia.com/cases/california/supreme-court/4th/39/260.html",
+      "source_file": "LEGAL-AUTHORITIES.md",
+      "local_file": null,
+      "note": "justia; fetch via download_defense_authorities or manual"
+    },
+    {
+      "citation_href": "https://law.justia.com/cases/california/court-of-appeal/3d/220/59.html",
+      "source_file": "LEGAL-AUTHORITIES.md",
+      "local_file": null,
+      "note": "justia; fetch via download_defense_authorities or manual"
+    },
+    {
+      "citation_href": "https://law.justia.com/cases/california/supreme-court/3d/11/1.html",
+      "source_file": "LEGAL-AUTHORITIES.md",
+      "local_file": null,
+      "note": "justia; fetch via download_defense_authorities or manual"
+    },
+    {
+      "citation_href": "https://law.justia.com/cases/california/supreme-court/3d/35/197.html",
+      "source_file": "LEGAL-AUTHORITIES.md",
+      "local_file": null,
+      "note": "justia; fetch via download_defense_authorities or manual"
+    }
+  ],
+  "count": 7
+}

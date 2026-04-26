@@ -1,0 +1,496 @@
+---
+source_pdf: Equity-Extrinsic-Fraud-cal-3d-vol40-p607-Sanders-v-Sutton.pdf
+title: 40 Cal.3d 607 — Estate of Sanders (Sanders v. Sutton)
+---
+
+## Full text (pdftotext -layout)
+
+```
+                                                               607
+
+
+
+
+[L.A. No. 32054. Dec. 23, 1985.]
+
+Estate of MARY SANDERS, Deceased.
+SARA SANDERS et al., Petitioners and Appellants, v.
+FRANK C. SUTTON, as Executor, etc., Objector and Respondent.
+608
+609
+610
+
+
+
+
+Counsel
+
+Richard J. Scuba for Petitioners and Appellants.
+
+Thomas A. Henry, Jr., for Objector and Respondent.
+
+
+
+Opinion
+
+BROUSSARD, J.                      Appellants,
+                                        SandersSara
+                                                 and her sons Darren and Dav-
+id, appeal from an order of the Superior Court of San Diego County denying
+their motion to set aside the court’s previous orders admitting the will of
+Mary Sanders to probate and ordering final distribution. Appellants moved
+to set aside the probate orders after they learned that respondent Frank
+Sutton, the executor, would inherit the bulk of the estate. Appellants allege
+that by concealment and misrepresentation Sutton prevented them from con-
+testing the will within the statutory period. We conclude that appellants’
+allegations are sufficient to establish extrinsic fraud and we reverse the or-
+der.
+
+                                              I
+
+  The facts are undisputed.1 In 1957, Mary Sanders suffered a “ruptured
+intracranial aneurysm” and was placed in an institution where she remained
+until her death on January 17, 1983. Her son, Gary Sanders, served as her
+conservator until his death in 1978. Respondent Sutton, Mrs. Sanders’ neph-
+ew, was then appointed her conservator. At the time of respondent’s ap-
+pointment, Mrs. Sanders had a holographic will which left her entire estate
+to her son Gary. Sara Sanders,2 Gary’s widow, knew that under this will
+
+   1The facts are derived primarily from the affidavit of Sara Sanders submitted in the trial
+court. Respondent did not submit an affidavit of his own and has not denied appellants’
+factual assertions. He instead takes the position that even if appellants’ declarations are
+accepted as true, they do not support a claim of extrinsic fraud. We are thus required for
+purposes of this appeal to accept the facts as uncontroverted.
+  2Hereinafter referred to as “Sara” in order to avoid confusion with the decedent, Mrs.
+Mary Sanders.
+                                                                                        611
+
+
+
+her sons would receive the entire estate by right of representation.3 From
+the time of Sutton’s appointment as conservator, he appeared to be very
+attentive to the boys’ interests. He attempted, for example, to secure money
+to finance their educational and other expenses. Sara trusted Sutton com-
+pletely.
+
+  In 1980, Sutton took his aunt to a meeting with his attorney, where Mrs.
+Sanders executed a will leaving him her one-third interest in a parcel of
+land in downtown San Diego.4 This parcel is referred to by the parties as
+the “Market Street property.” The probate referee appraised the one-third
+interest at $475,000 in 1983. The total value of Mrs. Sanders’ estate at that
+time was fixed at $554,870. The will also named Sutton executor and trustee
+of a testamentary trust for Darren and David.5
+
+   After a memorial service for Mrs. Sanders on January 23, 1983, Sara
+initiated a conversation with Sutton in which they discussed Mrs. Sanders’
+will, her Market Street property, and the estate in general. Sara asked Sut-
+ton about the Market Street property, how the tax obligations were being
+paid and whether she or the boys would be responsible for any taxes or
+other expenses. Sutton did not respond to her specific inquiries, but repeat-
+edly assured her that he would take care of everything and that she had no
+responsibilities in the matter. He also told her that he would work with the
+lawyer to guarantee that everything was handled properly and that she had
+no reason to call or contact his attorney, whom he had retained for the
+probate proceedings. Sutton told her not to worry or concern herself with
+the estate, he would see to it that everything was in order. He also told her
+that Mrs. Sanders’ will had been put into “legal form” in order to avoid
+any problems in probate. He did not tell her that in putting the will into
+“legal form” the dispositive provisions had been revised so that he, rather
+than the boys, would inherit most of the estate. He again emphasized that
+if he or the attorney needed anything from her, they would contact her. On
+her drive home from the memorial service, Sara remembered thinking how
+knowledgeable Sutton was and how fortunate she and the boys were to have
+
+  3Although Sara was not a beneficiary under the holographic will, respondent does not
+object to her participation in this appeal along with her sons.
+  4By affidavit submitted in the trial court, Sutton’s attorney declared that he prepared two
+wills for Mrs. Sanders, the first on December 11, 1978, and the second on November 21,
+1980. The second will revoked the first. He claims that to the best of his knowledge “the
+decedent executed each will with an understanding of the size and extent of her estate and
+the natural objects of her bounty and was under no fraud, menace or distress at the time of
+such executions.” The attorney’s affidavit does not deny Sara’s assertion that in 1978 Mrs.
+Sanders had a holographic will which left her entire estate to Darren and David. Nor does
+his affidavit deny any of appellants’ assertions regarding Sutton’s conduct.
+   5Darren and David were to receive 70 percent of the residue of the estate to be divided
+equally between them and held in trust by Sutton as trustee until both boys had reached the
+age of 30 and under various other terms and conditions.
+612
+
+
+
+him taking care of all the details. She was thankful that he was saving them
+from going through the same “trials and tribulations” they experienced after
+her husband’s death five years before.
+
+   On February 9, 1983, Sutton filed a petition to probate the will and for
+letters testamentary. A formal notice of the death and of a hearing on Sut-
+ton’s petition was mailed to and received by appellants. Upon receipt of the
+notice, Sara called Sutton and asked if it was necessary for her to do any-
+thing at that time. He again assured her that everything was fine—he and
+the lawyer were handling the matter, and the boys’ interests were well
+represented. Appellants did not attend the hearing. On March 10, 1983, the
+court issued an order admitting the will to probate and appointing Sutton
+executor. The adoption of this order commenced the 120-day statutory pe-
+riod for a contest of the will. (See Prob. Code, § 380.)
+
+  In April 1983, appellants began receiving statements regarding the estate
+from the Bank of California. Sara was surprised to see that the Market Street
+property was not listed. She wrote a letter to Sutton thanking him for his
+“kindness” and requesting that he send any information he had on the Mar-
+ket Street property. She asked why the property did not appear on the fi-
+nancial statements received from the bank. She also specifically asked
+whether the property had been sold and, if not, what effect the Gas Lamp
+Quarter redevelopment project in downtown San Diego would have on the
+property.6 Sutton did not reply to the letter.
+
+  In July 1983, Sara again attempted to contact Sutton, this time by tele-
+phone. The call was not returned. In September 1983, she tried calling
+Sutton both at his office and at his home. He was never present at either
+location when she called and never responded to her messages to call her.
+Sara and her son Darren attempted to contact Sutton on three subsequent
+occasions without success. Their calls were not returned. Sara still trusted
+Sutton at this point and was concerned that he might be insulted by her
+repeated requests for information on the Market Street property.
+
+  Sutton filed a final account and petition for distribution on January 11,
+1984. A hearing on the petition was scheduled for February 1, 1984. Sara
+received notice of the hearing on January 24, 1984. She did not recognize
+the names of several of the intended beneficiaries. The notice also indicated
+that all taxes and fees were due and payable as of March 1, 1984. Sara still
+had not heard from Sutton and became concerned about the obligations the
+
+   6In his affidavit submitted to the trial court, Sutton’s attorney noted that the creation of
+the Gas Lamp Redevelopment District had “undoubtedly increased the value of the interest
+[in the Market Street property].”
+                                                                          613
+
+
+
+probate proceeding might place on her and the children. She still had con-
+fidence in Sutton, however, and did not want to hurt his feelings by ques-
+tioning the lawyer before discussing the matter directly with him. She called
+Sutton the day after receiving the notice, apparently at his office. The re-
+ceptionist hung up on her.
+   Sara finally succeeded in contacting Sutton on January 26, 1984. He told
+her there was no need for her to attend the hearing. He assured her there
+would be “no problems.” Although she asked him repeatedly about the
+Market Street property, he was evasive in his answers. After the fourth
+inquiry, Sutton admitted that he had had Mrs. Sanders change her will to
+leave the property to him. He told her there was nothing she could do about
+it now. Sara immediately contacted an attorney.
+  Counsel for appellants appeared at the February 1 hearing to orally con-
+test the petition. Appellants argued that they had learned only four days
+before the hearing that the will being probated was the one drafted by Sut-
+ton’s attorney in 1980, and that the bulk of the estate would go to him.
+They argued that Sutton’s misrepresentations and concealment had prevent-
+ed a timely contest of the will and constituted extrinsic fraud. The court
+rejected appellants’ contest and entered a decree of final distribution award-
+ing Sutton the interest in real property and net rentals, worth a total of
+$496,780. Darren and David each received $11,410, to be held in trust by
+Sutton as trustee until each boy reached the age of 30. Sara received $4,890.
+  On February 14, 1984, appellants moved to set aside the order admitting
+the will to probate and the order of final distribution. Appellants again
+claimed such orders had been obtained by extrinsic fraud. The court denied
+appellants’ motion after a hearing held on March 7, 1984. A formal order
+was adopted on March 29, 1984, which included findings that appellants
+had not shown extrinsic fraud and that no other reason supported setting
+aside the orders.
+  On appeal, appellants contend that respondent maintained a confidential
+and fiduciary relationship with them which placed upon him a duty to dis-
+close all material facts concerning the estate. They argue respondent
+breached his duty by concealing and misrepresenting the facts, and that such
+breach is fraudulent as a matter of law. Appellants also claim that respon-
+dent’s conduct constitutes extrinsic fraud since by his silence and deception
+he kept them from discovering the true nature of the will offered for probate
+and thereby prevented a timely contest.
+                                      II
+  The probate of a will is conclusive if not contested within 120 days after
+the will is admitted to probate. (Prob. Code, § 380.)           Even in the
+614
+
+
+
+absence of a timely contest, however, a court may exercise its equitable
+jurisdiction to set aside orders and decrees of probate proceedings in cases
+of fraud or mistake. (Estate of Charters (1956) 46 Cal.2d 227, 234 [293
+P.2d 778]; Caldwell v. Taylor (1933) 218 Cal. 471, 475 [23 P.2d 758];
+Bacon v. Bacon (1907) 150 Cal. 477, 481 [89 P. 317]; Baker v. O’Riordan
+(1884) 65 Cal. 368, 370 [4 P. 232].)            It is well settled, however, that
+ “only upon proof of extrinsic and collateral fraud can plaintiff seek and
+secure equitable relief from the judgment. A showing of fraud practiced in
+the trial of the original action will not suffice.” (Caldwell, supra, 218 Cal.
+at p. 476.) The courts have required a showing of extrinsic fraud in order
+to accommodate both the policy in favor of resolving issues in a final judg-
+ment and the policy in favor of a fair adversary proceeding in which each
+party is provided an opportunity to fully present its case. (Ibid.; Estate of
+Charters, supra, 46 Cal.2d at pp. 234-235.)
+
+   The seminal definition of extrinsic fraud is found in United States v.
+Throckmorton (1878) 98 U.S. 61, 65-66 [25 L.Ed. 93, 95]: “Where the
+unsuccessful party has been prevented from exhibiting fully his case, by
+fraud or deception practised on him by his opponent, as by keeping him
+away from court, a false promise of a compromise; or where the defendant
+never had knowledge of the suit, being kept in ignorance by the acts of the
+plaintiff; or where an attorney fraudulently or without authority assumes to
+represent a party and connives at his defeat; or where the attorney regularly
+employed corruptly sells out his client’s interest to the other side, these,
+and similar cases which show that there has never been a real contest in the
+trial or hearing of the case, are reasons for which a new suit may be sus-
+tained to set aside and annul the former judgment or decree, and open the
+case for a new and fair hearing. [Citations.] [1] In all these cases, and many
+others which have been examined, relief has been granted, on the ground
+that, by some fraud practised directly upon the party seeking relief against
+the judgment or decree, that party has been prevented from presenting all
+of his case to the court.”
+
+  We recently observed that “[e]xtrinsic fraud is a broad concept that
+‘tend[s] to encompass almost any set of extrinsic circumstances which de-
+prive a party of a fair adversary hearing.’” (In re Marriage of Modnick
+(1983) 33 Cal.3d 897, 905 [191 Cal.Rptr. 629, 663 P.2d 187], quoting from
+In re Marriage of Park (1980) 27 Cal.3d 337, 342 [165 Cal.Rptr. 792, 612
+P.2d 882].) The clearest examples of extrinsic fraud are cases in which the
+aggrieved party is kept in ignorance of the proceeding or is in some other
+way induced not to appear. (5 Witkin, Cal. Procedure (2d ed. 1971) Attack
+on Judgment in Trial Court, § 184, pp. 3752-3753.) In both situations the
+party is “fraudulently prevented from presenting his claim or defense.” (In
+                                                                                          615
+
+
+
+re Marriage of Modnick, supra, 33 Cal.3d at p. 905; see also 5 Witkin,
+Cal. Procedure, supra, § 184, p. 3753.)
+
+   The courts are particularly likely to grant relief from a judgment where
+there has been a violation of a special or fiduciary relationship.
+         The commentators have observed that breach of a fiduciary duty
+may warrant setting aside the judgment even though the same conduct in a
+nonfiduciary relationship would not be considered extrinsic fraud.7 (See
+Freeman, Judgments, supra, § 1235, pp. 2575-2576; Moore, Moore’s Fed-
+eral Practice (2d ed. 1948) [1] 60.37.[1], p. 614; Comment, Seeking More
+Equitable Relief From Fraudulent Judgments: Abolishing the Extrinsic-In-
+trinsic Distinction (1981) 12 Pacific L.J. 1013, citing above at p. 1021, fns.
+65-66.)
+
+   Appellants maintain that Sutton’s relationship with them was one of both
+confidant and fiduciary.8         It is well settled that “[a] confidential rela-
+tionship exists when  one  party gains the confidence of the other and purports
+to act or advise with the other’s interests in mind; it may exist although
+there is no fiduciary relationship; it is particularly likely to exist when there
+is a family relationship or one of friendship.” (Kudokas v. Balkus (1972)
+26 Cal.App.3d 744, 750 [103 Cal.Rptr. 318]; see also Vai v. Bank of Amer-
+ica (1961) 56 Cal.2d 329, 337-338 [15 Cal.Rptr, 71, 364 P.2d 247].) It has
+been more succinctly said that “[a] confidential relationship exists when
+trust and confidence are reposed by one person in the integrity and fidelity
+of another.” (Nicholson v. Rose (1980) 106 Cal.App.3d 457, 462 [165
+Cal.Rptr. 156].) It is not necessary “that there be an extended period of
+business or accommodation transactions or dealings between persons in or-
+der for a confidential relationship to be established between them.” (Pryor
+v. Bistline (1963) 215 Cal.App.2d 437, 446 [30 Cal.Rptr. 376].)
+
+         Sara’s uncontroverted affidavit reveals that from the time Sutton
+was appointed to replace her husband as conservator, she relied on him to
+protect the boys’ interests. Since Sutton was a member of the family and
+
+   7“The failure to perform the duty to speak or make disclosures which rests upon one
+because of a trust or confidential relationship is obviously a fraud for which equity may
+afford relief from a judgment thereby obtained, even though the breach of duty occurs during
+a judicial proceeding and involves false testimony and this is true whether such fraud be
+regarded as extrinsic or as an exception to the extrinsic fraud rule.17'1'” (Freeman, Judgments
+(5th ed. 1925) § 1235, p. 2576.)
+   8Without argument, respondent simply declares that “[a]s conservator of the Estate of
+Mary Sanders, the Respondent was in no confidential or fiduciary relationship with [Appel-
+lants].” Respondent ignores the obligations arising from the relationship which developed
+between him and appellants both before and after Mrs. Sanders’ death, and the fiduciary
+duties arising from his position as executor. He does not explain how his position as con-
+servator precluded a confidential and fiduciary relationship with appellants.
+616
+
+
+
+purported to act on the boys’ behalf, her reliance was reasonable. Sutton
+must also have been aware of Sara’s trust and confidence in his represen-
+tation given her regular inquiries regarding the Market Street property and
+the boys’ obligations and responsibilities under the will. In view of Mrs.
+Sanders’ prior holographic will leaving her entire estate to the boys, Sutton
+could not have escaped notice of the significance of this trust. These facts
+clearly show the existence of a confidential relationship.
+
+  Sutton’s confidential relationship with appellants required that he not mis-
+lead them as to the will he had filed for probate.             “ ‘Where there
+exists a relationship of trust and confidence it is the duty of one in whom
+the confidence is reposed to make full disclosure of all material facts within
+his knowledge relating to the transaction in question and any concealment
+of material facts is a fraud.’” (Estate of Shay (1925) 196 Cal. 355, 365
+[237 P. 1079]; Martin v. Martin (1952) 110 Cal.App.2d 228, 233 [242 P.2d
+688]; Main v. Merrill Lynch, Pierce, Fenner & Smith, Inc. (1977) 67
+Cal.App.3d 19, 32 [136 Cal.Rptr. 378].) “ ‘Where there is [such] a duty to
+disclose, the disclosure must be full and complete, and any material con-
+cealment or misrepresentation will amount to fraud sufficient to entitle the
+party injured thereby to an action.’” (Stafford v. Shultz (1954) 42 Cal.2d
+767, 777 [270 P.2d 1]; Main v. Merrill Lynch, supra.)
+
+   In addition to the obligations arising from the confidential relationship,
+Sutton bore a fiduciary duty to appellants by virtue of his position as exec-
+utor of Mrs. Sanders’ estate.           An executor “ ‘is an officer of the court
+and occupies a fiduciary relation toward all parties having an interest in the
+estate.’” (Larrabee v. Tracy (1943) 21 Cal.2d 645, 650 [134 P.2d 265],
+quoting from Estate of Conkey (1939) 35 Cal.App.2d 581, 585 [96 P.2d
+383].) “‘Executors occupy trust relations toward the legatees, and are
+bound to the utmost good faith in their transactions with the beneficiary.
+. . .’” (Larrabee v. Tracy, supra, 21 Cal. 2d at p. 651, quoting from Bacon
+v. Bacon, supra, 150 Cal. at p. 489.) An executor also bears a “duty to
+disclose all the facts . . . and to refrain from taking an unfair advantage of
+[the legatees].” (Blair v. Mahon (1951) 104 Cal.App.2d 44, 49 [230 P.2d
+832].)
+
+         Applying these principles here, it is evident that respondent violated
+his confidential and fiduciary relationship with appellants through a consis-
+tent course of concealment and misrepresentation. Sutton never disclosed to
+appellants that he had arranged for the execution of a new will substituting
+himself for the boys as the major beneficiary of the Sanders estate. He now
+asserts that he would have violated his duties as conservator had he informed
+appellants of the new will without Mrs. Sanders’ consent. However, even
+after Mrs. Sanders’ death, a time when he owed appellants a duty to disclose
+                                                                          617
+
+
+
+all material facts, he continued to conceal the fact that the new will sub-
+stantially affected appellants’ interests in the estate.
+
+   Sutton not only failed to reveal the nature of the changes made in Mrs.
+Sanders’ will, his representations appear calculated to leave the impression
+that appellants’ interests had not been affected by the changes. Sutton told
+Sara that Mrs. Sanders’ previous will had been put into “legal form” simply
+to avoid problems in probate. He did not mention that the revision served
+the added purpose of insuring that he would inherit the Market Street prop-
+erty at the boys’ expense. Had Sutton any doubts that Sara believed the boys
+remained as primary beneficiaries, such doubts should have been dispelled
+by her persistent inquiries regarding the central asset of the Sanders estate.
+Sara’s questions about the absence of the Market Street property from the
+financial statements, the possible changes in the value of the property, and
+the tax obligations she and the boys might incur, clearly presuppose a be-
+quest of the property. Sutton made no effort to disabuse her of this view.
+Instead, he either evaded her inquiries altogether, or reassured her that
+everything was in order and that he was protecting the boys’ interests.
+
+  By misrepresentation and concealment Sutton led appellants to believe
+their interests in the estate remained unchanged. The objectives of his de-
+ception are apparent. He told Sara on more than one occasion that he would
+take care of everything and that she had no reason to contact the attorney
+who was handling the probate proceedings. He repeatedly emphasized that
+she had no responsibilities in the matter and that he would contact her if
+her involvement was necessary. He specifically told her she need not attend
+the hearing on the petition for final distribution. This conduct seems clearly
+intended to prevent appellants from appearing to contest the will.
+
+  In Larrabee v. Tracy, supra, 21 Cal.2d 645, the executor led a beneficiary
+to believe she would receive her mother’s share of the estate by right of
+representation. Without notifying the beneficiary of his change in position,
+the executor asked the probate court to distribute the legacy to himself. In
+a unanimous decision authored by Chief Justice Gibson, this court held that
+the conduct constituted extrinsic fraud. “[The executor’s] conduct effective-
+ly prevented Mrs. Larrabee from obtaining a fair adversary hearing and, in
+our opinion, affords ample justification for the granting of equitable relief.
+As executor of the estate and its residuary legatee appellant had a clear duty
+to refrain from taking an unfair advantage of the impression he had created.”
+(I- d., at p. 650.)
+
+  Sutton’s conduct is also similar to that at issue in Craney v. Low (1956)
+46 Cal.2d 757 [298 P.2d 860]. In that case, plaintiff was the elderly mother
+of the decedent. Defendant, the decedent’s widow, told plaintiff that she
+618
+
+
+
+need not retain an attorney because defendant would keep plaintiff informed
+of the probate proceedings and would do everything possible to protect her
+interests in the estate. This court found the allegations sufficient to show
+extrinsic fraud even though defendant was not executor and did not owe
+plaintiff a fiduciary duty in that capacity. The court implicitly relied solely
+on the breach of a confidential relationship. “Sufficient facts are alleged to
+show that plaintiff relied upon the representations made by [defendant] and
+that the deception practiced on her prevented her appearance in the probate
+proceedings.” (Id., at p. 759.)
+
+   The facts of this case are also not unlike the facts in Duffy v. Duffy (1947)
+82 Cal.App.2d 203 [186 P.2d 61]. In that case the decedent left a will
+devising his entire estate to a minor nephew and niece. The decedent’s
+brother, who was also the uncle of the beneficiaries, was appointed execu-
+tor. The minor beneficiaries alleged that the uncle represented to their moth-
+er that he would take care of everything and would protect their interests in
+the estate. Instead he presented an adverse claim. The court noted that the
+uncle bore a fiduciary duty to the minor beneficiaries as a member of the
+family, as trustee of a testamentary trust created by the decedent for the
+beneficiaries, and as executor of the estate—the same relationships alleged
+by appellants in the present case. The court held that “the nephew and
+niece, by reason of the blood and other confidential relationships, had the
+right to rely upon their uncle’s representation that he would take care of
+their interests in the estate. It was those representations that kept them from
+appearing in the estate, and if, as alleged, they were false, it constitutes
+extrinsic fraud.” (Id., at p. 208.)
+
+  In the present case, respondent argues that he fulfilled his responsibilities
+by ensuring that the estate was administered in an orderly manner and that
+appellants received all legal notices. He claims appellants never requested
+to see a copy of the will and that “it isn’t the duty of the Executor to see
+that distributees under a will get all that they think they should have received
+or that they were expecting to receive.”9
+
+   9Respondent cites only Stevens v. Torregano (1961) 192 Cal.App.2d 105 [13 Cal.Rptr.
+604] in support of his argument. To the extent that case is relevant, it is directly contrary
+to respondent’s position. In Stevens, the plaintiff alleged that she was a pretermitted heir of
+the decedent and that the defendant, a legatee under the will, concealed her identity from
+the executor. The court found that the defendant had not committed extrinsic fraud. It
+observed that under settled law a legatee is not under a duty to notify other heirs of the
+decedent’s death or of the probate proceedings. (Id., at p. 123.) The court also noted that
+plaintiff had not alleged that defendant had ever been asked about the existence of other
+heirs. (Id., at pp. 119, 125.) Most importantly for our case, the court found no allegations
+of a confidential or fiduciary relationship which would have placed a duty on the defendant
+to make a full disclosure. (Id., at pp. 123-124.)
+  The court also found that the executor had fulfilled its duties. The court noted that the
+                                                                                         619
+
+
+
+  Respondent’s argument may be based on his erroneous view that he was
+not in a confidential or fiduciary relationship with appellants. It is clear that
+where such relationships exist, and where the fiduciary has led the aggrieved
+party to believe that his interests will be protected, receipt of legal notice
+of the proceeding will not preclude equitable relief. The aggrieved party
+has a right to rely on the trust created by the special relationship and may
+assume that the fiduciary will abide by his duty to act in good faith.
+
+  In summary, appellants’ undisputed affidavit shows that respondent led
+them to believe the will offered for probate would leave the entire estate to
+them. He concealed the fact that he had arranged for the decedent to change
+her will to leave most of the estate to him. He also assured appellants that
+he would represent their interests. Relying on their confidential and fidu-
+ciary relationship, appellants were lulled into a sense of security by respon-
+dent’s representations. As if to insure the success of his plan, respondent
+expressly told appellants that they need not become involved in the probate
+proceedings and advised them not to contact the probate attorney. These
+allegations, if true, clearly show extrinsic fraud.
+
+  The order is reversed and the cause remanded to the trial court for further
+proceedings in accordance with this opinion.
+
+  Bird, C. J., Mosk, J., Reynoso, J., Grodin, J., Lucas, J., and Kaus, J.,*
+concurred.
+
+  On March 13, 1986, the opinion was modified to read as printed above.
+
+
+
+
+executor had provided all notices required by law. An executor has no duty to search out
+unknown heirs. (Id.., at p. 122.) It is also generally accepted that ignorance on the part of
+an executor of the existence of an heir does not constitute extrinsic mistake. (Ibid.) The
+court concluded, however, that plaintiff would have been entitled to equitable relief had she
+alleged that the executor knew of her existence. “This is because the executor is a fiduciary,
+and silence on the part of a fiduciary, who is under a duty to speak, is fraud.” (Id., at
+p. 123.)
+   *Retired Associate Justice of the Supreme Court sitting under assignment by the Chair-
+person of the Judicial Council.
+
+```
