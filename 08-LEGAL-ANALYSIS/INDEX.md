@@ -49,6 +49,18 @@ Technical analysis of the post-verdict three-front litigation design, published 
 
 ---
 
+### *Moradi-Shalal* common-law carve-out (Apr. 27, 2026)
+
+**[../_shared/moradi-shalal-carveout-apr27/README.md](../_shared/moradi-shalal-carveout-apr27/README.md)**
+
+Case-collective meet-and-confer letter and memorandum on the *Moradi-Shalal v. Fireman's Fund Ins. Companies* (1988) 46 Cal.3d 287 common-law preservation clause (fraud, IIED, contract, implied covenant), with PDF mirrors. Supplementary per-case POS-050 PDFs for the carve-out letter are listed in that hub.
+
+**Key topics:** Paragraph [10] preservation language; *Manufacturers Life*; *Zhang*; channel-bar limits vs. independent common-law theories.
+
+**Related cases:** CGC-25-631801 and CGC-25-631802 (same defense team; same-day combined MFL/SAC packets: [801 served hub](../02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md), [802 served hub](../03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md)).
+
+---
+
 ### Anti-SLAPP rebuttal (CGC-25-631802)
 
 **[anti-slapp-rebuttal/INDEX.md](anti-slapp-rebuttal/INDEX.md)**
@@ -96,6 +108,7 @@ Senior-memorandum-style review of the April 2026 demurrer volley. Narrates what 
 | Court Reliance Analysis | How the court was deceived and how it affected rulings | CGC-25-631801 (Equity) |
 | Fatal Proof (Dolan Admission) | The specific contradictions that prove the fraud | CGC-25-631801 (Equity) |
 | Journal Article | The strategic architecture across all proceedings | All four cases |
+| *Moradi-Shalal* carve-out hub | Common-law preservation clause; meet-and-confer + analysis (Apr. 27, 2026) | CGC-25-631801 · CGC-25-631802 |
 | Anti-SLAPP rebuttal hub | CSAA Anti-SLAPP memorandum rebuttal; O’Connell declaration | CGC-25-631802 |
 | Demurrer rebuttal hub | Ground-by-ground review of the April 2026 demurrer volley; consequences to the defense | CGC-25-631802 |
 

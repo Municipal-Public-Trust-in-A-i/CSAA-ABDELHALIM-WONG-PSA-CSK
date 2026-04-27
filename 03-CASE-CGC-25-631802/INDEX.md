@@ -186,6 +186,14 @@ Volume 1 style packet (notice, memorandum, declaration, RJN, proposed order, pro
 
 **801 draft rebuild (same motion set, pipeline output):** Full SAC packet — [PDF](plaintiff-opposition-consolidated-apr2026/D801-SAC-FULL-PACKET.pdf) | Individual instruments (notice through bench brief) — see **Leave / SAC** table in [consolidated README](plaintiff-opposition-consolidated-apr2026/README.md). Large exhibit appendix: [PDF](plaintiff-opposition-consolidated-apr2026/SAC-06-EXHIBIT-APPENDIX.pdf).
 
+### Served to defense — Apr. 27, 2026 (combined packet + reply)
+
+Same-day **combined MFL/SAC court-facing packet**, POS-050, Apr. 27 safe-harbor supplement, adverse-authority notice, **reply ISO leave for Apr. 30 hearing** (court-ready), gravamen deck, and transmission note. Case-collective ***Moradi-Shalal*** carve-out materials (both cases): [shared hub](../_shared/moradi-shalal-carveout-apr27/README.md).
+
+| Hub | Link |
+|-----|------|
+| Served-to-defense packet (631802) | [apr-2026-sac-leave/served-defense-apr27/README.md](apr-2026-sac-leave/served-defense-apr27/README.md) |
+
 ---
 
 ## Plaintiff filings (April 2026): opposition to Anti-SLAPP

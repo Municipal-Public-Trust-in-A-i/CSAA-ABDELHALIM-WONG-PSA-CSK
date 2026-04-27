@@ -6,7 +6,7 @@
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud) · CGC-25-631802 (UCL / denial-letter fraud)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** April 25, 2026 (see [What's new](#whats-new)).
+**Last refresh:** April 27, 2026 (see [What's new](#whats-new)).
 
 ---
 
@@ -42,6 +42,18 @@
 
 ---
 
+## April 27, 2026 — served to defense (both cases)
+
+Plaintiff served the defense team the **same-day combined motion-for-leave / SAC court-facing packets** for **CGC-25-631801** and **CGC-25-631802** (with Judicial Council POS-050 proofs), the **Apr. 27 safe-harbor supplements** and **adverse-authority notices** per case, the **802 reply ISO leave** for the Apr. 30 setting, and a **case-collective** meet-and-confer letter plus memorandum on the ***Moradi-Shalal*** common-law carve-out (served on both captions).
+
+| Hub | Link |
+|-----|------|
+| **631801** — combined packet, POS-050, safe harbor, adverse authority, gravamen deck | [Served Apr. 27 (801)](02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md) |
+| **631802** — same plus **reply SAC (Apr. 30, court-ready)** | [Served Apr. 27 (802)](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md) |
+| ***Moradi-Shalal*** carve-out — meet-and-confer + general analysis (Markdown and PDF) | [*Moradi-Shalal* hub — Apr. 27](_shared/moradi-shalal-carveout-apr27/README.md) |
+
+---
+
 > *"BOOM! I just hit him. HIT HIM. There was barely anything."*
 > Defendant Subhi Abdelhalim, 911 call, February 4, 2021. Authenticated under oath at trial: *"Yes. That is my voice."* See [Trial Day 8 reporter PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-08-April-17-2025.pdf) and [evidence.md](evidence.md).
 
@@ -68,6 +80,11 @@ Pick the entry that matches why you opened this site.
 ---
 
 ## What's new
+
+**April 27, 2026 refresh.**
+
+- **NEW:** [Served to defense — Apr. 27 (631801)](02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md) and [Served to defense — Apr. 27 (631802)](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md) — combined MFL/SAC packets, POS-050s, Apr. 27 safe-harbor supplements, adverse-authority notices; **802** includes [reply ISO leave for Apr. 30](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/REPLY-SAC-APR-30-802-COURT-READY.pdf) (court-ready).
+- **NEW:** [*Moradi-Shalal* common-law carve-out hub](_shared/moradi-shalal-carveout-apr27/README.md) — case-collective meet-and-confer letter and [general analysis](_shared/moradi-shalal-carveout-apr27/MORADI-SHALAL-COMMON-LAW-CARVEOUT-GENERAL-ANALYSIS.md) (Markdown + PDF); also indexed under [08-LEGAL-ANALYSIS/INDEX.md](08-LEGAL-ANALYSIS/INDEX.md).
 
 **April 25, 2026 refresh.**
 
@@ -120,6 +137,8 @@ Confirm dates and departments on the court portal. Full table with PDF links: [H
 
 | Filing | 631801 (equity) | 631802 (UCL) |
 |--------|-----------------|--------------|
+| Served combined MFL/SAC packet + same-night instruments (Apr. 27) | [Hub + PDFs](02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md) | [Hub + PDFs (includes reply SAC)](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md) |
+| *Moradi-Shalal* carve-out meet-and-confer + analysis (Apr. 27, both cases) | [Shared hub](_shared/moradi-shalal-carveout-apr27/README.md) | (same hub) |
 | Defense opposition to SAC leave (Apr. 23) | [PDFs + TOC](02-CASE-CGC-25-631801/apr-2026-sac-leave/defense-opposition-apr23/README.md) | [PDFs + TOC](03-CASE-CGC-25-631802/apr-2026-sac-leave/defense-opposition-apr23/README.md) |
 | Plaintiff reply (Apr. 24, court-ready) | [Reply for May 6 setting](02-CASE-CGC-25-631801/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) | [Reply for Apr. 30 setting](03-CASE-CGC-25-631802/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) |
 | Anti-SLAPP / OST supplement (Apr. 24) | [801 court PDFs + Flatley check](02-CASE-CGC-25-631801/anti-slapp-supplemental-apr24/README.md) | [802 court PDFs + Flatley check](03-CASE-CGC-25-631802/anti-slapp-supplemental-apr24/README.md) |
@@ -285,6 +304,7 @@ The central evidentiary record. The 911 call captures the driver's admission; bo
 | FINAL-COURT exhibit-integrated packets | (same) | [final-court-apr2026](03-CASE-CGC-25-631802/final-court-apr2026/README.md) |
 | SAC leave: defense (Apr. 23) | [Opposition + TOC](02-CASE-CGC-25-631801/apr-2026-sac-leave/defense-opposition-apr23/README.md) | [Opposition + TOC](03-CASE-CGC-25-631802/apr-2026-sac-leave/defense-opposition-apr23/README.md) |
 | SAC leave: plaintiff reply (Apr. 24) | [Reply (May 6 setting)](02-CASE-CGC-25-631801/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) | [Reply (Apr. 30 setting)](03-CASE-CGC-25-631802/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) |
+| Served defense — Apr. 27 (combined packets + *Moradi-Shalal* carve-out) | [801 served hub](02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md) | [802 served hub](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md) · [*Moradi-Shalal* shared hub](_shared/moradi-shalal-carveout-apr27/README.md) |
 | Anti-SLAPP / OST supplement (Apr. 24) | [801 court PDFs](02-CASE-CGC-25-631801/anti-slapp-supplemental-apr24/README.md) | [802 court PDFs](03-CASE-CGC-25-631802/anti-slapp-supplemental-apr24/README.md) |
 | Motion to strike (Apr. 22 source mirror) | [801 folder](02-CASE-CGC-25-631801/motion-strike-apr2026/README.md) | [802 folder](03-CASE-CGC-25-631802/motion-strike-apr2026/README.md) |
 | Bench cards (Apr. 24) | [BENCH-CARD-MAY06-801](08-LEGAL-ANALYSIS/bench-cards/BENCH-CARD-MAY06-801-THREE-AUTHORITIES.pdf) | [BENCH-CARD-APR30-802](08-LEGAL-ANALYSIS/bench-cards/BENCH-CARD-APR30-802-THREE-AUTHORITIES.pdf) |

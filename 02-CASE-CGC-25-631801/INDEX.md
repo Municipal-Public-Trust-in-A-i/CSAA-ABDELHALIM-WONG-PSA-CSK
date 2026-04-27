@@ -86,6 +86,16 @@ material evidence and fairly litigate liability.
 
 ---
 
+## April 2026 SAC leave — served Apr. 27, 2026
+
+Coordinated **combined MFL/SAC packet**, proof of service, Apr. 27 safe-harbor supplement, adverse-authority notice, and transmission note. Case-collective ***Moradi-Shalal*** carve-out meet-and-confer and analysis (both 801 and 802): [shared hub](../_shared/moradi-shalal-carveout-apr27/README.md).
+
+| Hub | Link |
+|-----|------|
+| Served-to-defense packet (631801) | [apr-2026-sac-leave/served-defense-apr27/README.md](apr-2026-sac-leave/served-defense-apr27/README.md) |
+
+---
+
 ## Relief Sought
 
 1. **Equitable vacatur** of the judgment in CGC-21-594102
