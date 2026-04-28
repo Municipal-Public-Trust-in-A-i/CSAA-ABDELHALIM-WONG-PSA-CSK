@@ -9,6 +9,29 @@
 **Last refresh:** April 27, 2026 (see [What's new](#whats-new)).
 
 ---
+# CASE 801 STANDING :
+
+Although Plaintiff does not assert a private cause of action arising directly under the California Rules of Professional Conduct or Business and Professions Code section 6068(d) — which do not, of themselves, supply an independent civil cause enforceable by an opposing party (Stanley v. Richmond (1995) 35 Cal.App.4th 1070, 1095–1097; Mirabito v. Liccardo (1992) 4 Cal.App.4th 41, 45–46) — this action sounds in the equitable cause for vacatur on extrinsic fraud, in common-law Intentional Misrepresentation, Concealment, and Constructive Fraud under Civil Code sections 1709, 1710(1), 1710(3), and 1573, and in the statutory civil action for Attorney Deceit under Business and Professions Code section 6128(a).
+
+By appearing of record in CGC-21-594102 and issuing affirmative tribunal-directed representations — in Motions in Limine Nos. 6 and 17, at the February 18, 2025 hearing, and at trial — that they had "no idea where" the silent-witness materials "came from," Defendants engaged in a voluntary officer-of-the-court undertaking analogous to Biakanja v. Irving (1958) 49 Cal.2d 647, assuming a duty of candor to the tribunal and a parallel duty of accuracy to the unrepresented opposing party reasonably relying on those statements. Shafer v. Berger, Kahn (2003) 107 Cal.App.4th 54, 79–80.
+
+Consequently, the authorities cited herein are not invoked as a direct source of a private right of action; rather, they establish the objective standard of care and the "officer-of-the-court floor" governing counsel's candor and the integrity of the adversary process.
+
+Under the framework of Kulchar v. Kulchar (1969) 1 Cal.3d 467, 471–472, and In re Marriage of Modnick (1983) 33 Cal.3d 897, 905, supplemented by Shafer, supra, these standards serve as the benchmark against which the truthfulness and reasonableness of Defendants' tribunal-directed representations must be measured.
+
+Liability arises from Defendants' affirmative representations to the trial court that they neither possessed nor had knowledge of the silent-witness materials when, in fact, no reasonable grounds existed for believing such assertions to be true; CSAA Insurance Exchange's liability arises additionally from its institutional ratification of those representations through its authorized panel counsel. Civ. Code § 2330; Evid. Code § 1222; Gulf Ins. Co. v. Berger, Kahn (2000) 79 Cal.App.4th 114, 124.
+
+---
+
+# CASE 802 STANDING
+
+Although Plaintiff, as a third-party claimant, does not assert a private cause of action under Insurance Code § 790.03 or for breach of the implied covenant of good faith and fair dealing, consistent with the limitations in Moradi-Shalal v. Fireman's Fund Ins. Cos. (1988) 46 Cal.3d 287, 
+this action sounds in common-law Negligent Misrepresentation under Civil Code § 1710(2).
+By issuing a formal written denial predicated on the positive assertion of a 'concluded investigation,' CSAA engaged in a voluntary undertaking under Biakanja v. Irving (1958) 49 Cal.2d 647, thereby assuming a duty of care to ensure the accuracy of factual representations made to the Plaintiff. 
+Consequently, the authorities cited herein are not invoked as a direct source of a private right of action; rather, they establish the objective standard of care and the 'regulatory floor' governing the adequacy of an insurer’s investigative process. 
+Under the framework of Bartel v. Chicago Title Ins. Co. (2025),  these standards serve as the benchmark against which the truthfulness and reasonableness of CSAA’s representations must be measured. 
+CSAA’s liability arises from its affirmative representation that a competent investigation had been performed when, in fact, the insurer possessed no reasonable grounds for believing such an assertion to be true.
+
 
 # **MERITS HERE!**
 
