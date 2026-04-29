@@ -12,6 +12,8 @@
 
 **April 28–29, 2026 — court e-filed (File and Serve):** SAC / Apr. 30 bench packet; **TAC-802** motion-to-strike response (seven instruments + cure matrix); **Anti-SLAPP** and **Prong-One** notices of lodgment; **discovery** tracks 1–3; defense-service master PDF; **Dept. 302** courtesy copies — **[served-sftc-apr28-29-2026/README.md](served-sftc-apr28-29-2026/README.md)** · [public synopsis — strategy](served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md).
 
+**April 28, 2026 — full clerk-filing build (DOCUSERV mirror):** complete numbered tree (`10-` … `60-`) including the merged combined packets, courtesy variants with **prong-one** content, full **E-SERVICE-PARTS** constituents, and the **May 13 Anti-SLAPP opposition** prong-one checklist exhibit — **[clerk-filing-2026-04-28/README.md](clerk-filing-2026-04-28/README.md)**.
+
 **Latest consolidated opposition (801 defense-court draft build):** Full PDF set — six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibit appendices, and legacy splits — is published under **[plaintiff-opposition-consolidated-apr2026/](plaintiff-opposition-consolidated-apr2026/README.md)** (synced April 18, 2026).
 
 [← Back to Case Root](../ROSARIO.md)

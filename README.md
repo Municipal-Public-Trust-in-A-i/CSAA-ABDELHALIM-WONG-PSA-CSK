@@ -73,6 +73,7 @@ Plaintiff **e-filed and e-served** a coordinated set of packets for **CGC-25-631
 |-----|------|
 | **631802** — all April 28–29 PDFs, SFTC transaction table, folder guide | [**Served Apr. 28–29 (802)**](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) |
 | **631802** — narrative only (how the lanes fit together) | [Public synopsis — strategy](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md) |
+| **631802** — full clerk-filing build (DOCUSERV mirror, 99 PDFs incl. courtesy + prong-one) | [Clerk filing — Apr. 28 (802)](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md) |
 
 ---
 
@@ -118,6 +119,7 @@ Pick the entry that matches why you opened this site.
 **April 29, 2026 refresh.**
 
 - **NEW:** [Court e-filed — Apr. 28–29 (631802)](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) — full **File and Serve** mirror: SAC/Apr. 30 bench packet, **TAC-802** motion-to-strike response + cure matrix, **Anti-SLAPP / Prong-One** notices of lodgment, **discovery** tracks 1–3, defense-service master PDF, Dept. 302 courtesy copies; [public synopsis — strategy](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md).
+- **NEW:** [Clerk filing build — Apr. 28 (631802)](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md) — full **DOCUSERV** tree mirror (99 PDFs across `10-` … `60-` lanes) with merged combined packets, courtesy/prong-one variants, full `E-SERVICE-PARTS` constituents, and May 13 Anti-SLAPP opposition prong-one exhibit; cross-referenced to `SFTC-FILE-SERVE.POS.RECORDS.md` and `SFTC-CLERKS.DOCKET.md`.
 
 **April 27, 2026 refresh.**
 

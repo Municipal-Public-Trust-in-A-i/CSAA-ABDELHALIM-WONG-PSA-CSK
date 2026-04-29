@@ -1,0 +1,21 @@
+# DocuServe cohort: `50-DISCOVERY-PRESSURE-TRACK3` — CGC-25-631802
+
+- **Service type:** `e-serve`
+
+## Staged PDFs (alphabetical)
+
+- `19-POS-050-DISCOVERY-TRACK3-2026-04-28-CGC-25-631802.pdf`
+- `802-TRACK3-01-NOTICE-OF-DEFAULT.pdf`
+- `802-TRACK3-02-CMC-STATEMENT-UPDATE.pdf`
+- `802-TRACK3-03-RESERVED-2023-030-PACKET.pdf`
+
+## Transmission notes
+
+Subgroup **`TRACK3`** PDFs + matching **`POS-050`** (`19-POS-050-DISCOVERY-TRACK3-2026-04-28-CGC-25-631802.pdf`).
+
+Send **one email per track** so the POS attachment list matches this cohort exactly.
+- Email draft: [`FILINGS/DISCOVERY-PRESSURE/802/EMAIL-DRAFT-802-DISCOVERY-PRESSURE-SERVICE.md`](../../../FILINGS/DISCOVERY-PRESSURE/802/EMAIL-DRAFT-802-DISCOVERY-PRESSURE-SERVICE.md)
+
+---
+
+Crosswalk: [README-DOCUSERV-CASE-SERVICE-COHORTS.md](../../README-DOCUSERV-CASE-SERVICE-COHORTS.md)
