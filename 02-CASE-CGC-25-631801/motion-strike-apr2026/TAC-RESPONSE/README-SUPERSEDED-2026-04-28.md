@@ -1,0 +1,1 @@
+This packet is the historical April-22 draft. The operative pleading is `02-CASE-CGC-25-631801/motion-strike-apr2026/TAC-RECKLESS-DISREGARD/06-THIRD-AMENDED-COMPLAINT.md`. Do not file from this folder.
