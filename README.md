@@ -65,6 +65,16 @@ CSAA’s liability arises from its affirmative representation that a competent i
 
 ---
 
+## Anti-SLAPP jurisprudence — § 425.16 off-ramps (801 / 802)
+
+California’s special motion to strike under CCP § 425.16 is a two-step burden shift. **Exemptions** (CCP § 425.17), **gravamen** analysis (*City of Cotati v. Cashman*, *Park v. Board of Trustees*), and **illegality as a matter of law** (*Flatley v. Mauro*) can defeat the motion before prong two—and prong two itself requires only **minimal merit** (*Navellier v. Sletten*).
+
+**On this record:** Filings treat **commercial / insurer factual representations** (§ 425.17(c)), **public-interest** routes in the alternative (§ 425.17(b)), **prong-one** mis-targeting of the injury-producing acts, **_Flatley_** predicates anchored in **Bus. & Prof. Code § 6128(a)** and insurer regulatory floors (**10 CCR § 2695.7**, Ins. Code § 790.03(h)), and **prong-two** evidence—plus **extrinsic fraud** posture (*Kulchar*, *Kougasian*) where pleaded—as independent grounds the May hearings’ special motions do not fit the SAC.
+
+**→ [Read the full doctrinal walkthrough → ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md)**
+
+---
+
 ## April 28–29, 2026 — preparation for Apr. 30 hearing (CGC-25-631802)
 
 Plaintiff **e-filed and e-served** coordinated packets for **CGC-25-631802** so the record matches **Department 302** on **April 30, 2026** (leave to amend / SAC-related oral reply) and **May 13, 2026** (combined demurrer and Anti-SLAPP / motion-to-strike). The filings bracket SAC posture against defendants’ procedural vehicles—nothing here predicts outcomes.
@@ -137,6 +147,7 @@ Pick the entry that matches why you opened this site.
 
 **April 29, 2026 refresh.**
 
+- **ANTI-SLAPP — doctrines tied to May hearings:** [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) — CCP §§ 425.16 / 425.17 frameworks (*Cashman*, *Park*, *Flatley*, exemptions, prong two), case-specific **801 / 802** anchors, procedural layer, TL;DR, and bench-statement précis (home-page intro immediately follows the **MERITS HERE** block).
 - **Apr. 28–29 (today — lead):** [Court e-filed hub — 631802](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) · **[SFTC docket register](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/SFTC-DOCKET-REGISTER.md)** (six transactions → thirty-five titles → lane PDFs). One-line map of each **new pleading family** served that wave:
   - **TAC-802 motion-to-strike response + cure matrix** — seven instruments through cure matrix in [`tac-response-motion-strike/`](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/tac-response-motion-strike/).
   - **Anti-SLAPP TAC notice of lodging** — NOL stack + proposed TAC exhibit + POS in [`antislap-tac-notice-of-lodging/`](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/antislap-tac-notice-of-lodging/).
@@ -552,6 +563,7 @@ The story of how one brain-injured plaintiff, proceeding alone against a multi-b
 ├── README.md                         (this file: main navigation)
 ├── README.LEGACY.md                  (older index, kept for diffs)
 ├── MERITS.md                         (TAC-aligned merits statement + implications)
+├── ANTI-SLAPP-OFF-RAMPS.md           (CCP § 425.16 / § 425.17 off-ramps; 801 vs. 802)
 ├── MERITS-EXHIBITS/                  (3 cornerstone PDFs + 2 certified TAC PDFs)
 ├── FOR-ATTORNEYS.md                  (intake cover for California counsel)
 ├── CASE-DOSSIER.md                   (30-minute deep read)
