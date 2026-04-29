@@ -6,7 +6,7 @@
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud) · CGC-25-631802 (UCL / denial-letter fraud)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** April 27, 2026 (see [What's new](#whats-new)).
+**Last refresh:** April 29, 2026 (see [What's new](#whats-new)).
 
 ---
 # CASE 801 STANDING :
@@ -65,6 +65,17 @@ CSAA’s liability arises from its affirmative representation that a competent i
 
 ---
 
+## April 28–29, 2026 — CGC-25-631802 court e-filings (File and Serve)
+
+Plaintiff **e-filed and e-served** a coordinated set of packets for **CGC-25-631802** through **San Francisco Superior Court / File and Serve**—**SAC / Apr. 30 hearing support**, **motion-to-strike TAC response** (seven instruments + cure matrix), **Anti-SLAPP and Prong-One notices of lodgment**, **three discovery tracks** (deem–compel; sixth set; notice of default + CMC update), the **defense-service master** PDF, and **Department 302 courtesy** copies. A **plain-English strategy synopsis** sits beside the PDFs.
+
+| Hub | Link |
+|-----|------|
+| **631802** — all April 28–29 PDFs, SFTC transaction table, folder guide | [**Served Apr. 28–29 (802)**](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) |
+| **631802** — narrative only (how the lanes fit together) | [Public synopsis — strategy](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md) |
+
+---
+
 ## April 27, 2026 — served to defense (both cases)
 
 Plaintiff served the defense team the **same-day combined motion-for-leave / SAC court-facing packets** for **CGC-25-631801** and **CGC-25-631802** (with Judicial Council POS-050 proofs), the **Apr. 27 safe-harbor supplements** and **adverse-authority notices** per case, the **802 reply ISO leave** for the Apr. 30 setting, and a **case-collective** meet-and-confer letter plus memorandum on the ***Moradi-Shalal*** common-law carve-out (served on both captions).
@@ -103,6 +114,10 @@ Pick the entry that matches why you opened this site.
 ---
 
 ## What's new
+
+**April 29, 2026 refresh.**
+
+- **NEW:** [Court e-filed — Apr. 28–29 (631802)](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) — full **File and Serve** mirror: SAC/Apr. 30 bench packet, **TAC-802** motion-to-strike response + cure matrix, **Anti-SLAPP / Prong-One** notices of lodgment, **discovery** tracks 1–3, defense-service master PDF, Dept. 302 courtesy copies; [public synopsis — strategy](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md).
 
 **April 27, 2026 refresh.**
 
@@ -160,6 +175,7 @@ Confirm dates and departments on the court portal. Full table with PDF links: [H
 
 | Filing | 631801 (equity) | 631802 (UCL) |
 |--------|-----------------|--------------|
+| Court e-filed burst — SAC bench packet, TAC response, NOLs, discovery tracks, service master (Apr. 28–29) | — | [Hub + PDFs + synopsis](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) |
 | Served combined MFL/SAC packet + same-night instruments (Apr. 27) | [Hub + PDFs](02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md) | [Hub + PDFs (includes reply SAC)](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md) |
 | *Moradi-Shalal* carve-out meet-and-confer + analysis (Apr. 27, both cases) | [Shared hub](_shared/moradi-shalal-carveout-apr27/README.md) | (same hub) |
 | Defense opposition to SAC leave (Apr. 23) | [PDFs + TOC](02-CASE-CGC-25-631801/apr-2026-sac-leave/defense-opposition-apr23/README.md) | [PDFs + TOC](03-CASE-CGC-25-631802/apr-2026-sac-leave/defense-opposition-apr23/README.md) |

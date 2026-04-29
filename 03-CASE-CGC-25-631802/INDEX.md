@@ -10,6 +10,8 @@
 
 **April 2026 motion practice:** Plaintiff’s leave-to-amend / proposed SAC packet, opposition to Anti-SLAPP, and CSAA’s Anti-SLAPP clerk PDFs are filed in **CGC-25-631802** (same caption as this case folder). See tables below.
 
+**April 28–29, 2026 — court e-filed (File and Serve):** SAC / Apr. 30 bench packet; **TAC-802** motion-to-strike response (seven instruments + cure matrix); **Anti-SLAPP** and **Prong-One** notices of lodgment; **discovery** tracks 1–3; defense-service master PDF; **Dept. 302** courtesy copies — **[served-sftc-apr28-29-2026/README.md](served-sftc-apr28-29-2026/README.md)** · [public synopsis — strategy](served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md).
+
 **Latest consolidated opposition (801 defense-court draft build):** Full PDF set — six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibit appendices, and legacy splits — is published under **[plaintiff-opposition-consolidated-apr2026/](plaintiff-opposition-consolidated-apr2026/README.md)** (synced April 18, 2026).
 
 [← Back to Case Root](../ROSARIO.md)
