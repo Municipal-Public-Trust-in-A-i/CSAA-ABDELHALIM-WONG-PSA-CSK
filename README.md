@@ -65,13 +65,18 @@ CSAA’s liability arises from its affirmative representation that a competent i
 
 ---
 
-## April 28–29, 2026 — CGC-25-631802 court e-filings (File and Serve)
+## April 28–29, 2026 — preparation for Apr. 30 hearing (CGC-25-631802)
 
-Plaintiff **e-filed and e-served** a coordinated set of packets for **CGC-25-631802** through **San Francisco Superior Court / File and Serve**—**SAC / Apr. 30 hearing support**, **motion-to-strike TAC response** (seven instruments + cure matrix), **Anti-SLAPP and Prong-One notices of lodgment**, **three discovery tracks** (deem–compel; sixth set; notice of default + CMC update), the **defense-service master** PDF, and **Department 302 courtesy** copies. A **plain-English strategy synopsis** sits beside the PDFs.
+Plaintiff **e-filed and e-served** coordinated packets for **CGC-25-631802** so the record matches **Department 302** on **April 30, 2026** (leave to amend / SAC-related oral reply) and **May 13, 2026** (combined demurrer and Anti-SLAPP / motion-to-strike). The filings bracket SAC posture against defendants’ procedural vehicles—nothing here predicts outcomes.
+
+- **Yesterday (Apr. 27)** — Combined motion-for-leave / SAC packets to defense with Judicial Council POS-050s; **802** reply ISO leave court-ready for Apr. 30; [*Moradi-Shalal*](_shared/moradi-shalal-carveout-apr27/README.md) carve-out meet-and-confer; safe harbor and adverse-authority supplements ([801 hub](02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md) · [802 hub](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md)).
+- **Today (Apr. 28–29)** — Six **File and Serve** transactions, **35** served titles, six mirrored topic lanes (bench/SAC support, TAC response + cure matrix, Anti-SLAPP NOL, Prong-One NOL, discovery tracks 1–3, defense-service masters); plus clerk-facing **[DOCUSERV build](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md)** and **[SFTC docket register](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/SFTC-DOCKET-REGISTER.md)** keyed receipt-by-receipt.
+- **Tomorrow (Apr. 30 hearing)** — Bench packet, courtesy copies for Dept. 302, and **cure matrix** materials remain staged beside the served hubs for oral argument and leave posture ([served hub](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) · [synopsis](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md)).
 
 | Hub | Link |
 |-----|------|
 | **631802** — all April 28–29 PDFs, SFTC transaction table, folder guide | [**Served Apr. 28–29 (802)**](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) |
+| **631802** — receipt-by-receipt title → PDF map (six transactions) | [**SFTC docket register**](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/SFTC-DOCKET-REGISTER.md) |
 | **631802** — narrative only (how the lanes fit together) | [Public synopsis — strategy](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md) |
 | **631802** — full clerk-filing build (DOCUSERV mirror, 99 PDFs incl. courtesy + prong-one) | [Clerk filing — Apr. 28 (802)](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md) |
 
@@ -97,6 +102,20 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 ---
 
+### Defense fatal flaws (631802 posture) — quick map
+
+| Flaw (short label) | Why it matters on the existing record | Primary links on this site |
+|--------------------|----------------------------------------|----------------------------|
+| **Concluded-investigation fraud (802)** | Feb. 25, 2021 denial letter represents a completed investigation; claim file does not reflect acquisition of 911 / BWC / CAD materials pleaded as foundational. | [MERITS.md](MERITS.md) · [631802 index](03-CASE-CGC-25-631802/INDEX.md) · cornerstone PDFs in [MERITS-EXHIBITS/](MERITS-EXHIBITS/README.md) |
+| **“Provided by Dolan” admission (801)** | Trial Day 7 transcript line pairs with sworn MIL-era narratives of absence / provenance. | [Trial Day 7 PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-07-April-16-2025.pdf) · [Extrinsic fraud threading](EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md) |
+| **MIL Nos. 6 / 17 vs. denial letter** | Same-record juxtaposition of denial letter and MIL declarations under oath. | [MERITS-EXHIBITS/](MERITS-EXHIBITS/README.md) |
+| **Litigation privilege misfit** | Denial letter predates litigation; theory targets ordinary-course communications. | [631802 — Why this avoids standard defenses](03-CASE-CGC-25-631802/INDEX.md#why-this-avoids-standard-defenses) |
+| **Anti-SLAPP gravamen / prong one** | Lodged prong-one packet and checklist vs. pleaded pre-litigation gravamen. | [40-PRONG-ONE-RECORD/](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/40-PRONG-ONE-RECORD/) · May 13 checklist exhibit in same clerk build |
+
+**Expanded discussion:** [DEFENSE-FATAL-FLAWS.md](DEFENSE-FATAL-FLAWS.md) (TAC paragraph cites; routes through [LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md)).
+
+---
+
 ## Start here
 
 Pick the entry that matches why you opened this site.
@@ -118,7 +137,15 @@ Pick the entry that matches why you opened this site.
 
 **April 29, 2026 refresh.**
 
-- **NEW:** [Court e-filed — Apr. 28–29 (631802)](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) — full **File and Serve** mirror: SAC/Apr. 30 bench packet, **TAC-802** motion-to-strike response + cure matrix, **Anti-SLAPP / Prong-One** notices of lodgment, **discovery** tracks 1–3, defense-service master PDF, Dept. 302 courtesy copies; [public synopsis — strategy](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md).
+- **Apr. 28–29 (today — lead):** [Court e-filed hub — 631802](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) · **[SFTC docket register](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/SFTC-DOCKET-REGISTER.md)** (six transactions → thirty-five titles → lane PDFs). One-line map of each **new pleading family** served that wave:
+  - **TAC-802 motion-to-strike response + cure matrix** — seven instruments through cure matrix in [`tac-response-motion-strike/`](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/tac-response-motion-strike/).
+  - **Anti-SLAPP TAC notice of lodging** — NOL stack + proposed TAC exhibit + POS in [`antislap-tac-notice-of-lodging/`](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/antislap-tac-notice-of-lodging/).
+  - **Prong-One NOL** — notice + merged checklist + POS in [`prong-one-notice-of-lodging/`](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/prong-one-notice-of-lodging/).
+  - **Discovery Track 1 (deem / compel / sanctions)** — motion stack + rolled-in discovery + POS in [`discovery-track1-deem-compel/`](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/discovery-track1-deem-compel/).
+  - **Discovery Track 2 (sixth set)** — sixth-set discovery packet + POS in [`discovery-track2-set-six/`](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/discovery-track2-set-six/) *(confirm filing status on the portal if you need an official register match for a discrete SFTC transaction)*.
+  - **Discovery Track 3 (default + CMC)** — notice of default, CMC statement update, POS in [`discovery-track3-default-cmc/`](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/discovery-track3-default-cmc/).
+  - **SAC Apr. 30 hearing support + defense-service masters** — bench brief, exhibits, combined POS in [`mfl-sac-apr30-hearing/`](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/mfl-sac-apr30-hearing/) plus consolidated defense-service PDF + POS in [`defense-service-docuserve/`](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/defense-service-docuserve/).
+- [Public synopsis — strategy](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md) · **NEW:** [Defense fatal flaws — expanded](DEFENSE-FATAL-FLAWS.md).
 - **NEW:** [Clerk filing build — Apr. 28 (631802)](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md) — full **DOCUSERV** tree mirror (99 PDFs across `10-` … `60-` lanes) with merged combined packets, courtesy/prong-one variants, full `E-SERVICE-PARTS` constituents, and May 13 Anti-SLAPP opposition prong-one exhibit; cross-referenced to `SFTC-FILE-SERVE.POS.RECORDS.md` and `SFTC-CLERKS.DOCKET.md`.
 
 **April 27, 2026 refresh.**

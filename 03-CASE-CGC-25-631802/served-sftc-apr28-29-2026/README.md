@@ -37,6 +37,8 @@ Receipt times are **Pacific**. Several proofs use **`2026-04-28`** in the filena
 | 79334714 | Apr 28, 2026 ~11:55 PM | CSAA Insurance Exchange | Discovery Track 1 (deem/compel stack + discovery PDFs + POS) |
 | 79334722 | **Apr 29, 2026 ~12:13 AM** | CSAA Insurance Exchange | Discovery Track 3 (notice of default, CMC update, POS) |
 
+**Files served per docket register:** title-by-title mirror keyed to each receipt — **[SFTC-DOCKET-REGISTER.md](SFTC-DOCKET-REGISTER.md)** (`#files-served-per-docket-register`).
+
 **Track 2 (sixth set discovery)** PDFs appear in [`discovery-track2-set-six/`](discovery-track2-set-six/); confirm **filed** status on the court portal if you need an official register match—the **Apr. 28–29** receipt summary in this litigation workspace did not list a separate File and Serve transaction for that packet at the time this mirror was published.
 
 Additional recipients on the receipts included **Tyler O’Connell**, **Monique Schubert**, and **Chad Tapp** (and Department 302 on the defense-service transaction per workspace notes).
