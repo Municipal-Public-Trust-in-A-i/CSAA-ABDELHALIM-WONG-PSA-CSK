@@ -36,6 +36,25 @@
 
 ---
 
+## Filed PDFs (April 28, 2026 — exact court submission)
+
+The following links are **byte copies** of the packet **e-filed** under CGC-25-631802 (File and Serve), not PDFs regenerated from LaTeX in `court-pdfs/`. For the same set inside the Apr. 28–29 site hub, see [`../../served-sftc-apr28-29-2026/tac-response-motion-strike/`](../../served-sftc-apr28-29-2026/tac-response-motion-strike/).
+
+| Doc # | Filed PDF |
+|-------|-----------|
+| POS | [10-POS-050-MFL-TAC-2026-04-28-CGC-25-631802.pdf](court-pdfs/filed-apr-28-2026/10-POS-050-MFL-TAC-2026-04-28-CGC-25-631802.pdf) |
+| 01 | [TAC-802-01-NOTICE.pdf](court-pdfs/filed-apr-28-2026/TAC-802-01-NOTICE.pdf) |
+| 02 | [TAC-802-02-MEMORANDUM.pdf](court-pdfs/filed-apr-28-2026/TAC-802-02-MEMORANDUM.pdf) |
+| 03 | [TAC-802-03-DECLARATION.pdf](court-pdfs/filed-apr-28-2026/TAC-802-03-DECLARATION.pdf) |
+| 04 | [TAC-802-04-RFJN.pdf](court-pdfs/filed-apr-28-2026/TAC-802-04-RFJN.pdf) |
+| 05 | [TAC-802-05-PROPOSED-ORDER.pdf](court-pdfs/filed-apr-28-2026/TAC-802-05-PROPOSED-ORDER.pdf) |
+| 06 | [TAC-802-06-TAC.pdf](court-pdfs/filed-apr-28-2026/TAC-802-06-TAC.pdf) |
+| 07 | [TAC-802-07-CURE-MATRIX.pdf](court-pdfs/filed-apr-28-2026/TAC-802-07-CURE-MATRIX.pdf) |
+
+Folder note: [`court-pdfs/filed-apr-28-2026/README.md`](court-pdfs/filed-apr-28-2026/README.md).
+
+---
+
 ## Action Type: Insurance Fraud / UCL / Bad Faith
 
 **Two-Layer Cure Strategy:** The pending SAC-leave motion (hearing Apr 30, 2026) is the **first** cure. This TAC-RESPONSE packet is the **second** cure, filed only if/when the SAC is granted and Round D defects surface in subsequent defense motions.
@@ -76,4 +95,4 @@ This packet responds to Defendant CSAA's Motion to Strike filed April 22, 2026 u
 
 ---
 
-*Last updated: April 22, 2026*
+*Last updated: April 29, 2026 (filed PDF links added).*
