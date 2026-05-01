@@ -6,7 +6,7 @@
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud) · CGC-25-631802 (UCL / denial-letter fraud)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** April 29, 2026 (see [What's new](#whats-new)).
+**Last refresh:** May 1, 2026 (see [What's new](#whats-new)).
 
 ---
 # CASE 801 STANDING :
@@ -82,6 +82,7 @@ Plaintiff **e-filed and e-served** coordinated packets for **CGC-25-631802** so 
 - **Yesterday (Apr. 27)** — Combined motion-for-leave / SAC packets to defense with Judicial Council POS-050s; **802** reply ISO leave court-ready for Apr. 30; [*Moradi-Shalal*](_shared/moradi-shalal-carveout-apr27/README.md) carve-out meet-and-confer; safe harbor and adverse-authority supplements ([801 hub](02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md) · [802 hub](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md)).
 - **Today (Apr. 28–29)** — Six **File and Serve** transactions, **35** served titles, six mirrored topic lanes (bench/SAC support, TAC response + cure matrix, Anti-SLAPP NOL, Prong-One NOL, discovery tracks 1–3, defense-service masters); plus clerk-facing **[DOCUSERV build](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md)** and **[SFTC docket register](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/SFTC-DOCKET-REGISTER.md)** keyed receipt-by-receipt.
 - **Tomorrow (Apr. 30 hearing)** — Bench packet, courtesy copies for Dept. 302, and **cure matrix** materials remain staged beside the served hubs for oral argument and leave posture ([served hub](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) · [synopsis](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md)).
+- **Court-filed cross-hearing stack (Apr. 30)** — Memorandum, notice of lodging, RJN, omnibus blackletter supplement, customer-doctrine supplement, safe-harbor notice/declaration, and POS-050 **as filed with the court** for **631801** and **631802**, with Markdown and LaTeX sources mirrored on this site; **bench briefs from that package are omitted** from the public mirror ([801 hub](02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md) · [802 hub](03-CASE-CGC-25-631802/cross-hearing-42517-apr30-2026/README.md)).
 
 | Hub | Link |
 |-----|------|
@@ -89,6 +90,7 @@ Plaintiff **e-filed and e-served** coordinated packets for **CGC-25-631802** so 
 | **631802** — receipt-by-receipt title → PDF map (six transactions) | [**SFTC docket register**](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/SFTC-DOCKET-REGISTER.md) |
 | **631802** — narrative only (how the lanes fit together) | [Public synopsis — strategy](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md) |
 | **631802** — full clerk-filing build (DOCUSERV mirror, 99 PDFs incl. courtesy + prong-one) | [Clerk filing — Apr. 28 (802)](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md) |
+| **631801 / 631802** — Apr. 30 court-filed § 425.17(c) cross-hearing (PDFs + Markdown + TeX; no bench briefs) | [801 cross-hearing](02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md) · [802 cross-hearing](03-CASE-CGC-25-631802/cross-hearing-42517-apr30-2026/README.md) |
 
 ---
 
@@ -144,6 +146,10 @@ Pick the entry that matches why you opened this site.
 ---
 
 ## What's new
+
+**May 1, 2026 refresh.**
+
+- **Apr. 30, 2026 — court-filed cross-hearing § 425.17(c) package (both cases):** Public mirror of **seven court-facing instruments per case** (memorandum; notice of lodging supplemental authority; omnibus blackletter contradictions; customer-doctrine supplemental memo; supplemental RJN; safe-harbor notice/declaration; POS-050), with **Markdown** for the omnibus and customer-doctrine portions and **LaTeX** sources for all instruments in each hub’s `source-tex/`. **Bench briefs** from the same authoring run are **not** published here. Hubs: [CGC-25-631801 — cross-hearing 42517](02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md) · [CGC-25-631802 — cross-hearing 42517](03-CASE-CGC-25-631802/cross-hearing-42517-apr30-2026/README.md).
 
 **April 29, 2026 refresh.**
 

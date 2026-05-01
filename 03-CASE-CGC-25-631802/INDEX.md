@@ -14,6 +14,8 @@
 
 **April 28, 2026 — full clerk-filing build (DOCUSERV mirror):** complete numbered tree (`10-` … `60-`) including the merged combined packets, courtesy variants with **prong-one** content, full **E-SERVICE-PARTS** constituents, and the **May 13 Anti-SLAPP opposition** prong-one checklist exhibit — **[clerk-filing-2026-04-28/README.md](clerk-filing-2026-04-28/README.md)**.
 
+**April 30, 2026 — court-filed cross-hearing § 425.17(c) stack:** memorandum, notice of lodging, supplemental RJN, omnibus blackletter P&A, customer-doctrine supplement, safe-harbor notice/declaration, and POS-050 — **[cross-hearing-42517-apr30-2026/README.md](cross-hearing-42517-apr30-2026/README.md)** (PDFs + Markdown + LaTeX; bench briefs omitted). The **631801** mirror is **[02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md](../02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md)**.
+
 **Latest consolidated opposition (801 defense-court draft build):** Full PDF set — six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibit appendices, and legacy splits — is published under **[plaintiff-opposition-consolidated-apr2026/](plaintiff-opposition-consolidated-apr2026/README.md)** (synced April 18, 2026).
 
 [← Back to Case Root](../ROSARIO.md)

@@ -96,6 +96,16 @@ Coordinated **combined MFL/SAC packet**, proof of service, Apr. 27 safe-harbor s
 
 ---
 
+## April 30, 2026 — cross-hearing CCP § 425.17(c) (court-filed)
+
+Memorandum, notice of lodging, supplemental RJN, omnibus blackletter P&A, customer-doctrine supplement, safe-harbor notice/declaration, and POS-050 **as filed** — PDFs, Markdown (where used), and LaTeX sources. **Bench briefs** from the same package are not mirrored here.
+
+| Hub | Link |
+|-----|------|
+| Cross-hearing 42517 — 631801 | [cross-hearing-42517-apr30-2026/README.md](cross-hearing-42517-apr30-2026/README.md) |
+
+---
+
 ## Relief Sought
 
 1. **Equitable vacatur** of the judgment in CGC-21-594102

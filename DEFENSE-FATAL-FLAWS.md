@@ -30,7 +30,7 @@ The **631802** case index explains why **Civil Code § 47(b)** litigation privil
 
 ## 5. Anti-SLAPP gravamen mismatch under prong one
 
-Prong-one preparation materials lodged for **May 13** sit in the clerk-filing tree under **[40-PRONG-ONE-RECORD/](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/40-PRONG-ONE-RECORD/)** (merged checklist, notices of lodging, POS constituents). The operative complaint frames **Flatley**, **Prentice**, and **Lucido** checkpoints and the gravamen of pre-litigation denial-letter conduct ([802 TAC ¶¶ 21A, 24A, 41A; ¶¶ 52–53](MERITS-EXHIBITS/TAC-802-06-TAC.pdf)). Those paragraphs anchor why plaintiff treats CSAA’s special-motion posture as misaligned with the pleaded wrongful acts.
+Prong-one preparation materials lodged for **May 13** sit in the clerk-filing tree under **[40-PRONG-ONE-RECORD/](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/40-PRONG-ONE-RECORD/)** (merged checklist, notices of lodging, POS constituents). The operative complaint frames **Flatley**, **Prentice**, and **Lucido** checkpoints and the gravamen of pre-litigation denial-letter conduct ([802 TAC ¶¶ 21A, 24A, 41A; ¶¶ 52–53](MERITS-EXHIBITS/TAC-802-06-TAC.pdf)). Those paragraphs anchor why plaintiff treats CSAA’s special-motion posture as misaligned with the pleaded wrongful acts. The **Apr. 30, 2026** court-filed § **425.17(c)** cross-hearing stack (memorandum, NOL, RJN, omnibus blackletter supplement, customer-doctrine memo, safe harbor, POS) is mirrored for **[631801](02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md)** and **[631802](03-CASE-CGC-25-631802/cross-hearing-42517-apr30-2026/README.md)** (bench briefs omitted from that public mirror).
 
 ---
 

@@ -1,0 +1,114 @@
+% Pleading-paper preamble for APRIL-24-2026 cover sheets and oral-argument
+% outlines (CGC-25-631801 and CGC-25-631802). Matches house style from
+% APRIL-23-SAC-DEFENSE/court-pdfs/REPLY-SAC-PREAMBLE.tex, simplified for
+% single-to-three-page artifacts that do not require TOC/TOA infrastructure.
+%
+% Cross-hearing caption (CAPTION-801/802.tex): use \CaptionDocTitleBlock,
+% \CaptionDocSubBlock, and the crosshearingsschedule environment (defined below)
+% so long \doctitleblock text and hearing dates stay inside the 3in minipage.
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{geometry}
+    \geometry{top=1in, bottom=2.2in, left=1.0in, right=1.0in, textheight=336pt}
+    \setlength{\footskip}{70pt}
+\usepackage{ulem}
+\usepackage{fancyhdr}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+\usepackage{parskip}
+    \setlength{\parskip}{0mm}
+\usepackage{quoting}
+    \quotingsetup{leftmargin=0.5in, rightmargin=0.5in, vskip=-1.5mm}
+    \makeatletter
+        \g@addto@macro\quoting\singlespacing
+        \g@addto@macro\quoting{\vspace{-2mm}}
+    \makeatother
+\usepackage{mathptmx}
+\usepackage{amssymb}
+\renewcommand{\rmdefault}{ptm}
+\renewcommand{\normalsize}{\fontsize{12}{12}\selectfont}
+\newcommand*{\ptm}{\fontfamily{ptm} \selectfont \fontsize{12}{12}\selectfont}
+\usepackage{setspace}
+    \doublespacing
+\newcommand{\tab}{\hspace*{.0in}}
+\newenvironment{tightcenter}{%
+    \setlength\topsep{0pt}
+    \setlength\parskip{0pt}
+    \begin{center}
+}{%
+    \end{center}
+}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+% Pleading-paper vertical double rule at the left margin.
+\AddToHook{shipout/background}{%
+    \begin{tikzpicture}[remember picture, overlay]
+        \draw[line width=0.5pt] ($(current page.north west) + (0.75in,0)$) -- ($(current page.south west) + (0.75in,0)$);
+        \draw[line width=0.5pt] ($(current page.north west) + (0.80in,0)$) -- ($(current page.south west) + (0.80in,0)$);
+    \end{tikzpicture}%
+}
+\usepackage[left, pagewise]{lineno}
+\setlength{\linenumbersep}{0.35in}
+\renewcommand{\linenumberfont}{\normalfont\small}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{bookmark}
+\usepackage{textcomp}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{calc}
+% --- Cross-hearing caption cover (3in minipage): compact title + 3-column hearing table ---
+% Use on first page only; keeps long \doctitleblock / \docsubblock on one sheet with party caption.
+\newcommand{\CaptionDocTitleBlock}{%
+  \begingroup
+  \fontsize{10}{11.5}\selectfont
+  \bfseries
+  \raggedright
+  \setlength{\parskip}{0pt}%
+  \noindent\doctitleblock\par
+  \endgroup
+}
+\newcommand{\CaptionDocSubBlock}{%
+  \begingroup
+  \footnotesize
+  \raggedright
+  \setlength{\parskip}{0pt}%
+  \noindent\docsubblock\par
+  \endgroup
+}
+% #1 = department number only (e.g.\ 301 or 302) for the line ``Dept.\ #1''.
+\newenvironment{crosshearingsschedule}[1]{%
+  \par\begingroup
+  \footnotesize
+  \setlength{\tabcolsep}{2.2pt}%
+  \renewcommand{\arraystretch}{1.04}%
+  \setlength{\parskip}{0pt}%
+  \setlength{\parindent}{0pt}%
+  \noindent\textbf{Cross-noticed for pending defense hearings (this case, Dept.\ #1):}\par\vspace{2pt}%
+  \begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.11\linewidth}>{\raggedright\arraybackslash}p{0.34\linewidth}>{\raggedright\arraybackslash}p{0.53\linewidth}@{}}%
+  \textbf{\#} & \textbf{Motion} & \textbf{Date / dept / judge} \\ \hline
+}{%
+  \end{tabular}\par\endgroup\smallskip
+}
+% Pandoc pipe-table column widths use \real{#}.
+\newcommand{\real}[1]{\pgfmathparse{#1}\pgfmathresult}
+\titleformat{\section}{\fontsize{13}{13}\selectfont\normalfont\bfseries\uppercase}{}{0em}{}
+\titleformat{\subsection}{\fontsize{12}{12}\selectfont\normalfont\bfseries}{}{0em}{}
+\titleformat{\subsubsection}{\normalfont\bfseries}{}{0em}{}
+\titlespacing*{\section}{0pt}{6pt}{2pt}
+\titlespacing*{\subsection}{0pt}{4pt}{2pt}
+\titlespacing*{\subsubsection}{0pt}{2pt}{2pt}
+\newcommand{\calrules}[1]{Cal. Rules of Court, rule #1}
+\newcommand{\ccp}[1]{Code Civ. Proc., \textsection~#1}
+\newcommand{\evidcode}[1]{Evid. Code, \textsection~#1}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+% Footer: page N of total + document short-title.
+\usepackage{lastpage}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage{} of \pageref{LastPage} \\[1pt] \footnotesize \docshorttitle}
+\fancyfoot[R]{}
