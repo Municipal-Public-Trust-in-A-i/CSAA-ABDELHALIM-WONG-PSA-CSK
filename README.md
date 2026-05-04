@@ -6,7 +6,7 @@
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud) · CGC-25-631802 (UCL / denial-letter fraud)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** May 1, 2026 (see [What's new](#whats-new)).
+**Last refresh:** May 4, 2026 (see [What's new](#whats-new)).
 
 ---
 # CASE 801 STANDING :
@@ -72,6 +72,8 @@ California’s special motion to strike under CCP § 425.16 is a two-step burden
 **On this record:** Filings treat **commercial / insurer factual representations** (§ 425.17(c)), **public-interest** routes in the alternative (§ 425.17(b)), **prong-one** mis-targeting of the injury-producing acts, **_Flatley_** predicates anchored in **Bus. & Prof. Code § 6128(a)** and insurer regulatory floors (**10 CCR § 2695.7**, Ins. Code § 790.03(h)), and **prong-two** evidence—plus **extrinsic fraud** posture (*Kulchar*, *Kougasian*) where pleaded—as independent grounds the May hearings’ special motions do not fit the SAC.
 
 **→ [Read the full doctrinal walkthrough → ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md)**
+
+**→ [Strategic memo: delay-tactic immunity gambit (801 / 802) → STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md):** CCP § 425.17(c) gateway, § 425.17(e) and appellate leverage, two-layer immunity rhetoric (Layer A / B), per-case catalogs, and Tracks 1–3 case-management readout (plaintiff-authored narrative; not a court filing).
 
 ---
 
@@ -146,6 +148,10 @@ Pick the entry that matches why you opened this site.
 ---
 
 ## What's new
+
+**May 4, 2026 refresh.**
+
+- **NEW:** [Strategic memo: delay-tactic immunity gambit (801 / 802)](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md): unified narrative on defense two-layer immunity rhetoric, CCP § 425.17(c) as first-and-only gateway question, § 425.17(e) and interlocutory-review limits, *Moradi-Shalal* / *Zhang*, sanctions and case-management Tracks 1–3; companion to [EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md](EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md) and the [Apr. 30 cross-hearing hubs](#april-2829-2026--preparation-for-apr-30-hearing-cgc-25-631802). *(Memo cites some workspace-only paths for PDFs elsewhere in the authoring repo; core cross-links above live on this site.)*
 
 **May 1, 2026 refresh.**
 
@@ -570,6 +576,7 @@ The story of how one brain-injured plaintiff, proceeding alone against a multi-b
 ├── README.LEGACY.md                  (older index, kept for diffs)
 ├── MERITS.md                         (TAC-aligned merits statement + implications)
 ├── ANTI-SLAPP-OFF-RAMPS.md           (CCP § 425.16 / § 425.17 off-ramps; 801 vs. 802)
+├── STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md (425.17(c)/(e); immunity-as-delay narrative)
 ├── MERITS-EXHIBITS/                  (3 cornerstone PDFs + 2 certified TAC PDFs)
 ├── FOR-ATTORNEYS.md                  (intake cover for California counsel)
 ├── CASE-DOSSIER.md                   (30-minute deep read)
