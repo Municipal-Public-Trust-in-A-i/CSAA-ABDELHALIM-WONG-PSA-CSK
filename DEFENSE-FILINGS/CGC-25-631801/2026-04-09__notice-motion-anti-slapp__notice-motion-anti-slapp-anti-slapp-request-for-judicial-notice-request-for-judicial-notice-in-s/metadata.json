@@ -1,0 +1,15 @@
+{
+  "original_filename": "019__2026-04-09__defense__notice-motion-anti-slapp__request-for-judicial-notice-request-for-judicial-notice-in-s.pdf",
+  "normalized_stem": "REQUEST FOR JUDICIAL NOTICE REQUEST FOR JUDICIAL NOTICE IN SUPPORT OF SPECIAL MOTION TO STRIKE PLAINTIFF'S FIRST AMENDED",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-04-09",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "notice-motion-anti-slapp",
+  "motion_family": "anti-slapp",
+  "transaction_id": "79007825",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=9B02322AA5A0717874DB644EB2C88DA9FEA6DAEC&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10152302%26Timestamp%3D20260506234137%26Digest%3D04879bc662f80bfab0155411cb4bc4dec58e8810",
+  "sha256": "79302606f17e594b3d257bf5bef39d72f0b6a0cf702814376391b8ff85da96c7",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "019",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631801/2026-04-09__notice-motion-anti-slapp__notice-motion-anti-slapp-anti-slapp-request-for-judicial-notice-request-for-judicial-notice-in-s/019__2026-04-09__defense__notice-motion-anti-slapp__request-for-judicial-notice-request-for-judicial-notice-in-s.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "original_filename": "022__2026-04-13__defense__stmnt-demurrer__statement-of-demurrer-to-plaintiff-s-first-amended-complaint.pdf",
+  "normalized_stem": "STATEMENT OF DEMURRER TO PLAINTIFF'S FIRST AMENDED COMPLAINT (TRANSACTION ID # 79038715) FILED BY DEFENDANT CSAA INSURAN",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-04-13",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "stmnt-demurrer",
+  "motion_family": "demurrer",
+  "transaction_id": "79038715",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=9B02322AA5A0717874DB644EB2C88DA9FEA6DAEC&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10157172%26Timestamp%3D20260506234137%26Digest%3D4d6110f8f745e501504050712511d69101021a95",
+  "sha256": "4125f45092c64242623d4ffbd8ee7fdbbcb9aafc290f0c708f6a6969d71a7f80",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "022",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631801/2026-04-13__stmnt-demurrer__stmnt-demurrer-demurrer-statement-of-demurrer-to-plaintiff-s-first-amended-complaint/022__2026-04-13__defense__stmnt-demurrer__statement-of-demurrer-to-plaintiff-s-first-amended-complaint.pdf"
+}

@@ -771,3 +771,7 @@ CIV. PROC. § 425.16**
 - `98 us 61`  
   - CGC-25-631801/2026-04-09__mpa__mpa-anti-slapp-mpas---anti-slapp, CGC-25-631801/2026-04-13__mpa__mpa-demurrer-mpa---demurrer, CGC-25-631801/2026-04-22__mpa__mpa-ccp436-mpas---ccp436, CGC-25-631801/2026-04-23__dec-toc__dec-toc-mfl-sac-dec-of-toc-iso-opposition-to-pltf-s-motion-for-leave-to-file-sac, CGC-25-631802/2026-04-09__mpa__mpa-anti-slapp-mpas---anti-slapp, CGC-25-631802/2026-04-13__mpa__mpa-demurrer-mpa---demurrer, CGC-25-631802/2026-04-22__mpa__mpa-ccp436-mpas---ccp436, CGC-25-631802/2026-04-23__dec-toc__dec-toc-mfl-sac-dec-of-toc-iso-opposition-to-pltf-s-motion-for-leave-to-file-sac
 
+## Maintenance (clerk mirror, 2026-05-07)
+
+`GetROA` PDFs synced under folders tagged `source: sftc_getroa_manifest` in `metadata.json` are clerk-authentic copies. Re-run regex extraction across those PDFs when OCR layers are added; scripts live under `scripts/clerk_docket/`.
+

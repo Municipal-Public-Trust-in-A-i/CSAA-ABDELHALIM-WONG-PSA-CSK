@@ -1,0 +1,15 @@
+{
+  "original_filename": "021__2026-04-13__defense__notice-demurrer__demurrer-to-1st-amended-complaint-notice-of-demurrer-to-plai.pdf",
+  "normalized_stem": "DEMURRER TO 1ST AMENDED COMPLAINT / NOTICE OF DEMURRER TO PLAINTIFF'S FIRST AMENDED COMPLAINT (TRANSACTION ID # 79038715",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-04-13",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "notice-demurrer",
+  "motion_family": "demurrer",
+  "transaction_id": "79038715",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=9B02322AA5A0717874DB644EB2C88DA9FEA6DAEC&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10157171%26Timestamp%3D20260506234137%26Digest%3D4ce366dd1e7d3b68e8a7d0b9c3fa91aaae492a88",
+  "sha256": "11327599be4a6664f8d45e9ce46992b0ce9aa4579b31926b506f0b084d6a022f",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "021",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631801/2026-04-13__notice-demurrer__notice-demurrer-demurrer-demurrer-to-1st-amended-complaint-notice-of-demurrer-to-plai/021__2026-04-13__defense__notice-demurrer__demurrer-to-1st-amended-complaint-notice-of-demurrer-to-plai.pdf"
+}
