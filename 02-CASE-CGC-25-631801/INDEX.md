@@ -106,6 +106,16 @@ Memorandum, notice of lodging, supplemental RJN, omnibus blackletter P&A, custom
 
 ---
 
+## May 7 to May 12, 2026: Anti-SLAPP / special-motion opposition archive (PDF mirror)
+
+Twenty-five clerk-style PDFs (POS lanes plus full titles; combined exhibits volume; deferred May 11 tentative-ruling notices) authored for **CGC-25-631801**, aligned with chamber service for **May 12, 2026**. Full table, timeline, and “what’s new” notes:
+
+| Hub | Link |
+|-----|------|
+| May 12 hearing package (DIGITAL-FILES / ARCHIVE) | [hearing-package-may-12-2026/README.md](hearing-package-may-12-2026/README.md) · [INDEX.md](hearing-package-may-12-2026/INDEX.md) |
+
+---
+
 ## Relief Sought
 
 1. **Equitable vacatur** of the judgment in CGC-21-594102

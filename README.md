@@ -6,7 +6,7 @@
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud) · CGC-25-631802 (UCL / denial-letter fraud)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** May 4, 2026 (see [What's new](#whats-new)).
+**Last refresh:** May 7, 2026 (see [What's new](#whats-new)).
 
 ---
 # CASE 801 STANDING :
@@ -149,6 +149,10 @@ Pick the entry that matches why you opened this site.
 
 ## What's new
 
+**May 7, 2026 refresh.**
+
+- **NEW:** **[CGC-25-631801 May 12 hearing DIGITAL-FILES archive](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md)**: public mirror of all **DIGITAL-FILES / ARCHIVE** PDFs from the May 12, 2026 opposition package (May 7 core filings with POS companions; § 425.17 notice; Insurance Code and Fair Claims Settlement Practices supplemental RJN; consolidated opposition; indexed and combined exhibits volumes; evidentiary objections; motion to strike reply-declaration surplus; deferred **May 11** tentative-ruling notices). Narrative breakdown and link table on the hub page.
+
 **May 4, 2026 refresh.**
 
 - **NEW:** [Strategic memo: delay-tactic immunity gambit (801 / 802)](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md): unified narrative on defense two-layer immunity rhetoric, CCP § 425.17(c) as first-and-only gateway question, § 425.17(e) and interlocutory-review limits, *Moradi-Shalal* / *Zhang*, sanctions and case-management Tracks 1–3; companion to [EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md](EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md) and the [Apr. 30 cross-hearing hubs](#april-2829-2026--preparation-for-apr-30-hearing-cgc-25-631802). *(Memo cites some workspace-only paths for PDFs elsewhere in the authoring repo; core cross-links above live on this site.)*
@@ -206,6 +210,7 @@ gantt
     Demurrer + Anti-SLAPP (May 13)   :m802b, 2026-05-13, 1d
     section CGC-25-631801
     SAC leave reply (May 6)          :milestone, m801a, 2026-05-06, 0d
+    Anti SLAPP opp bundle (May 12)    :m801c, 2026-05-12, 1d
     Case management (May 27)         :m801b, 2026-05-27, 1d
     section A173827
     Appellate briefing window        :a173, 2026-04-24, 40d
@@ -215,6 +220,7 @@ gantt
 |------|------|--------|------------|
 | Apr. 30, 2026 | CGC-25-631802 | SAC leave reply hearing | (verify on portal) |
 | May 6, 2026 | CGC-25-631801 | SAC leave reply hearing | Dept. 301 |
+| May 12, 2026 | CGC-25-631801 | Anti-SLAPP / special-motion opposition (confirm dept.) | [PDF hub](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md) |
 | May 13, 2026, 9:00 a.m. | CGC-25-631802 | Demurrer + Special Motion to Strike | Dept. 302 |
 | May 27, 2026, 10:30 a.m. | CGC-25-631801 | Case management conference | Dept. 610 |
 | Ongoing | A173827 | Appellate briefing | First Appellate District |

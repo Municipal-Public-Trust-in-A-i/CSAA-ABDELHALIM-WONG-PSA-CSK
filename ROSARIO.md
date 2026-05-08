@@ -9,7 +9,7 @@
 > following an adverse 9-3 verdict in a pedestrian-vehicle collision trial, and the three-front
 > post-trial proceedings constructed thereafter. All documents are court filings and public record.
 
-**Latest (April 2026):** In **CGC-25-631802**, the public site includes CSAA’s Anti-SLAPP clerk PDFs; Plaintiff’s April 2026 leave-to-amend / proposed SAC materials; the **[plaintiff consolidated opposition package (801 draft build)](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md)** (six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibits); and the earlier Anti-SLAPP opposition builds for reference. Authority-by-authority rebuttal: [08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md). Court lookup: [SF Superior case information](https://sf.courts.ca.gov/online-services/case-information).
+**Latest (May 2026):** **CGC-25-631801:** **[May 12 hearing DIGITAL-FILES archive](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md)** mirrors all PDFs from the opposition package folders (POS lanes; consolidated operative opposition; indexed plus combined exhibits volumes; evidentiary objections; § 425.17 notice; Insurance Code supplemental RJN; motion to strike reply declaration; deferred tentative-ruling notices). **CGC-25-631802:** prior April 2026 mirrors remain as before: Anti-SLAPP clerk PDFs; leave-to-amend / proposed SAC materials; the **[801-draft consolidated opposition build](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md)**; Anti-SLAPP rebuttal hub [08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md). Court lookup: [SF Superior case information](https://sf.courts.ca.gov/online-services/case-information).
 
 ---
 
@@ -88,6 +88,8 @@ Following the verdict, Plaintiff filed three independent proceedings:
 | 8 | Exhibits — Court Filing Set | [PDF](02-CASE-CGC-25-631801/09-Exhibits-631801-Court.pdf) |
 | 9 | Exhibits — Memorandum and Supplemental | [PDF](02-CASE-CGC-25-631801/10-Exhibits-Memorandum-Supplemental.pdf) |
 | 10 | Memorandum — Navaratnasingham Admission (Fatal Proof) | [PDF](02-CASE-CGC-25-631801/11-Motion-Extrinsic-Fraud-Navaratnasingham-Admission.pdf) |
+
+**Motion practice (631801, indexed with more detail):** **May 7 to May 12, 2026** Anti-SLAPP opposition PDF mirror (lanes and full titles): [hearing-package-may-12-2026/README.md](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md).
 
 ---
 
