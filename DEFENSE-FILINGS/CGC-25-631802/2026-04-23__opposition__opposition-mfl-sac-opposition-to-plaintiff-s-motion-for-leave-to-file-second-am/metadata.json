@@ -1,0 +1,15 @@
+{
+  "original_filename": "052__2026-04-23__defense__opposition__opposition-to-plaintiff-s-motion-for-leave-to-file-second-am.pdf",
+  "normalized_stem": "OPPOSITION TO PLAINTIFF'S MOTION FOR LEAVE TO FILE SECOND AMENDED COMPLAINT (TRANSACTION ID # 79212258) FILED BY DEFENDA",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-23",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "opposition",
+  "motion_family": "mfl-sac",
+  "transaction_id": "79212258",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=D3BFF0718B513A06CC0A539A5DF54A8B8CA11C86&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10178422%26Timestamp%3D20260507000333%26Digest%3D09a4b679c1db75a39495219899e791282682d086",
+  "sha256": "f4cdb6e52212f464be81a69be64c987d8200d9876166398f4579eea57900f975",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "052",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631802/2026-04-23__opposition__opposition-mfl-sac-opposition-to-plaintiff-s-motion-for-leave-to-file-second-am/052__2026-04-23__defense__opposition__opposition-to-plaintiff-s-motion-for-leave-to-file-second-am.pdf"
+}

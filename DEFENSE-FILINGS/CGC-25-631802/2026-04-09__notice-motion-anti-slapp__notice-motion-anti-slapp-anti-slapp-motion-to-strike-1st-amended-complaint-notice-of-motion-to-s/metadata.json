@@ -1,0 +1,15 @@
+{
+  "original_filename": "016__2026-04-09__defense__notice-motion-anti-slapp__motion-to-strike-1st-amended-complaint-notice-of-motion-to-s.pdf",
+  "normalized_stem": "MOTION TO STRIKE 1ST AMENDED COMPLAINT /NOTICE OF MOTION TO STRIKE PLAINTIFF'S FIRST AMENDED COMPLAINT PURSUANT TO C.C.P",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-09",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "notice-motion-anti-slapp",
+  "motion_family": "anti-slapp",
+  "transaction_id": "79007560",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=D3BFF0718B513A06CC0A539A5DF54A8B8CA11C86&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10152119%26Timestamp%3D20260507000333%26Digest%3D486fd6df83f2c8058969018d50a1b623d1027eea",
+  "sha256": "4acff097a890d5a68fc24e73dfbfaa978b92f4c511e3f94eaabd80a325ffd598",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "016",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631802/2026-04-09__notice-motion-anti-slapp__notice-motion-anti-slapp-anti-slapp-motion-to-strike-1st-amended-complaint-notice-of-motion-to-s/016__2026-04-09__defense__notice-motion-anti-slapp__motion-to-strike-1st-amended-complaint-notice-of-motion-to-s.pdf"
+}

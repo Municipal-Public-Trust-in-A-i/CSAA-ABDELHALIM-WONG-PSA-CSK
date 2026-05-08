@@ -1,0 +1,15 @@
+{
+  "original_filename": "080__2026-05-05__defense__reply__reply-to-plaintiffs-opposition-to-defendants-special-motion.pdf",
+  "normalized_stem": "REPLY TO PLAINTIFFS OPPOSITION TO DEFENDANTS SPECIAL MOTION TO STRIKE PLAINTIFFS FIRST AMENDED COMPLAINT PURUANT TO C.C.",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-05-05",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "reply",
+  "motion_family": "anti-slapp",
+  "transaction_id": "79394972",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=0649337DE65596B17970BF18C142684CF12785B3&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10199263%26Timestamp%3D20260506235714%26Digest%3D2ec40a69bee08bb24c901e18937732baa9eb5e80",
+  "sha256": "e9ad9fc8cd54673e7b09ae2bbe10af5b0601daea9d6e02e3484d1d9cb94853d9",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "080",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631801/2026-05-05__reply__reply-anti-slapp-reply-to-plaintiffs-opposition-to-defendants-special-motion/080__2026-05-05__defense__reply__reply-to-plaintiffs-opposition-to-defendants-special-motion.pdf"
+}

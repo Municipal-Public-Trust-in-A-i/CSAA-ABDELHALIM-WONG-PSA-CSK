@@ -1,0 +1,15 @@
+{
+  "original_filename": "039__2026-04-22__defense__notice-motion-ccp436__request-for-judicial-notice-in-support-of-motion-to-strike-p.pdf",
+  "normalized_stem": "REQUEST FOR JUDICIAL NOTICE IN SUPPORT OF MOTION TO STRIKE PLEADING (TRANSACTION ID # 79125696) FILED BY DEFENDANT CSAA ",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-04-22",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "notice-motion-ccp436",
+  "motion_family": "ccp436",
+  "transaction_id": "79125696",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=0649337DE65596B17970BF18C142684CF12785B3&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10174233%26Timestamp%3D20260506235714%26Digest%3D56ec11bab7d3d5e88a44cbd705ab928b13cd001f",
+  "sha256": "2467edd86ba470d56bd934d8e1aec935151a85f675b7cf53b1a756da01acfc4e",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "039",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631801/2026-04-22__notice-motion-ccp436__notice-motion-ccp436-ccp436-request-for-judicial-notice-in-support-of-motion-to-strike-p/039__2026-04-22__defense__notice-motion-ccp436__request-for-judicial-notice-in-support-of-motion-to-strike-p.pdf"
+}

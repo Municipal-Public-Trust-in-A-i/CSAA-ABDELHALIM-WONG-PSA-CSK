@@ -1,0 +1,15 @@
+{
+  "original_filename": "088__2026-05-01__defense__other-defense__notice-of-entry-of-order-notice-of-ruling-filed-transaction.pdf",
+  "normalized_stem": "NOTICE OF ENTRY OF ORDER/NOTICE OF RULING FILED (TRANSACTION ID # 79369412) FILED BY DEFENDANT CSAA INSURANCE EXCHANGE",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-05-01",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "other-defense",
+  "motion_family": "mfl-sac",
+  "transaction_id": "79369412",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=D3BFF0718B513A06CC0A539A5DF54A8B8CA11C86&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10193310%26Timestamp%3D20260507000333%26Digest%3D2dc321e3ae360b38e9129550376199a9a5673ac2",
+  "sha256": "a57f4613a0a08c7a4b6095f139a14cf6d7c24eaa403c8df1c42d3dd9102d1be4",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "088",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631802/2026-05-01__other-defense__other-defense-mfl-sac-notice-of-entry-of-order-notice-of-ruling-filed-transaction/088__2026-05-01__defense__other-defense__notice-of-entry-of-order-notice-of-ruling-filed-transaction.pdf"
+}

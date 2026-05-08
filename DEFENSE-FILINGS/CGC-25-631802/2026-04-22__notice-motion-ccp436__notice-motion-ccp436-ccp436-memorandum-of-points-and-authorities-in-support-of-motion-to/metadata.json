@@ -1,0 +1,15 @@
+{
+  "original_filename": "043__2026-04-22__defense__notice-motion-ccp436__memorandum-of-points-and-authorities-in-support-of-motion-to.pdf",
+  "normalized_stem": "MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF MOTION TO STRIKE (TRANSACTION ID # 79127897) FILED BY DEFENDANT CSAA ",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-22",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "notice-motion-ccp436",
+  "motion_family": "ccp436",
+  "transaction_id": "79127897",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=D3BFF0718B513A06CC0A539A5DF54A8B8CA11C86&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10174569%26Timestamp%3D20260507000333%26Digest%3D04fe929c8cdbcc0f4c4f41dd11de57e26f7ef204",
+  "sha256": "28f385cb586bbeb8f04699fe7f3c0dcb2fe131bab73538a0dda0ab2466af77e1",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "043",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631802/2026-04-22__notice-motion-ccp436__notice-motion-ccp436-ccp436-memorandum-of-points-and-authorities-in-support-of-motion-to/043__2026-04-22__defense__notice-motion-ccp436__memorandum-of-points-and-authorities-in-support-of-motion-to.pdf"
+}

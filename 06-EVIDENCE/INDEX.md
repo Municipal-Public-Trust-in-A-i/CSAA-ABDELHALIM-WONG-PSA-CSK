@@ -23,6 +23,7 @@ This folder holds **regulatory / bar** complaint PDFs, a **judicial** complaint 
 | Document | PDF |
 |----------|-----|
 | CSAA investigation report | [EXHIBIT-001-CSAA-Investigation-Report.pdf](EXHIBIT-001-CSAA-Investigation-Report.pdf) |
+| SFPD body-worn camera frame index (Report No. 210079556) | *Pending. Target filename after upload: `SFPD-BWC-Frame-Index-Report-210079556.pdf`* |
 
 **Also filed under trial exhibits:** [../04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf](../04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf)
 

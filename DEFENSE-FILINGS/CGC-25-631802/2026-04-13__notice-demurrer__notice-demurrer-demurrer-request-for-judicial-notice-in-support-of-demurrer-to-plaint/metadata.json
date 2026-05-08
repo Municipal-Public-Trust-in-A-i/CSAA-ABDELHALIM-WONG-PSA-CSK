@@ -1,0 +1,15 @@
+{
+  "original_filename": "022__2026-04-13__defense__notice-demurrer__request-for-judicial-notice-in-support-of-demurrer-to-plaint.pdf",
+  "normalized_stem": "REQUEST FOR JUDICIAL NOTICE IN SUPPORT OF DEMURRER TO PLAINTIFF'S FIRST AMENDED COMPLAINT (TRANSACTION ID # 79038567) FI",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-04-13",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "notice-demurrer",
+  "motion_family": "demurrer",
+  "transaction_id": "79038567",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=D3BFF0718B513A06CC0A539A5DF54A8B8CA11C86&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10157169%26Timestamp%3D20260507000333%26Digest%3D79f390cc381549fdc1b60e1d210d7aa1f3d95b24",
+  "sha256": "37d2abfb9ef2fdee54aab9650503666ece4d28ab770fb006dbcd8f2f2ec1661a",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "022",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631802/2026-04-13__notice-demurrer__notice-demurrer-demurrer-request-for-judicial-notice-in-support-of-demurrer-to-plaint/022__2026-04-13__defense__notice-demurrer__request-for-judicial-notice-in-support-of-demurrer-to-plaint.pdf"
+}

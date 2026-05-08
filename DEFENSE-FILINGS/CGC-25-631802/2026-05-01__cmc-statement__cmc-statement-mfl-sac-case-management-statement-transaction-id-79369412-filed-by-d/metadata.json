@@ -1,0 +1,15 @@
+{
+  "original_filename": "087__2026-05-01__defense__cmc-statement__case-management-statement-transaction-id-79369412-filed-by-d.pdf",
+  "normalized_stem": "CASE MANAGEMENT STATEMENT (TRANSACTION ID # 79369412) FILED BY DEFENDANT CSAA INSURANCE EXCHANGE ESTIMATED TIME FOR TRIA",
+  "case_number": "CGC-25-631802",
+  "filing_date": "2026-05-01",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "cmc-statement",
+  "motion_family": "mfl-sac",
+  "transaction_id": "79369412",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=D3BFF0718B513A06CC0A539A5DF54A8B8CA11C86&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10193309%26Timestamp%3D20260507000333%26Digest%3D3060514a682c550b0e15386db47500a4e5b57c62",
+  "sha256": "de391249f83db54aaca0dffe61635baa5590be500e8d23e957662151268396d0",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "087",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631802/2026-05-01__cmc-statement__cmc-statement-mfl-sac-case-management-statement-transaction-id-79369412-filed-by-d/087__2026-05-01__defense__cmc-statement__case-management-statement-transaction-id-79369412-filed-by-d.pdf"
+}
