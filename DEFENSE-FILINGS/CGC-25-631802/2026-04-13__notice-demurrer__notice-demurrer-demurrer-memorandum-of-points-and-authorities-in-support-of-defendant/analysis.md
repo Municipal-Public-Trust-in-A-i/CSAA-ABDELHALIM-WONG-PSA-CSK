@@ -1,3 +1,31 @@
-# Analysis
+# Deficiency Analysis -- Defense Demurrer MPA
 
-Stub: link to `DEFENSE-POSTURE-TRIAGE` and wave memos.
+**Filing:** Memorandum of Points and Authorities in Support of Defendant's Demurrer to Plaintiff's First Amended Complaint
+**Case:** CGC-25-631802
+**Filed:** April 13, 2026
+
+---
+
+## Deficiency Table
+
+| Heading | Category | Deficiency | Counter-Authority |
+|---------|----------|------------|-------------------|
+| V.A.1 No Jurisdiction | Factual misstatement of record | CCP 904.1(a)(13) appeal of judgment in -594102 deprives jurisdiction over *that case*, not over an independent UCL action brought against a non-party insurer in a separate proceeding | Plant Insulation Co. v. Fibreboard Corp. (1990) 224 Cal.App.3d 781 (primary-rights doctrine; independent claims against different parties are not divested by appeal of unrelated judgment) |
+| V.A.2 Another action pending | Factual misstatement of record | Different defendants and different primary rights between the two actions; CGC-21-594102 involves the insured/tortfeasor while CGC-25-631802 targets the insurer's institutional conduct | Plant Insulation Co. v. Fibreboard Corp. (1990) 224 Cal.App.3d 781 (plea in abatement requires identity of parties and causes of action; different defendants and primary rights defeat the plea) |
+| V.A.3.i Fraud insufficient | Omission of controlling authority | Ignores governing specificity standards; FAC pleads who (insurer), what (misrepresentation of policy obligations), when (claim handling timeline), where (written denial), and how (specific representations) with particularity | Lazar v. Superior Court (1996) 12 Cal.4th 631; Stansfield v. Starkey (1990) 220 Cal.App.3d 59 (fraud specificity standard satisfied where complaint identifies the who, what, when, where, and how of the alleged misrepresentation) |
+| V.A.3.ii UCL / Moradi-Shalal | Omission of controlling authority | Omits Zhang v. Superior Court (2013) 57 Cal.4th 364 entirely; the UCL predicate channel (unlawful prong) survives Moradi-Shalal because Zhang holds that Insurance Code violations may serve as UCL predicates through the unfair-competition framework | Zhang v. Superior Court (2013) 57 Cal.4th 364 (UCL unlawful-prong claims predicated on Insurance Code violations are not barred by Moradi-Shalal; the UCL provides an independent statutory basis distinct from a direct private right of action) |
+| V.A.4 Uncertainty | Factual misstatement of record | FAC identifies the specific policy, claim number, denial date, and regulatory predicates with particularity; the pleading is not ambiguous or unintelligible | Blank v. Kirwan (1985) 39 Cal.3d 311 (demurrer for uncertainty disfavored; sustained only where complaint is so incomprehensible that defendant cannot reasonably respond; specificity of policy, claim, and regulatory predicates defeats uncertainty challenge) |
+| V.B Civ. Code 47(b) | Mis-citation | Misapplies litigation privilege by failing to address the Rusheen communicative vs. non-communicative distinction; non-communicative institutional acts (claim denial, coverage determination, regulatory violations) fall outside the scope of Civil Code 47(b) | Rusheen v. Cohen (2006) 37 Cal.4th 1048 (litigation privilege applies only to communicative acts; non-communicative conduct, including institutional claim-handling decisions, is not protected) |
+| V.C Collateral estoppel | Factual misstatement of record | Identity-of-issues requirement fails; the insurer's institutional conduct (claim handling, coverage determination, regulatory compliance) was never actually litigated in -594102; MIL 6 and MIL 17 affirmatively excluded insurer-conduct evidence from the prior trial | Cross-reference Item 08 RT lodging (reporter's transcript showing MIL 6/MIL 17 exclusion orders); collateral estoppel requires actual litigation and determination of the identical issue, which the prior court's own in limine rulings prevented |
+| V.D Statute of limitations | Factual misstatement of record | Misidentifies accrual date as February 25, 2021 (claim denial); under the discovery rule, the limitations period does not begin until plaintiff discovers or reasonably should have discovered the factual basis for the claim; the discovery date is April 16, 2025 (trial session revealing insurer conduct), not the denial date | Fox v. Ethicon, Inc. (2005) 35 Cal.4th 797; Jolly v. Eli Lilly and Co. (1988) 44 Cal.3d 1103 (discovery rule delays accrual until plaintiff knew or should have known of wrongful cause); RT 7 p. 214:13-15 (April 16, 2025 trial testimony establishing discovery) |
+| V.F No standing | Omission of controlling authority | Fails to address Kwikset and Zhang standing frameworks; each defense case (Norton, Omega Video, Shaolian) is distinguishable on its facts and does not control UCL standing where plaintiff alleges lost money or property as a result of unfair business practices | Kwikset Corp. v. Superior Court (2011) 51 Cal.4th 310 (UCL standing requires only that plaintiff suffered injury in fact and lost money or property as a result of unfair competition); Zhang v. Superior Court (2013) 57 Cal.4th 364 (Insurance Code predicates viable under UCL unlawful prong); Norton, Omega Video, and Shaolian each distinguishable |
+
+---
+
+## Category Summary
+
+**Factual Misstatement of Record (5 headings):** V.A.1, V.A.2, V.A.4, V.C, V.D. Defense repeatedly misstates the operative record -- treating an appeal in a separate action as a jurisdictional bar to this one, conflating different defendants and primary rights, ignoring the FAC's actual specificity, asserting collateral estoppel on issues the prior court excluded, and misidentifying the accrual date by disregarding the discovery rule.
+
+**Omission of Controlling Authority (3 headings):** V.A.3.i, V.A.3.ii, V.F. Defense omits Lazar, Stansfield, Zhang, and Kwikset -- each of which is directly controlling on the issues presented. The Zhang omission is particularly significant because it is a California Supreme Court decision squarely addressing the UCL-Insurance Code predicate question that the defense brief treats as foreclosed by Moradi-Shalal.
+
+**Mis-citation (1 heading):** V.B. Defense misapplies the litigation privilege by ignoring the Rusheen communicative/non-communicative distinction, extending Civil Code 47(b) to institutional conduct that falls outside its scope.
