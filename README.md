@@ -65,11 +65,27 @@ CSAA’s liability arises from its affirmative representation that a competent i
 
 ---
 
+# **ANTI-SLAPP CONSEQUENCE RADIUS**
+
+## **➤ [Read the full narrative → ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md)**
+
+**A 7,000-word focused narrative tracing the consequence radius of the defense's April 9, 2026 anti-SLAPP filings in CGC-25-631801 and CGC-25-631802.** Anchored on the threshold preclusion under [CCP § 425.17(c)](CASE-LAW-AND-STATUTES/statutes-cal/) (insurance / commercial-speech carve-out, *Simpson Strong-Tie Co., Inc. v. Gore* (2010) 49 Cal.4th 12). Walks seven self-inflicted procedural injuries from the April 9 filing through the May 13 hearing and the May 29 [§ 128.7](CASE-LAW-AND-STATUTES/statutes-cal/CCP-128.7.md) safe-harbor expiry. Closes with a four-hypothesis classification of defense conduct (ignorance / arrogance / honest error / strategic delay or ratification) inferred strictly from documentary signals.
+
+**Spine:** § 425.17(c) as threshold bar; thirteen-row maneuver-to-consequence ledger; discovery stay backfire under [§ 425.16(g)](CASE-LAW-AND-STATUTES/statutes-cal/CCP-425.16.md); conscription of the claim record; omitted controlling authorities and candor toward the tribunal; the reply maneuver and page-cap counter-trap; deem-admit and compel as independent channels; reply declaration and § 1005 trap.
+
+**Companion to:** [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) (doctrinal off-ramps walkthrough) · [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md) (strategic-memo voice) · [MERITS.md](MERITS.md) (TAC-aligned merits statement).
+
+### **➤ [Open ANTI-SLAPP-CONSEQUENCE-RADIUS.md and read the full narrative](ANTI-SLAPP-CONSEQUENCE-RADIUS.md)**
+
+---
+
 ## Anti-SLAPP jurisprudence — § 425.16 off-ramps (801 / 802)
 
 California’s special motion to strike under CCP § 425.16 is a two-step burden shift. **Exemptions** (CCP § 425.17), **gravamen** analysis (*City of Cotati v. Cashman*, *Park v. Board of Trustees*), and **illegality as a matter of law** (*Flatley v. Mauro*) can defeat the motion before prong two—and prong two itself requires only **minimal merit** (*Navellier v. Sletten*).
 
 **On this record:** Filings treat **commercial / insurer factual representations** (§ 425.17(c)), **public-interest** routes in the alternative (§ 425.17(b)), **prong-one** mis-targeting of the injury-producing acts, **_Flatley_** predicates anchored in **Bus. & Prof. Code § 6128(a)** and insurer regulatory floors (**10 CCR § 2695.7**, Ins. Code § 790.03(h)), and **prong-two** evidence—plus **extrinsic fraud** posture (*Kulchar*, *Kougasian*) where pleaded—as independent grounds the May hearings’ special motions do not fit the SAC.
+
+**→ [Anti-SLAPP misuse and consequence radius (801 / 802) → ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md):** 7,000-word focused narrative; § 425.17(c) as threshold bar; seven consequence chains (discovery stay backfire, conscription of the claim record, omitted authorities, reply maneuver, page-cap counter-trap, deem-admit / compel channels, § 1005 reply-declaration trap); four-hypothesis classification of defense conduct (plaintiff-authored narrative; not a court filing).
 
 **→ [Read the full doctrinal walkthrough → ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md)**
 
@@ -155,6 +171,7 @@ Pick the entry that matches why you opened this site.
 
 **May 4, 2026 refresh.**
 
+- **NEW:** [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md): focused 7,000-word narrative on the consequence radius of the defense's April 9, 2026 anti-SLAPP filings in CGC-25-631801 and CGC-25-631802. Anchored on the [CCP § 425.17(c)](CASE-LAW-AND-STATUTES/statutes-cal/) carve-out as threshold bar under *Simpson Strong-Tie Co., Inc. v. Gore* (2010) 49 Cal.4th 12. Includes a thirteen-row maneuver-to-consequence ledger and a four-hypothesis framework for reading defense conduct from documentary signals. Companion to [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) and [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md).
 - **NEW:** [Strategic memo: delay-tactic immunity gambit (801 / 802)](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md): unified narrative on defense two-layer immunity rhetoric, CCP § 425.17(c) as first-and-only gateway question, § 425.17(e) and interlocutory-review limits, *Moradi-Shalal* / *Zhang*, sanctions and case-management Tracks 1–3; companion to [EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md](EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md) and the [Apr. 30 cross-hearing hubs](#april-2829-2026--preparation-for-apr-30-hearing-cgc-25-631802). *(Memo cites some workspace-only paths for PDFs elsewhere in the authoring repo; core cross-links above live on this site.)*
 
 **May 1, 2026 refresh.**
