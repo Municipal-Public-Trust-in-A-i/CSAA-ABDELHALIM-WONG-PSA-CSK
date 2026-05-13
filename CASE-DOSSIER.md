@@ -1,5 +1,7 @@
 # Case dossier (30-minute deep read)
 
+> **Posture (May 12, 2026):** 802 (CGC-25-631802) is the live trial-court front (May 13, 2026, Dept. 302 — see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)); 801 (CGC-25-631801) is in appellate-preservation posture (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); A173827 is in active appellate briefing.
+
 **Not legal advice.** This page is a **table of contents** to material already on this site. Open the links; do not treat this page as a substitute for the primary PDFs.
 
 ---
@@ -37,19 +39,26 @@ flowchart TB
   subgraph trial ["CGC-21-594102 trial"]
     TR["Reporter plus clerk PDFs"]
   end
-  subgraph post ["Post-trial forums"]
+  subgraph live ["Live trial-court front"]
+    UC["UCL 631802 (May 13, 2026)"]
+  end
+  subgraph appellate ["Appellate lane"]
     AP["Appeal A173827 briefs"]
-    EQ["Equity 631801 pleadings"]
-    UC["UCL 631802 pleadings"]
+    EQ["Equity 631801 (appellate-preservation)"]
   end
   TR --> AP
   TR --> EQ
   TR --> UC
+  EQ -.-> AP
 ```
 
 ---
 
-## 6. What to verify first (primary PDFs)
+## 6. What to verify first (primary PDFs, 802 live front first)
+
+**Active motion practice (May 13, 2026):** [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) — demurrer + Special Motion to Strike, Dept. 302.
+
+**Appellate-preservation lane (post-May-12 801 materials):** [01-APPEAL/EQUITY-PRESERVATION-LANE/README.md](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
 
 | Item | Link |
 |------|--------|

@@ -1,3 +1,4 @@
+> **Posture (May 12, 2026):** Three-cases narrative re-keyed: trial (A173827) and equity (801) now share appellate posture (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); UCL (802) is the live trial-court front with a May 13, 2026 hearing (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # When the Denial Letter Came Back as Three Lawsuits
 
 ### A reporter's guide to the Rosario v. CSAA litigation: the trial that ended one fight and started three, the trap the insurer's defense team built around itself, and what happens when a discovery clock runs out without answers

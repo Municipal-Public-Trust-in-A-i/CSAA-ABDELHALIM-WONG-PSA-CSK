@@ -1,8 +1,12 @@
+> **THIS IS THE LIVE TRIAL-COURT FRONT (as of May 12, 2026).** The equity case CGC-25-631801 is now in appellate-preservation posture; its post-May-12 materials are at [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md). All live motion practice, discovery pressure, and CCP § 425.17(c) gateway argument runs through this case.
+>
+> **Next hearing:** May 13, 2026, 9:00 a.m., Dept. 302 — combined demurrer and Special Motion to Strike.
+
 # Case CGC-25-631802 — Insurance Fraud and UCL Action
 
 **Court:** Superior Court of California, County of San Francisco
 **Case No.:** CGC-25-631802
-**Related to:** CGC-21-594102 (underlying trial); CGC-25-631801 (equity action)
+**Related to:** CGC-21-594102 (underlying trial); CGC-25-631801 (equity action; now appellate-preservation posture)
 **Plaintiff:** Franciscus Dylan Rosario
 **Defendant:** CSAA Insurance Exchange
 

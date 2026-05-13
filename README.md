@@ -4,12 +4,43 @@
 
 **Plaintiff:** Franciscus Dylan Rosario (in pro per)
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
-**Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud) · CGC-25-631802 (UCL / denial-letter fraud)
+**Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud, now appellate-preservation posture) · CGC-25-631802 (UCL / denial-letter fraud, live trial-court front)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** May 7, 2026 (see [What's new](#whats-new)).
+**Last refresh:** May 12, 2026 (see [What's new](#whats-new)).
+
+> **Posture update (May 12, 2026).** Following the May 12 hearing on defendants' Anti-SLAPP / special-motion practice in CGC-25-631801, and the May 11 contemporaneous filings (Motion for Reconsideration under CCP § 1008, RJN of Governing Law, and Second Supplemental RJN with Statement of Appellate Preservation), the 801 vacatur action is in **appellate-preservation posture**. The live trial-court front is **CGC-25-631802** (May 13, 2026, 9:00 a.m., Dept. 302 — combined demurrer and Special Motion to Strike). See [01-APPEAL/](01-APPEAL/INDEX.md) for the appellate lane (A173827 + 801 post-May-12 preservation materials at [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)).
 
 ---
-# CASE 801 STANDING :
+
+# **LIVE FRONT — CGC-25-631802 (CSAA denial-letter / UCL)**
+
+## **➤ [Open the 802 case hub → 03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)**
+
+- **Next hearing:** May 13, 2026, 9:00 a.m., Dept. 302 — combined demurrer and Special Motion to Strike.
+- **Cornerstone evidence:** Feb. 25, 2021 CSAA denial letter (Sarah Rash) vs. Jan. 17, 2025 MIL 6 / 17 declarations.
+- **Theory:** pre-litigation representational fraud; B&P § 17200 (UCL); negligent misrepresentation under Civ. Code § 1710(2); *Biakanja* voluntary-undertaking duty; *Bartel* (2025) regulatory floor.
+- **Procedural shields engaged:** CCP § 425.17(c) carve-out (insurer / commercial-speech); *Moradi-Shalal* common-law carve-out.
+
+Most recent 802 filings (court-filed):
+- [Court e-filed Apr. 28 to 29 wave (six SFTC transactions, 35 served titles)](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md)
+- [Clerk filing build Apr. 28 (DOCUSERV mirror, 99 PDFs)](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md)
+- [Cross-hearing § 425.17(c) stack (Apr. 30)](03-CASE-CGC-25-631802/cross-hearing-42517-apr30-2026/README.md)
+
+---
+
+# **APPELLATE / PRESERVATION LANE**
+
+## **➤ [Open the appellate lane → 01-APPEAL/INDEX.md](01-APPEAL/INDEX.md)**
+
+| Forum | Posture | Hub |
+|-------|---------|-----|
+| **A173827** (First District, Div. 3) | Appellate briefing window | [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md) |
+| **CGC-25-631801** (equity / extrinsic-fraud vacatur) | Post-May-12 preservation; Motion for Reconsideration; appellate-preservation RJN | [01-APPEAL/EQUITY-PRESERVATION-LANE/README.md](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md) |
+
+801 case file remains mirrored at [02-CASE-CGC-25-631801/](02-CASE-CGC-25-631801/INDEX.md) for record purposes only.
+
+---
+# CASE 801 STANDING (now on appellate review) :
 
 Although Plaintiff does not assert a private cause of action arising directly under the California Rules of Professional Conduct or Business and Professions Code section 6068(d) — which do not, of themselves, supply an independent civil cause enforceable by an opposing party (Stanley v. Richmond (1995) 35 Cal.App.4th 1070, 1095–1097; Mirabito v. Liccardo (1992) 4 Cal.App.4th 41, 45–46) — this action sounds in the equitable cause for vacatur on extrinsic fraud, in common-law Intentional Misrepresentation, Concealment, and Constructive Fraud under Civil Code sections 1709, 1710(1), 1710(3), and 1573, and in the statutory civil action for Attorney Deceit under Business and Professions Code section 6128(a).
 
@@ -20,6 +51,9 @@ Consequently, the authorities cited herein are not invoked as a direct source of
 Under the framework of Kulchar v. Kulchar (1969) 1 Cal.3d 467, 471–472, and In re Marriage of Modnick (1983) 33 Cal.3d 897, 905, supplemented by Shafer, supra, these standards serve as the benchmark against which the truthfulness and reasonableness of Defendants' tribunal-directed representations must be measured.
 
 Liability arises from Defendants' affirmative representations to the trial court that they neither possessed nor had knowledge of the silent-witness materials when, in fact, no reasonable grounds existed for believing such assertions to be true; CSAA Insurance Exchange's liability arises additionally from its institutional ratification of those representations through its authorized panel counsel. Civ. Code § 2330; Evid. Code § 1222; Gulf Ins. Co. v. Berger, Kahn (2000) 79 Cal.App.4th 114, 124.
+
+
+> **801 is now in appellate-preservation posture.** Post-May-12 materials: [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md). Trial-court file (record purposes): [02-CASE-CGC-25-631801/INDEX.md](02-CASE-CGC-25-631801/INDEX.md).
 
 ---
 
@@ -148,6 +182,12 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 ## Start here
 
+**Where do I start?**
+
+- Live trial-court motion practice (May 13, 2026) → [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)
+- Appellate review (trial appeal A173827 + 801 preservation) → [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md)
+- Cross-case theory / leverage / risk → [MERITS.md](MERITS.md) · [RISK-SURFACE.md](RISK-SURFACE.md)
+
 Pick the entry that matches why you opened this site.
 
 | Audience | Entry page | Best for |
@@ -164,6 +204,12 @@ Pick the entry that matches why you opened this site.
 ---
 
 ## What's new
+
+**May 12, 2026 refresh.**
+
+- **POSTURE SHIFT:** CGC-25-631801 is now in appellate-preservation posture following the May 12 hearing on defendants' Anti-SLAPP / special-motion practice. **Site reorientation:** CGC-25-631802 is now the live trial-court front. See the new [LIVE FRONT — 802](#live-front--cgc-25-631802-csaa-denial-letter--ucl) and [APPELLATE / PRESERVATION LANE](#appellate--preservation-lane) blocks above.
+- **NEW (preservation lane):** [01-APPEAL/EQUITY-PRESERVATION-LANE/README.md](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md) — Motion for Reconsideration + Proposed Third Amended Complaint (combined PDF); Second Supplemental RJN and Statement of Appellate Preservation; RJN of Governing Law; Silent-Witness master exhibits; POS-050 20 and POS-050 21; service manifest.
+- **NEW:** [02-CASE-CGC-25-631801/hearing-package-may-12-2026/](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md) — comprehensive archive of May 7 to 12 opposition instruments (operative opposition; RJN; declaration; evidentiary objections; exhibits volume; § 425.17 notice; supplemental RJN; motion to strike reply-declaration surplus).
 
 **May 7, 2026 refresh.**
 
@@ -220,16 +266,16 @@ Pick the entry that matches why you opened this site.
 
 ```mermaid
 gantt
-    title April to May 2026 - scheduled superior-court events
+    title May 2026 and beyond - scheduled court events
     dateFormat YYYY-MM-DD
-    section CGC-25-631802
+    section CGC-25-631802 (live front)
     SAC leave reply (Apr. 30)        :milestone, m802a, 2026-04-30, 0d
     Demurrer + Anti-SLAPP (May 13)   :m802b, 2026-05-13, 1d
-    section CGC-25-631801
+    section CGC-25-631801 (appellate-preservation)
     SAC leave reply (May 6)          :milestone, m801a, 2026-05-06, 0d
-    Anti SLAPP opp bundle (May 12)    :m801c, 2026-05-12, 1d
-    Case management (May 27)         :m801b, 2026-05-27, 1d
-    section A173827
+    Tentative ruling contested (May 12) :milestone, m801x, 2026-05-12, 0d
+    Case mgmt (May 27)               :m801b, 2026-05-27, 1d
+    section A173827 + 801 preservation
     Appellate briefing window        :a173, 2026-04-24, 40d
 ```
 
@@ -237,10 +283,10 @@ gantt
 |------|------|--------|------------|
 | Apr. 30, 2026 | CGC-25-631802 | SAC leave reply hearing | (verify on portal) |
 | May 6, 2026 | CGC-25-631801 | SAC leave reply hearing | Dept. 301 |
-| May 12, 2026 | CGC-25-631801 | Anti-SLAPP / special-motion opposition (confirm dept.) | [PDF hub](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md) |
-| May 13, 2026, 9:00 a.m. | CGC-25-631802 | Demurrer + Special Motion to Strike | Dept. 302 |
+| May 12, 2026 | CGC-25-631801 | Tentative ruling contested; case moves to appellate-preservation posture | [PDF hub](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md) · [Preservation lane](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md) |
+| **May 13, 2026, 9:00 a.m.** | **CGC-25-631802** | **Demurrer + Special Motion to Strike (LIVE FRONT)** | **Dept. 302** |
 | May 27, 2026, 10:30 a.m. | CGC-25-631801 | Case management conference | Dept. 610 |
-| Ongoing | A173827 | Appellate briefing | First Appellate District |
+| Ongoing | A173827 + CGC-25-631801 | Appellate briefing and 801 preservation lane | First Appellate District |
 
 Confirm dates and departments on the court portal. Full table with PDF links: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md).
 
@@ -248,17 +294,18 @@ Confirm dates and departments on the court portal. Full table with PDF links: [H
 
 ## Recent filings (last 14 days, mirrored here)
 
-| Filing | 631801 (equity) | 631802 (UCL) |
-|--------|-----------------|--------------|
-| Court e-filed burst — SAC bench packet, TAC response, NOLs, discovery tracks, service master (Apr. 28–29) | — | [Hub + PDFs + synopsis](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) |
-| Served combined MFL/SAC packet + same-night instruments (Apr. 27) | [Hub + PDFs](02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md) | [Hub + PDFs (includes reply SAC)](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md) |
+| Filing | 631802 (live trial-court front) | 631801 (appellate-preservation) |
+|--------|---------------------------------|----------------------------------|
+| Motion for Reconsideration (CCP § 1008); Second Supplemental RJN + Statement of Appellate Preservation; RJN of Governing Law; Silent-Witness master exhibits (May 11 to 12) | — | [Equity preservation lane](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md) |
+| Court e-filed burst — SAC bench packet, TAC response, NOLs, discovery tracks, service master (Apr. 28–29) | [Hub + PDFs + synopsis](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md) | — |
+| Served combined MFL/SAC packet + same-night instruments (Apr. 27) | [Hub + PDFs (includes reply SAC)](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md) | [Hub + PDFs](02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md) |
 | *Moradi-Shalal* carve-out meet-and-confer + analysis (Apr. 27, both cases) | [Shared hub](_shared/moradi-shalal-carveout-apr27/README.md) | (same hub) |
-| Defense opposition to SAC leave (Apr. 23) | [PDFs + TOC](02-CASE-CGC-25-631801/apr-2026-sac-leave/defense-opposition-apr23/README.md) | [PDFs + TOC](03-CASE-CGC-25-631802/apr-2026-sac-leave/defense-opposition-apr23/README.md) |
-| Plaintiff reply (Apr. 24, court-ready) | [Reply for May 6 setting](02-CASE-CGC-25-631801/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) | [Reply for Apr. 30 setting](03-CASE-CGC-25-631802/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) |
-| Anti-SLAPP / OST supplement (Apr. 24) | [801 court PDFs + Flatley check](02-CASE-CGC-25-631801/anti-slapp-supplemental-apr24/README.md) | [802 court PDFs + Flatley check](03-CASE-CGC-25-631802/anti-slapp-supplemental-apr24/README.md) |
-| Bench cards (Apr. 24) | [May 6 card](08-LEGAL-ANALYSIS/bench-cards/BENCH-CARD-MAY06-801-THREE-AUTHORITIES.pdf) | [Apr. 30 card](08-LEGAL-ANALYSIS/bench-cards/BENCH-CARD-APR30-802-THREE-AUTHORITIES.pdf) |
-| Motion to strike (Apr. 22 source mirror) | [801 folder](02-CASE-CGC-25-631801/motion-strike-apr2026/README.md) | [802 folder](03-CASE-CGC-25-631802/motion-strike-apr2026/README.md) |
-| Clerk packets (Apr. 24) | [README + PDF](02-CASE-CGC-25-631801/clerk-packets-apr24/README.md) | [README + PDF](03-CASE-CGC-25-631802/clerk-packets-apr24/README.md) |
+| Defense opposition to SAC leave (Apr. 23) | [PDFs + TOC](03-CASE-CGC-25-631802/apr-2026-sac-leave/defense-opposition-apr23/README.md) | [PDFs + TOC](02-CASE-CGC-25-631801/apr-2026-sac-leave/defense-opposition-apr23/README.md) |
+| Plaintiff reply (Apr. 24, court-ready) | [Reply for Apr. 30 setting](03-CASE-CGC-25-631802/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) | [Reply for May 6 setting](02-CASE-CGC-25-631801/apr-2026-sac-leave/plaintiff-reply-apr24/README.md) |
+| Anti-SLAPP / OST supplement (Apr. 24) | [802 court PDFs + Flatley check](03-CASE-CGC-25-631802/anti-slapp-supplemental-apr24/README.md) | [801 court PDFs + Flatley check](02-CASE-CGC-25-631801/anti-slapp-supplemental-apr24/README.md) |
+| Bench cards (Apr. 24) | [Apr. 30 card](08-LEGAL-ANALYSIS/bench-cards/BENCH-CARD-APR30-802-THREE-AUTHORITIES.pdf) | [May 6 card](08-LEGAL-ANALYSIS/bench-cards/BENCH-CARD-MAY06-801-THREE-AUTHORITIES.pdf) |
+| Motion to strike (Apr. 22 source mirror) | [802 folder](03-CASE-CGC-25-631802/motion-strike-apr2026/README.md) | [801 folder](02-CASE-CGC-25-631801/motion-strike-apr2026/README.md) |
+| Clerk packets (Apr. 24) | [README + PDF](03-CASE-CGC-25-631802/clerk-packets-apr24/README.md) | [README + PDF](02-CASE-CGC-25-631801/clerk-packets-apr24/README.md) |
 | Citation validation memos | [Apr. 23 to 24 hub](08-LEGAL-ANALYSIS/citation-validation/README.md) | (same hub) |
 
 ---
@@ -269,11 +316,12 @@ Confirm dates and departments on the court portal. Full table with PDF links: [H
 flowchart TB
   TR["CGC-21-594102 trial<br/>(reporter + clerk PDFs)"]
   AP["A173827 appeal"]
-  EQ["CGC-25-631801 equity"]
-  UC["CGC-25-631802 UCL"]
+  EQ["CGC-25-631801 equity<br/>(now on appellate review)"]
+  UC["CGC-25-631802 UCL<br/>(live trial-court front)"]
   TR --> AP
   TR --> EQ
   TR --> UC
+  EQ -.-> AP
 ```
 
 | # | Proceeding | Case no. | Forum | Theory in one line |
@@ -338,16 +386,16 @@ This section orients a reader who wants a **neutral map** from incident through 
 
 Allegations live in the pleadings; speech lives in the transcripts. The pages below cross-link to both.
 
-| # | Defendant | Role | Detail page |
-|---|-----------|------|-------------|
-| 1 | **Subhi Abdelhalim** | Driver; trial and deposition registers contain his statements; equity SAC names him as a defendant | [Subhi-Abdelhalim.md](defendants/Subhi-Abdelhalim.md) |
-| 2 | **CSAA Insurance Exchange** | Liability insurer; funded and directed defense; subject of denial-letter / UCL theory in 631802 | [CSAA-Insurance-Exchange.md](defendants/CSAA-Insurance-Exchange.md) |
-| 3 | **Carbone, Smith & Koyama** | Original defense firm; succession allegations in equity papers | [Carbone-Smith-Koyama.md](defendants/Carbone-Smith-Koyama.md) |
-| 4 | **Michael R. Chambers** | Original defense counsel | [Michael-R-Chambers.md](defendants/Michael-R-Chambers.md) |
-| 5 | **Phillips, Spallas & Angstadt LLP** | Successor defense firm; equity defendant | [Phillips-Spallas-Angstadt.md](defendants/Phillips-Spallas-Angstadt.md) |
-| 6 | **Priya D. Navaratnasingham** | Trial counsel (PSA); Day 7 transcript; focused equity memorandum | [Priya-Navaratnasingham.md](defendants/Priya-Navaratnasingham.md) |
-| 7 | **Alberto Reyna** | Trial counsel (PSA); Day 7 transcript; equity papers | [Alberto-Reyna.md](defendants/Alberto-Reyna.md) |
-| 8 | **Tyler J. O'Connell** | Defense counsel (Porter Scott) for CSAA; Anti-SLAPP declaration | [Tyler-J-OConnell.md](defendants/Tyler-J-OConnell.md) |
+| # | Defendant | Role | Posture (post-May-12-2026) | Detail page |
+|---|-----------|------|----------------------------|-------------|
+| 1 | **Subhi Abdelhalim** | Driver; trial and deposition registers contain his statements; equity SAC names him as a defendant | Appellate-only (801) | [Subhi-Abdelhalim.md](defendants/Subhi-Abdelhalim.md) |
+| 2 | **CSAA Insurance Exchange** | Liability insurer; funded and directed defense; subject of denial-letter / UCL theory in 631802 | **Live (802)** | [CSAA-Insurance-Exchange.md](defendants/CSAA-Insurance-Exchange.md) |
+| 3 | **Carbone, Smith & Koyama** | Original defense firm; succession allegations in equity papers | Appellate-only (801) | [Carbone-Smith-Koyama.md](defendants/Carbone-Smith-Koyama.md) |
+| 4 | **Michael R. Chambers** | Original defense counsel | Appellate-only (801) | [Michael-R-Chambers.md](defendants/Michael-R-Chambers.md) |
+| 5 | **Phillips, Spallas & Angstadt LLP** | Successor defense firm; equity defendant | Appellate-only (801) | [Phillips-Spallas-Angstadt.md](defendants/Phillips-Spallas-Angstadt.md) |
+| 6 | **Priya D. Navaratnasingham** | Trial counsel (PSA); Day 7 transcript; focused equity memorandum | Appellate-only (801) | [Priya-Navaratnasingham.md](defendants/Priya-Navaratnasingham.md) |
+| 7 | **Alberto Reyna** | Trial counsel (PSA); Day 7 transcript; equity papers | Appellate-only (801) | [Alberto-Reyna.md](defendants/Alberto-Reyna.md) |
+| 8 | **Tyler J. O'Connell** | Defense counsel (Porter Scott) for CSAA; Anti-SLAPP declaration | **Live (802)** | [Tyler-J-OConnell.md](defendants/Tyler-J-OConnell.md) |
 
 ```mermaid
 flowchart TB
@@ -429,7 +477,7 @@ The central evidentiary record. The 911 call captures the driver's admission; bo
 
 ---
 
-## Court filings by case
+## Court filings by case (live front first)
 
 ### 1. Appeal: A173827
 
@@ -447,10 +495,30 @@ The central evidentiary record. The 911 call captures the driver's admission; bo
 | 6 | Motion to Augment Record | [PDF](01-APPEAL/06-Motion-to-Augment-Record.pdf) |
 | 7 | Appeal Exhibits (combined) | [PDF](01-APPEAL/07-Appeal-Exhibits.pdf) |
 
-### 2. Equity action: CGC-25-631801
+### 2. UCL / denial-letter fraud: CGC-25-631802 — LIVE TRIAL-COURT FRONT
+
+**Forum:** San Francisco Superior Court
+**Theory:** CSAA's pre-litigation false denial letter (21 days post-collision); bad faith; Unfair Competition Law.
+**Next hearing:** May 13, 2026, 9:00 a.m., Dept. 302 — combined demurrer and Special Motion to Strike.
+[Full index](03-CASE-CGC-25-631802/INDEX.md).
+
+| # | Document | PDF |
+|---|----------|-----|
+| 1 | First Amended Complaint | [PDF](03-CASE-CGC-25-631802/01-First-Amended-Complaint.pdf) |
+| 2 | Notice of Related Cases | [PDF](03-CASE-CGC-25-631802/02-Notice-of-Related-Cases.pdf) |
+| 3 | Memorandum: Denial Letter Fraud | [PDF](03-CASE-CGC-25-631802/03-Memorandum-Denial-Letter-Fraud.pdf) |
+| 4 | Demand: Judicial Summary of Facts | [PDF](03-CASE-CGC-25-631802/05-Demand-Judicial-Summary-of-Facts.pdf) |
+| 5 | Requests for Admission | [PDF](03-CASE-CGC-25-631802/06-Requests-for-Admission.pdf) |
+| 6 | Ex Parte: Document Preservation | [PDF](03-CASE-CGC-25-631802/07-Ex-Parte-Document-Preservation.pdf) |
+| 7 | Exhibits: Memorandum and Supplemental | [PDF](03-CASE-CGC-25-631802/08-Exhibits-Memorandum-Supplemental.pdf) |
+
+**April 2026 within the same case:** Anti-SLAPP, demurrer volley, plaintiff consolidated opposition (801 draft build), and FINAL-COURT exhibit-integrated packets. See [the table above](#april-2026-motion-practice-full-ingress).
+
+### 3. Equity action: CGC-25-631801 (now on appellate review)
 
 **Forum:** San Francisco Superior Court
 **Theory:** Independent action in equity to set aside judgment for extrinsic fraud on the court.
+**Posture (as of May 12, 2026):** Appellate-preservation posture. Post-May-12 materials at [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
 **CMC:** May 27, 2026 at 10:30 a.m., Dept. 610.
 [Full index](02-CASE-CGC-25-631801/INDEX.md).
 
@@ -469,23 +537,6 @@ The central evidentiary record. The 911 call captures the driver's admission; bo
 
 **Linked analysis:** [Court Reliance on False Representations](08-LEGAL-ANALYSIS/COURT-RELIANCE-FRAUD-ON-COURT.md) · [Fatal Proof: Navaratnasingham "Dolan" Admission](08-LEGAL-ANALYSIS/FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md).
 
-### 3. UCL / denial-letter fraud: CGC-25-631802
-
-**Forum:** San Francisco Superior Court
-**Theory:** CSAA's pre-litigation false denial letter (21 days post-collision); bad faith; Unfair Competition Law.
-[Full index](03-CASE-CGC-25-631802/INDEX.md).
-
-| # | Document | PDF |
-|---|----------|-----|
-| 1 | First Amended Complaint | [PDF](03-CASE-CGC-25-631802/01-First-Amended-Complaint.pdf) |
-| 2 | Notice of Related Cases | [PDF](03-CASE-CGC-25-631802/02-Notice-of-Related-Cases.pdf) |
-| 3 | Memorandum: Denial Letter Fraud | [PDF](03-CASE-CGC-25-631802/03-Memorandum-Denial-Letter-Fraud.pdf) |
-| 4 | Demand: Judicial Summary of Facts | [PDF](03-CASE-CGC-25-631802/05-Demand-Judicial-Summary-of-Facts.pdf) |
-| 5 | Requests for Admission | [PDF](03-CASE-CGC-25-631802/06-Requests-for-Admission.pdf) |
-| 6 | Ex Parte: Document Preservation | [PDF](03-CASE-CGC-25-631802/07-Ex-Parte-Document-Preservation.pdf) |
-| 7 | Exhibits: Memorandum and Supplemental | [PDF](03-CASE-CGC-25-631802/08-Exhibits-Memorandum-Supplemental.pdf) |
-
-**April 2026 within the same case:** Anti-SLAPP, demurrer volley, plaintiff consolidated opposition (801 draft build), and FINAL-COURT exhibit-integrated packets. See [the table above](#april-2026-motion-practice-full-ingress).
 
 ### 4. Underlying trial: CGC-21-594102
 
@@ -613,7 +664,7 @@ The story of how one brain-injured plaintiff, proceeding alone against a multi-b
 ├── SPINE.md  +  BOOK-OUTLINE.md
 ├── evidence.md  +  evidence.html
 ├── ROSARIO.md                        (long-form case overview)
-├── 01-APPEAL/                        (A173827 briefs and exhibits)
+├── 01-APPEAL/                        (A173827 briefs and exhibits; EQUITY-PRESERVATION-LANE/ for 801 post-May-12)
 ├── 02-CASE-CGC-25-631801/            (equity action: extrinsic fraud)
 ├── 03-CASE-CGC-25-631802/            (UCL / denial-letter fraud)
 ├── 04-EXHIBITS/                      (trial exhibits, CSAA report, subpoenas)

@@ -1,0 +1,13 @@
+Exact e-service PDFs (flat folder; attach each file separately unless your clerk/CMS prefers otherwise).
+
+1. PLAINTIFF-MOTION-FOR-RECONSIDERATION-AND-PROPOSED-TAC-COMBINED-MAY-11-2026-CGC-25-631801.pdf  (folder 18: motion + separator + Exhibit T)
+2. PLAINTIFF-REQUEST-FOR-JUDICIAL-NOTICE-AND-STATEMENT-OF-APPELLATE-PRESERVATION-MAY-11-2026-CGC-25-631801.pdf  (folder 20 RJN)
+3. POS-050-20-SECOND-SUPPLEMENTAL-RJN-AND-APPELLATE-PRESERVATION-MAY-11-2026.pdf
+4. PLAINTIFF-RJN-OF-GOVERNING-LAW-MAY-11-2026-CGC-25-631801.pdf  (folder 21 RJN)
+5. POS-050-21-RJN-GOVERNING-LAW-MAY-11-2026.pdf
+6. SILENT-WITNESS-RELIANCE-CHAIN-POSTER-PAGES-CGC-25-631801.pdf
+7. SILENT-WITNESS-MASTER-ALL-EXHIBITS-CGC-25-631801.pdf
+
+Superseded duplicates (standalone motion, separator, Exhibit T alone, RJN+POS combined packet) live under ARCHIVE-SUPERSEDED-COMPONENTS/ with README.txt.
+
+Automation copies only the seven files above: bash MAY-12-HEARING-PACKAGE-CGC-25-631801/scripts/sync-service-may12-evening.sh

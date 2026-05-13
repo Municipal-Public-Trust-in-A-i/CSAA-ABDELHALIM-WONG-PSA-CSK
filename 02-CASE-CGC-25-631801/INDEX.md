@@ -1,8 +1,10 @@
-# Case CGC-25-631801 — Independent Equity Action to Set Aside Judgment
+> **POSTURE NOTICE (May 12, 2026).** Following the May 12 hearing on defendants' Anti-SLAPP / special-motion practice, and the May 11 contemporaneous filings (Motion for Reconsideration of FAC Anti-SLAPP order; RJN of Governing Law; Second Supplemental RJN and Statement of Appellate Preservation; Silent-Witness master exhibits), this case is in **appellate-preservation posture**. The live trial-court front has moved to [CGC-25-631802](../03-CASE-CGC-25-631802/INDEX.md). Post-May-12 preservation materials are at [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md). The PDFs below are retained for record purposes.
+
+# Case CGC-25-631801 — Independent Equity Action to Set Aside Judgment (Appellate-Preservation Posture)
 
 **Court:** Superior Court of California, County of San Francisco
 **Case No.:** CGC-25-631801
-**Related to:** CGC-21-594102 (underlying trial)
+**Related to:** CGC-21-594102 (underlying trial); A173827 (direct appeal)
 **Plaintiff:** Franciscus Dylan Rosario
 **Case Management Conference:** May 27, 2026 at 10:30 a.m., Department 610
 

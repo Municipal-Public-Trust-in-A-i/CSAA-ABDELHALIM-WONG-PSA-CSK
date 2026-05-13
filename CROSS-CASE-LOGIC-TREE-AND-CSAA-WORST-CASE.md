@@ -1,3 +1,4 @@
+> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the May 13, 2026 hearing (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Cross-Case Logic Tree: Appeal A173827, CGC-25-631801, CGC-25-631802
 ## Overlap Analysis, Defense Decision Points, and CSAA Worst-Case Scenario
 

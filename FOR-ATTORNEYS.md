@@ -1,3 +1,4 @@
+> **Posture (May 12, 2026):** Intake brief reorganized: 802 is the live trial-court front with a May 13, 2026 hearing (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)); 801 is in appellate-preservation posture (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)).
 # For California counsel (intake cover page)
 
 **Not legal advice.** This page stitches short lifts from files already in this repository so you can decide whether to return a call. Every proposition below points to a longer source on this site or in the linked indices.

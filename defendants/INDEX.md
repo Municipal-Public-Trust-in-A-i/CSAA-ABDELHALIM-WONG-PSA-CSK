@@ -1,17 +1,19 @@
 # Defendants — record-first index
 
+> **Posture (May 12, 2026):** CSAA Insurance Exchange and Tyler J. O'Connell are **live trial-court parties in CGC-25-631802** (May 13, 2026 hearing, Dept. 302). All other defendants are **appellate-only** as to CGC-25-631801, which is now in appellate-preservation posture. See [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
+
 Each page lists **primary-source links** (transcripts, pleadings, complaints, regulatory PDFs in this repo). **Allegations** in complaints are labeled as such.
 
-| Defendant | Page |
-|-----------|------|
-| Subhi Abdelhalim | [Subhi-Abdelhalim.md](Subhi-Abdelhalim.md) |
-| CSAA Insurance Exchange | [CSAA-Insurance-Exchange.md](CSAA-Insurance-Exchange.md) |
-| Carbone, Smith & Koyama LLP | [Carbone-Smith-Koyama.md](Carbone-Smith-Koyama.md) |
-| Michael R. Chambers | [Michael-R-Chambers.md](Michael-R-Chambers.md) |
-| Phillips, Spallas & Angstadt LLP | [Phillips-Spallas-Angstadt.md](Phillips-Spallas-Angstadt.md) |
-| Priya D. Navaratnasingham | [Priya-Navaratnasingham.md](Priya-Navaratnasingham.md) |
-| Alberto Reyna | [Alberto-Reyna.md](Alberto-Reyna.md) |
-| Tyler J. O'Connell | [Tyler-J-OConnell.md](Tyler-J-OConnell.md) |
+| Defendant | Posture (post-May-12-2026) | Page |
+|-----------|----------------------------|------|
+| CSAA Insurance Exchange | **Live (802)** | [CSAA-Insurance-Exchange.md](CSAA-Insurance-Exchange.md) |
+| Tyler J. O'Connell | **Live (802)** | [Tyler-J-OConnell.md](Tyler-J-OConnell.md) |
+| Subhi Abdelhalim | Appellate-only (801) | [Subhi-Abdelhalim.md](Subhi-Abdelhalim.md) |
+| Carbone, Smith & Koyama LLP | Appellate-only (801) | [Carbone-Smith-Koyama.md](Carbone-Smith-Koyama.md) |
+| Michael R. Chambers | Appellate-only (801) | [Michael-R-Chambers.md](Michael-R-Chambers.md) |
+| Phillips, Spallas & Angstadt LLP | Appellate-only (801) | [Phillips-Spallas-Angstadt.md](Phillips-Spallas-Angstadt.md) |
+| Priya D. Navaratnasingham | Appellate-only (801) | [Priya-Navaratnasingham.md](Priya-Navaratnasingham.md) |
+| Alberto Reyna | Appellate-only (801) | [Alberto-Reyna.md](Alberto-Reyna.md) |
 
 *Note: O'Connell is counsel of record / non-party — listed for conduct-based rap sheet.*
 

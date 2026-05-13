@@ -85,6 +85,24 @@
 
 ---
 
+## Appellate-preservation lane for CGC-25-631801
+
+Following the May 12, 2026 hearing on defendants' Anti-SLAPP / special-motion practice in the equity action, CGC-25-631801 is in appellate-preservation posture. The trial-court record is effectively closed for purposes of appellate briefing in A173827. The May 11 to 12 preservation filings are collected at:
+
+**[EQUITY-PRESERVATION-LANE/README.md](EQUITY-PRESERVATION-LANE/README.md)**
+
+That sub-hub contains the Motion for Reconsideration (CCP § 1008), Proposed Third Amended Complaint (Exhibit T), Second Supplemental RJN and Statement of Appellate Preservation, RJN of Governing Law, Silent-Witness master exhibits, and all paired POS-050 proofs. Those instruments close the trial-court record under California Rules of Court, rule 8.120 and preserve each issue for the opening brief.
+
+The **live trial-court front** is [CGC-25-631802](../03-CASE-CGC-25-631802/INDEX.md) (May 13, 2026, 9:00 a.m., Dept. 302 — combined demurrer and Special Motion to Strike).
+
+| Forum | Posture | Hub |
+|-------|---------|-----|
+| **A173827** — direct trial appeal | Active briefing window | This page |
+| **CGC-25-631801** — equity/extrinsic-fraud vacatur | Appellate-preservation posture | [EQUITY-PRESERVATION-LANE/](EQUITY-PRESERVATION-LANE/README.md) |
+| **CGC-25-631802** — UCL / denial-letter fraud | Live trial-court front | [03-CASE-CGC-25-631802/INDEX.md](../03-CASE-CGC-25-631802/INDEX.md) |
+
+---
+
 ## Remand and post-vacatur materials (non-filing analysis)
 
 Mirrored memos and citation quick reference (intake for appellate and post-judgment counsel):

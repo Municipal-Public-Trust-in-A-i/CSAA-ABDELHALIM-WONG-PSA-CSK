@@ -1,3 +1,4 @@
+> **Posture (May 12, 2026):** The extrinsic-fraud threading in this document is now preserved in the 801 appellate record (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); the 802 denial-letter spine remains the live trial-court vehicle (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Threading the Needle: Why CGC-25-631801 Is Extrinsic Fraud (Not Intrinsic), and How the Same Theory Maps Onto CGC-25-631802
 
 **Cases:** CGC-25-631801 (Equity / Vacatur) and CGC-25-631802 (Fraud / UCL against CSAA)

@@ -1,3 +1,4 @@
+> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the May 13, 2026 hearing (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Strategic Memo: The Delay-Tactic Immunity Gambit in CGC-25-631801 and CGC-25-631802
 
 **Cases:** *Rosario v. CSAA Insurance Exchange; Carbone, Smith & Koyama, LLP; Michael R. Chambers; Phillips, Spallas & Angstadt, LLP; Priya D. Navaratnasingham; Alberto Reyna* (CGC-25-631801) and *Rosario v. CSAA Insurance Exchange* (CGC-25-631802)
