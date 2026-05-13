@@ -1,4 +1,4 @@
-> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the May 13, 2026 hearing (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the consolidated May 29, 2026 hearing in Dept. 302 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # CONTRADICTION LETTER — EMAIL VERSION
 
 > Email-ready adaptation of `CONTRADICTION-LETTER.md`, formatted for direct transmission to defense counsel for the insured defendant (CGC-21-594102) and to CSAA (California State Automobile Association / AAA NCNU) in its capacity as carrier and as defendant in CGC-25-631802. This is a settlement communication. It is not a pleading. Every factual anchor below is on the existing record in Appeal A173827, CGC-25-631801, and CGC-25-631802. Not legal advice.

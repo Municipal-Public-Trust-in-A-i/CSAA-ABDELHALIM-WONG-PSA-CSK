@@ -1,4 +1,4 @@
-> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the May 13, 2026 hearing (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the consolidated May 29, 2026 hearing in Dept. 302 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Anti-SLAPP misuse and consequence radius: CGC-25-631801 and CGC-25-631802
 
 > Open public record. Plaintiff-authored narrative, not a court filing. Every block-quoted statute or case excerpt is verbatim from the published source. Internal-monologue paragraphs are analytical inference about strategic logic; they are not direct quotation of any party's subjective state. The four-hypothesis framework in Section IX is offered as inference bounded by signals, not as fact.

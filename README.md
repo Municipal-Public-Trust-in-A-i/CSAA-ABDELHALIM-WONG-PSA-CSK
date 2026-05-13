@@ -129,7 +129,7 @@ California’s special motion to strike under CCP § 425.16 is a two-step burden
 
 ## April 28–29, 2026 — preparation for Apr. 30 hearing (CGC-25-631802)
 
-Plaintiff **e-filed and e-served** coordinated packets for **CGC-25-631802** so the record matches **Department 302** on **April 30, 2026** (leave to amend / SAC-related oral reply) and **May 13, 2026** (combined demurrer and Anti-SLAPP / motion-to-strike). The filings bracket SAC posture against defendants’ procedural vehicles—nothing here predicts outcomes.
+Plaintiff **e-filed and e-served** coordinated packets for **CGC-25-631802** so the record matches **Department 302** on **April 30, 2026** (leave to amend / SAC-related oral reply) and **May 29, 2026** (combined demurrer and Anti-SLAPP / motion-to-strike). The filings bracket SAC posture against defendants’ procedural vehicles—nothing here predicts outcomes.
 
 - **Yesterday (Apr. 27)** — Combined motion-for-leave / SAC packets to defense with Judicial Council POS-050s; **802** reply ISO leave court-ready for Apr. 30; [*Moradi-Shalal*](_shared/moradi-shalal-carveout-apr27/README.md) carve-out meet-and-confer; safe harbor and adverse-authority supplements ([801 hub](02-CASE-CGC-25-631801/apr-2026-sac-leave/served-defense-apr27/README.md) · [802 hub](03-CASE-CGC-25-631802/apr-2026-sac-leave/served-defense-apr27/README.md)).
 - **Today (Apr. 28–29)** — Six **File and Serve** transactions, **35** served titles, six mirrored topic lanes (bench/SAC support, TAC response + cure matrix, Anti-SLAPP NOL, Prong-One NOL, discovery tracks 1–3, defense-service masters); plus clerk-facing **[DOCUSERV build](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md)** and **[SFTC docket register](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/SFTC-DOCKET-REGISTER.md)** keyed receipt-by-receipt.
@@ -270,7 +270,7 @@ gantt
     dateFormat YYYY-MM-DD
     section CGC-25-631802 (live front)
     SAC leave reply (Apr. 30)        :milestone, m802a, 2026-04-30, 0d
-    Demurrer + Anti-SLAPP (May 13)   :m802b, 2026-05-13, 1d
+    All 802 motions consolidated (May 29)   :m802b, 2026-05-13, 1d
     section CGC-25-631801 (appellate-preservation)
     SAC leave reply (May 6)          :milestone, m801a, 2026-05-06, 0d
     Tentative ruling contested (May 12) :milestone, m801x, 2026-05-12, 0d

@@ -1,4 +1,4 @@
-> **Posture (May 12, 2026):** Risk weighting on 801 is now appellate (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); risk weighting on 802 is front-loaded for the May 13, 2026 hearing (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the consolidated May 29, 2026 hearing in Dept. 302 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Total Risk Surface Analysis: Quantified Damages Model for *Rosario v. Abdelhalim* and Related Proceedings
 
 ## A Comprehensive Damages Framework Mapping the Full Exposure of the Insurance Company, the Law Firms, and the Defendant
