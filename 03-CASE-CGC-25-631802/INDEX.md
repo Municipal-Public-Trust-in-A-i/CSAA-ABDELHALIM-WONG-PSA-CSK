@@ -1,6 +1,6 @@
 > **THIS IS THE LIVE TRIAL-COURT FRONT (as of May 12, 2026).** The equity case CGC-25-631801 is now in appellate-preservation posture; its post-May-12 materials are at [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md). All live motion practice, discovery pressure, and CCP § 425.17(c) gateway argument runs through this case.
 >
-> **Next hearing:** May 13, 2026, 9:00 a.m., Dept. 302 — combined demurrer and Special Motion to Strike.
+> **Next hearing:** May 29, 2026, 9:00 a.m., Dept. 302 — consolidated hearing on all pending 802 motions (Anti-SLAPP, Demurrer, CCP section 436 MTS, MFL TAC, Plaintiff's MTS of May 6 O'Connell Reply Declaration, Plaintiff's MTS of May 8 Second Reply Papers).
 
 # Case CGC-25-631802 — Insurance Fraud and UCL Action
 
@@ -99,7 +99,7 @@ investigation" representation is provable from CSAA's own claim file.
 
 ## April 2026 Demurrer Volley (Defense Demurrer and Plaintiff Opposition)
 
-On April 13, 2026, CSAA filed a general demurrer to the First Amended Complaint on eight statutory grounds. Plaintiff filed a six-instrument opposition packet on April 16, 2026, and concurrently lodged a Proposed Second Amended Complaint that forecloses any futility argument. The combined demurrer and Special Motion to Strike hearing is set for **May 13, 2026 at 9:00 a.m., Department 302**.
+On April 13, 2026, CSAA filed a general demurrer to the First Amended Complaint on eight statutory grounds. Plaintiff filed a six-instrument opposition packet on April 16, 2026, and concurrently lodged a Proposed Second Amended Complaint that forecloses any futility argument. As of May 12, 2026, the Court continued and consolidated all pending defense and plaintiff motions in this department to **May 29, 2026 at 9:00 a.m., Department 302**.
 
 [Full narrative, timeline, and individual PDFs](demurrer-volley-apr2026/README.md) | [Authority-by-authority legal review](../08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md)
 

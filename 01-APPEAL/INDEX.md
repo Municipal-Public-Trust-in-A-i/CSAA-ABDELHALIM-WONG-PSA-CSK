@@ -93,7 +93,7 @@ Following the May 12, 2026 hearing on defendants' Anti-SLAPP / special-motion pr
 
 That sub-hub contains the Motion for Reconsideration (CCP § 1008), Proposed Third Amended Complaint (Exhibit T), Second Supplemental RJN and Statement of Appellate Preservation, RJN of Governing Law, Silent-Witness master exhibits, and all paired POS-050 proofs. Those instruments close the trial-court record under California Rules of Court, rule 8.120 and preserve each issue for the opening brief.
 
-The **live trial-court front** is [CGC-25-631802](../03-CASE-CGC-25-631802/INDEX.md) (May 13, 2026, 9:00 a.m., Dept. 302 — combined demurrer and Special Motion to Strike).
+The **live trial-court front** is [CGC-25-631802](../03-CASE-CGC-25-631802/INDEX.md) (May 29, 2026, 9:00 a.m., Dept. 302 — consolidated hearing on all pending 802 motions).
 
 | Forum | Posture | Hub |
 |-------|---------|-----|

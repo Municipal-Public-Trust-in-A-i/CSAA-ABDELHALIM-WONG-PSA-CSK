@@ -200,7 +200,7 @@ Both post-trial superior court actions include **notice of related cases** and *
 
 ## 16. April 2026 hearing dates (as stated in the 631802 index)
 
-The **631802** index states a combined demurrer and special motion to strike hearing on **May 13, 2026, 9:00 a.m., Department 302**. The **631801** index states a **CMC on May 27, 2026, 10:30 a.m., Department 610**. These dates are copied here **only** as navigation aids from those indexes; they may change on the clerk’s docket.
+The **631802** index states a consolidated May 29, 2026 hearing on all pending 802 motions at **9:00 a.m., Department 302**. The **631801** index states a **CMC on May 27, 2026, 10:30 a.m., Department 610**. These dates are copied here **only** as navigation aids from those indexes; they may change on the clerk’s docket.
 
 ---
 

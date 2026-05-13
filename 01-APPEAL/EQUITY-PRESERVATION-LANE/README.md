@@ -1,6 +1,6 @@
 # CGC-25-631801 — Equity/Extrinsic-Fraud Vacatur: Appellate-Preservation Lane
 
-> **Posture (May 12, 2026):** Following the May 12, 2026 hearing on defendants' Anti-SLAPP / special-motion practice in CGC-25-631801, this vacatur action is in **appellate-preservation posture**. The live trial-court front is **[CGC-25-631802](../../03-CASE-CGC-25-631802/INDEX.md)** (May 13, 2026, 9:00 a.m., Dept. 302 — combined demurrer and Special Motion to Strike).
+> **Posture (May 12, 2026):** Following the May 12, 2026 hearing on defendants' Anti-SLAPP / special-motion practice in CGC-25-631801, this vacatur action is in **appellate-preservation posture**. The live trial-court front is **[CGC-25-631802](../../03-CASE-CGC-25-631802/INDEX.md)** (May 29, 2026, 9:00 a.m., Dept. 302 — consolidated hearing on all pending 802 motions).
 
 The equity action to vacate the judgment for extrinsic fraud remains the foundation of the appellate lane. This sub-hub collects the May 11 to 12, 2026 preservation filings that close out the trial-court record for purposes of the direct appeal (A173827) and any interlocutory or writ proceedings that may follow.
 
@@ -56,7 +56,7 @@ The underlying 801 trial-court file remains at [02-CASE-CGC-25-631801/](../../02
 |-------|---------|-----|
 | **A173827** (First Appellate District, Div. 3) | Active briefing window | [01-APPEAL/INDEX.md](../INDEX.md) |
 | **CGC-25-631801** (equity/extrinsic-fraud vacatur) | Trial-court record closed; appellate preservation | This page |
-| **CGC-25-631802** (UCL / denial-letter fraud) | **Live trial-court front** — May 13, 2026 hearing | [03-CASE-CGC-25-631802/INDEX.md](../../03-CASE-CGC-25-631802/INDEX.md) |
+| **CGC-25-631802** (UCL / denial-letter fraud) | **Live trial-court front** — May 29, 2026 consolidated hearing | [03-CASE-CGC-25-631802/INDEX.md](../../03-CASE-CGC-25-631802/INDEX.md) |
 
 ---
 

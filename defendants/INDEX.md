@@ -1,6 +1,6 @@
 # Defendants — record-first index
 
-> **Posture (May 12, 2026):** CSAA Insurance Exchange and Tyler J. O'Connell are **live trial-court parties in CGC-25-631802** (May 13, 2026 hearing, Dept. 302). All other defendants are **appellate-only** as to CGC-25-631801, which is now in appellate-preservation posture. See [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
+> **Posture (May 12, 2026):** CSAA Insurance Exchange and Tyler J. O'Connell are **live trial-court parties in CGC-25-631802** (May 29, 2026 consolidated hearing, Dept. 302). All other defendants are **appellate-only** as to CGC-25-631801, which is now in appellate-preservation posture. See [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
 
 Each page lists **primary-source links** (transcripts, pleadings, complaints, regulatory PDFs in this repo). **Allegations** in complaints are labeled as such.
 

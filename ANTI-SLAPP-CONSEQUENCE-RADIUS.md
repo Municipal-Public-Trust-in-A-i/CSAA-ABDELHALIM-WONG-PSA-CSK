@@ -5,13 +5,13 @@
 
 **Composed:** May 9, 2026  ·  **Length:** approximately 7,000 words  ·  **Companions:** [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md), [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md), [MERITS.md](MERITS.md).
 
-*Hand-composed prose. Conventional California citations; verbatim statute and case-law text imported inline from the [California case-law and statute mirror](CASE-LAW-AND-STATUTES/) and from the May 13, 2026 hearing-package source materials. No em-dashes. Anti-SLAPP focused; collateral motion families appear only as they bear on the consequence chains traced here.*
+*Hand-composed prose. Conventional California citations; verbatim statute and case-law text imported inline from the [California case-law and statute mirror](CASE-LAW-AND-STATUTES/) and from the MAY-13-HEARING-PACKAGE-CGC-25-631802 source bundle (filed for the originally-noticed mid-May 2026 calendar). No em-dashes. Anti-SLAPP focused; collateral motion families appear only as they bear on the consequence chains traced here.*
 
 ---
 
 ## Preface
 
-This narrative traces the consequence radius of the defense's anti-SLAPP filings of April 9, 2026, in CGC-25-631801 and CGC-25-631802. It is hand-composed prose, drawn from the operative pleadings, the docket entries, the May 13, 2026 hearing package, and the controlling California statutes and case law. Every block-quoted statute or case excerpt is verbatim from the published source. Every legal claim ends in a parenthetical citation. Internal-monologue paragraphs offer analytical inference about strategic logic; they reconstruct what the documentary record tends to show, never direct quotation of what any party was thinking. The four-hypothesis framework in Section IX is offered as inference bounded by signals, not as fact. The interpretive voice is the author's; the underlying record is not.
+This narrative traces the consequence radius of the defense's anti-SLAPP filings of April 9, 2026, in CGC-25-631801 and CGC-25-631802. It is hand-composed prose, drawn from the operative pleadings, the docket entries, the MAY-13-HEARING-PACKAGE-CGC-25-631802 materials, and the controlling California statutes and case law. Every block-quoted statute or case excerpt is verbatim from the published source. Every legal claim ends in a parenthetical citation. Internal-monologue paragraphs offer analytical inference about strategic logic; they reconstruct what the documentary record tends to show, never direct quotation of what any party was thinking. The four-hypothesis framework in Section IX is offered as inference bounded by signals, not as fact. The interpretive voice is the author's; the underlying record is not.
 
 ---
 
@@ -88,7 +88,7 @@ The thirteen rows below convert that pattern into a maneuver-to-consequence ledg
 | 7 | 2026-04-30 | Court denies plaintiff's ex parte for oversize memorandum. | Page-cap discipline becomes a counter-trap vector. |
 | 8 | 2026-05-05 | Defense reply introduces $10,218 fee prayer and Baral 22F recharacterization. | New matter on reply; section 1005(b) notice violated; section 128.7(b) implicated. |
 | 9 | 2026-05-05 | Plaintiff serves first section 128.7(c)(1) declarations. | Twenty-one-day clock starts; sanctions ladder enters operative phase. |
-| 10 | 2026-05-08 | Plaintiff files May 13 hearing package; sixteen items; three fifteen-page operative oppositions. | Overlength cured; section 425.17(c) framework enters record under California Rules of Court, rule 3.1112(b). |
+| 10 | 2026-05-08 | Plaintiff files sixteen-item cure package for Dept. 302; three fifteen-page operative oppositions. | Overlength cured; section 425.17(c) framework enters record under California Rules of Court, rule 3.1112(b). |
 | 11 | 2026-05-12 | Tentative-ruling contest deadline at 4:00 p.m. | Last contest window before the hearing. |
 | 12 | 2026-05-13 | Hearing at 9:00 a.m., Department 302. | Three motion families converge. |
 | 13 | 2026-05-29 | Section 128.7 safe-harbor expiry. | Sanctions motion ripe to file. |
@@ -167,13 +167,13 @@ The cure converted the page-cap denial from a defense advantage into a plaintiff
 
 > Defendant's May 6, 2026 Reply set, comprising the Anti-SLAPP Reply, the Demurrer Reply, and the O'Connell Reply Declaration, substantively engaged the over-length April 16, 2026 and May 1, 2026 memoranda. Defense counsel therefore had, and used, the full opportunity to brief the substantive positions now compressed into the three fifteen-page envelopes. The cure preserves Defendant's Reply on the substantive positions; it does not enlarge them. There is no prejudice to Defendant from consideration of the cured opposition record.
 
-Third, the Request for Judicial Notice and the contemporaneous notice and statement regarding section 425.17(c) were filed under California Rules of Court, rule 3.1112, subdivision (b), as other papers in support, not subject to the fifteen-page cap. The Notice and Statement, filed as item 13 of the May 13, 2026 hearing package, sets out the section 425.17 statutory framework verbatim, the four-predicate walkthrough under Simpson Strong-Tie, and the Insurance Code violation register. The fifteen-page cap on memoranda became, in the cure architecture, the spreading vector for the section 425.17 framework that the defense's papers had not engaged. The threshold bar entered the record under a separate filing classification, free of the page constraint that bound the operative opposition.
+Third, the Request for Judicial Notice and the contemporaneous notice and statement regarding section 425.17(c) were filed under California Rules of Court, rule 3.1112, subdivision (b), as other papers in support, not subject to the fifteen-page cap. The Notice and Statement, filed as item 13 of that cure package, sets out the section 425.17 statutory framework verbatim, the four-predicate walkthrough under Simpson Strong-Tie, and the Insurance Code violation register. The fifteen-page cap on memoranda became, in the cure architecture, the spreading vector for the section 425.17 framework that the defense's papers had not engaged. The threshold bar entered the record under a separate filing classification, free of the page constraint that bound the operative opposition.
 
 The strategic logic implied by the timing is that the plaintiff used the May 6, 2026 reply set as the trigger event. The Notice anchors the cure window to that reply, on the theory that the reply continued to press the page-cap objections raised in the April 30 court order. The cure was filed three court days before the hearing, the earliest practicable cure window after the trigger. The court is asked to consider the cured record under the merits-preference reflected in California Rules of Court, rule 3.1300, subdivision (d).
 
 The defense's reply itself opened a separate front. It introduced a $10,218 fee prayer absent from the moving papers and recharacterized paragraph 22F of the First Amended Complaint as the gravamen under Baral. Both moves are addressed in Section VIII; their immediate consequence here is that the May 6 reply qualified as the section 1005(b) trigger event for the page-cap cure timing argument.
 
-If the choice was to use the page-cap denial as a defense leverage point, then we would expect to see the defense press the objection at oral argument on May 13. Whatever the defense argues from the bench, the cure has been filed and the operative oppositions are conforming. The page-cap leverage has expired by procedural exhaustion.
+If the choice was to use the page-cap denial as a defense leverage point, then we would expect to see the defense press the objection at oral argument on the consolidated May 29, 2026 calendar. Whatever the defense argues from the bench, the cure has been filed and the operative oppositions are conforming. The page-cap leverage has expired by procedural exhaustion.
 
 What this filing accomplishes mechanically, regardless of intent, is the inversion of a defense procedural advantage into a plaintiff doctrinal vehicle. The fifteen-page cap that was supposed to constrain the plaintiff became the channel through which the plaintiff filed the threshold-bar framework outside the cap entirely.
 
@@ -255,7 +255,7 @@ The hypothesis that the firm ratified the approach is consistent with continued 
 
 ## XI. The Pro Per Counter-Trap: How a Self-Represented Plaintiff Maneuvered the Field
 
-The plaintiff in CGC-25-631802 is self-represented. That fact does not relieve the plaintiff of the procedural standards California courts apply uniformly, and it does not impair the plaintiff's ability to deploy those standards offensively. The May 13 hearing package contains sixteen items, including the three operative oppositions, the request for judicial notice, the supplemental request for judicial notice of the Insurance Code and the Fair Claims Settlement Practices Regulations, the notice and statement regarding section 425.17(c), the section 128.7(c)(1) safe-harbor letter, the evidentiary objections to the O'Connell reply declarations, the indexed exhibits volume, and the plaintiff's declaration in opposition. Each item is structured to a specific rule of court or statutory authority.
+The plaintiff in CGC-25-631802 is self-represented. That fact does not relieve the plaintiff of the procedural standards California courts apply uniformly, and it does not impair the plaintiff's ability to deploy those standards offensively. The early-May cure package contains sixteen items, including the three operative oppositions, the request for judicial notice, the supplemental request for judicial notice of the Insurance Code and the Fair Claims Settlement Practices Regulations, the notice and statement regarding section 425.17(c), the section 128.7(c)(1) safe-harbor letter, the evidentiary objections to the O'Connell reply declarations, the indexed exhibits volume, and the plaintiff's declaration in opposition. Each item is structured to a specific rule of court or statutory authority.
 
 Three counter-traps were placed in the field. First, the section 425.17(c) carve-out trap was placed in the April 16, 2026 opposition in CGC-25-631802 and reinforced in the May 8 notice and statement. Second, the page-cap counter-trap was placed when the plaintiff cured the overlength filings on May 8, eliminating the defense's procedural objection without diluting the substantive opposition. Third, the section 128.7(c)(1) safe-harbor counter-trap was placed when the plaintiff served the May 8 letter, starting the twenty-one-day clock.
 
@@ -263,11 +263,11 @@ Each counter-trap operates on a separate statutory channel and produces a separa
 
 ---
 
-## XII. After-Action: What May 13 Will and Will Not Decide
+## XII. After-Action: What the May 29, 2026 Consolidated Hearing Will and Will Not Decide
 
-The May 13, 2026 hearing in Department 302 will resolve the special motion to strike, the demurrer, and the section 436(a) motion to strike in CGC-25-631802. Tentative rulings issue the afternoon before, with a 4:00 p.m. contest deadline on May 12. The court may take any matter under further submission, rule from the bench, or continue any matter.
+The May 29, 2026 consolidated hearing in Department 302 is set to address Defendant's Anti-SLAPP motion, Demurrer, CCP section 436 Motion to Strike, Plaintiff's Motion for Leave to File Third Amended Complaint, and Plaintiff's motions to strike reply papers, along with any related procedural rulings on the same calendar. Under San Francisco practice, a tentative ruling issues the afternoon before; Local Rule 8.3(D) sets a 4:00 p.m. contest deadline on May 28, 2026, for an adverse tentative on the consolidated motions.
 
-What May 13 will not decide is the section 128.7 safe-harbor process; that decision belongs to the May 29, 2026 expiry. It will not decide the deem-admit and compel motions; those await separate hearing dates. It will not decide any appellate question; section 425.17(e) forecloses interlocutory appeal if the special motion is denied on the carve-out ground. What May 13 will produce is the first written ruling on the motion family at the center of this narrative.
+What the May 29 hearing will not decide by itself is the section 128.7 safe-harbor process on any paper still inside the twenty-one-day window; that turns on service and expiry dates, not the single motion hearing date. It may not finally resolve deem-admit and compel motions if those are on separate settings. It will not decide any appellate question here; section 425.17(e) forecloses interlocutory appeal if the special motion is denied on the carve-out ground.
 
 ---
 
@@ -287,6 +287,6 @@ The case-law and statute mirror under [CASE-LAW-AND-STATUTES/](CASE-LAW-AND-STAT
 
 ---
 
-*This document is a self-contained narrative drawn from the operative pleadings, the docket entries, the May 13, 2026 hearing-package source materials, and the controlling California statutes and case law. Every block-quoted excerpt is verbatim from the published source. The four-hypothesis framework in Section IX is offered as inference bounded by signals, not as fact. The interpretive voice is the author's; the underlying record is not.*
+*This document is a self-contained narrative drawn from the operative pleadings, the docket entries, the MAY-13-HEARING-PACKAGE-CGC-25-631802 materials, and the controlling California statutes and case law. Every block-quoted excerpt is verbatim from the published source. The four-hypothesis framework in Section IX is offered as inference bounded by signals, not as fact. The interpretive voice is the author's; the underlying record is not.*
 
 *Composed May 9, 2026.*
