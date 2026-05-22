@@ -1,5 +1,7 @@
 # Case dossier (30-minute deep read)
 
+**One-file PDF:** [CASE-DOSSIER.pdf](CASE-DOSSIER.pdf) (export of this page; for counsel pickup).
+
 > **Posture (May 12, 2026):** 802 (CGC-25-631802) is the live trial-court front (May 29, 2026 consolidated hearing, Dept. 302 — see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)); 801 (CGC-25-631801) is in appellate-preservation posture (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); A173827 is in active appellate briefing.
 
 **Not legal advice.** This page is a **table of contents** to material already on this site. Open the links; do not treat this page as a substitute for the primary PDFs.

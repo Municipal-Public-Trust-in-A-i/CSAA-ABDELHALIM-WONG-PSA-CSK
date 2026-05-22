@@ -6,7 +6,7 @@
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud, now appellate-preservation posture) · CGC-25-631802 (UCL / denial-letter fraud, live trial-court front)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** May 12, 2026 (see [What's new](#whats-new)).
+**Last refresh:** May 14, 2026 (see [What's new](#whats-new)).
 
 > **Posture update (May 12, 2026).** Following the May 12 hearing on defendants' Anti-SLAPP / special-motion practice in CGC-25-631801, and the May 11 contemporaneous filings (Motion for Reconsideration under CCP § 1008, RJN of Governing Law, and Second Supplemental RJN with Statement of Appellate Preservation), the 801 vacatur action is in **appellate-preservation posture**. The live trial-court front is **CGC-25-631802** (May 29, 2026, 9:00 a.m., Dept. 302 — consolidated hearing on all pending 802 motions: Anti-SLAPP, Demurrer, CCP section 436 MTS, MFL TAC, Plaintiff's MTS of May 6 O'Connell Reply Declaration, and Plaintiff's MTS of May 8 Second Reply Papers). See [01-APPEAL/](01-APPEAL/INDEX.md) for the appellate lane (A173827 + 801 post-May-12 preservation materials at [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)).
 
@@ -31,6 +31,18 @@ Most recent 802 filings (court-filed):
 # **APPELLATE / PRESERVATION LANE**
 
 ## **➤ [Open the appellate lane → 01-APPEAL/INDEX.md](01-APPEAL/INDEX.md)**
+
+## Post-May-12 appellate stack (CGC-25-631801)
+
+**[Open the five-packet stack (scaffold PDFs) → 01-APPEAL/POST-MAY-12-FILING-STACK/README.md](01-APPEAL/POST-MAY-12-FILING-STACK/README.md)**
+
+- **Day +5:** Objections to proposed order (CRC 3.1312(a)) — [01-OBJECTIONS-PROPOSED-ORDER](01-APPEAL/POST-MAY-12-FILING-STACK/01-OBJECTIONS-PROPOSED-ORDER/README.md)
+- **Day +10:** Reconsideration (CCP § 1008) — [02-RECONSIDERATION (pointer)](01-APPEAL/POST-MAY-12-FILING-STACK/02-RECONSIDERATION/README.md) · May 13 rebuild PDFs: [post-order-recon-may-13](01-APPEAL/EQUITY-PRESERVATION-LANE/post-order-recon-may-13/README.md)
+- **Day +15:** New trial (CCP §§ 657, 659) — [03-NEW-TRIAL](01-APPEAL/POST-MAY-12-FILING-STACK/03-NEW-TRIAL/README.md)
+- **Day +15:** Vacate (CCP §§ 663, 663a) — [04-VACATE-663](01-APPEAL/POST-MAY-12-FILING-STACK/04-VACATE-663/README.md)
+- **Day +60:** Notice of appeal (CCP § 904.1(a)(13); jurisdictional) — [05-NOTICE-OF-APPEAL](01-APPEAL/POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL/README.md)
+
+**May 12 source order (PDF + parse):** [02-CASE-CGC-25-631801/court-orders/2026-05-12-anti-slapp-grant-order/](02-CASE-CGC-25-631801/court-orders/2026-05-12-anti-slapp-grant-order/README.md)
 
 | Forum | Posture | Hub |
 |-------|---------|-----|
@@ -180,30 +192,37 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 ---
 
-## Start here
+## Pick a lane
 
-**Where do I start?**
+| Audience | Single entry point | What it gives you |
+|----------|--------------------|-------------------|
+| **California counsel** | **[FOR-ATTORNEYS.md](FOR-ATTORNEYS.md)** | One-page intake brief |
+| **Journalists / writers** | **[JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md)** | Newsroom narrative |
+| **Researchers / public** | **[CASE-DOSSIER.md](CASE-DOSSIER.md)** | 30-minute curated tour |
+| **Plaintiff-authored analysis** | **[ANALYSIS/README.md](ANALYSIS/README.md)** | Long-form memos (not court filings) |
+| **Case law and statutes** | **[LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md)** | Mirror index: [CASE-LAW-AND-STATUTES/INDEX.md](CASE-LAW-AND-STATUTES/INDEX.md), [opinions PDF](CASE-LAW-AND-STATUTES/opinions-pdf/), [statutes](CASE-LAW-AND-STATUTES/statutes-cal/) |
+
+**Where do I start (quick links)?**
 
 - Live trial-court motion practice (May 29, 2026 consolidated hearing) → [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)
-- Appellate review (trial appeal A173827 + 801 preservation) → [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md)
+- Appellate review (A173827 + 801 preservation + post-May-12 stack) → [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md) · [POST-MAY-12-FILING-STACK](01-APPEAL/POST-MAY-12-FILING-STACK/README.md)
 - Cross-case theory / leverage / risk → [MERITS.md](MERITS.md) · [RISK-SURFACE.md](RISK-SURFACE.md)
 
-Pick the entry that matches why you opened this site.
+**Deeper attorney reading:** [CASE-DOSSIER.md](CASE-DOSSIER.md) (Markdown) · **[CASE-DOSSIER.pdf](CASE-DOSSIER.pdf)** (download) · [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md) · [RISK-AND-ECONOMICS.md](RISK-AND-ECONOMICS.md).
 
-| Audience | Entry page | Best for |
-|----------|------------|----------|
-| **California attorneys** | **[FOR-ATTORNEYS.md](FOR-ATTORNEYS.md)** | Intake brief, damages map, calendar, contact information |
-| **Journalists / writers** | **[JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md)** | Plain-English newsroom narrative across all three post-trial cases |
-| **Researchers / public** | This page (continue reading) | Neutral map of every primary PDF, with no outcome predictions |
-| **Case law and statutes (PDFs and extracts)** | **[LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md)** | Mirror of California authorities used on this site: [full index](CASE-LAW-AND-STATUTES/INDEX.md), [opinion PDFs](CASE-LAW-AND-STATUTES/opinions-pdf/), [statutes](CASE-LAW-AND-STATUTES/statutes-cal/). **Leg.Auth. bookmarks:** long-form pages use `[Leg.Auth. #n](#leg-auth-n)` cross-refs to anchored lists (see [MERITS.md](MERITS.md#legal-authorities), [EXTRINSIC explainer](EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md#authority-index)). [LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md) stays a navigation hub. |
-
-**Deeper attorney reading:** [CASE-DOSSIER.md](CASE-DOSSIER.md) (30-minute deep read) · [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md) · [RISK-AND-ECONOMICS.md](RISK-AND-ECONOMICS.md).
-
-**Big-picture analytical writing already on this site:** [CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md) · [CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md](CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) · [CONTRADICTION-LETTER.md](CONTRADICTION-LETTER.md) · [SPINE.md](SPINE.md) · [BOOK-OUTLINE.md](BOOK-OUTLINE.md) (every Markdown file on the site).
+**Big-picture analytical writing already on this site:** [ANALYSIS/README.md](ANALYSIS/README.md) · [CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md) · [CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md](CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) · [CONTRADICTION-LETTER.md](CONTRADICTION-LETTER.md) · [SPINE.md](SPINE.md) · [BOOK-OUTLINE.md](BOOK-OUTLINE.md) (every Markdown file on the site).
 
 ---
 
 ## What's new
+
+**May 14, 2026 refresh.**
+
+- **NEW:** [01-APPEAL/POST-MAY-12-FILING-STACK/README.md](01-APPEAL/POST-MAY-12-FILING-STACK/README.md) — public mirror of the five-packet post-May-12 scaffold (objections, reconsideration pointer, new trial, vacate 663, notice of appeal) with **PACKET** + **SOURCE-ARCHIVE** PDFs where noted; **scaffold / verify filing status on the portal**.
+- **NEW:** [01-APPEAL/EQUITY-PRESERVATION-LANE/post-order-recon-may-13/](01-APPEAL/EQUITY-PRESERVATION-LANE/post-order-recon-may-13/README.md) — May 13 reconsideration rebuild PDFs (merged packet and components).
+- **NEW:** [02-CASE-CGC-25-631801/court-orders/2026-05-12-anti-slapp-grant-order/](02-CASE-CGC-25-631801/court-orders/2026-05-12-anti-slapp-grant-order/README.md) — May 12 minute order PDF (`10210043`) plus sanitized structured parse.
+- **NEW:** [ANALYSIS/README.md](ANALYSIS/README.md) — index for plaintiff-authored analytical writing, including [802 four-part memorandum (customer status and carve-out)](ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md).
+- **NEW:** [CASE-DOSSIER.pdf](CASE-DOSSIER.pdf) — single-file PDF export of [CASE-DOSSIER.md](CASE-DOSSIER.md) for counsel pickup.
 
 **May 12, 2026 refresh.**
 

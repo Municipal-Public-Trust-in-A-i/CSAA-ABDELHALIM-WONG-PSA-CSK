@@ -13,6 +13,18 @@
 | **May 27, 2026, 10:30 a.m.** | **CGC-25-631801** | Case management conference (Dept. **610** per case index) | [631801 index](02-CASE-CGC-25-631801/INDEX.md) |
 | Ongoing | **A173827 + CGC-25-631801** | Appellate briefing and 801 preservation lane | [Appeal index](01-APPEAL/INDEX.md) · [Preservation lane](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md) |
 
+### Post-May-12, 2026 deadlines (CGC-25-631801; Day 0 = service of notice of entry)
+
+| Day | Authority (short label) | Hub on this site |
+|-----|-------------------------|------------------|
+| **+5 court days** | Objections to proposed order (CRC 3.1312(a)) | [01-OBJECTIONS-PROPOSED-ORDER](01-APPEAL/POST-MAY-12-FILING-STACK/01-OBJECTIONS-PROPOSED-ORDER/README.md) |
+| **+10 days** | Reconsideration (CCP § 1008) | [02-RECONSIDERATION (pointer)](01-APPEAL/POST-MAY-12-FILING-STACK/02-RECONSIDERATION/README.md) · [May 13 rebuild PDFs](01-APPEAL/EQUITY-PRESERVATION-LANE/post-order-recon-may-13/README.md) |
+| **+15 days** | New trial (CCP §§ 657, 659) | [03-NEW-TRIAL](01-APPEAL/POST-MAY-12-FILING-STACK/03-NEW-TRIAL/README.md) |
+| **+15 days** | Vacate (CCP §§ 663, 663a) | [04-VACATE-663](01-APPEAL/POST-MAY-12-FILING-STACK/04-VACATE-663/README.md) |
+| **+60 days** | Notice of appeal (CCP § 904.1(a)(13); jurisdictional) | [05-NOTICE-OF-APPEAL](01-APPEAL/POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL/README.md) |
+
+**May 12 source order (PDF + parse):** [court-orders/2026-05-12-anti-slapp-grant-order/](02-CASE-CGC-25-631801/court-orders/2026-05-12-anti-slapp-grant-order/README.md)
+
 ### Defense oppositions (Apr. 23) — leave to file SAC
 
 - **802:** [Opposition PDF folder](03-CASE-CGC-25-631802/apr-2026-sac-leave/defense-opposition-apr23/README.md)  
@@ -24,4 +36,4 @@
 
 ---
 
-[← Homepage](README.md) · [For attorneys](FOR-ATTORNEYS.md)
+[← Homepage](README.md) · [For attorneys](FOR-ATTORNEYS.md) · [CASE-DOSSIER.pdf](CASE-DOSSIER.pdf)

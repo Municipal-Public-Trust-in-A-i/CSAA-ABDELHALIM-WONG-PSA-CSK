@@ -3,6 +3,8 @@
 
 **Not legal advice.** This page stitches short lifts from files already in this repository so you can decide whether to return a call. Every proposition below points to a longer source on this site or in the linked indices.
 
+**One-file dossier PDF:** [CASE-DOSSIER.pdf](CASE-DOSSIER.pdf) (same content as [CASE-DOSSIER.md](CASE-DOSSIER.md)).
+
 ---
 
 ## 1. One-paragraph case summary
@@ -44,9 +46,10 @@ A single table with links to PDFs in this repository: [`HEARINGS-CALENDAR.md`](H
 
 ## 6. Which lane fits which firm (non-exclusive)
 
-- **Bad faith / *Prentice* / B&P 17200 / UCL (carrier-only caption):** **CGC-25-631802** index [`03-CASE-CGC-25-631802/INDEX.md`](03-CASE-CGC-25-631802/INDEX.md).  
+- **Bad faith / *Prentice* / B&P 17200 / UCL (carrier-only caption):** **CGC-25-631802** index [`03-CASE-CGC-25-631802/INDEX.md`](03-CASE-CGC-25-631802/INDEX.md). Long-form customer-status / § 425.17(c) analytical memorandum: [ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md](ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md).  
 - **Equity, extrinsic fraud, attorney conduct, B&P 6128(a):** **CGC-25-631801** index [`02-CASE-CGC-25-631801/INDEX.md`](02-CASE-CGC-25-631801/INDEX.md).  
 - **Appellate instructional / evidentiary / Cassim / CCP 614 / Evid. Code 451(a) channels:** **A173827** index [`01-APPEAL/INDEX.md`](01-APPEAL/INDEX.md).  
+- **Post-May-12 801 scaffold (objections, tolling motions, notice of appeal):** [`01-APPEAL/POST-MAY-12-FILING-STACK/README.md`](01-APPEAL/POST-MAY-12-FILING-STACK/README.md) (verify filing status on the portal).  
 - **Full coordination:** all three, plus the underlying trial record under [`05-TRANSCRIPTS/INDEX.md`](05-TRANSCRIPTS/INDEX.md).
 
 ---
@@ -79,4 +82,4 @@ Inquiries from **licensed California attorneys** are welcome. This page is **not
 
 ---
 
-[← Homepage](README.md) · [30-minute dossier](CASE-DOSSIER.md) · [Hearings](HEARINGS-CALENDAR.md) · [Risk / economics](RISK-AND-ECONOMICS.md)
+[← Homepage](README.md) · [30-minute dossier](CASE-DOSSIER.md) · [CASE-DOSSIER.pdf](CASE-DOSSIER.pdf) · [Hearings](HEARINGS-CALENDAR.md) · [Risk / economics](RISK-AND-ECONOMICS.md)
