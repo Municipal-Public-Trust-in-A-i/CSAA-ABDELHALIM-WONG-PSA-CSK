@@ -1,4 +1,4 @@
-> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the consolidated May 29, 2026 hearing in Dept. 302 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the June 24, 2026 split-calendar hearing (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken + Dept. 302 / Quinn)) (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # When the Denial Letter Came Back as Three Lawsuits
 
 ### A reporter's guide to the Rosario v. CSAA litigation: the trial that ended one fight and started three, the trap the insurer's defense team built around itself, and what happens when a discovery clock runs out without answers

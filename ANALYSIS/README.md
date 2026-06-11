@@ -9,6 +9,12 @@ This folder collects **long-form analytical memoranda** and links to related nar
 | File | Description |
 |------|-------------|
 | [802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md](802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md) | May 14, 2026 memorandum on customer status, CCP § 425.17(c), Insurance Code / Title 10 regulatory floor, and third-party standing (802) |
+| [JUNE-2026-RUNWAY.md](JUNE-2026-RUNWAY.md) | June 11, 2026 attorney-facing runway (Summer 2026 outline + milestone table) |
+
+## Workspace cross-links
+
+- [801-APPEAL STRATEGIC-TACTICAL-PLEADINGS-MEMO-2026-05-19.md](../../801-APPEAL/STRATEGIC-TACTICAL-PLEADINGS-MEMO-2026-05-19.md)
+- [June 24 cohort PUBLIC-SYNOPSIS](../03-CASE-CGC-25-631802/june-24-cohort-2026-05-26/PUBLIC-SYNOPSIS.md)
 
 ## Related narrative (site root; not moved)
 

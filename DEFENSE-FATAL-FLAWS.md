@@ -1,4 +1,4 @@
-> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the consolidated May 29, 2026 hearing in Dept. 302 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the June 24, 2026 split-calendar hearing (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken + Dept. 302 / Quinn)) (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Defense fatal flaws (CGC-25-631802) — summary for demurrer / Anti-SLAPP posture
 
 Nothing here is legal advice. This page expands the five-row summary on the [site home](README.md) using **operative Third Amended Complaint** paragraph cites and links to PDFs already on this site. For authorities, see [LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md).

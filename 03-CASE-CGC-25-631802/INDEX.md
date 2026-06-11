@@ -1,6 +1,6 @@
 > **THIS IS THE LIVE TRIAL-COURT FRONT (as of May 12, 2026).** The equity case CGC-25-631801 is now in appellate-preservation posture; its post-May-12 materials are at [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md). All live motion practice, discovery pressure, and CCP § 425.17(c) gateway argument runs through this case.
 >
-> **Next hearing:** May 29, 2026, 9:00 a.m., Dept. 302 — consolidated hearing on all pending 802 motions (Anti-SLAPP, Demurrer, CCP section 436 MTS, MFL TAC, Plaintiff's MTS of May 6 O'Connell Reply Declaration, Plaintiff's MTS of May 8 Second Reply Papers).
+> **Next hearing:** June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken: MFL-TAC and CCP 436 transfer items; Dept. 302 / Quinn: anti-SLAPP, demurrer, plaintiff MTS, discovery items).
 
 # Case CGC-25-631802 — Insurance Fraud and UCL Action
 
@@ -21,6 +21,19 @@
 **April 30, 2026 — court-filed cross-hearing § 425.17(c) stack:** memorandum, notice of lodging, supplemental RJN, omnibus blackletter P&A, customer-doctrine supplement, safe-harbor notice/declaration, and POS-050 — **[cross-hearing-42517-apr30-2026/README.md](cross-hearing-42517-apr30-2026/README.md)** (PDFs + Markdown + LaTeX; bench briefs omitted). The **631801** mirror is **[02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md](../02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md)**.
 
 **Latest consolidated opposition (801 defense-court draft build):** Full PDF set — six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibit appendices, and legacy splits — is published under **[plaintiff-opposition-consolidated-apr2026/](plaintiff-opposition-consolidated-apr2026/README.md)** (synced April 18, 2026).
+
+
+**June 2026 filing hubs (NEW June 11 refresh):**
+
+| Hub | Description |
+|-----|-------------|
+| [hearing-package-may-8-2026/](hearing-package-may-8-2026/README.md) | May 8 cure batch (operative oppositions + supporting papers) |
+| [calendar-continuance-may-13-2026/](calendar-continuance-may-13-2026/README.md) | May 13 continuance to June 24 + restamp notices |
+| [june-24-cohort-2026-05-26/](june-24-cohort-2026-05-26/README.md) | May 26 four-transaction filing wave |
+| [cross-case-estoppel-june-24-2026/](cross-case-estoppel-june-24-2026/README.md) | 801 positions into 802 (14 PDFs) |
+| [cmc-july-8-2026/](cmc-july-8-2026/README.md) | July 8 CMC (Dept. 610) |
+| [docket-state/](docket-state/README.md) | Portal snapshots (May 28, 2026) |
+
 
 [← Back to Case Root](../ROSARIO.md)
 
@@ -99,7 +112,7 @@ investigation" representation is provable from CSAA's own claim file.
 
 ## April 2026 Demurrer Volley (Defense Demurrer and Plaintiff Opposition)
 
-On April 13, 2026, CSAA filed a general demurrer to the First Amended Complaint on eight statutory grounds. Plaintiff filed a six-instrument opposition packet on April 16, 2026, and concurrently lodged a Proposed Second Amended Complaint that forecloses any futility argument. As of May 12, 2026, the Court continued and consolidated all pending defense and plaintiff motions in this department to **May 29, 2026 at 9:00 a.m., Department 302**.
+On April 13, 2026, CSAA filed a general demurrer to the First Amended Complaint on eight statutory grounds. Plaintiff filed a six-instrument opposition packet on April 16, 2026, and concurrently lodged a Proposed Second Amended Complaint that forecloses any futility argument. As of May 12, 2026, the Court continued consolidated motions to **June 24, 2026 at 9:00 a.m.** (split Room 301 / 302 per May 28 portal pull).
 
 [Full narrative, timeline, and individual PDFs](demurrer-volley-apr2026/README.md) | [Authority-by-authority legal review](../08-LEGAL-ANALYSIS/demurrer-rebuttal/INDEX.md)
 

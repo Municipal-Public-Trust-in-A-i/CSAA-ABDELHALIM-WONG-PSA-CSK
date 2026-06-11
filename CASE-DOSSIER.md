@@ -2,7 +2,7 @@
 
 **One-file PDF:** [CASE-DOSSIER.pdf](CASE-DOSSIER.pdf) (export of this page; for counsel pickup).
 
-> **Posture (May 12, 2026):** 802 (CGC-25-631802) is the live trial-court front (May 29, 2026 consolidated hearing, Dept. 302 — see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)); 801 (CGC-25-631801) is in appellate-preservation posture (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); A173827 is in active appellate briefing.
+> **Posture (May 12, 2026):** 802 (CGC-25-631802) is the live trial-court front (June 24, 2026 split-calendar hearing — see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)); 801 (CGC-25-631801) is in appellate-preservation posture (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); A173827 is in active appellate briefing.
 
 **Not legal advice.** This page is a **table of contents** to material already on this site. Open the links; do not treat this page as a substitute for the primary PDFs.
 
@@ -42,7 +42,7 @@ flowchart TB
     TR["Reporter plus clerk PDFs"]
   end
   subgraph live ["Live trial-court front"]
-    UC["UCL 631802 (May 29, 2026)"]
+    UC["UCL 631802 (June 24, 2026)"]
   end
   subgraph appellate ["Appellate lane"]
     AP["Appeal A173827 briefs"]
@@ -58,7 +58,7 @@ flowchart TB
 
 ## 6. What to verify first (primary PDFs, 802 live front first)
 
-**Active motion practice (May 29, 2026 consolidated hearing):** [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) — all pending 802 motions, Dept. 302.
+**Active motion practice (June 24, 2026 split calendar):** [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) — all pending 802 motions, Dept. 302.
 
 **Appellate-preservation lane (post-May-12 801 materials):** [01-APPEAL/EQUITY-PRESERVATION-LANE/README.md](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
 

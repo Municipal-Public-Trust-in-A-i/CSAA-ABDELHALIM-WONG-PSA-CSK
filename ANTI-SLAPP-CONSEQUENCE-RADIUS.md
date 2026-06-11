@@ -1,4 +1,4 @@
-> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the consolidated May 29, 2026 hearing in Dept. 302 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the June 24, 2026 split-calendar hearing (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken + Dept. 302 / Quinn)) (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Anti-SLAPP misuse and consequence radius: CGC-25-631801 and CGC-25-631802
 
 > Open public record. Plaintiff-authored narrative, not a court filing. Every block-quoted statute or case excerpt is verbatim from the published source. Internal-monologue paragraphs are analytical inference about strategic logic; they are not direct quotation of any party's subjective state. The four-hypothesis framework in Section IX is offered as inference bounded by signals, not as fact.
@@ -173,7 +173,7 @@ The strategic logic implied by the timing is that the plaintiff used the May 6, 
 
 The defense's reply itself opened a separate front. It introduced a $10,218 fee prayer absent from the moving papers and recharacterized paragraph 22F of the First Amended Complaint as the gravamen under Baral. Both moves are addressed in Section VIII; their immediate consequence here is that the May 6 reply qualified as the section 1005(b) trigger event for the page-cap cure timing argument.
 
-If the choice was to use the page-cap denial as a defense leverage point, then we would expect to see the defense press the objection at oral argument on the consolidated May 29, 2026 calendar. Whatever the defense argues from the bench, the cure has been filed and the operative oppositions are conforming. The page-cap leverage has expired by procedural exhaustion.
+If the choice was to use the page-cap denial as a defense leverage point, then we would expect to see the defense press the objection at oral argument on the calendar as originally noticed for May 29, 2026 (now continued to June 24, 2026). Whatever the defense argues from the bench, the cure has been filed and the operative oppositions are conforming. The page-cap leverage has expired by procedural exhaustion.
 
 What this filing accomplishes mechanically, regardless of intent, is the inversion of a defense procedural advantage into a plaintiff doctrinal vehicle. The fifteen-page cap that was supposed to constrain the plaintiff became the channel through which the plaintiff filed the threshold-bar framework outside the cap entirely.
 
@@ -263,9 +263,9 @@ Each counter-trap operates on a separate statutory channel and produces a separa
 
 ---
 
-## XII. After-Action: What the May 29, 2026 Consolidated Hearing Will and Will Not Decide
+## XII. After-Action: What the June 24, 2026 Split-Calendar Hearing Will and Will Not Decide
 
-The May 29, 2026 consolidated hearing in Department 302 is set to address Defendant's Anti-SLAPP motion, Demurrer, CCP section 436 Motion to Strike, Plaintiff's Motion for Leave to File Third Amended Complaint, and Plaintiff's motions to strike reply papers, along with any related procedural rulings on the same calendar. Under San Francisco practice, a tentative ruling issues the afternoon before; Local Rule 8.3(D) sets a 4:00 p.m. contest deadline on May 28, 2026, for an adverse tentative on the consolidated motions.
+The June 24, 2026 split-calendar hearing (Rooms 301 and 302) is set to address Defendant's Anti-SLAPP motion, Demurrer, CCP section 436 Motion to Strike, Plaintiff's Motion for Leave to File Third Amended Complaint, and Plaintiff's motions to strike reply papers, along with any related procedural rulings on the same calendar. Under San Francisco practice, a tentative ruling issues the afternoon before; Local Rule 8.3(D) sets a 4:00 p.m. contest deadline on June 23, 2026, for an adverse tentative on the consolidated motions.
 
 What the May 29 hearing will not decide by itself is the section 128.7 safe-harbor process on any paper still inside the twenty-one-day window; that turns on service and expiry dates, not the single motion hearing date. It may not finally resolve deem-admit and compel motions if those are on separate settings. It will not decide any appellate question here; section 425.17(e) forecloses interlocutory appeal if the special motion is denied on the carve-out ground.
 
@@ -281,9 +281,17 @@ What the May 29 hearing will not decide by itself is the section 128.7 safe-harb
 - [DEFENSE-FATAL-FLAWS.md](DEFENSE-FATAL-FLAWS.md): quick map of the 631802 procedural posture defects.
 - [LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md): navigation hub for the California case-law, statutes, and rules mirror under [CASE-LAW-AND-STATUTES/](CASE-LAW-AND-STATUTES/INDEX.md).
 
-## Future enrichment
+## Case-law mirror links
 
-The case-law and statute mirror under [CASE-LAW-AND-STATUTES/](CASE-LAW-AND-STATUTES/) does not yet host inline pages for Code of Civil Procedure section 425.17, *Simpson Strong-Tie Co., Inc. v. Gore* (2010) 49 Cal.4th 12, *Park v. Bd. of Trustees* (2017) 2 Cal.5th 1057, *Navellier v. Sletten* (2002) 29 Cal.4th 82, *Baral v. Schnitt* (2016) 1 Cal.5th 376, *Jay v. Mahaffey* (2013) 218 Cal.App.4th 1522, or *Kim v. Westmoore Partners, Inc.* (2011) 201 Cal.App.4th 267. Those authorities appear here as conventional California citations and will be wired to the local mirror in a follow-up pass.
+Key authorities cited in this narrative:
+
+- [CCP § 425.17](CASE-LAW-AND-STATUTES/statutes-cal/CCP-425.17.md)
+- [*Simpson Strong-Tie Co., Inc. v. Gore* (2010) 49 Cal.4th 12](CASE-LAW-AND-STATUTES/opinions-pdf/Simpson-Strong-Tie-v-Gore-49-Cal-4th-12.pdf)
+- [*Park v. Bd. of Trustees* (2017) 2 Cal.5th 1057](CASE-LAW-AND-STATUTES/opinions-pdf/Park-v-Board-of-Trustees-2-Cal-5th-1057.pdf)
+- [*Navellier v. Sletten* (2002) 29 Cal.4th 82](CASE-LAW-AND-STATUTES/opinions-pdf/Navellier-v-Sletten-29-Cal-4th-82.pdf)
+- [*Baral v. Schnitt* (2016) 1 Cal.5th 376](CASE-LAW-AND-STATUTES/opinions-pdf/Baral-v-Schnitt-1-Cal-5th-376.pdf)
+- [*Jay v. Mahaffey* (2013) 218 Cal.App.4th 1522](CASE-LAW-AND-STATUTES/opinions-pdf/Jay-v-Mahaffey-218-Cal-App-4th-1522.pdf)
+- [*Kim v. Westmoore Partners, Inc.* (2011) 201 Cal.App.4th 267](CASE-LAW-AND-STATUTES/opinions-pdf/Kim-v-Westmoore-Partners-201-Cal-App-4th-267.pdf)
 
 ---
 

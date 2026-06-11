@@ -18,3 +18,5 @@ This folder mirrors the **clerk minute order PDF** (`10210043`) and a **structur
 [← Site root](../../../README.md)
 
 Nothing on this page is legal advice.
+
+**Authority audit:** [COURT-DOCKET minutes audit](../../../../COURT-DOCKET/801/AUTHORITY-AUDIT-MINUTES-2026-05-12.md)

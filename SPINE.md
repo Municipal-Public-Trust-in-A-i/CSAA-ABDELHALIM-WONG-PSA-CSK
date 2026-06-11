@@ -1,4 +1,4 @@
-> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the consolidated May 29, 2026 hearing in Dept. 302 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the June 24, 2026 split-calendar hearing (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken + Dept. 302 / Quinn)) (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Legal and factual spine — four proceedings
 
 This document is the **logical backbone** of the public record in this folder. It states **what each forum is**, **who appears there**, **what theories the operative papers describe**, and **which primary-source PDFs anchor those descriptions**. It does not predict outcomes.
@@ -198,9 +198,9 @@ Both post-trial superior court actions include **notice of related cases** and *
 
 ---
 
-## 16. April 2026 hearing dates (as stated in the 631802 index)
+## 16. June 2026 hearing dates (portal pull May 28, 2026)
 
-The **631802** index states a consolidated May 29, 2026 hearing on all pending 802 motions at **9:00 a.m., Department 302**. The **631801** index states a **CMC on May 27, 2026, 10:30 a.m., Department 610**. These dates are copied here **only** as navigation aids from those indexes; they may change on the clerk’s docket.
+The **631802** live calendar shows a **June 24, 2026, 9:00 a.m.** split-room consolidated hearing (continued from the May 29 setting). **July 8, 2026 CMC** is in Department 610 for both cases. See [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md) and [802 docket-state](03-CASE-CGC-25-631802/docket-state/STATE-2026-05-28.md).
 
 ---
 

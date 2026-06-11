@@ -1,4 +1,4 @@
-> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the consolidated May 29, 2026 hearing in Dept. 302 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the June 24, 2026 split-calendar hearing (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken + Dept. 302 / Quinn)) (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # For California counsel (intake cover page)
 
 **Not legal advice.** This page stitches short lifts from files already in this repository so you can decide whether to return a call. Every proposition below points to a longer source on this site or in the linked indices.
@@ -40,7 +40,7 @@ The logic tree in [`CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md`](CROSS-CASE-LO
 
 ## 5. What is on calendar (verify on the portal)
 
-A single table with links to PDFs in this repository: [`HEARINGS-CALENDAR.md`](HEARINGS-CALENDAR.md) includes the April 30 and May 6 reply settings; **May 29, 2026** 631802 consolidated motion hearing; **May 27, 2026** 631801 CMC; appeal index pointer.
+A single table with links to PDFs in this repository: [`HEARINGS-CALENDAR.md`](HEARINGS-CALENDAR.md) includes the April 30 and May 6 reply settings; **June 24, 2026** 631802 split-room consolidated hearing; **May 27, 2026** 631801 CMC; appeal index pointer.
 
 ---
 

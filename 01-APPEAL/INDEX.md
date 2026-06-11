@@ -93,13 +93,19 @@ Following the May 12, 2026 hearing on defendants' Anti-SLAPP / special-motion pr
 
 That sub-hub contains the Motion for Reconsideration (CCP § 1008), Proposed Third Amended Complaint (Exhibit T), Second Supplemental RJN and Statement of Appellate Preservation, RJN of Governing Law, Silent-Witness master exhibits, and all paired POS-050 proofs. Those instruments close the trial-court record under California Rules of Court, rule 8.120 and preserve each issue for the opening brief.
 
-The **live trial-court front** is [CGC-25-631802](../03-CASE-CGC-25-631802/INDEX.md) (May 29, 2026, 9:00 a.m., Dept. 302 — consolidated hearing on all pending 802 motions).
+The **live trial-court front** is [CGC-25-631802](../03-CASE-CGC-25-631802/INDEX.md) (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken: MFL-TAC and CCP 436 transfer items; Dept. 302 / Quinn: anti-SLAPP, demurrer, plaintiff MTS, discovery items).
 
 | Forum | Posture | Hub |
 |-------|---------|-----|
 | **A173827** — direct trial appeal | Active briefing window | This page |
 | **CGC-25-631801** — equity/extrinsic-fraud vacatur | Appellate-preservation posture | [EQUITY-PRESERVATION-LANE/](EQUITY-PRESERVATION-LANE/README.md) |
 | **CGC-25-631802** — UCL / denial-letter fraud | Live trial-court front | [03-CASE-CGC-25-631802/INDEX.md](../03-CASE-CGC-25-631802/INDEX.md) |
+
+---
+
+## Post-May-12, 2026 filing stack (CGC-25-631801)
+
+Scaffold PDFs and pointers for objections, reconsideration, new trial, vacate (663), and notice of appeal (Day 0 = service of notice of entry): **[POST-MAY-12-FILING-STACK/README.md](POST-MAY-12-FILING-STACK/README.md)**.
 
 ---
 
