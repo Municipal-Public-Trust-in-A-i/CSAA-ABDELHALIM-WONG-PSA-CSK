@@ -48,4 +48,17 @@ Neutral, minute-based summary of what the court docket shows. Not legal advice.
 
 June 11, 2026 outline: [JUNE-2026-RUNWAY.md](JUNE-2026-RUNWAY.md)
 
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-07-10 |
+| Last author | soltrinox |
+| Version | `216d319` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*
 [← ANALYSIS index](README.md) · [Site root](../README.md)

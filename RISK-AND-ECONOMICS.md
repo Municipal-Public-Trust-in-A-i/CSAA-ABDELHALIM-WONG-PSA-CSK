@@ -27,4 +27,17 @@
 
 ---
 
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 4) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*
 [← Homepage](README.md)

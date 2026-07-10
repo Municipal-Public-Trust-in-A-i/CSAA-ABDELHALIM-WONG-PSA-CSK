@@ -59,4 +59,17 @@ Strategy: clerks and e-filing vendors get **one** drop for “everything served,
 
 ---
 
- [← Back to filing hub](README.md) · [← Case index](../INDEX.md)
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-29 |
+| Last author | soltrinox |
+| Version | `7980d57` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*
+[← Back to filing hub](README.md) · [← Case index](../INDEX.md)

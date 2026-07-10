@@ -40,10 +40,10 @@ The matters listed above are not financially redundant copies of one another. Ea
 | Track | Forum / caption (identifiers only) | Who is bound or targeted | What money or relief sits here |
 |--------|--------------------------------------|---------------------------|--------------------------------|
 | **A** | Appeal **A-173827** from **CGC-21-594102** | Respondent: **insured defendant only** (carrier and panel counsel are **not** appellate respondents) | **No** direct money judgment on appeal; **derivative** personal-injury and punitive exposure **if** reversal and remand |
-| **B** | **CGC-25-631801** (Second Amended Complaint) | **Insured, carrier, and counsel defendants** in one umbrella action | **Vacatur** and **declaratory** relief as primary levers; **compensatory** damages pleaded for **procedural** injury and unfair verdict; **treble** damages and **reasonable attorney fees** under Business and Professions Code section 6128, subdivision (a), against named individuals; **punitive** damages under Civil Code section 3294 against specified defendants on specified counts (operative pleading controls); ancillary monetary items; discovery sanctions **within per-order caps pled to avoid interlocutory appeal** |
+| **B** | **CGC-25-631801** (Second Amended Complaint) | **Insured, carrier, and counsel defendants** in one umbrella action | **Vacatur** and **declaratory** relief as primary levers; **compensatory** damages pleaded for **procedural** injury and unfair verdict; **Prentice** fees and **Civ. Code § 3294 punitives** under Business and Professions Code section 6128, subdivision (a), against named individuals; **punitive** damages under Civil Code section 3294 against specified defendants on specified counts (operative pleading controls); ancillary monetary items; discovery sanctions **within per-order caps pled to avoid interlocutory appeal** |
 | **C** | **CGC-25-631802** (fraud and unfair competition) | **Carrier only** (insured and law firms are **not** defendants) | **Economic** fraud damages (including consequential litigation burden), **punitive** exposure at carrier scale, **UCL** restitution and injunctive relief — **not** a duplicate vehicle for the same **collision** personal-injury elements reserved for retrial |
 
-**Collision bodily injury and classic tort verdict economics** are principally channeled through **retrial of CGC-21-594102** after reversal or vacatur. **Carrier institutional fraud and UCL** are principally channeled through **CGC-25-631802**. **Judgment integrity, tribunal-facing conduct, and attorney-specific statutes** are principally channeled through **CGC-25-631801**, with express **prayer** items including vacatur, declaratory relief, compensatory (procedural), treble and fees under section 6128(a), and punitive damages under section 3294 on the counts identified in the operative pleading.
+**Collision bodily injury and classic tort verdict economics** are principally channeled through **retrial of CGC-21-594102** after reversal or vacatur. **Carrier institutional fraud and UCL** are principally channeled through **CGC-25-631802**. **Judgment integrity, tribunal-facing conduct, and attorney-specific statutes** are principally channeled through **CGC-25-631801**, with express **prayer** items including vacatur, declaratory relief, compensatory (procedural), § 3294 punitive and Prentice fees under section 6128(a), and punitive damages under section 3294 on the counts identified in the operative pleading.
 
 ---
 
@@ -73,7 +73,7 @@ After reversal on appeal **or** vacatur in the equity action, the negligence cas
 
 **Non-monetary drivers (not converted to dollars here):** vacatur; public fraud findings; professional discipline processes; malpractice carrier dynamics; collateral estoppel and credibility effects on Tracks A and C.
 
-**Operative pleading note:** The **Prayer for Relief** in the Second Amended Complaint seeks **treble** damages and **reasonable attorney fees** under Business and Professions Code section 6128(a), **punitive** damages under Civil Code section 3294 against specified defendants on specified counts, **fees** under Code of Civil Procedure section 1021.5 where applicable, and **compensatory** damages for lost procedural opportunities — in addition to equitable and declaratory relief.
+**Operative pleading note:** The **Prayer for Relief** in the Second Amended Complaint seeks **Civ. Code § 3294 punitive damages** and **Prentice fees** under Business and Professions Code section 6128(a), **punitive** damages under Civil Code section 3294 against specified defendants on specified counts, **fees** under Code of Civil Procedure section 1021.5 where applicable, and **compensatory** damages for lost procedural opportunities — in addition to equitable and declaratory relief.
 
 ---
 
@@ -148,3 +148,17 @@ Single-source quantitative model (contains **specific** figures and is **not** s
 CSAA-only demands with **enumerated** amounts (802-focused): [`settlement-demand-CSAA/00-README.md`](settlement-demand-CSAA/00-README.md).
 
 **Narrative filing-style version** (schedules, chart, certificate of service): [`GLOBAL-DEFENSE-SETTLEMENT-LETTER-NARRATIVE-FILED.md`](GLOBAL-DEFENSE-SETTLEMENT-LETTER-NARRATIVE-FILED.md).
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

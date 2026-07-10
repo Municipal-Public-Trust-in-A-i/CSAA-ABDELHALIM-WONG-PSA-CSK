@@ -264,4 +264,17 @@ flowchart TB
 
 No legal advice. Read the PDFs.
 
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-19 |
+| Last author | soltrinox |
+| Version | `0ce2e6d` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*
 [← Narrative hub](00-OVERVIEW.md) · [↑ SPINE](../SPINE.md) · [↑ Homepage](../README.md)

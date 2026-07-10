@@ -80,3 +80,17 @@ E: soltrinox@gmail.com
 ---
 
 *Internal note (do not paste into email): POS supersession is driven by `import_outline=True` merges in `finalize_801_filing_packages.py` and `build_801_defense_pdfs.merge_master_packet`, then `801-DEFENSE-COURT/FINAL-COURT/scripts/generate_final_court_consolidated_pos050.py`.*
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

@@ -27,4 +27,17 @@ This folder collects **long-form analytical memoranda** and links to related nar
 - [EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md](../EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md)
 - [SPINE.md](../SPINE.md)
 
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-07-10 |
+| Last author | soltrinox |
+| Version | `216d319` (rev 3) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*
 [← Site root](../README.md)

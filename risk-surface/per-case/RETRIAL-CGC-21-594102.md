@@ -70,3 +70,17 @@ Comparable SF pedestrian verdict themes and â€œcatastrophic retrial conditionsâ€
 - **Appeal** [APPEAL-A173827.md](APPEAL-A173827.md): derivative exposure = tables above.
 - **801**: vacatur triggers same retrial window; fraud on the record may affect credibility/punitives.
 - **802**: does not name Abdelhalim; CSAA indemnity posture discussed in master / CSAA party file only.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

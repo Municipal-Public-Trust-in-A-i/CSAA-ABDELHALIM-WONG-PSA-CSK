@@ -35,4 +35,17 @@ Prong-one preparation materials lodged for **May 13** sit in the clerk-filing tr
 
 ---
 
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 5) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*
 [← Site home](README.md) · [Legal authorities](LEGAL-AUTHORITIES.md) · [MERITS.md](MERITS.md)

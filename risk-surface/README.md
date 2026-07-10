@@ -47,3 +47,17 @@ RISK-SURFACE/
 ---
 
 *Not legal advice. Figures and law citations trace to `RISK.SURFACE.md`.*
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

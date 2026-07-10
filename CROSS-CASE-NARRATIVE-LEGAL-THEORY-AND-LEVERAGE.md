@@ -220,3 +220,17 @@ The companion document to this narrative — `CROSS-CASE-LOGIC-TREE-AND-CSAA-WOR
 ## Source note
 
 This narrative relies only on materials documented elsewhere in this repository: the Appellant's Opening Brief in A173827; the Second Amended Complaint in CGC-25-631801; the revised First Amended Complaint (or operative complaint) in CGC-25-631802; the logic diagrams in `LOGIC-DIAGRAMS-631801.md` and `LOGIC-DIAGRAMS-631802.md`; the per-case risk-surface files in `RISK-SURFACE/per-case/`; the certified April 16, 2025 Trial Day 7 transcript excerpt (`EXHIBIT-TRIAL-DAY-7-ADMISSION.md`); and the February 25, 2021 CSAA denial letter. No facts are used that are not already on the record or in the repository. Approximate length: roughly 6,500 words.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 5) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

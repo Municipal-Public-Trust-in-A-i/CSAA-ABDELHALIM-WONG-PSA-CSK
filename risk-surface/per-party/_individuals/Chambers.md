@@ -24,3 +24,17 @@ Discipline risk; malpractice carrier tender — § IV.B, § VIII.B.
 ## Not a party to
 
 Appeal; 802.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

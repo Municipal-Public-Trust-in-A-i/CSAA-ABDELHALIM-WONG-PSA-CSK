@@ -215,3 +215,17 @@ Anchors match inline bookmarks `[Leg.Auth. #n](#leg-auth-n)`.
 ---
 
 *Document compiled for use across CGC-25-631801, CGC-25-631802, and the appellate record of CGC-21-594102. All transcript citations verified against workspace records. **Published authorities mirror:** [LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md) and [Kulchar (MD)](CASE-LAW-AND-STATUTES/cases-cal-supreme/Kulchar-v-Kulchar-1-Cal3d-467.md). Cross-references: `FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md`; `DEFENSE/802/12-LEGAL-AUTHORITY-ROADMAP-AND-SAC-MAP.md`; `CGC-25-631802-MASTER/02-FIRST-AMENDED-COMPLAINT-REVISED.md`; `RISK-SURFACE/per-case/FRAUD-UCL-802-CGC-25-631802.md`.*
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 5) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

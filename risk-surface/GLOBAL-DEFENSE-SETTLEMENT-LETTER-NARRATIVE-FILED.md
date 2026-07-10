@@ -53,7 +53,7 @@ The litigation is structured across **four** primary tracks, each addressing a d
 
 1. **Court of Appeal (A-173827).** This is the appellate gate to a remanded negligence case. No direct money is awarded on appeal; the monetary engine is **derivative**—a new trial with different instructions and a different record posture. The **respondent** on appeal is the **insured**; the **carrier** and **panel counsel** are not appellate parties, yet **indemnity** and **control** dynamics tie their financial fate to the insured’s tort exposure.
 
-2. **Equity action (CGC-25-631801).** This track names the **insured**, the **carrier**, and **counsel** defendants in one umbrella action. Primary levers include **vacatur** of the prior judgment and **declaratory** relief. The operative pleading also seeks **compensatory** damages for procedural injury and unfair verdict, **treble** damages and **reasonable attorney fees** under Business and Professions Code section 6128, subdivision (a), against specified individuals, **punitive** damages under Civil Code section 3294 against specified defendants on specified counts, ancillary monetary items, and discovery sanctions structured within **per-order caps** pled to avoid an interlocutory appeal trap. General **collision** personal-injury damages remain principally reserved for **retrial**, consistent with the non-duplication architecture.
+2. **Equity action (CGC-25-631801).** This track names the **insured**, the **carrier**, and **counsel** defendants in one umbrella action. Primary levers include **vacatur** of the prior judgment and **declaratory** relief. The operative pleading also seeks **compensatory** damages for procedural injury and unfair verdict, **Civ. Code § 3294 punitives** and **Prentice fees** under Business and Professions Code section 6128, subdivision (a), against specified individuals, **punitive** damages under Civil Code section 3294 against specified defendants on specified counts, ancillary monetary items, and discovery sanctions structured within **per-order caps** pled to avoid an interlocutory appeal trap. General **collision** personal-injury damages remain principally reserved for **retrial**, consistent with the non-duplication architecture.
 
 3. **Fraud and UCL action (CGC-25-631802).** Directed **solely** at **CSAA** (and Doe defendants, if any), this track addresses **institutional** conduct, **economic** fraud damages (including **Prentice**-style consequential litigation costs as pleaded), **punitive** exposure calibrated to a **multi-billion-dollar** carrier net-worth context, and **UCL** restitution and injunctive relief. **Insured** and **law-firm** defendants are **not** named here; that isolation is deliberate and affects how damages **rollup** across defendants.
 
@@ -120,7 +120,7 @@ Abdelhalim bears the primary weight of the **underlying negligence** claim and *
 
 ### B. Law-firm cluster (PSA with Navaratnasingham and Reyna; CSK with Chambers)
 
-This cluster faces **tribunal-facing** and **attorney-specific** theories in **CGC-25-631801**, including **section 6128(a)** treble and fee exposure for named individuals and **punitive** exposure under section 3294 on specified counts against specified defendants, as actually pleaded in the prayer for relief. Malpractice-insurance dynamics, contribution and indemnity themes, and professional-process risk sit **on top of** the monetized neighborhoods. Aggregated across PSA and Chambers/CSK lines, the **median** monetized neighborhood for the law-firm cluster is in the **high seven figures**, with a **worst-case** band approaching the **low eight figures** when malpractice and contribution assumptions move together in the same direction.
+This cluster faces **tribunal-facing** and **attorney-specific** theories in **CGC-25-631801**, including **section 6128(a)** § 3294 punitive and Prentice fee exposure for named individuals and **punitive** exposure under section 3294 on specified counts against specified defendants, as actually pleaded in the prayer for relief. Malpractice-insurance dynamics, contribution and indemnity themes, and professional-process risk sit **on top of** the monetized neighborhoods. Aggregated across PSA and Chambers/CSK lines, the **median** monetized neighborhood for the law-firm cluster is in the **high seven figures**, with a **worst-case** band approaching the **low eight figures** when malpractice and contribution assumptions move together in the same direction.
 
 ### C. CSAA Insurance Exchange (carrier)
 
@@ -144,7 +144,7 @@ The **probability-weighted expected magnitude** for combined exposure—treating
 
 The defense should calibrate risk against published California authority on **investigation integrity**, **withholding**, **multiple acts of misconduct**, **managing-agent** theories under Civil Code section 3294, and **constitutional ratio** review when compensatory damages are modest. *Major v. Western Home Insurance Co.* (Cal. Ct. App.) and *Amerigraphics, Inc. v. Mercury Casualty Co.* (Cal. Ct. App.) are useful **standards** for how courts discuss punitive frameworks in insurer-misconduct settings—not as guarantees of any particular verdict, but as reminders that **ratio** and **process** arguments cut both ways: they can **cap** outcomes in some postures, but they do not erase **nine-figure** institutional risk in others when compensatory neighborhoods move into **eight- and nine-figure** bands.
 
-For the **tribunal** channel, equitable vacatur doctrines and **extrinsic-fraud** boundaries (including *Action Apartment Association v. City of Santa Monica*) frame why **CGC-25-631801** is not interchangeable with **CGC-25-631802**. Business and Professions Code section 6128, subdivision (a), supplies a **legislative** **treble** and **fee** mechanism for **attorney deceit** theories pleaded against named individuals—separate from the **UCL** channel against the carrier alone.
+For the **tribunal** channel, equitable vacatur doctrines and **extrinsic-fraud** boundaries (including *Action Apartment Association v. City of Santa Monica*) frame why **CGC-25-631801** is not interchangeable with **CGC-25-631802**. Business and Professions Code section 6128, subdivision (a), supplies a **legislative** **punitive** and **fee** mechanism for **attorney deceit** theories pleaded against named individuals—separate from the **UCL** channel against the carrier alone.
 
 **Additional note on ratio rhetoric.** Defense counsel frequently argue ratios and repugnancy in punitive briefing—and those arguments can succeed in particular postures. But ratio arguments are **not** a universal “off switch” when compensatory neighborhoods are themselves large, when the conduct story includes **multiple** institutional and tribunal-facing chapters, and when the defendant’s financial condition supports a **deterrence** story. That is why the internal model includes **low**, **mid**, and **high** **nine-figure** carrier neighborhoods rather than collapsing prematurely to a single optimistic number.
 
@@ -186,7 +186,7 @@ The tables below use three columns: **Conservative** (defense-favorable modeling
 | **CGC-21-594102** | Party status | Not parties | Not parties | Not parties |
 | **CGC-25-631801** | Fraud-on-the-court ancillary monetized band | **Low seven figures** | **Mid seven figures** | Upper **seven figures** |
 | **CGC-25-631801** | Malpractice / contribution themes | **Low seven figures** | **Mid seven figures** | Upper **seven figures** |
-| **CGC-25-631801** | Section 6128(a) treble + fees (pleaded) | **Seven figures** | **Seven figures** | **Eight figures** (statutory multiplier sensitivity) |
+| **CGC-25-631801** | Section 6128(a) punitives + fees (pleaded) | **Seven figures** | **Seven figures** | **Eight figures** (statutory multiplier sensitivity) |
 | **CGC-25-631801** | Punitive (section 3294 on specified counts) | Upper **six figures** | **Seven figures** | Upper **seven figures** |
 | **CGC-25-631802** | Not defendants | None | None | None |
 | **Row view — “PSA cluster story”** | *Narrative rollup* | **Mid seven figures** | High **seven figures** | **Low eight figures** |
@@ -197,7 +197,7 @@ The tables below use three columns: **Conservative** (defense-favorable modeling
 |------------|------------------|----------------|--------|------------|
 | **CGC-25-631801** | Chain-of-custody / handoff monetized band | **High six figures** | **Seven figures** | Upper **seven figures** |
 | **CGC-25-631801** | Malpractice / coverage disputes | **High six figures** | **Seven figures** | Upper **seven figures** |
-| **CGC-25-631801** | Section 6128(a) treble + fees (pleaded, where applicable) | **Seven figures** | **Seven figures** | Upper **seven figures** |
+| **CGC-25-631801** | Section 6128(a) punitives + fees (pleaded, where applicable) | **Seven figures** | **Seven figures** | Upper **seven figures** |
 | **CGC-25-631801** | Punitive (section 3294 on specified counts, where applicable) | **High six figures** | **Seven figures** | Upper **seven figures** |
 | **All other proceedings** | Not defendants | None | None | None |
 | **Row view — “Chambers/CSK cluster story”** | *Narrative rollup* | **Seven figures** | **Seven figures** | High **seven figures** verging **eight** |
@@ -250,7 +250,7 @@ The worst-case narrative is not a prediction; it is a **stress test** that ratio
 
 > **TOTAL ESTIMATED RISK (WORST-CASE STRESS TEST):**  
 > **HIGH NINE FIGURES**  
-> *(Representing the coexistence of upper-band retrial tort economics, upper-band institutional punitive modeling, statutory treble and fee exposure for pleaded attorney theories, upper-band UCL restitution, and a separate eight-figure cascade premium—without treating the same collision harm as if it were recovered twice in two separate judgments.)*
+> *(Representing the coexistence of upper-band retrial tort economics, upper-band institutional punitive modeling, statutory punitives and fee exposure for pleaded attorney theories, upper-band UCL restitution, and a separate eight-figure cascade premium—without treating the same collision harm as if it were recovered twice in two separate judgments.)*
 
 Even if no single defendant pays the **entire** stress-test number in one check, **global settlement** mathematics must account for **who** writes the checks, **who** reimburses whom, and **what** releases must cover **unknown** claims and **future** enforcement risk.
 
@@ -308,3 +308,17 @@ Plaintiff in Pro Per
 - Shorter ballpark-only draft: `RISK-SURFACE/GLOBAL-DEFENSE-SETTLEMENT-RISK-LETTER-BALLPARK.md`.  
 - CSAA-only enumerated demands (802-focused): `RISK-SURFACE/settlement-demand-CSAA/`.  
 - Plaintiff-side “why not settle” strategic memo: `RISK-SURFACE/WHY-PLAINTIFF-SHOULD-NOT-SETTLE-STRATEGIC-MEMO.md`.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

@@ -140,3 +140,17 @@ Appeal A173827 · CGC-25-631801 · CGC-25-631802
 ## Source anchors (internal — not attached by default)
 
 February 25, 2021 CSAA denial letter; January 2025 motions in limine (CGC-21-594102); February 18, 2025 hearing transcript; April 16, 2025 Trial Day 7 certified transcript (`EXHIBIT-TRIAL-DAY-7-ADMISSION.md`); Appellant's Opening Brief (A173827); Second Amended Complaint (CGC-25-631801); operative complaint (CGC-25-631802); `LOGIC-DIAGRAMS-631801.md`; `LOGIC-DIAGRAMS-631802.md`; per-case risk files in `RISK-SURFACE/per-case/`; companion documents `CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md` and `CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md`.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 4) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

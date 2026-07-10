@@ -1,4 +1,3 @@
-> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the June 24, 2026 split-calendar hearing (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken + Dept. 302 / Quinn)) (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Strategic Memo: The Delay-Tactic Immunity Gambit in CGC-25-631801 and CGC-25-631802
 
 **Cases:** *Rosario v. CSAA Insurance Exchange; Carbone, Smith & Koyama, LLP; Michael R. Chambers; Phillips, Spallas & Angstadt, LLP; Priya D. Navaratnasingham; Alberto Reyna* (CGC-25-631801) and *Rosario v. CSAA Insurance Exchange* (CGC-25-631802)
@@ -35,7 +34,7 @@ Code of Civil Procedure section 425.17 is not a defense; it is a structural gate
 
 The California Supreme Court has been explicit about the structural character of the carve-out. *Simpson Strong-Tie Co. v. Gore* (2010) 49 Cal.4th 12 confirms that when subdivision (c) applies, section 425.16 simply does not apply: the trial court does not weigh competing interests, it declines to extend the special motion to strike procedure to the category of disputes the Legislature has removed from the mechanism. *Club Members for an Honest Election v. Sierra Club* (2008) 45 Cal.4th 309 supplies the sequencing rule: where section 425.17 is invoked, the trial court must address the carve-out *before* any section 425.16 prong analysis. The sequencing is not optional, and it is not negotiable on the basis of how the defendant has framed its motion. The trial court's first question, on every special motion to strike filed by an insurer or by counsel acting in alignment with an insurer, is the section 425.17(c) question.
 
-Two features of the statute make the bar dispositive at the gateway in 801 and 802. First, the named-industry list inside subdivision (c) eliminates the usual "primarily engaged" inquiry as to CSAA. CSAA is a California-licensed insurer, and insurance is one of the named industries the Legislature singled out. The first element is satisfied as a matter of law. Second, the disjunctive audience prong in subdivision (c)(2) makes the audience element easy to satisfy on either of two independent branches. The audience for the operative communications in both cases includes the claimant himself (an actual customer of the regulated claim-handling product on the carrier-side and a third-party claimant on the panel-counsel side) and includes decision-makers (the regulator and the court) likely to influence the customer's claim. Either branch is sufficient. The third party "customer" question for a claimant of a first-party insurer's insured is treated separately in the cross-hearing customer-doctrine supplement (`SUPPL-MEMO-CUSTOMER-DOCTRINE-42517-CROSS-HEARING-801.tex`) and is not necessary to dispose of subdivision (c)(2) on this record because the regulatory-context branch is independently triggered by Insurance Code section 790.03(h) and the 10 CCR section 2695.1 et seq. regime.
+Two features of the statute make the bar dispositive at the gateway in 801 and 802. First, the named-industry list inside subdivision (c) eliminates the usual "primarily engaged" inquiry as to CSAA. CSAA is a California-licensed insurer, and insurance is one of the named industries the Legislature singled out. The first element is satisfied as a matter of law. Second, the disjunctive audience prong in subdivision (c)(2) makes the audience element easy to satisfy on either of two independent branches. The audience for the operative communications in both cases includes the claimant himself (a third-party claimant of CSAA's insured, treated as a "customer" within section 425.17(c)(2) under the customer-doctrine analysis the cross-hearing supplements develop, see `APRIL-30-2026/CROSS-HEARING-42517-PACKAGE/801/src/SUPPL-MEMO-CUSTOMER-DOCTRINE-42517-CROSS-HEARING-801.tex` and the parallel 802 supplement) and includes decision-makers (the regulator under section 790.03(h) and the court in the underlying CGC-21-594102 matter) likely to influence the claimant's claim. Either branch is sufficient. The third-party "customer" question is not necessary to dispose of subdivision (c)(2) on this record in any event, because the regulatory-context branch of section 425.17(c)(2) is independently triggered by Insurance Code section 790.03(h) and the 10 CCR section 2695.1 et seq. regime, and that branch alone closes the gateway.
 
 The point for the bench is not that subdivision (c) is one defense among many. The point is that subdivision (c) is the *first* question and, when satisfied, the *only* question. Section 425.16 either applies or it does not. The defense's prong-one and prong-two arguments, however elaborate, do not become live until and unless the trial court first concludes that subdivision (c) does not bar the section 425.16 motion at all. On this record, that conclusion is unavailable.
 
@@ -72,7 +71,7 @@ The defense's immunity rhetoric in 801 is not confined to the special motion to 
 1. The special motion to strike under section 425.16, asserting that the conduct pleaded as extrinsic fraud, attorney deceit, constructive fraud, intentional misrepresentation, and officer-of-the-court fiduciary breach is "protected petitioning activity" under section 425.16(e)(1) and (e)(2).
 2. The cross-noticed section 436 motion to strike, importing the same "everything is petitioning" rhetoric into a vehicle *PH II* already forbids when used as a backdoor demurrer.
 3. The opposition to the motion for leave to file the second amended complaint and the opposition to the motion for leave to file the proposed third amended complaint, each invoking section 425.16(b)(2) to argue that no amendment can be entertained while the SLAPP motion is pending.
-4. The opposition to plaintiff's section 425.16(g) good-cause motion to lift the discovery stay, arguing that the stay is comprehensive and that no claim-handling discovery is needed for the SLAPP record (a position that the defense's own bench briefs simultaneously contradict).
+4. The opposition to Plaintiff's section 425.16(g) good-cause motion to lift the discovery stay, arguing that the stay is comprehensive and that no claim-handling discovery is needed for the SLAPP record (a position that the defense's own bench briefs simultaneously contradict).
 5. The Case Management Statement filed May 1, 2026, signaling unavailability for mediation and settlement conference, signaling that no trial date should be set within twelve months, threatening vexatious-litigant designation without a section 391(b) predicate, and reserving an MSJ that presupposes a discovery record the defense has spent months arguing should not exist.
 6. The bench briefs accompanying each special motion, repeatedly invoking *Action Apartment*, *Rusheen*, and Civil Code section 47(b) for the proposition that pre-litigation and in-litigation communications are "protected" without engaging with the section 425.17(c) gateway question.
 
@@ -144,7 +143,7 @@ The Layer B in-litigation portion of the 802 fraud is also captured by the *Acti
 
 ### D. Section 425.17(c) walk on the 802 record
 
-The 802 walk is the cleanest in the workspace because the defendant lineup is uncomplicated. CSAA is a California-licensed insurer, satisfying element one. The 802 cause of action arises from CSAA's own pre-litigation communications to Plaintiff (the February 25, 2021 written denial and the antecedent claim-handling correspondence), each of which was made in the course of delivering the insurance services for which premiums had been paid (or, on the third-party side, in the course of delivering the regulated claim-handling product Insurance Code section 790.03(h) and 10 CCR section 2695.1 et seq. govern). The audience element is satisfied on both available branches: Plaintiff is the actual customer of the claim-handling product (or, in any event, the regulated audience the Department of Insurance regime addresses), and the conduct arose within the context of the regulatory regime, which is independently sufficient under the regulatory-context branch of section 425.17(c)(2). The cross-hearing memorandum at `APRIL-30-2026/CROSS-HEARING-42517-PACKAGE/802/src/MEMORANDUM-42517-425-17C-CROSS-HEARING-802.tex` and the customer-doctrine supplement at `SUPPL-MEMO-CUSTOMER-DOCTRINE-42517-CROSS-HEARING-802.tex` walk each element in detail.
+The 802 walk is the cleanest in the workspace because the defendant lineup is uncomplicated. CSAA is a California-licensed insurer, satisfying element one. The 802 cause of action arises from CSAA's own pre-litigation communications to Plaintiff (the February 25, 2021 written denial and the antecedent claim-handling correspondence), each of which was made in the course of delivering the regulated claim-handling product Insurance Code section 790.03(h) and 10 CCR section 2695.1 et seq. govern. The audience element is satisfied on both available branches: Plaintiff is the regulated audience the Department of Insurance regime addresses, and is treated as a "customer" within section 425.17(c)(2) under the customer-doctrine analysis the cross-hearing supplements develop (Plaintiff is a third-party claimant of CSAA's insured, not a contractual policyholder of CSAA, and the customer-doctrine question is precisely whether that third-party-claimant status falls inside the statutory "customer" term). Independently, the conduct arose within the context of the regulatory regime, which is independently sufficient under the regulatory-context branch of section 425.17(c)(2) without resolving the customer-doctrine question at all. The cross-hearing memorandum at `APRIL-30-2026/CROSS-HEARING-42517-PACKAGE/802/src/MEMORANDUM-42517-425-17C-CROSS-HEARING-802.tex` and the customer-doctrine supplement at `SUPPL-MEMO-CUSTOMER-DOCTRINE-42517-CROSS-HEARING-802.tex` walk each element in detail.
 
 The 802 record is structurally simpler than 801 in three respects that matter at the gateway. First, there is no "panel counsel as petitioner" gloss. The only defendant is the carrier itself; the only operative communications are the carrier's own. There is therefore no agency or scope-of-employment dispute at the gateway, no question whether the speaker was acting within the regulated commercial channel. Second, the conduct alleged is exclusively pre-litigation: the February 25, 2021 denial preceded any complaint by years, and there was no contemporaneous "serious and good-faith contemplation of litigation" because the claim was a third-party first-party-style claim and the defense's own files identify the matter as concluded at twenty-one days. *Neville/Briggs* foreclose any prelitigation-communication framing. Third, the regulatory-context branch of subdivision (c)(2) is independently triggered because the entire claim-handling process is governed by the Department of Insurance regime; the carrier cannot decline regulatory jurisdiction over its own claim-handling letter while simultaneously claiming "petitioning" status for the same letter.
 
@@ -164,12 +163,70 @@ The 802 ratification posture amplifies the 801 outcome. Once 801's extrinsic-fra
 
 ## PART IV. UNIFIED CONCLUSION
 
-The doctrinal trap the defense has walked into is structural, and it is now fully assembled on the docket. By spreading the same anti-SLAPP and litigation-privilege rhetoric across every opposition in both 801 and 802, the defense has effectively conceded the pattern that section 425.17(c) was enacted to defeat. The carrier is the named-industry defendant. The pre-litigation communications are the regulated claim-handling product. The in-litigation communications are panel counsel's delivery of the same product as a contractual defense benefit, recast as advocacy. The audience is the customer at every stage (first the claimant, then the regulator, then the court). The two-element test of subdivision (c) is satisfied as a matter of law. The sequencing rule of *Club Members for an Honest Election v. Sierra Club* (2008) 45 Cal.4th 309 makes the gateway question the first question. The categorical character of the carve-out under *Simpson Strong-Tie Co. v. Gore* (2010) 49 Cal.4th 12 makes it the only question.
+The doctrinal trap the defense has walked into is structural, and it is now fully assembled on the docket. By spreading the same anti-SLAPP and litigation-privilege rhetoric across every opposition in both 801 and 802, the defense has effectively conceded the pattern that section 425.17(c) was enacted to defeat. The carrier is the named-industry defendant. The pre-litigation communications are the regulated claim-handling product. The in-litigation communications are panel counsel's delivery of the same product as a contractual defense benefit, recast as advocacy. The audience falls within section 425.17(c)(2) at every stage: first the claimant (as the regulated audience the Department of Insurance regime addresses, and as a "customer" under the customer-doctrine analysis), then the regulator (under the regulatory-context branch), then the court (as a decision-maker likely to influence the claimant's claim). The two-element test of subdivision (c) is satisfied as a matter of law. The sequencing rule of *Club Members for an Honest Election v. Sierra Club* (2008) 45 Cal.4th 309 makes the gateway question the first question. The categorical character of the carve-out under *Simpson Strong-Tie Co. v. Gore* (2010) 49 Cal.4th 12 makes it the only question.
 
 For 801, the takeaway is one paragraph: the panel-counsel disclaimers identified in the merged checklist (MIL Nos. 6 and 17, the February 18, 2025 colloquy, and the April 16, 2025 "provided by Dolan" admission) are not protected petitioning under section 425.16(e); they are deceit aimed at the tribunal in the course of delivering the carrier's defense product, illegal as a matter of law under Business and Professions Code section 6128(a) and Rule of Professional Conduct 3.3(a)(1), foreclosed at the *Flatley* gateway, and removed from section 425.16 altogether by section 425.17(c). The special motion to strike must be denied at the gateway. The Track 1, Track 2, and Track 3 vehicles already on file should proceed in the ordinary discovery sequence on the lifted stay.
 
 For 802, the takeaway is one paragraph: the February 25, 2021 written denial is the regulated insurance product, not protected speech; the underlying failure to investigate is non-communicative regulatory misconduct that no privilege can retroactively shelter; *Moradi-Shalal* did not eliminate the regulatory channel and *Zhang v. Superior Court* (2013) 57 Cal.4th 364 confirms UCL enforceability for fraudulent-prong conduct that violates the Unfair Insurance Practices Act; the special motion to strike fails the section 425.17(c) gateway; the Track 2 set-six discovery vehicles, the CMC posture, and the CM-110 process should proceed.
 
-The closing reminder is the simplest part. Section 425.17(e) means there is no interlocutory appeal from the gateway denial and no automatic *Varian* stay of trial-court proceedings. The ordinary docket should proceed. Sanctions are on the table under sections 128.5, 128.7, 2023.030, and 425.16(c)(1). The Legislature already saw the gambit coming and already wrote the answer. The trial court's job at the May 12, 2026 hearing in CGC-25-631801 and at the **June 24, 2026** split-calendar hearing in CGC-25-631802 is to apply that answer and return both cases to the ordinary civil docket.
+The closing reminder is the simplest part. Section 425.17(e) means there is no interlocutory appeal from the gateway denial and no automatic *Varian* stay of trial-court proceedings. The ordinary docket should proceed. Sanctions are on the table under sections 128.5, 128.7, 2023.030, and 425.16(c)(1). The Legislature already saw the gambit coming and already wrote the answer. The trial court's job at the May 12 and May 13 hearings is to apply that answer and return both cases to the ordinary civil docket.
 
 ---
+
+## Word counts (per section)
+
+| Section                           | Target | Actual |
+| --------------------------------- | -----: | -----: |
+| Part I (Master Frame)             |  3,000 |  2,957 |
+| Part II (CGC-25-631801 Breakout)  |  2,000 |  1,876 |
+| Part III (CGC-25-631802 Breakout) |  2,000 |  2,202 |
+| Part IV (Unified Conclusion)      |    500 |    486 |
+| **Body total**                    |  7,500 |  7,521 |
+
+(Word counts exclude the document header, the caveat block, the section dividers, and this appendix. They are computed by whitespace tokenization against the plain-prose body of each Part. The reproducibility command is recorded below.)
+
+**Reproduce locally:**
+
+```bash
+python3 - <<'PY'
+from pathlib import Path
+text = Path("STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md").read_text()
+print("em-dashes (U+2014):", text.count("\u2014"))
+markers = [
+    ("Part I",   "## PART I.",   "## PART II."),
+    ("Part II",  "## PART II.",  "## PART III."),
+    ("Part III", "## PART III.", "## PART IV."),
+    ("Part IV",  "## PART IV.",  None),
+]
+for name, a, b in markers:
+    i = text.index(a)
+    j = text.index(b) if b else None
+    body = text[i:j]
+    if j is None:
+        body = body.split("\n## Word counts")[0]
+    body = "\n".join(body.split("\n")[1:])
+    print(name, len(body.split()))
+PY
+```
+
+## Style and source-control
+
+- No em-dashes anywhere in the document (workspace rule `instruct001`). Sentence breaks, commas, parentheses, semicolons, and "and" carry the same syntactic load.
+- Every authority cited is verified against `APRIL-30-2026/CROSS-HEARING-42517-PACKAGE/CITATION-VALIDATION-42517.md` and the master `CASE-LAW-AND-STATUTES/cache-defense-email-antislapp-2026-05/TABLE-OF-AUTHORITIES.md`. No new authorities are introduced; no RJN entries are created.
+- Subject-usage convention: "Plaintiff" (capitalized) refers to the named party in CGC-25-631801 and CGC-25-631802. "Customer" is reserved for the statutory term in section 425.17(c)(2); whether Plaintiff (a third-party claimant of CSAA's insured, not a contractual policyholder) qualifies as a "customer" within the statutory term is the customer-doctrine question developed in `APRIL-30-2026/CROSS-HEARING-42517-PACKAGE/{801,802}/src/SUPPL-MEMO-CUSTOMER-DOCTRINE-42517-CROSS-HEARING-{801,802}.tex`. The shared-frame prose uses "the customer" only after the customer-doctrine premise has been flagged, and the regulatory-context branch of section 425.17(c)(2) is independently dispositive without resolving the customer-doctrine question. "Claimant" is used where the litigant is being described in his pre-suit regulatory-audience capacity.
+- Cross-references to existing strategic memos and cross-hearing TeX sources are by relative workspace path, matching the convention used in `EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md` and `STRATEGIC-POSTURE-AND-TEN-FATAL-TACTICS.md`.
+- This is an internal strategic narrative memo, not a captioned brief. No caption block, no signature block, no proof of service.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 5) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

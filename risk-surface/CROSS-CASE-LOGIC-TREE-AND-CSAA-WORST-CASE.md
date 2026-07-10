@@ -456,3 +456,17 @@ CSAA's only rational off-ramp is a **global resolution before the 801 interlocut
 ## Source note (internal)
 
 **Approximate length:** ~6,000 words (including tables and code-fence logic trees). **Record anchors in this repository:** per-case files in `RISK-SURFACE/per-case/`, `LOGIC-DIAGRAMS-631801.md` and `LOGIC-DIAGRAMS-631802.md`, `CGC-25-631801-MASTER/EXHIBIT-TRIAL-DAY-7-ADMISSION.md`, and `Appeal-MASTER/source/01-Appellants-Opening-Brief.md`. Alternative path for publication: `GITHUB-PAGE/` (optional).
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

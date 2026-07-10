@@ -843,3 +843,16 @@ The combined risk surface across all three proceedings, all three categories of 
 
 The only question is not whether the defense should settle, but whether they will do so before the cascading collapse makes the cost of settlement exceed the cost of verdict -- a threshold that draws closer with every day that the three-front architecture continues to operate.
 
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 4) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

@@ -165,3 +165,17 @@ All authorities cited in this memorandum have been checked against reported deci
 ---
 
 **Document source:** Derived from *CSAA-INVESTIGATION-FRAUD-COROLLARY.md*, Sections 2A and 3, with added paired RFAs and interrogatories and authority validation. For the full four-failure-mode analysis (including biased investigation, delay, and ignoring contrary evidence), see the corollary document.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

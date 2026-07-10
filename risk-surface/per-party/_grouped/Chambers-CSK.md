@@ -27,3 +27,17 @@ Malpractice trigger; fraud-on-the-court collateral; file-handoff enables PSA nar
 ## Probability-weighted EV (Chambers/CSK in § X.C)
 
 **$1,013,000** — 67.5% × $1.5M median.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

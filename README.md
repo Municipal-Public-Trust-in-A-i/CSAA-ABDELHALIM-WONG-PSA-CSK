@@ -751,3 +751,17 @@ This repository publishes **public** PDFs for transparency. It is **not** legal 
 *This record is published for public transparency. All documents are California court filings and public records. Nothing in this repository constitutes legal advice.*
 
 (c) 2025 to 2026 Franciscus Dylan Rosario. All rights reserved.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-07-10 |
+| Last author | soltrinox |
+| Version | `216d319` (rev 37) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

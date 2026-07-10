@@ -36,3 +36,17 @@ Per [802 collateral table](../../per-case/FRAUD-UCL-802-CGC-25-631802.md) and 80
 ## Settlement demand drafts (802-only)
 
 [settlement-demand-CSAA/](../../settlement-demand-CSAA/)
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

@@ -372,3 +372,17 @@ If plaintiff defeats anti-SLAPP and demurrer in **both** 801 and 802, the litiga
 ### Word-count note (internal)
 
 Appendix A (including scenarios, inventories, Mermaid/ASCII trees, narrative branch walkthrough, and the 30/60/90 pacing model) is written at approximately the requested **~4000-word** scale; trim or expand individual branches if you want a court-facing memo version versus an internal risk memo version.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

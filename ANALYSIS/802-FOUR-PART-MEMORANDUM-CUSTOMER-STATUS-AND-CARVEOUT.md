@@ -613,4 +613,16 @@ The matrix below marks (X) where each authority is operative within each part of
 | RPC rules 3.3, 3.4, 8.4 | | X | | X |
 | Cal. Rules of Court 1.200, 3.1110, 3.1113, 3.1306 | | X | | |
 
+---
 
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-05-21 |
+| Last author | soltrinox |
+| Version | `497dc5e` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

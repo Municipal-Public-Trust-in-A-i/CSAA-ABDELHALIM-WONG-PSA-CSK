@@ -189,3 +189,17 @@ Long-form narrative in `RISK.SURFACE` **§ VI** (Abdelhalim), **§ VII** (CSAA c
 ---
 
 *Prepared as index only. Not legal advice. All figures trace to [`../RISK.SURFACE.md`](../RISK.SURFACE.md).*
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

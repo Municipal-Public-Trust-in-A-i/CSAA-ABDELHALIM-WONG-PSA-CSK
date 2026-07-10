@@ -320,3 +320,17 @@ Numbered `<span id="leg-auth-n">` bookmarks (GitHub-anchored) for each distinct 
 21. <span id="leg-auth-21"></span>[CCP § 430.41](CASE-LAW-AND-STATUTES/statutes-cal/CCP-430.41.md)
 22. <span id="leg-auth-22"></span>[CCP § 435.5](CASE-LAW-AND-STATUTES/statutes-cal/CCP-435.5.md)
 23. <span id="leg-auth-23"></span>[CCP § 128.7](CASE-LAW-AND-STATUTES/statutes-cal/CCP-128.7.md)
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 6) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

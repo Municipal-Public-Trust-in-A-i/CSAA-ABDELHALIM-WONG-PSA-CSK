@@ -90,7 +90,7 @@ The following tables use three columns: **Conservative** (defense-favorable mode
 | **CGC-21-594102** | Party status | Not parties | Not parties | Not parties |
 | **CGC-25-631801** | Fraud-on-the-court ancillary monetized band | **Low seven figures** | **Mid seven figures** | Upper **seven figures** |
 | **CGC-25-631801** | Malpractice / contribution themes | **Low seven figures** | **Mid seven figures** | Upper **seven figures** |
-| **CGC-25-631801** | Section 6128(a) treble + fees (pleaded) | **Seven figures** | **Seven figures** | **Eight figures** (statutory multiplier sensitivity) |
+| **CGC-25-631801** | Section 6128(a) punitives + fees (pleaded) | **Seven figures** | **Seven figures** | **Eight figures** (statutory multiplier sensitivity) |
 | **CGC-25-631801** | Punitive (section 3294 on specified counts) | Upper **six figures** | **Seven figures** | Upper **seven figures** |
 | **CGC-25-631802** | Not defendants | None | None | None |
 | **Row view — "PSA cluster story"** | *Narrative rollup* | **Mid seven figures** | High **seven figures** | **Low eight figures** |
@@ -101,7 +101,7 @@ The following tables use three columns: **Conservative** (defense-favorable mode
 |------------|------------------|--------------|--------|------------|
 | **CGC-25-631801** | Chain-of-custody / handoff monetized band | **High six figures** | **Seven figures** | Upper **seven figures** |
 | **CGC-25-631801** | Malpractice / coverage disputes | **High six figures** | **Seven figures** | Upper **seven figures** |
-| **CGC-25-631801** | Section 6128(a) treble + fees (pleaded, where applicable) | **Seven figures** | **Seven figures** | Upper **seven figures** |
+| **CGC-25-631801** | Section 6128(a) punitives + fees (pleaded, where applicable) | **Seven figures** | **Seven figures** | Upper **seven figures** |
 | **CGC-25-631801** | Punitive (section 3294 on specified counts, where applicable) | **High six figures** | **Seven figures** | Upper **seven figures** |
 | **All other proceedings** | Not defendants | None | None | None |
 | **Row view — "Chambers/CSK cluster story"** | *Narrative rollup* | **Seven figures** | **Seven figures** | High **seven figures** verging **eight** |
@@ -151,3 +151,17 @@ The following tables use three columns: **Conservative** (defense-favorable mode
 *The following sections reproduce and expand the analytical memorandum previously maintained as `RISK.SURFACE.md`: causes of action, loss-to-damages mapping, per-proceeding **dollar-denominated** matrices, probability weighting, comparable-verdict discussion, and settlement calculus.*
 
 ---
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

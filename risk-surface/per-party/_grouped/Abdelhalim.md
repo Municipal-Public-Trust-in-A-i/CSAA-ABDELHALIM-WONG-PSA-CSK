@@ -32,3 +32,17 @@ Pen. Code § 148.5; perjury; 911 vs. litigation; consciousness of guilt — *RIS
 ## Probability-weighted EV (Abdelhalim)
 
 **$29,063,000** — § X.C (75% × $38.75M).
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

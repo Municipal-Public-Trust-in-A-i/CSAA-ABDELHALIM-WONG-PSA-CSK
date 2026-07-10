@@ -82,4 +82,17 @@ Inquiries from **licensed California attorneys** are welcome. This page is **not
 
 ---
 
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-07-10 |
+| Last author | soltrinox |
+| Version | `216d319` (rev 7) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*
 [← Homepage](README.md) · [30-minute dossier](CASE-DOSSIER.md) · [CASE-DOSSIER.pdf](CASE-DOSSIER.pdf) · [Hearings](HEARINGS-CALENDAR.md) · [Risk / economics](RISK-AND-ECONOMICS.md)

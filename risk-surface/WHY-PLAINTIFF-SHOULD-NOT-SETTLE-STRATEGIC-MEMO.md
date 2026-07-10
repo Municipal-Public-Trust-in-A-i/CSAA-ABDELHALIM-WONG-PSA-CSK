@@ -15,7 +15,7 @@ For a plaintiff who has **already lost** the career trajectory, the startup wind
 - **Vacatur** and a **judicial** reckoning with alleged extrinsic fraud on the tribunal;  
 - **Institutional** discovery and potential **UCL**-shaped relief against carrier conduct;  
 - **Upper-tail** tort and punitive outcomes after reversal;  
-- **Statutory** remedies against individual counsel where pleaded (including treble and fees under Business and Professions Code section 6128, subdivision (a));  
+- **Statutory** remedies against individual counsel where pleaded (including punitives and fees under Business and Professions Code section 6128, subdivision (a));  
 - **The right to keep speaking** without a contract defining what you may say—
 
 for **finality** and often for **silence**.
@@ -140,3 +140,17 @@ Money and traditional “litigation cost” may be **irrelevant** as **constrain
 - Consolidated quantitative and narrative risk model: [`../RISK.SURFACE.md`](../RISK.SURFACE.md)  
 - Defense-facing ballpark settlement communication: [`GLOBAL-DEFENSE-SETTLEMENT-RISK-LETTER-BALLPARK.md`](GLOBAL-DEFENSE-SETTLEMENT-RISK-LETTER-BALLPARK.md)  
 - Narrative filing-style global letter: [`GLOBAL-DEFENSE-SETTLEMENT-LETTER-NARRATIVE-FILED.md`](GLOBAL-DEFENSE-SETTLEMENT-LETTER-NARRATIVE-FILED.md)
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

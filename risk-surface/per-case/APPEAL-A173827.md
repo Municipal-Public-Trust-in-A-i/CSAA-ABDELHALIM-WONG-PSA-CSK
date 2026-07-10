@@ -70,3 +70,17 @@
 ## Inter-case linkage
 
 Reversal triggers retrial (CGC-21-594102). Fraud findings from 801 can amplify retrial. CSAA may have contractual indemnity exposure for Abdelhalim at retrial (linked to overall CSAA posture in 802 / global model).
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

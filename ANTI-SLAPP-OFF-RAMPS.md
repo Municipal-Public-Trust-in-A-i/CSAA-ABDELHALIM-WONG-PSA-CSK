@@ -122,3 +122,17 @@ Plus structural backstops: litigation privilege does not reach non-communicative
 ---
 
 Also on this site: [MERITS.md](MERITS.md) (TAC-aligned merits letter) · [LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md) · [631801 motion practice](02-CASE-CGC-25-631801/motion-strike-apr2026/README.md) · [631802 index](03-CASE-CGC-25-631802/INDEX.md).
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 6) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

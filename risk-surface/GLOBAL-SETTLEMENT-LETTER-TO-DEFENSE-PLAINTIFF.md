@@ -80,7 +80,7 @@ Upon any retrial, a jury could hear authenticated emergency-call materials, atte
 
 | Risk component (modeled) | Magnitude neighborhood |
 | :-- | :-- |
-| Bus. & Prof. Code § 6128(a) treble exposure and fees | Seven to eight figures (multiplier sensitivity) |
+| Bus. & Prof. Code § 6128(a) § 3294 punitive exposure and Prentice fees | Seven to eight figures (multiplier sensitivity) |
 | 801 punitive (Civ. Code § 3294 on specified counts) | Seven figures (upper band) |
 | Malpractice / coverage dispute triggers | Seven figures verging on low eight figures |
 | **Cumulative narrative rollup (modeled)** | **Low eight figures** |
@@ -103,7 +103,7 @@ Upon any retrial, a jury could hear authenticated emergency-call materials, atte
 
 When risk committees model a multi-front posture, they should not assume each front loses in isolation. Cross-proceeding amplification (credibility, issue preclusion dynamics, discovery leverage) can add a “cascade premium” to modeled outcomes.
 
-**Modeled worst-case rollup: high nine figures**, reflecting coexistence of upper-band retrial economics, upper-band institutional punitive modeling, statutory treble exposure where applicable, upper-band UCL restitution, and cascade synergy.
+**Modeled worst-case rollup: high nine figures**, reflecting coexistence of upper-band retrial economics, upper-band institutional punitive modeling, § 3294 punitive and Prentice fees where applicable, upper-band UCL restitution, and cascade synergy.
 
 California authority on punitive ratios in institutional misconduct contexts includes *Major v. Western Home Insurance Co.* and *Amerigraphics, Inc. v. Mercury Casualty Co.* (cited for the proposition that punitive-to-compensatory ratios can be sustained in large compensatory bands where the conduct story supports deterrence).
 
@@ -332,3 +332,17 @@ Many reserving committees also ask for a **probability-weighted** number before 
 #### Stress library (Appendix A) in one breath for the reserving file
 
 When you **tail-test** punitives or **BI** severity, cross-check **Appendix A**: **Track 1** (California **bad-faith / ratio** precedent), **Track 2** (California **catastrophic injury** reporter anchors), **Track 3** (**sanction / preclusion** pathways), **Track 4** (**national mega-verdict** stress). Use **Colossus**, **Mitchell**, **ISO / Verisk**, **Westlaw / Lexis** verdict tools, or internal **Monte Carlo**, but tag any output that ignores **venue**, **collateral source**, or **Evidence Code 1152 and 1154** mediation treatment as **committee-only**.
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

@@ -64,3 +64,17 @@ Within **45 days**, CSAA’s representatives are invited to confirm receipt and 
 ---
 
 *Figures trace to [`RISK.SURFACE.md`](../../RISK.SURFACE.md) / [`../per-case/FRAUD-UCL-802-CGC-25-631802.md`](../per-case/FRAUD-UCL-802-CGC-25-631802.md). Not legal advice.*
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

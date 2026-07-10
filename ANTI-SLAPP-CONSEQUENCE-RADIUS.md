@@ -298,3 +298,17 @@ Key authorities cited in this narrative:
 *This document is a self-contained narrative drawn from the operative pleadings, the docket entries, the MAY-13-HEARING-PACKAGE-CGC-25-631802 materials, and the controlling California statutes and case law. Every block-quoted excerpt is verbatim from the published source. The four-hypothesis framework in Section IX is offered as inference bounded by signals, not as fact. The interpretive voice is the author's; the underlying record is not.*
 
 *Composed May 9, 2026.*
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 5) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

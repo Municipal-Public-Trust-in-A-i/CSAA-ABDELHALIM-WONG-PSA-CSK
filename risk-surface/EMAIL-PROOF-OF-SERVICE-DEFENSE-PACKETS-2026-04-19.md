@@ -41,4 +41,18 @@ E: soltrinox@gmail.com
 2. `801-DEFENSE-COURT/FINAL-COURT/PLAINTIFF-OPPOSITIONS-FULL-PACKET-WITH-EXHIBITS.pdf`  
 3. `801-DEFENSE-COURT/FINAL-COURT/POS-050/PLAINTIFF-OPPOSITIONS-FULL-PACKET-WITH-EXHIBITS-POS-050.pdf`  
 4. `801-DEFENSE-COURT/FINAL-COURT/SAC-FULL-PACKET-WITH-EXHIBITS.pdf`  
-5. `801-DEFENSE-COURT/FINAL-COURT/POS-050/SAC-FULL-PACKET-WITH-EXHIBITS-POS-050.pdf`  
+5. `801-DEFENSE-COURT/FINAL-COURT/POS-050/SAC-FULL-PACKET-WITH-EXHIBITS-POS-050.pdf`
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

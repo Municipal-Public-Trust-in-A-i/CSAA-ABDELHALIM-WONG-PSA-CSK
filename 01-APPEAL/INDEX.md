@@ -5,117 +5,17 @@
 **Appellant:** Franciscus Dylan Rosario
 **Respondent:** Subhi Abdelhalim et al.
 
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-06-11 |
+| Last author | soltrinox |
+| Version | `d456321` (rev 6) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*
 [← Back to Case Root](../ROSARIO.md)
-
-**Public record update (March 28, 2026):** The Opening Brief, Cover Letter, and Supplemental Memorandum PDFs on this page were refreshed from the master filing set. Those revisions correct clerk's transcript citations and related references; other appeal PDFs were unchanged.
-
----
-
-## Appeal Documents
-
-| # | Document | Description | PDF |
-|---|---|---|---|
-| 1 | Appellant's Opening Brief | Full appellate brief raising all preserved errors from trial | [PDF](01-Appellants-Opening-Brief.pdf) |
-| 2 | Cover Letter | Transmittal to Court of Appeal | [PDF](02-Cover-Letter.pdf) |
-| 3 | Proof of Electronic Service | Proof of service on all parties | [PDF](03-Proof-of-Electronic-Service.pdf) |
-| 4 | Response to Court Letter and Request to Augment | Response addressing Court's inquiry; augmentation request | [PDF](04-Response-to-Court-and-Request-to-Augment.pdf) |
-| 5 | Appellant's Supplemental Memorandum | Supplemental brief filed in support of augmentation | [PDF](05-Appellants-Supplemental-Memorandum.pdf) |
-| 6 | Motion to Augment Record | Motion to include additional record materials | [PDF](06-Motion-to-Augment-Record.pdf) |
-| 7 | Appeal Exhibits (Combined) | All exhibits submitted with appeal | [PDF](07-Appeal-Exhibits.pdf) |
-
----
-
-## Grounds for Appeal
-
-### 1. Instructional Error (De Novo Review)
-
-- Failure to give mandatory CACI instructions on negligence per se
-- Misstatement of the reasonable person standard
-- Omission of limiting instructions on defense expert testimony
-- Conflicting and ambiguous instructions that confused the jury
-
-### 2. Evidentiary Error (Abuse of Discretion)
-
-- Admission of speculative biomechanical/causation expert testimony outside the scope of disclosure
-- Exclusion or late admission of the 911 call recording ("I barely hit him with anything")
-- Suppression of body-worn camera footage through procedural barriers induced by false representations
-- Violations of CCP § 2034 expert disclosure rules
-
-### 3. Juror Misconduct
-
-- Premature deliberations by jurors before case submission
-- Court's failure to conduct a proper Evid. Code § 1150 hearing on juror bias reports
-- Court failure to admonish or excuse jurors with expressed bias
-
-### 4. Procedural and Due-Process Violations
-
-- Denial of continuances based on defense's false "non-receipt/unknown provenance" representations
-- Limits placed on cross-examination and rebuttal of defense experts
-- Court reliance on false representations to deny Plaintiff's evidentiary motions
-
-### 5. Structural / Cumulative Error
-
-- The aggregate of individual errors rendered the trial fundamentally unfair
-- The one-sided evidentiary imbalance created by the Court's rulings, induced by fraud, requires reversal
-
----
-
-## Key Record Citations
-
-| Event | Record Location | Significance |
-|---|---|---|
-| 911 call exclusion | CT Vol. 1, p. 149-151 | Court denied continuance based on false "unknown provenance" claim |
-| Defense false denial of receipt | RT Day 8, p. 71 | Key false representation to Court |
-| Jury question re causation | Jury Questions, p. 2 | Shows jury confusion on determinative issue |
-| Mistrial motion | CT Vol. 7, p. 1844 | Preserved structural error argument |
-| Motion for JNOV | CT Vol. 6, p. 1689 | Preserved post-trial error challenges |
-| Trial minutes | CT Vol. 6, p. 1669-1670 | April 16-17 rulings |
-| Deliberate-jury-question anchor | RT Day 11, pp. 7-17 | Appellate prejudice anchor |
-
----
-
-## Standard of Review
-
-| Error Type | Standard |
-|---|---|
-| Instructional error | De novo; reversal if reasonably probable different result (Watson standard) |
-| Evidentiary error | Abuse of discretion; reversal if substantial right affected |
-| Juror misconduct | Mixed; structural errors subject to heightened review |
-| Cumulative error | Whether aggregate errors rendered trial fundamentally unfair |
-
----
-
-## Appellate-preservation lane for CGC-25-631801
-
-Following the May 12, 2026 hearing on defendants' Anti-SLAPP / special-motion practice in the equity action, CGC-25-631801 is in appellate-preservation posture. The trial-court record is effectively closed for purposes of appellate briefing in A173827. The May 11 to 12 preservation filings are collected at:
-
-**[EQUITY-PRESERVATION-LANE/README.md](EQUITY-PRESERVATION-LANE/README.md)**
-
-That sub-hub contains the Motion for Reconsideration (CCP § 1008), Proposed Third Amended Complaint (Exhibit T), Second Supplemental RJN and Statement of Appellate Preservation, RJN of Governing Law, Silent-Witness master exhibits, and all paired POS-050 proofs. Those instruments close the trial-court record under California Rules of Court, rule 8.120 and preserve each issue for the opening brief.
-
-The **live trial-court front** is [CGC-25-631802](../03-CASE-CGC-25-631802/INDEX.md) (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken: MFL-TAC and CCP 436 transfer items; Dept. 302 / Quinn: anti-SLAPP, demurrer, plaintiff MTS, discovery items).
-
-| Forum | Posture | Hub |
-|-------|---------|-----|
-| **A173827** — direct trial appeal | Active briefing window | This page |
-| **CGC-25-631801** — equity/extrinsic-fraud vacatur | Appellate-preservation posture | [EQUITY-PRESERVATION-LANE/](EQUITY-PRESERVATION-LANE/README.md) |
-| **CGC-25-631802** — UCL / denial-letter fraud | Live trial-court front | [03-CASE-CGC-25-631802/INDEX.md](../03-CASE-CGC-25-631802/INDEX.md) |
-
----
-
-## Post-May-12, 2026 filing stack (CGC-25-631801)
-
-Scaffold PDFs and pointers for objections, reconsideration, new trial, vacate (663), and notice of appeal (Day 0 = service of notice of entry): **[POST-MAY-12-FILING-STACK/README.md](POST-MAY-12-FILING-STACK/README.md)**.
-
----
-
-## Remand and post-vacatur materials (non-filing analysis)
-
-Mirrored memos and citation quick reference (intake for appellate and post-judgment counsel):
-
-| File | Description |
-|------|-------------|
-| [remand-plan/REMAND-FULL-RECORD-LITIGATION-PLAN.md](remand-plan/REMAND-FULL-RECORD-LITIGATION-PLAN.md) | Full-record remand operating plan |
-| [remand-plan/AFTER-VACATE.md](remand-plan/AFTER-VACATE.md) | Post-vacatur strategy notes |
-| [remand-plan/APR.14.FILING.md](remand-plan/APR.14.FILING.md) | April 14 supplemental filing context |
-| [remand-plan/APPEAL-CITATION-QUICK-REFERENCE/](remand-plan/APPEAL-CITATION-QUICK-REFERENCE/) | Citation quick-reference folder |

@@ -281,3 +281,17 @@ The **631802** action isolates a **pre-filing** letter. That pleading choice mea
 | Narrative hub | [narrative/00-OVERVIEW.md](narrative/00-OVERVIEW.md) |
 | Book-style file list | [BOOK-OUTLINE.md](BOOK-OUTLINE.md) |
 | Legacy navigation README | [README.LEGACY.md](README.LEGACY.md) |
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-07-10 |
+| Last author | soltrinox |
+| Version | `216d319` (rev 7) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*

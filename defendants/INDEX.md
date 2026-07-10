@@ -17,4 +17,17 @@ Each page lists **primary-source links** (transcripts, pleadings, complaints, re
 
 *Note: O'Connell is counsel of record / non-party — listed for conduct-based rap sheet.*
 
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-07-10 |
+| Last author | soltrinox |
+| Version | `216d319` (rev 6) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*
 [← Homepage](../README.md) · [← SPINE](../SPINE.md)

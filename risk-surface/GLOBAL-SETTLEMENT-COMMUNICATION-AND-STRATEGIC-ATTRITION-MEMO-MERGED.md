@@ -319,3 +319,17 @@ Guided by California precedents like *Major* and *Nickerson*, a San Francisco ju
 The defense is no longer fighting to win. They are paying millions of dollars in hourly fees simply to dictate the precise location of their own execution. **For the plaintiff, there is no logical reason to interrupt them.**
 
 **If the defense wishes to interrupt their own execution, they must draft the terms of their surrender. I await your global offer.**
+
+---
+
+## Document metadata
+
+| Field | Value |
+|-------|-------|
+| Created | 2026-07-10 |
+| Last updated | 2026-04-24 |
+| Last author | soltrinox |
+| Version | `d40ae05` (rev 1) |
+| Repository | GITHUB-PAGE |
+
+*Auto-generated from git history. Re-run `scripts/audit_strategic_docs.py --apply` to refresh.*
