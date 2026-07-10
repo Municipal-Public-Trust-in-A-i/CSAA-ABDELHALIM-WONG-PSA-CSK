@@ -10,6 +10,7 @@ This folder collects **long-form analytical memoranda** and links to related nar
 |------|-------------|
 | [802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md](802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md) | May 14, 2026 memorandum on customer status, CCP § 425.17(c), Insurance Code / Title 10 regulatory floor, and third-party standing (802) |
 | [JUNE-2026-RUNWAY.md](JUNE-2026-RUNWAY.md) | June 11, 2026 attorney-facing runway (Summer 2026 outline + milestone table) |
+| [JULY-2026-POSTURE.md](JULY-2026-POSTURE.md) | **Current** July 10, 2026 public posture (docket milestones only) |
 
 ## Workspace cross-links
 

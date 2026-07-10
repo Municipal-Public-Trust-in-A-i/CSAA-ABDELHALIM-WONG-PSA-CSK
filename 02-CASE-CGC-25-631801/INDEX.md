@@ -6,9 +6,11 @@
 **Case No.:** CGC-25-631801
 **Related to:** CGC-21-594102 (underlying trial); A173827 (direct appeal)
 **Plaintiff:** Franciscus Dylan Rosario
-**Case Management Conference:** May 27, 2026 at 10:30 a.m., Department 610
+**Case Management Conference:** September 9, 2026 at 10:30 a.m., Department 610 (continued from July 8 per June 10 minute)
 
 **Last synced (standalone PDFs):** March 28, 2026 from `CGC-25-631801-MASTER/FINAL-PDF/`. Bundled exhibit PDFs in this folder were not replaced.
+
+**Calendar / docket:** [cmc-september-9-2026/](cmc-september-9-2026/README.md) · [docket-state/](docket-state/STATE-2026-07-10.md) (NOE not on ROA as of June 21 register)
 
 [← Back to Case Root](../ROSARIO.md)
 

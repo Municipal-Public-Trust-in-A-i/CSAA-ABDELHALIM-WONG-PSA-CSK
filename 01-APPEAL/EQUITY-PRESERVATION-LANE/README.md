@@ -1,6 +1,6 @@
 # CGC-25-631801 — Equity/Extrinsic-Fraud Vacatur: Appellate-Preservation Lane
 
-> **Posture (May 12, 2026):** Following the May 12, 2026 hearing on defendants' Anti-SLAPP / special-motion practice in CGC-25-631801, this vacatur action is in **appellate-preservation posture**. The live trial-court front is **[CGC-25-631802](../../03-CASE-CGC-25-631802/INDEX.md)** (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken: MFL-TAC and CCP 436 transfer items; Dept. 302 / Quinn: anti-SLAPP, demurrer, plaintiff MTS, discovery items).
+> **Posture (July 10, 2026):** Following the May 12, 2026 hearing on defendants' Anti-SLAPP / special-motion practice in CGC-25-631801, this vacatur action is in **appellate-preservation posture**. The live trial-court front is **[CGC-25-631802](../../03-CASE-CGC-25-631802/INDEX.md)** (June 24, 2026 hearing historical; **next calendar event: September 9, 2026 CMC**).
 
 The equity action to vacate the judgment for extrinsic fraud remains the foundation of the appellate lane. This sub-hub collects the May 11 to 12, 2026 preservation filings that close out the trial-court record for purposes of the direct appeal (A173827) and any interlocutory or writ proceedings that may follow.
 

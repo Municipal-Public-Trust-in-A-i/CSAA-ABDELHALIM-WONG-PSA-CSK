@@ -1,6 +1,6 @@
-> **THIS IS THE LIVE TRIAL-COURT FRONT (as of May 12, 2026).** The equity case CGC-25-631801 is now in appellate-preservation posture; its post-May-12 materials are at [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md). All live motion practice, discovery pressure, and CCP § 425.17(c) gateway argument runs through this case.
+> **THIS IS THE LIVE TRIAL-COURT FRONT (as of July 10, 2026).** The equity case CGC-25-631801 is in appellate-preservation posture; its post-May-12 materials are at [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
 >
-> **Next hearing:** June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken: MFL-TAC and CCP 436 transfer items; Dept. 302 / Quinn: anti-SLAPP, demurrer, plaintiff MTS, discovery items).
+> **Next hearing:** September 9, 2026, 10:30 a.m., Case Management Conference (Dept. 610). June 24, 2026 consolidated hearing is historical; outcomes pending verification on fresh portal pull.
 
 # Case CGC-25-631802 — Insurance Fraud and UCL Action
 
@@ -23,16 +23,19 @@
 **Latest consolidated opposition (801 defense-court draft build):** Full PDF set — six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibit appendices, and legacy splits — is published under **[plaintiff-opposition-consolidated-apr2026/](plaintiff-opposition-consolidated-apr2026/README.md)** (synced April 18, 2026).
 
 
-**June 2026 filing hubs (NEW June 11 refresh):**
+**June 2026 filing hubs (July 2026 refresh):**
 
 | Hub | Description |
 |-----|-------------|
 | [hearing-package-may-8-2026/](hearing-package-may-8-2026/README.md) | May 8 cure batch (operative oppositions + supporting papers) |
 | [calendar-continuance-may-13-2026/](calendar-continuance-may-13-2026/README.md) | May 13 continuance to June 24 + restamp notices |
 | [june-24-cohort-2026-05-26/](june-24-cohort-2026-05-26/README.md) | May 26 four-transaction filing wave |
+| [june-15-2026-pre-hearing/](june-15-2026-pre-hearing/README.md) | June 15 pre-hearing bench brief + RJN stack (Tx 79781622) |
+| [june-16-2026-preliminary-statement/](june-16-2026-preliminary-statement/README.md) | June 16 preliminary statement (Tx 79795725) |
 | [cross-case-estoppel-june-24-2026/](cross-case-estoppel-june-24-2026/README.md) | 801 positions into 802 (14 PDFs) |
-| [cmc-july-8-2026/](cmc-july-8-2026/README.md) | July 8 CMC (Dept. 610) |
-| [docket-state/](docket-state/README.md) | Portal snapshots (May 28, 2026) |
+| [cmc-september-9-2026/](cmc-september-9-2026/README.md) | **Next CMC** (continued from July 8) |
+| [cmc-july-8-2026/](cmc-july-8-2026/README.md) | July 8 CMC hub (superseded) |
+| [docket-state/](docket-state/README.md) | Portal snapshots (July 10, 2026) |
 
 
 [← Back to Case Root](../ROSARIO.md)

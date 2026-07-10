@@ -1,4 +1,4 @@
-> **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the June 24, 2026 split-calendar hearing (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken + Dept. 302 / Quinn)) (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (July 10, 2026):** 801 portions of this document are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions reflect post-June 24 posture. **Next calendar event:** September 9, 2026 CMC (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Legal and factual spine — four proceedings
 
 This document is the **logical backbone** of the public record in this folder. It states **what each forum is**, **who appears there**, **what theories the operative papers describe**, and **which primary-source PDFs anchor those descriptions**. It does not predict outcomes.

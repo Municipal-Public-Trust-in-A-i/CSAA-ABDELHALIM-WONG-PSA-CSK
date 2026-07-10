@@ -6,9 +6,9 @@
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud, now appellate-preservation posture) · CGC-25-631802 (UCL / denial-letter fraud, live trial-court front)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** June 11, 2026 (see [What's new](#whats-new)).
+**Last refresh:** July 10, 2026 (see [What's new](#whats-new)).
 
-> **Posture (June 11, 2026):** Following May 12, 801 is in appellate-preservation posture. 801 portions are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); The live trial-court front is **CGC-25-631802**: June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken + Dept. 302 / Quinn) (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)). See [01-APPEAL/](01-APPEAL/INDEX.md).
+> **Posture (July 10, 2026):** Following May 12, 801 is in appellate-preservation posture (no NOE on June 21 register). 801 portions are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)). The live trial-court front is **CGC-25-631802** (June 24, 2026 hearing held; outcomes pending verification on fresh portal pull). **Next calendar event:** September 9, 2026 CMC (Dept. 610). See [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [ANALYSIS/JULY-2026-POSTURE.md](ANALYSIS/JULY-2026-POSTURE.md).
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## **➤ [Open the 802 case hub → 03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)**
 
-- **Next hearing:** June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken: MFL-TAC and CCP 436 transfer items; Dept. 302 / Quinn: anti-SLAPP, demurrer, plaintiff MTS, discovery items).
+- **Next hearing:** September 9, 2026, 10:30 a.m., Case Management Conference (Dept. 610 / East). June 24, 2026 consolidated hearing is historical; outcomes pending verification on fresh portal pull.
 - **Cornerstone evidence:** Feb. 25, 2021 CSAA denial letter (Sarah Rash) vs. Jan. 17, 2025 MIL 6 / 17 declarations.
 - **Theory:** pre-litigation representational fraud; B&P § 17200 (UCL); negligent misrepresentation under Civ. Code § 1710(2); *Biakanja* voluntary-undertaking duty; *Bartel* (2025) regulatory floor.
 - **Procedural shields engaged:** CCP § 425.17(c) carve-out (insurer / commercial-speech); *Moradi-Shalal* common-law carve-out.
@@ -214,6 +214,13 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 ---
 
+## What's new (July 2026)
+
+- **Site posture refresh:** June 24 hearing historical; **September 9, 2026 CMC** is next (June 10 continuance minutes, DocIDs `10260028` / `10260030`). [802 docket-state](03-CASE-CGC-25-631802/docket-state/STATE-2026-07-10.md) · [801 docket-state](02-CASE-CGC-25-631801/docket-state/STATE-2026-07-10.md).
+- **NEW hubs (802):** [June 15 pre-hearing](03-CASE-CGC-25-631802/june-15-2026-pre-hearing/README.md) · [June 16 preliminary statement](03-CASE-CGC-25-631802/june-16-2026-preliminary-statement/README.md) · [September 9 CMC](03-CASE-CGC-25-631802/cmc-september-9-2026/README.md).
+- **801 portal facts:** CMC continued to Sep 9; NOE still not on ROA (Day Zero frozen). [ROA audit July 10](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-10.md).
+- **Analysis:** [JULY-2026-POSTURE](ANALYSIS/JULY-2026-POSTURE.md).
+
 ## What's new (June 11, 2026)
 
 - **Site posture refresh:** Live front updated from May 29 consolidated setting to **June 24, 2026 split calendar** (portal pull May 28, 2026). [802 docket-state](03-CASE-CGC-25-631802/docket-state/STATE-2026-05-28.md) · [801 docket-state](02-CASE-CGC-25-631801/docket-state/STATE-2026-05-28.md).
@@ -292,26 +299,23 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 ```mermaid
 gantt
-    title May 2026 and beyond - scheduled court events
+    title July 2026 and beyond - scheduled court events
     dateFormat YYYY-MM-DD
     section CGC-25-631802 (live front)
-    SAC leave reply (Apr. 30)        :milestone, m802a, 2026-04-30, 0d
-    June 24 split-room consolidated hearing   :m802b, 2026-06-24, 1d
+    June 24 consolidated hearing (historical) :done, m802b, 2026-06-24, 1d
+    September 9 CMC (next)           :m802c, 2026-09-09, 1d
     section CGC-25-631801 (appellate-preservation)
-    SAC leave reply (May 6)          :milestone, m801a, 2026-05-06, 0d
-    Tentative ruling contested (May 12) :milestone, m801x, 2026-05-12, 0d
-    Case mgmt (May 27)               :m801b, 2026-05-27, 1d
+    May 12 anti-SLAPP grant          :done, m801x, 2026-05-12, 0d
+    September 9 CMC (next)           :m801c, 2026-09-09, 1d
     section A173827 + 801 preservation
     Appellate briefing window        :a173, 2026-04-24, 40d
 ```
 
 | Date | Case | Event | Department |
 |------|------|--------|------------|
-| Apr. 30, 2026 | CGC-25-631802 | SAC leave reply hearing | (verify on portal) |
-| May 6, 2026 | CGC-25-631801 | SAC leave reply hearing | Dept. 301 |
-| May 12, 2026 | CGC-25-631801 | Tentative ruling contested; case moves to appellate-preservation posture | [PDF hub](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md) · [Preservation lane](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md) |
-| **June 24, 2026, 9:00 a.m.** | **CGC-25-631802** | **Split-room consolidated hearing (LIVE FRONT)** | **301 + 302** |
-| May 27, 2026, 10:30 a.m. | CGC-25-631801 | Case management conference | Dept. 610 |
+| **September 9, 2026, 10:30 a.m.** | **CGC-25-631802 + 631801** | **Case Management Conference (next)** | **Dept. 610** |
+| June 24, 2026, 9:00 a.m. | CGC-25-631802 | Consolidated hearing (historical; outcomes pending verification) | 301 + 302 |
+| May 12, 2026 | CGC-25-631801 | Anti-SLAPP grant; appellate-preservation posture | [PDF hub](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md) · [Preservation lane](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md) |
 | Ongoing | A173827 + CGC-25-631801 | Appellate briefing and 801 preservation lane | First Appellate District |
 
 Confirm dates and departments on the court portal. Full table with PDF links: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md).
@@ -525,7 +529,7 @@ The central evidentiary record. The 911 call captures the driver's admission; bo
 
 **Forum:** San Francisco Superior Court
 **Theory:** CSAA's pre-litigation false denial letter (21 days post-collision); bad faith; Unfair Competition Law.
-**Next hearing:** June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken + Dept. 302 / Quinn).
+**Next hearing:** September 9, 2026, 10:30 a.m., Case Management Conference (Dept. 610).
 [Full index](03-CASE-CGC-25-631802/INDEX.md).
 
 | # | Document | PDF |
