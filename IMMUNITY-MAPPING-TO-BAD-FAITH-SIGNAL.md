@@ -149,6 +149,32 @@ When an insurer's immunity strategy is tested in California courts, courts rely 
 
 ---
 
+## Accrual vs. Admission: When the Statute of Limitations Starts
+
+> This section is plaintiff-authored analysis aligned with the delayed-discovery pleading in the institutional complaint architecture. It is not a court filing and not legal advice.
+
+The April 9, 2026 anti-SLAPP filings in CGC-25-631801 and CGC-25-631802 are **not** the statute-of-limitations start date for the empty-file / concealment wrong. They are a later **purpose confession** (party admission). The pleaded delayed-discovery accrual for that primary right remains **April 16, 2025 (Trial Day 7)**.
+
+California delayed discovery for fraud / concealment (Code of Civil Procedure section 338(d); *Fox v. Ethicon Endo-Surgery, Inc.* (2005) 35 Cal.4th 797, 807; *Jolly v. Eli Lilly & Co.* (1988) 44 Cal.3d 1103, 1109-1111; *Bernson v. Browning-Ferris Industries* (1994) 7 Cal.4th 926, 931) asks when the claimant knew, or with reasonable diligence should have known, the **facts constituting the fraud**. It does not ask when the defendant later wrote a helpful sentence in a brief.
+
+| Date | What happened | SOL / evidence role |
+| --- | --- | --- |
+| **Feb. 25, 2021** | Denial letter: investigation “concluded,” insured not liable, $0 | Injury / event date. Claimant knew of the **denial**, not that the claim file was empty or that CSAA’s purpose was litigation opening. |
+| **Jan. 17, 2025** | MIL Nos. 6 / 17 (nonproduction / “no idea where” 911 came from) | Corroboration / suspicion color. Not the empty-claim-file discovery treated as accrual. |
+| **April 16, 2025 (Day 7)** | “Provided by Dolan…” + empty SFPD return | **Pleaded accrual.** First time the record reveals the materials were not in CSAA’s claim-period file at certification. |
+| **April 9, 2026** | 801 / 802 anti-SLAPP MPAs: “anticipation of litigation,” insured-only review, duty join | **Admission / estoppel evidence**, not first discovery of the wrong. |
+
+Knowledge that Silent-Witness Materials **existed** is not the same as knowledge that CSAA’s **claim file lacked them** at the February 25, 2021 certification. Accrual for concealment is April 16, 2025. Under CCP section 338(d), the three-year fraud period runs from that date. Even an arguendo February 2024 start still lands inside February 2027.
+
+Half of the intuition about the immunity filings is right; half is inverted. Until CSAA filed the 802 memorandum saying the prompt denial was “protected conduct in anticipation of litigation,” the claimant did not have CSAA’s institutional **purpose confession** in writing. That sentence is powerful under Evidence Code section 1220 and *Aguilar*. But the **violation** (adversarial / incomplete investigation closing the file) allegedly occurred in **February 2021**. The rights injury for concealment is nondisclosure of empty-file state, discovered when Day 7 showed the materials arrived through Dolan / discovery channels, not through a claim-window investigation. The April 2026 briefs do **not** create the tort. They **describe** the tort’s purpose after suit was already filed.
+
+**Do not tell a court:** “SOL started when they filed anti-SLAPP.”  
+**Do tell a court:** “SOL for concealment started when Day 7 revealed the empty claim-period file; the later immunity briefs are CSAA’s admission that day 21 was already litigation footing, which proves purpose and bars a neutral-investigation rewrite under *Aguilar* / *Wilson*.”
+
+Related record: [Trial Day 7 PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-07-April-16-2025.pdf) · [MERITS.md](MERITS.md) · [802 case hub](03-CASE-CGC-25-631802/INDEX.md).
+
+---
+
 ## Conclusion: Purpose as the Unforgiving Metric
 
 When an insurance company reaches for immunity, it assumes it is selecting a harmless legal shield to achieve a quick dismissal. In reality, under California civil law, it elects its own institutional purpose.
