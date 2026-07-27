@@ -46,7 +46,7 @@ A single table with links to PDFs in this repository: [`HEARINGS-CALENDAR.md`](H
 
 ## 6. Which lane fits which firm (non-exclusive)
 
-- **Bad faith / *Prentice* / B&P 17200 / UCL (carrier-only caption):** **CGC-25-631802** index [`03-CASE-CGC-25-631802/INDEX.md`](03-CASE-CGC-25-631802/INDEX.md). Long-form customer-status / § 425.17(c) analytical memorandum: [ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md](ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md).  
+- **Bad faith / *Prentice* / B&P 17200 / UCL (carrier-only caption):** **CGC-25-631802** index [`03-CASE-CGC-25-631802/INDEX.md`](03-CASE-CGC-25-631802/INDEX.md). Long-form customer-status / § 425.17(c) analytical memorandum: [ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md](ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md). Immunity-purpose confession narrative: [IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md).  
 - **Equity, extrinsic fraud, attorney conduct, B&P 6128(a):** **CGC-25-631801** index [`02-CASE-CGC-25-631801/INDEX.md`](02-CASE-CGC-25-631801/INDEX.md).  
 - **Appellate instructional / evidentiary / Cassim / CCP 614 / Evid. Code 451(a) channels:** **A173827** index [`01-APPEAL/INDEX.md`](01-APPEAL/INDEX.md).  
 - **Post-May-12 801 scaffold (objections, tolling motions, notice of appeal):** [`01-APPEAL/POST-MAY-12-FILING-STACK/README.md`](01-APPEAL/POST-MAY-12-FILING-STACK/README.md) (verify filing status on the portal).  

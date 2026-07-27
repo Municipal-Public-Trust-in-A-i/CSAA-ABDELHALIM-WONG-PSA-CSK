@@ -1,6 +1,7 @@
-> **THIS IS THE LIVE TRIAL-COURT FRONT (as of July 10, 2026).** The equity case CGC-25-631801 is in appellate-preservation posture; its post-May-12 materials are at [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
+> **THIS IS THE LIVE TRIAL-COURT FRONT (as of July 22, 2026).** The equity case CGC-25-631801 is in appellate-preservation posture; its post-May-12 materials are at [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
 >
-> **Next hearing:** September 9, 2026, 10:30 a.m., Case Management Conference (Dept. 610). June 24, 2026 consolidated hearing is historical; outcomes pending verification on fresh portal pull.
+> **Active fight:** August 26, 2026, 9:00 a.m., Dept. 302 (CCP § 391 / vexatious litigant). Hub: [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md).
+> **Next CMC:** September 9, 2026, 10:30 a.m., Dept. 610. July 1, 2026 order is limited anti-SLAPP / FAC strike practice, not empty-file merits adjudication.
 
 # Case CGC-25-631802 — Insurance Fraud and UCL Action
 
@@ -23,10 +24,11 @@
 **Latest consolidated opposition (801 defense-court draft build):** Full PDF set — six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibit appendices, and legacy splits — is published under **[plaintiff-opposition-consolidated-apr2026/](plaintiff-opposition-consolidated-apr2026/README.md)** (synced April 18, 2026).
 
 
-**June 2026 filing hubs (July 2026 refresh):**
+**June / July / August 2026 filing hubs:**
 
 | Hub | Description |
 |-----|-------------|
+| [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md) | **ACTIVE:** Aug 26 § 391 opposition (14 plaintiff + 6 defense PDFs); Tx TBD |
 | [hearing-package-may-8-2026/](hearing-package-may-8-2026/README.md) | May 8 cure batch (operative oppositions + supporting papers) |
 | [calendar-continuance-may-13-2026/](calendar-continuance-may-13-2026/README.md) | May 13 continuance to June 24 + restamp notices |
 | [june-24-cohort-2026-05-26/](june-24-cohort-2026-05-26/README.md) | May 26 four-transaction filing wave |

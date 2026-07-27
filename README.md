@@ -6,9 +6,9 @@
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud, now appellate-preservation posture) · CGC-25-631802 (UCL / denial-letter fraud, live trial-court front)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** July 10, 2026 (see [What's new](#whats-new)).
+**Last refresh:** July 27, 2026 (see [What's new](#whats-new)).
 
-> **Posture (July 10, 2026):** Following May 12, 801 is in appellate-preservation posture (no NOE on June 21 register). 801 portions are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)). The live trial-court front is **CGC-25-631802** (June 24, 2026 hearing held; outcomes pending verification on fresh portal pull). **Next calendar event:** September 9, 2026 CMC (Dept. 610). See [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [ANALYSIS/JULY-2026-POSTURE.md](ANALYSIS/JULY-2026-POSTURE.md).
+> **Posture (July 22, 2026):** Following May 12, 801 is in appellate-preservation posture (no NOE on June 21 register). 801 portions are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)). The live trial-court front is **CGC-25-631802**. **Active fight:** August 26, 2026, 9:00 a.m., Dept. 302 (section 391 / vexatious-litigant motion). July 1, 2026 order is limited anti-SLAPP / FAC strike practice, **not** empty-file merits adjudication. **Next CMC:** September 9, 2026 (Dept. 610). See [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [vexatious-opposition-aug26-2026/](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [ANALYSIS/AUG-2026-POSTURE.md](ANALYSIS/AUG-2026-POSTURE.md).
 
 ---
 
@@ -16,15 +16,32 @@
 
 ## **➤ [Open the 802 case hub → 03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)**
 
-- **Next hearing:** September 9, 2026, 10:30 a.m., Case Management Conference (Dept. 610 / East). June 24, 2026 consolidated hearing is historical; outcomes pending verification on fresh portal pull.
+- **Active fight:** August 26, 2026, 9:00 a.m., Dept. 302: opposition to defense section 391 (vexatious litigant) motion. Hub: [vexatious-opposition-aug26-2026/](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [PUBLIC-SYNOPSIS](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md).
+- **Next CMC:** September 9, 2026, 10:30 a.m., Case Management Conference (Dept. 610 / East).
+- **July 1 characterization:** Limited anti-SLAPP / FAC strike practice; **not** empty-file merits adjudication.
 - **Cornerstone evidence:** Feb. 25, 2021 CSAA denial letter (Sarah Rash) vs. Jan. 17, 2025 MIL 6 / 17 declarations.
 - **Theory:** pre-litigation representational fraud; B&P § 17200 (UCL); negligent misrepresentation under Civ. Code § 1710(2); *Biakanja* voluntary-undertaking duty; *Bartel* (2025) regulatory floor.
 - **Procedural shields engaged:** CCP § 425.17(c) carve-out (insurer / commercial-speech); *Moradi-Shalal* common-law carve-out.
 
-Most recent 802 filings (court-filed):
+Most recent 802 filings:
+- [**Aug 26 section 391 opposition hub** (operative serve set; Tx TBD)](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)
 - [Court e-filed Apr. 28 to 29 wave (six SFTC transactions, 35 served titles)](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md)
 - [Clerk filing build Apr. 28 (DOCUSERV mirror, 99 PDFs)](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md)
 - [Cross-hearing § 425.17(c) stack (Apr. 30)](03-CASE-CGC-25-631802/cross-hearing-42517-apr30-2026/README.md)
+
+---
+
+# **IMMUNITY MAPPING → BAD-FAITH SIGNAL**
+
+## **➤ [Read the full narrative → IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md)**
+
+**How reaching for litigation privilege / anti-SLAPP “anticipation of litigation” becomes a purpose confession under California Fair Claims standards.** Two inline flowcharts map the core contradiction (adversarial posture vs. thorough / fair / objective investigation) and the adverse-inference cascade (purpose admission, *Action Apartment* overclaim, regulatory laundering → judicial estoppel / *Wilson* bar / concealment).
+
+**Spine:** day-21 denial as “anticipation of litigation”; 10 CCR § 2695.7(d) objectivity; *Action Apartment* privilege predicate; *Wilson* contemporaneous-file rule; *Egan* one-sided investigation; *Aguilar* judicial estoppel; Ins. Code § 790.03 / Fair Claims as **standard of care only** (*Moradi-Shalal* / *Zhang*).
+
+**Companion to:** [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md) · [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md) · [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) · [MERITS.md](MERITS.md).
+
+### **➤ [Open IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md and read the full narrative](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md)**
 
 ---
 
@@ -119,7 +136,7 @@ CSAA’s liability arises from its affirmative representation that a competent i
 
 **Spine:** § 425.17(c) as threshold bar; thirteen-row maneuver-to-consequence ledger; discovery stay backfire under [§ 425.16(g)](CASE-LAW-AND-STATUTES/statutes-cal/CCP-425.16.md); conscription of the claim record; omitted controlling authorities and candor toward the tribunal; the reply maneuver and page-cap counter-trap; deem-admit and compel as independent channels; reply declaration and § 1005 trap.
 
-**Companion to:** [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) (doctrinal off-ramps walkthrough) · [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md) (strategic-memo voice) · [MERITS.md](MERITS.md) (TAC-aligned merits statement).
+**Companion to:** [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) (doctrinal off-ramps walkthrough) · [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md) (strategic-memo voice) · [IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md) (anticipation-of-litigation → purpose confession) · [MERITS.md](MERITS.md) (TAC-aligned merits statement).
 
 ### **➤ [Open ANTI-SLAPP-CONSEQUENCE-RADIUS.md and read the full narrative](ANTI-SLAPP-CONSEQUENCE-RADIUS.md)**
 
@@ -136,6 +153,8 @@ California’s special motion to strike under CCP § 425.16 is a two-step burden
 **→ [Read the full doctrinal walkthrough → ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md)**
 
 **→ [Strategic memo: delay-tactic immunity gambit (801 / 802) → STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md):** CCP § 425.17(c) gateway, § 425.17(e) and appellate leverage, two-layer immunity rhetoric (Layer A / B), per-case catalogs, and Tracks 1–3 case-management readout (plaintiff-authored narrative; not a court filing).
+
+**→ [Immunity mapping to bad-faith signal → IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md):** How “anticipation of litigation” becomes a purpose confession under 10 CCR § 2695.7(d), *Action Apartment*, *Wilson*, and *Aguilar*; two flowcharts (claims-handling contradiction + adverse-inference cascade) (plaintiff-authored narrative; not a court filing).
 
 ---
 
@@ -204,7 +223,7 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 **Where do I start (quick links)?**
 
-- Live trial-court motion practice (June 24, 2026 split calendar) → [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)
+- Live trial-court motion practice (Aug 26 section 391; Sep 9 CMC) → [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)
 - Appellate review (A173827 + 801 preservation + post-May-12 stack) → [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md) · [POST-MAY-12-FILING-STACK](01-APPEAL/POST-MAY-12-FILING-STACK/README.md)
 - Cross-case theory / leverage / risk → [MERITS.md](MERITS.md) · [RISK-SURFACE.md](RISK-SURFACE.md)
 
@@ -213,6 +232,17 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 **Big-picture analytical writing already on this site:** [ANALYSIS/README.md](ANALYSIS/README.md) · [CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md) · [CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md](CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) · [CONTRADICTION-LETTER.md](CONTRADICTION-LETTER.md) · [SPINE.md](SPINE.md) · [BOOK-OUTLINE.md](BOOK-OUTLINE.md) (every Markdown file on the site).
 
 ---
+
+## What's new (July 27, 2026)
+
+- **NEW featured narrative:** [IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md) - how reaching for litigation privilege / anti-SLAPP “anticipation of litigation” maps into a Fair Claims / *Egan* / *Wilson* purpose confession. Inline Figures 1-2: [claims-handling contradiction](assets/immunity-claims-handling-strategy.png) · [adverse-inference cascade](assets/immunity-anti-slapp-cascade.png). Companion to [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md) and [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md).
+
+## What's new (July 22, 2026)
+
+- **NEW hub (802):** [Opposition to vexatious-litigant motion (Aug 26)](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) - 14 plaintiff PDFs + 6 defense PDFs; [PUBLIC-SYNOPSIS](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md). Portal Tx / DocIDs TBD after e-file.
+- **Active fight:** August 26, 2026, 9:00 a.m., Dept. 302 (CCP § 391). **Next CMC** remains September 9, 2026 (Dept. 610).
+- **July 1 order:** Limited anti-SLAPP / FAC strike; not empty-file merits adjudication.
+- **Analysis:** [AUG-2026-POSTURE](ANALYSIS/AUG-2026-POSTURE.md) (current) · [JULY-2026-POSTURE](ANALYSIS/JULY-2026-POSTURE.md) (prior).
 
 ## What's new (July 2026)
 
@@ -303,7 +333,8 @@ gantt
     dateFormat YYYY-MM-DD
     section CGC-25-631802 (live front)
     June 24 consolidated hearing (historical) :done, m802b, 2026-06-24, 1d
-    September 9 CMC (next)           :m802c, 2026-09-09, 1d
+    August 26 section 391 hearing (active) :crit, m802a, 2026-08-26, 1d
+    September 9 CMC (next CMC)       :m802c, 2026-09-09, 1d
     section CGC-25-631801 (appellate-preservation)
     May 12 anti-SLAPP grant          :done, m801x, 2026-05-12, 0d
     September 9 CMC (next)           :m801c, 2026-09-09, 1d
@@ -313,7 +344,8 @@ gantt
 
 | Date | Case | Event | Department |
 |------|------|--------|------------|
-| **September 9, 2026, 10:30 a.m.** | **CGC-25-631802 + 631801** | **Case Management Conference (next)** | **Dept. 610** |
+| **August 26, 2026, 9:00 a.m.** | **CGC-25-631802** | **Section 391 / vexatious-litigant hearing (active fight)** | **Dept. 302** |
+| **September 9, 2026, 10:30 a.m.** | **CGC-25-631802 + 631801** | **Case Management Conference (next CMC)** | **Dept. 610** |
 | June 24, 2026, 9:00 a.m. | CGC-25-631802 | Consolidated hearing (historical; outcomes pending verification) | 301 + 302 |
 | May 12, 2026 | CGC-25-631801 | Anti-SLAPP grant; appellate-preservation posture | [PDF hub](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md) · [Preservation lane](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md) |
 | Ongoing | A173827 + CGC-25-631801 | Appellate briefing and 801 preservation lane | First Appellate District |
@@ -529,8 +561,8 @@ The central evidentiary record. The 911 call captures the driver's admission; bo
 
 **Forum:** San Francisco Superior Court
 **Theory:** CSAA's pre-litigation false denial letter (21 days post-collision); bad faith; Unfair Competition Law.
-**Next hearing:** September 9, 2026, 10:30 a.m., Case Management Conference (Dept. 610).
-[Full index](03-CASE-CGC-25-631802/INDEX.md).
+**Active fight:** August 26, 2026, 9:00 a.m., Dept. 302 (section 391). **Next CMC:** September 9, 2026, 10:30 a.m., Dept. 610.
+[Full index](03-CASE-CGC-25-631802/INDEX.md) · [Aug 26 opposition hub](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md).
 
 | # | Document | PDF |
 |---|----------|-----|
@@ -679,8 +711,10 @@ The story of how one brain-injured plaintiff, proceeding alone against a multi-b
 ├── README.md                         (this file: main navigation)
 ├── README.LEGACY.md                  (older index, kept for diffs)
 ├── MERITS.md                         (TAC-aligned merits statement + implications)
+├── IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md (anticipation-of-litigation → purpose confession; 2 flowcharts)
 ├── ANTI-SLAPP-OFF-RAMPS.md           (CCP § 425.16 / § 425.17 off-ramps; 801 vs. 802)
 ├── STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md (425.17(c)/(e); immunity-as-delay narrative)
+├── assets/                           (homepage narrative figures, incl. immunity flowcharts)
 ├── MERITS-EXHIBITS/                  (3 cornerstone PDFs + 2 certified TAC PDFs)
 ├── FOR-ATTORNEYS.md                  (intake cover for California counsel)
 ├── CASE-DOSSIER.md                   (30-minute deep read)

@@ -1,4 +1,4 @@
-> **Posture (July 10, 2026):** 801 portions of this document are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions reflect post-June 24 posture. **Next calendar event:** September 9, 2026 CMC (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (July 22, 2026):** 801 portions of this document are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions reflect the live trial-court front. **Active fight:** August 26, 2026 section 391 hearing (Dept. 302). **Next CMC:** September 9, 2026 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)).
 # Legal and factual spine — four proceedings
 
 This document is the **logical backbone** of the public record in this folder. It states **what each forum is**, **who appears there**, **what theories the operative papers describe**, and **which primary-source PDFs anchor those descriptions**. It does not predict outcomes.
@@ -198,9 +198,9 @@ Both post-trial superior court actions include **notice of related cases** and *
 
 ---
 
-## 16. June 2026 hearing dates (portal pull May 28, 2026)
+## 16. August / September 2026 hearing dates
 
-The **631802** live calendar shows a **June 24, 2026, 9:00 a.m.** split-room consolidated hearing (continued from the May 29 setting). **July 8, 2026 CMC** is in Department 610 for both cases. See [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md) and [802 docket-state](03-CASE-CGC-25-631802/docket-state/STATE-2026-05-28.md).
+The **631802** live calendar shows an **August 26, 2026, 9:00 a.m.** section 391 (vexatious litigant) hearing in Dept. 302 (opposition hub: [vexatious-opposition-aug26-2026/](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)). **September 9, 2026 CMC** is in Department 610 for both cases. June 24, 2026 consolidated hearing is historical. See [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md) and [ANALYSIS/AUG-2026-POSTURE.md](ANALYSIS/AUG-2026-POSTURE.md).
 
 ---
 
