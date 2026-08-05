@@ -1,19 +1,21 @@
 # Hearings and deadlines
 
-> **Posture (July 22, 2026):** CGC-25-631802 is the **live trial-court front**. **Active fight:** August 26, 2026, 9:00 a.m., Dept. 302 (CCP § 391 / vexatious litigant). **Next CMC:** September 9, 2026, 10:30 a.m., Dept. 610. CGC-25-631801 remains in **appellate-preservation posture**. Post-May-12 801 materials at [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
+> **Posture (July 27, 2026):** CGC-25-631802 is the **live trial-court front**. **Active fight:** August 26, 2026, 9:00 a.m., Dept. 302 (CCP § 391 / vexatious litigant **and** CCP 425.16(c) fees). **801 reconsideration:** July 31, 2026 (continued from July 15; court: premature). **Next CMC:** September 9, 2026, 10:30 a.m., Dept. 610. CGC-25-631801 remains in **appellate-preservation posture**. Post-May-12 801 materials at [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
 
 **Not legal advice.** Confirm dates and departments on the court portal. Links below go to this repository's PDFs and indices where mirrored.
 
 | Date | Case | Event | Key papers in this site |
 |------|------|--------|-------------------------|
-| **August 26, 2026, 9:00 a.m.** | **CGC-25-631802 (ACTIVE FIGHT)** | Section 391 / vexatious-litigant hearing (Dept. 302) | [Aug 26 opposition hub](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [PUBLIC-SYNOPSIS](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md) |
+| **July 31, 2026** | **CGC-25-631801** | Motion for reconsideration of May 12 anti-SLAPP order (continued from July 15) | [801 docket-state](02-CASE-CGC-25-631801/docket-state/STATE-2026-07-27.md) · [ROA audit](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-27.md) |
+| **August 26, 2026, 9:00 a.m.** | **CGC-25-631802 (ACTIVE FIGHT)** | Section 391 / vexatious-litigant hearing **and** CCP 425.16(c) fees motion (Dept. 302) | [802 docket-state](03-CASE-CGC-25-631802/docket-state/STATE-2026-07-27.md) · [Aug 26 opposition hub](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [PUBLIC-SYNOPSIS](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md) |
 | **September 9, 2026, 10:30 a.m.** | **CGC-25-631802 + 631801** | Case Management Conference (Dept. 610) | [802 CMC](03-CASE-CGC-25-631802/cmc-september-9-2026/README.md) · [801 CMC](02-CASE-CGC-25-631801/cmc-september-9-2026/README.md) |
+| July 15, 2026, 9:00 a.m. | CGC-25-631801 | Reconsideration continued to July 31 (premature) | [801 ROA audit](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-27.md) |
 | June 24, 2026, 9:00 a.m. | CGC-25-631802 | Split-room consolidated hearing (historical) | [631802 index](03-CASE-CGC-25-631802/INDEX.md) · [June 24 cohort](03-CASE-CGC-25-631802/june-24-cohort-2026-05-26/README.md) |
 | June 11, 2026, 9:00 a.m. | CGC-25-631802 | Motion to Deem Admitted / Compel / Sanctions (historical) | [631802 docket-state](03-CASE-CGC-25-631802/docket-state/STATE-2026-07-10.md) |
 | July 8, 2026, 10:30 a.m. | CGC-25-631802 + 631801 | CMC continued to Sep 9 | [802 CMC hub](03-CASE-CGC-25-631802/cmc-july-8-2026/README.md) · [801 CMC](02-CASE-CGC-25-631801/cmc-july-8-2026/README.md) |
 | May 12, 2026 | **CGC-25-631801** | Anti-SLAPP grant; appellate-preservation posture | [May 12 archive](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md) |
-| May 15, 2026 | **CGC-25-631801** | Discovery motion denied (portal) | [801 docket-state](02-CASE-CGC-25-631801/docket-state/STATE-2026-07-10.md) |
-| May 22, 2026 | **CGC-25-631801** | CCP 436 MTS off calendar / withdrawn | [801 ROA audit](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-10.md) |
+| May 15, 2026 | **CGC-25-631801** | Discovery motion denied (portal) | [801 docket-state](02-CASE-CGC-25-631801/docket-state/STATE-2026-07-27.md) |
+| May 22, 2026 | **CGC-25-631801** | CCP 436 MTS off calendar / withdrawn | [801 ROA audit](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-27.md) |
 | *Historical* | **CGC-25-631802** | Continued from May 29, 2026 setting to June 24 | [May 13 continuance hub](03-CASE-CGC-25-631802/calendar-continuance-may-13-2026/README.md) |
 | Ongoing | **A173827 + CGC-25-631801** | Appellate briefing and preservation lane | [Appeal index](01-APPEAL/INDEX.md) |
 

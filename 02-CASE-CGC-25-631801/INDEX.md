@@ -10,7 +10,7 @@
 
 **Last synced (standalone PDFs):** March 28, 2026 from `CGC-25-631801-MASTER/FINAL-PDF/`. Bundled exhibit PDFs in this folder were not replaced.
 
-**Calendar / docket:** [cmc-september-9-2026/](cmc-september-9-2026/README.md) · [docket-state/](docket-state/STATE-2026-07-10.md) (NOE not on ROA as of June 21 register)
+**Calendar / docket:** [cmc-september-9-2026/](cmc-september-9-2026/README.md) · [docket-state/](docket-state/STATE-2026-07-27.md) (recon July 31; NOE not on ROA as of July 27 paste)
 
 ---
 

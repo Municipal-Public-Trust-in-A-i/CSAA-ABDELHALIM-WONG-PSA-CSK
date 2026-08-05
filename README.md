@@ -246,9 +246,10 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 ## What's new (July 2026)
 
-- **Site posture refresh:** June 24 hearing historical; **September 9, 2026 CMC** is next (June 10 continuance minutes, DocIDs `10260028` / `10260030`). [802 docket-state](03-CASE-CGC-25-631802/docket-state/STATE-2026-07-10.md) · [801 docket-state](02-CASE-CGC-25-631801/docket-state/STATE-2026-07-10.md).
+- **Site posture refresh:** June 24 hearing historical; **802 July 1 anti-SLAPP grant confirmed**; **Aug 26 Dept 302** (fees + vexatious); **801 reconsideration July 31**; **September 9 CMC**. [802 docket-state](03-CASE-CGC-25-631802/docket-state/STATE-2026-07-27.md) · [801 docket-state](02-CASE-CGC-25-631801/docket-state/STATE-2026-07-27.md).
 - **NEW hubs (802):** [June 15 pre-hearing](03-CASE-CGC-25-631802/june-15-2026-pre-hearing/README.md) · [June 16 preliminary statement](03-CASE-CGC-25-631802/june-16-2026-preliminary-statement/README.md) · [September 9 CMC](03-CASE-CGC-25-631802/cmc-september-9-2026/README.md).
-- **801 portal facts:** CMC continued to Sep 9; NOE still not on ROA (Day Zero frozen). [ROA audit July 10](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-10.md).
+- **801 portal facts (July 27 paste):** Recon continued to July 31 (premature); defense opp + plaintiff reply on ROA; defense proposed-order packaging (Tx `80059270` / `80082937`); NOE still not on ROA (Day Zero frozen). [ROA audit July 27](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-27.md).
+- **802 portal facts (July 27 paste):** July 1 order granting special motion to strike on ROA; fees motion Tx `80070231` and vexatious motion Tx `80094857` set Aug 26 Dept 302; plaintiff opp waves Tx `80094866` / `80105728`. [ROA audit July 27](03-CASE-CGC-25-631802/docket-state/ROA-AUDIT-2026-07-27.md).
 - **Analysis:** [JULY-2026-POSTURE](ANALYSIS/JULY-2026-POSTURE.md).
 
 ## What's new (June 11, 2026)

@@ -1,7 +1,7 @@
 # July 2026 posture (public milestones)
 
-**As of:** July 10, 2026
-**Source:** June 21, 2026 register export (interim; fresh portal pull pending SessionID)
+**As of:** July 27, 2026
+**Source:** July 27, 2026 portal Register of Actions text pastes (801 and 802); SessionID GetROA still needed for DocID/PDF harvest
 
 Neutral, minute-based summary of what the court docket shows. Not legal advice.
 
@@ -11,13 +11,17 @@ Neutral, minute-based summary of what the court docket shows. Not legal advice.
 
 | Milestone | Docket status |
 |-----------|---------------|
-| June 11, 2026 discovery hearing | Minutes-only on June 21 register; outcome PDF not posted |
-| June 24, 2026 consolidated hearing | **Outcome pending verification**; no June 24 outcome minutes on June 21 register |
-| June 15–16 pre-hearing filings | Court-filed; mirrored at [june-15 hub](../03-CASE-CGC-25-631802/june-15-2026-pre-hearing/README.md) and [june-16 hub](../03-CASE-CGC-25-631802/june-16-2026-preliminary-statement/README.md) |
+| June 11, 2026 discovery hearing | Transferred / later moot per July 1 minutes |
+| June 24, 2026 consolidated hearing | Argued and taken under submission; outcomes entered July 1 |
+| July 1, 2026 order | **Anti-SLAPP granted**; demurrer moot; leave TAC denied; sanctions/compel denied; certificate of service by mail filed |
+| Fees motion (CCP 425.16(c)) | Noticed July 17 (Tx `80070231`); hearing **Aug 26, 2026, 9:00 a.m., Dept. 302** |
+| Vexatious litigant / security | Noticed July 21 (Tx `80094857`); hearing **Aug 26, 2026, 9:00 a.m., Dept. 302** |
+| Plaintiff opposition | July 21 Tx `80094866`; July 22 operative updates Tx `80105728` |
 | CMC July 8 → September 9 | **Continued** per June 10 minutes (DocIDs `10260028` / `10260030`) |
-| Next calendar event | **September 9, 2026, 10:30 a.m., Dept. 610** |
+| Next L&M | **August 26, 2026, Dept. 302** (fees + vexatious) |
+| Next CMC | **September 9, 2026, 10:30 a.m., Dept. 610** |
 
-**Docket state:** [802 STATE-2026-07-10](../03-CASE-CGC-25-631802/docket-state/STATE-2026-07-10.md)
+**Docket state:** [802 STATE-2026-07-27](../03-CASE-CGC-25-631802/docket-state/STATE-2026-07-27.md) · [ROA-AUDIT-2026-07-27](../03-CASE-CGC-25-631802/docket-state/ROA-AUDIT-2026-07-27.md)
 
 ---
 
@@ -25,13 +29,15 @@ Neutral, minute-based summary of what the court docket shows. Not legal advice.
 
 | Milestone | Docket status |
 |-----------|---------------|
-| Day Zero (NOE) | **Not triggered**; no notice of entry on June 21 register |
-| May 12 anti-SLAPP grant | On ROA; proposed order not filed through June 21 |
-| May 15 discovery denial | On ROA; proposed order not filed through June 21 |
+| Day Zero (NOE) | **Not triggered**; no notice of entry on July 27 paste |
+| May 12 anti-SLAPP grant | On ROA; defense proposed-order packaging filed July 16 / July 20 (Tx `80059270`, `80082937`); no NOE |
+| May 15 discovery denial | On ROA; proposed order not filed through July 27 |
+| Reconsideration | Noticed June 22; July 15 hearing **continued to July 31, 2026** (court: premature); defense opp July 22; plaintiff reply July 23 |
 | CMC July 8 → September 9 | **Continued** per June 10 minute (DocID `10260028`) |
-| Next calendar event | **September 9, 2026, 10:30 a.m., Dept. 610** |
+| Next L&M event | **July 31, 2026 reconsideration** |
+| Next CMC | **September 9, 2026, 10:30 a.m., Dept. 610** |
 
-**Docket state:** [801 STATE-2026-07-10](../02-CASE-CGC-25-631801/docket-state/STATE-2026-07-10.md) · [ROA-AUDIT-2026-07-10](../02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-10.md)
+**Docket state:** [801 STATE-2026-07-27](../02-CASE-CGC-25-631801/docket-state/STATE-2026-07-27.md) · [ROA-AUDIT-2026-07-27](../02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-27.md)
 
 ---
 

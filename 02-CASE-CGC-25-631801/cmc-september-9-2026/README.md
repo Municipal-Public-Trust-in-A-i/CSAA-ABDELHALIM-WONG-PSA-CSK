@@ -15,6 +15,6 @@
 
 **Prior July 8 hub (historical):** [cmc-july-8-2026](../cmc-july-8-2026/README.md)
 **802 mirror:** [cmc-september-9-2026](../../03-CASE-CGC-25-631802/cmc-september-9-2026/README.md)
-**Docket state:** [STATE-2026-07-10](../docket-state/STATE-2026-07-10.md)
+**Docket state:** [STATE-2026-07-27](../docket-state/STATE-2026-07-27.md)
 
 [← 801 index](../INDEX.md)

@@ -37,7 +37,7 @@
 | [cross-case-estoppel-june-24-2026/](cross-case-estoppel-june-24-2026/README.md) | 801 positions into 802 (14 PDFs) |
 | [cmc-september-9-2026/](cmc-september-9-2026/README.md) | **Next CMC** (continued from July 8) |
 | [cmc-july-8-2026/](cmc-july-8-2026/README.md) | July 8 CMC hub (superseded) |
-| [docket-state/](docket-state/README.md) | Portal snapshots (July 10, 2026) |
+| [docket-state/](docket-state/STATE-2026-07-27.md) | Portal snapshots (July 27, 2026; Aug 26 fees + vexatious) |
 
 ---
 

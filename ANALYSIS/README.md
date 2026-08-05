@@ -13,6 +13,12 @@ This folder collects **long-form analytical memoranda** and links to related nar
 | [JULY-2026-POSTURE.md](JULY-2026-POSTURE.md) | Prior July 10, 2026 public posture (docket milestones only) |
 | [AUG-2026-POSTURE.md](AUG-2026-POSTURE.md) | **Current** July 22, 2026 public posture (Aug 26 § 391 + Sep 9 CMC) |
 
+## Workspace strategic analysis (not duplicated here)
+
+| File | Description |
+|------|-------------|
+| [09-DEFENSE-CONTINUUM-EMPTY-FILE-NON-ELECTION.md](../../STRATEGIC/09-DEFENSE-CONTINUUM-EMPTY-FILE-NON-ELECTION.md) | July 30, 2026: defense continuum from pleadings alone + Porter Scott Yes/No/Deny election chart (empty-file non-election) |
+
 ## Workspace cross-links
 
 - [801-APPEAL STRATEGIC-TACTICAL-PLEADINGS-MEMO-2026-05-19.md](../../801-APPEAL/STRATEGIC-TACTICAL-PLEADINGS-MEMO-2026-05-19.md)
@@ -37,7 +43,7 @@ This folder collects **long-form analytical memoranda** and links to related nar
 | Field | Value |
 |-------|-------|
 | Created | 2026-07-10 |
-| Last updated | 2026-07-27 |
+| Last updated | 2026-07-30 |
 | Last author | soltrinox |
 | Version | `216d319` (rev 3) |
 | Repository | GITHUB-PAGE |
