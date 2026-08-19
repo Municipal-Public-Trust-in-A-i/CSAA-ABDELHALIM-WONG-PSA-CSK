@@ -1,0 +1,16 @@
+{
+  "original_filename": "189__2026-07-23__plaintiff__dec-toc__declaration-of-compliance-crc-2-256-3-1110-transaction-id-80.pdf",
+  "normalized_stem": "DECLARATION OF COMPLIANCE (CRC 2.256 - 3.1110) (TRANSACTION ID # 80112107) FILED BY PLAINTIFF ROSARIO, FRANCISCUS DYLAN",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-07-23",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "dec-toc",
+  "motion_family": "mfl-sac",
+  "transaction_id": "80112107",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=B98DCF5AAA96E782D9AE8ED5D632A76913396B9D&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10335262%26Timestamp%3D20260810095929%26Digest%3D27f832a55649f3bb32c21358662f8bde2d9ebed1",
+  "sha256": "180cfea1b57c660fa4a743c14d818cc88e4e8ec7cba591ce493a1eed04d7bb48",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "189",
+  "docid": "10335262",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631801/2026-07-23__dec-toc__dec-toc-mfl-sac-declaration-of-compliance-crc-2-256-3-1110-transaction-id-80/189__2026-07-23__plaintiff__dec-toc__declaration-of-compliance-crc-2-256-3-1110-transaction-id-80.pdf"
+}

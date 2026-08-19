@@ -11,18 +11,20 @@ This folder collects **long-form analytical memoranda** and links to related nar
 | [802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md](802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md) | May 14, 2026 memorandum on customer status, CCP § 425.17(c), Insurance Code / Title 10 regulatory floor, and third-party standing (802) |
 | [JUNE-2026-RUNWAY.md](JUNE-2026-RUNWAY.md) | June 11, 2026 attorney-facing runway (Summer 2026 outline + milestone table) |
 | [JULY-2026-POSTURE.md](JULY-2026-POSTURE.md) | Prior July 10, 2026 public posture (docket milestones only) |
-| [AUG-2026-POSTURE.md](AUG-2026-POSTURE.md) | **Current** July 22, 2026 public posture (Aug 26 § 391 + Sep 9 CMC) |
+| [AUG-2026-POSTURE.md](AUG-2026-POSTURE.md) | **Current** Aug 14, 2026 public posture (dual NOAs + stay notices + fee oppositions). Hubs: [802 Aug 14](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 Aug 14](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) |
 
 ## Workspace strategic analysis (not duplicated here)
 
 | File | Description |
 |------|-------------|
 | [09-DEFENSE-CONTINUUM-EMPTY-FILE-NON-ELECTION.md](../../STRATEGIC/09-DEFENSE-CONTINUUM-EMPTY-FILE-NON-ELECTION.md) | July 30, 2026: defense continuum from pleadings alone + Porter Scott Yes/No/Deny election chart (empty-file non-election) |
+| [APPEAL-Q-ELECTION-STATUS-2026-08.md](../../STRATEGIC/APPEAL-Q-ELECTION-STATUS-2026-08.md) | Aug 2026: Q-1 through Q-18 operator map (armed vs PENDING RB); entered-order sync |
 
 ## Workspace cross-links
 
 - [801-APPEAL STRATEGIC-TACTICAL-PLEADINGS-MEMO-2026-05-19.md](../../801-APPEAL/STRATEGIC-TACTICAL-PLEADINGS-MEMO-2026-05-19.md)
 - [June 24 cohort PUBLIC-SYNOPSIS](../03-CASE-CGC-25-631802/june-24-cohort-2026-05-26/PUBLIC-SYNOPSIS.md)
+- [Aug 14 dual-appeal hubs](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 companion](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md)
 - [Aug 26 vexatious opposition hub](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [PUBLIC-SYNOPSIS](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md)
 
 ## Related narrative (site root; not moved)
@@ -43,7 +45,7 @@ This folder collects **long-form analytical memoranda** and links to related nar
 | Field | Value |
 |-------|-------|
 | Created | 2026-07-10 |
-| Last updated | 2026-07-30 |
+| Last updated | 2026-08-10 |
 | Last author | soltrinox |
 | Version | `216d319` (rev 3) |
 | Repository | GITHUB-PAGE |

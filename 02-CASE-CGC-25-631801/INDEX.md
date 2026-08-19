@@ -1,4 +1,4 @@
-> **POSTURE NOTICE (May 12, 2026).** Following the May 12 hearing on defendants' Anti-SLAPP / special-motion practice, and the May 11 contemporaneous filings (Motion for Reconsideration of FAC Anti-SLAPP order; RJN of Governing Law; Second Supplemental RJN and Statement of Appellate Preservation; Silent-Witness master exhibits), this case is in **appellate-preservation posture**. The live trial-court front has moved to [CGC-25-631802](../03-CASE-CGC-25-631802/INDEX.md). Post-May-12 preservation materials are at [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md). The PDFs below are retained for record purposes.
+> **POSTURE NOTICE (August 14, 2026).** Notice of appeal File & Serve authorized (Tx `80347363`) from the August 6, 2026 strike order (DocID `10361462`) to the **First Appellate District** (number TBA). Stay notice Tx `80347943`. Fee opposition Tx `80348365`. Tax motion Tx `80349087`. CM-110 Tx `80349330`. Hub: [aug14-2026-appeal-stay-fees-tax-cmc/](aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [PUBLIC-SYNOPSIS](aug14-2026-appeal-stay-fees-tax-cmc/PUBLIC-SYNOPSIS.md). Reconsideration **DENIED August 11, 2026** (minutes only; no written-order DocID). Companion 802 appeal: [aug14-2026-appeal-stay-fees-cmc](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md). Post-May-12 preservation materials remain at [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
 
 # Case CGC-25-631801 — Independent Equity Action to Set Aside Judgment (Appellate-Preservation Posture)
 
@@ -10,7 +10,7 @@
 
 **Last synced (standalone PDFs):** March 28, 2026 from `CGC-25-631801-MASTER/FINAL-PDF/`. Bundled exhibit PDFs in this folder were not replaced.
 
-**Calendar / docket:** [cmc-september-9-2026/](cmc-september-9-2026/README.md) · [docket-state/](docket-state/STATE-2026-07-27.md) (recon July 31; NOE not on ROA as of July 27 paste)
+**Calendar / docket:** [aug14-2026-appeal-stay-fees-tax-cmc/](aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [cmc-september-9-2026/](cmc-september-9-2026/README.md) · [docket-state/](docket-state/STATE-2026-08-13.md) (recon **DENIED** Aug 11, 2026 on ROA; Aug 6 entered strike order; fee motion on ROA Tx `80309587`; Sept 8 hearing ROA-confirmed) · [Aug 6 order PDF](court-orders/2026-08-06-strike-order-grant/README.md)
 
 ---
 

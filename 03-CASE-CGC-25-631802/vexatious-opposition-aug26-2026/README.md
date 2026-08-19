@@ -1,8 +1,8 @@
 # CGC-25-631802 - Opposition to vexatious-litigant motion (Aug 26, 2026)
 
 > **Hearing:** August 26, 2026, 9:00 a.m., Dept. 302  
-> **Filing status:** Operative opposition cohort (signature / POS dates July 22, 2026). **Portal Tx / DocIDs TBD** after File & Serve confirmation.  
-> **Hold:** This hub mirrors the Tier A serve set only. No Contra Costa complaint materials. No internal work product. No tax-cohort papers.
+> **Filing status:** Operative opposition cohort (signature / POS dates July 22, 2026). **Portal Tx `80094866` (July 21) and `80105728` (July 22 operative updates)** per Aug 12 ROA paste. DocIDs still `[VERIFY-HUMAN]` pending PDF harvest.  
+> **Hold:** This hub mirrors the Tier A vexatious serve set only. No Contra Costa complaint materials. No internal work product. The 802 fee opposition and the 801 tax papers filed August 14 live in the [802 Aug 14 hub](../aug14-2026-appeal-stay-fees-cmc/README.md) and the [801 Aug 14 hub](../../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md).
 
 Public mirror of Plaintiff's opposition to Defendant's Code of Civil Procedure section 391 motion (vexatious-litigant designation, security, and prefiling screening), plus the defense moving papers served July 21, 2026.
 

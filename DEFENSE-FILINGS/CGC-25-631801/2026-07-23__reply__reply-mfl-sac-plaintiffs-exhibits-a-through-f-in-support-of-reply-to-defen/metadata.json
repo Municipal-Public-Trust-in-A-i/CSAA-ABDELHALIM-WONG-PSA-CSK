@@ -1,0 +1,16 @@
+{
+  "original_filename": "190__2026-07-23__plaintiff__reply__plaintiffs-exhibits-a-through-f-in-support-of-reply-to-defen.pdf",
+  "normalized_stem": "PLAINTIFFS EXHIBITS A THROUGH F IN SUPPORT OF REPLY TO DEFENDANTS OPPOSITION TO MOTION FOR RECONSIDERATION (TRANSACTION ",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-07-23",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "reply",
+  "motion_family": "mfl-sac",
+  "transaction_id": "80115143",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=B98DCF5AAA96E782D9AE8ED5D632A76913396B9D&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10335864%26Timestamp%3D20260810095929%26Digest%3D35cb0e726a9976d64a13d28a4df0e26d46773442",
+  "sha256": "f34cce89eb9ee72df01844f44335b55ed1222f08c46ca8e99fcbe6415eb5f207",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "190",
+  "docid": "10335864",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631801/2026-07-23__reply__reply-mfl-sac-plaintiffs-exhibits-a-through-f-in-support-of-reply-to-defen/190__2026-07-23__plaintiff__reply__plaintiffs-exhibits-a-through-f-in-support-of-reply-to-defen.pdf"
+}

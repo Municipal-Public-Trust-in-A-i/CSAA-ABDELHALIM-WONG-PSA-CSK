@@ -1,0 +1,5 @@
+# Analysis
+
+**Filer:** plaintiff · **Date:** 2026-07-29 · **Seq:** 195
+
+Clerk mirror from GetROA manifest `20260810-095929`. Proceedings: PROOF OF SERVICE BY ELECTRONIC MAIL (TRANSACTION ID # 80165836) FILED BY PLAINTIFF ROSARIO, FRANCISCUS DYLAN

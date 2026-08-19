@@ -7,9 +7,9 @@
 
 **Source order (public mirror on this site):** [10210043.pdf](../../02-CASE-CGC-25-631801/court-orders/2026-05-12-anti-slapp-grant-order/10210043.pdf) · [Minutes parse (structured)](../../02-CASE-CGC-25-631801/court-orders/2026-05-12-anti-slapp-grant-order/10210043-PARSED.md)
 
-> **SCAFFOLD STATUS (June 11, 2026 public mirror):** Sub-packets **01**, **03**, **04**, and **05** ship **placeholder / skeleton PDFs** produced by the authoring workspace build pipeline. They are **not** represented as filed unless you independently confirm a filing on the court portal. Sub-packet **02** is a **pointer** to the built reconsideration materials (May 11 preservation wave plus May 13 rebuild PDFs).
+> **FILED NOTICE OF APPEAL (August 14, 2026):** The operative 801 notice is Tx `80347363` in [aug14-2026-appeal-stay-fees-tax-cmc](../../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md). The companion 802 notice is Tx `80347004` in [aug14-2026-appeal-stay-fees-cmc](../../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md). Sub-packet **05** in this stack is a **historical scaffold**, not the filed notice.
 >
-> **Day Zero (portal May 28, 2026):** No notice of entry on live ROA for May 12 or May 15 rulings; no filed anti-SLAPP proposed order observed. See [801 ROA audit](../../02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-05-28.md) and [801 docket-state](../../02-CASE-CGC-25-631801/docket-state/STATE-2026-05-28.md).
+> **SCAFFOLD STATUS (June 11, 2026 public mirror, still true for 01 / 03 / 04):** Sub-packets **01**, **03**, and **04** ship placeholder / skeleton PDFs. They are **not** represented as filed unless you independently confirm a filing on the court portal. Sub-packet **02** is a **pointer** to the built reconsideration materials (May 11 preservation wave plus May 13 rebuild PDFs). Reconsideration was **DENIED August 11, 2026** (minutes only).
 
 [← Appellate lane index](../INDEX.md) · [← Site root](../../README.md)
 
@@ -55,7 +55,7 @@ gantt
 | 02-RECONSIDERATION (pointer) | CCP 1008(a) | Day +10 | YES (May 11 + May 13 mirrors) | YES (recon packet) | verify portal |
 | 03-NEW-TRIAL | CCP 657, 659 | Day +15 | YES | NO | NO |
 | 04-VACATE-663 | CCP 663, 663a | Day +15 | YES | NO | NO |
-| 05-NOTICE-OF-APPEAL | CCP 904.1(a)(13); CRC 8.108 | Day +60 | YES | NO | NO |
+| 05-NOTICE-OF-APPEAL | CCP 904.1(a)(13); CRC 8.108 | Day +60 | YES (scaffold) | Filed Aug 14 in the Aug 14 hub | **YES** (Tx `80347363`; not this scaffold PDF) |
 
 ---
 

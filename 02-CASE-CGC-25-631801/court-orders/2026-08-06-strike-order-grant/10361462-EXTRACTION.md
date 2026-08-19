@@ -1,0 +1,360 @@
+# 10361462.pdf - OCR extraction
+
+**Source PDF:** [10361462.pdf](10361462.pdf)  
+**Mirror:** `GITHUB-PAGE/DEFENSE-FILINGS/CGC-25-631801/.../198__2026-08-06__court__notice-motion-ccp436__order-granting-defendant-csaa-insurance-exchange-michael-cha.pdf`  
+**DocID:** 10361462 · **ROA seq:** 198 · **Pages:** 5  
+**Producer (metadata):** PaperStream Capture 2.5 / PFU PDF Library (image scan)
+
+## Extraction method
+
+| Step | Tool | Result |
+|------|------|--------|
+| 1 | `pdftotext` (no OCR) | No extractable text |
+| 2 | `ocrmypdf --force-ocr` | **Success** (2026-08-10) |
+| 3 | `pdftotext -layout` on OCR PDF | **322 lines** captured |
+
+Structured parse: [10361462-PARSED.md](10361462-PARSED.md) · Parallel minute parse: [10210043-PARSED.md](../2026-05-12-anti-slapp-grant-order/10210043-PARSED.md)
+
+## ROA title (portal)
+
+ORDER GRANTING DEFENDANT CSAA INSURANCE EXCHANGE, MICHAEL CHAMBERS AND CARBONE,SMITH & KOYOAMA'S MOTION TO STRIKE AMENDED COMPLAINT
+
+## Capsule summary
+
+August 6, 2026 **entered** order granting defendants' **anti-SLAPP** motion to strike the **Amended Complaint** in full, with fees by separate motion, exclusion of unauthorized supplemental opposition, and consideration of plaintiff's **RJN**. Hearing date recited: **May 12, 2026**, Dept. **301**. Signed **Christine Van Aken**.
+
+## Dispositive holdings (short)
+
+- Anti-SLAPP motion **GRANTED**; Amended Complaint stricken **in its entirety**.
+- Prong one **met**; prong two **not met** (intrinsic vs extrinsic fraud; litigation privilege bars ancillary monetary relief).
+- Fees: **separate motion** under **CCP § 425.16(c)(1)**; reply-only fee amount lacks notice.
+
+---
+
+## Full OCR text
+
+```
+                    PORTER | SCOTT                                            San Francisco County Sup
+                                                                                                      erior Court
+                    A PROFESSIONAL CORPORATION ‘°
+                    Chad S. Tapp, SBN 214898
+                    ctapp@porterscott.com
+                                                                                          AUG    6 2026
+                    Tyler J. O’Connell, SBN 346673
+          WN                                                                      GLERK     OFTHE,:.COURT
+                    toconnell@porterscott.com
+          B&B
+                    2180 Harvard Street, Suite 500
+                    Sacramento, California 95815
+                                                                              -                 sak       oaK7
+          HW
+                    TEL: 916.929.1481
+                    FAX: 916.927.3706
+          A
+
+
+          NY        Attorneys
+                           for Defendant
+                |   CSAA INSURANCE EXCHANGE
+          Oo
+
+
+          Co
+                             SUPERIOR COURT OF CALIFORNIA, COUNTY OF SAN FRANCISCO
+
+           - _
+
+           -           FRANCISCUS DYLAN ROSARIO,                      CASE NO.: CGC-25-631801
+
+
+
+                                                                    PROPOSED] ORDER GRANTING |
+           - _
+                                     Plaintiff,
+                    v.
+           - 
+                                                                    DEFENDANT CSAA INSURANCE
+           -           CSAA INSURANCE EXCHANGE,                       EXCHANGE, MICHAEL CHAMBERS,
+                                                                    AND CARBONE, SMITH & KOYAMA’s
+          _
+                                     Defendant.                     MOTION TO STRIKE AMENDED
+           -                                                          COMPLAINT.
+
+           -                                                          Date: May 12, 2026
+                                                                    Time:   9:00AM
+                                                                    Dept:   301
+           - 
+
+           -                                                          ComplaintFiled: December 23, 2025
+                                                                   - Amended Complaint Filed: February 25, 2026
+          bh
+
+          bo
+
+
+
+
+          Ko                Defendant     CSAA       INSURANCE EXCHANGE, “MICHAEL               CHAMBERS, AND
+          N         CARBONE SMITH & KOYAMA (“Defendant”) Motion to Strike Plaintiff's Amended Complaint
+          No        came for hearing on May 12, 2026, in the above referenced court. Tyler J. O’Connell appeared as
+          No        counsel for Defendant and FRANCISCUS DYLAN ROSARIO appeared as pro-per as| Plaintiff.
+13 RECD
+                    Having considered Defendant’s Motion to Strike Amended Complaint, and good cause appearing
+
+                    therefore,
+
+JUL                                                                 1
+
+                    [PROPOSED] ORDER GRANTING DEFENDANT CSAA INSURANCE EXCHANGE, MICHAEL CHAMBERS,
+                              AND CARBONE, SMITH & KOYAMA’S MOTION TO STRIKE AMENDED COMPLAINT
+   KF         Hearing held. ARGUED. Court having’ reviewed the pleadings and having heard oral argument rules
+   NY         as follows:
+
+   WY
+                     IT Is HEREBY ORDERED:                            ;
+   FP
+                     Defendants’ anti-SLAPP motion to strike is GRANTED. Defendants are entitled to fees and
+   HH
+              may make a separate motion or seek fees with their cost bill, but a request for a particular amount
+
+   DN
+              of fees for the first time on reply does not give sufficient notice.
+
+   4S
+                     The court broadly construes the anti-SLAPP statute. (Code Civ. Proc.,§ 425.16, subd. (a).)
+   fo
+              Courts deciding anti-SLAPP motions use a two-step procedure. If the defendant shows that ‘the
+   co
+              plaintiffs claims arise from protected activity (prong one), then the burden “shifts to the plaintiff to
+
+              demonstrate the merit of the claim by establishing a probability of success” (prong two). (Baral v.
+ee
+              Schnitt (2016) 1 Cal.5th 376, 384.) Under prong two, the plaintiff must make a “prima facie factual
+              showing sufficient to sustain a favorable judgment.” (/d., at p. 385.) In performing its analysis, the
+RE
+              court looks to the pleadings, declarations or affidavits, and judicially noticeable material concerning
+
+Re            the facts upon which liability is based. (Code Civ. Proc., § 425.16, subd. (b)(2).)
+                      “[TA] claim may be struck only if the speech or petitioning activity itself is the wrong
+
+aasbt_anres   complained of, and not just evidence of liability or a step leading to some different act for which
+
+              liability is asserted.” (Park v. Board of Trustees of California State University (2017) 2 Cal.5th
+
+RR            1057, 1060 [emphasis in original].) Defendants
+                                                         meet prong one of the anti-SLAPP statute. The First
+              Amended Complaint (“FAC”) arises from protected activity under Code of Civil Procedure, §
+Ser
+
+Rw            425.16, subd. (e)(2) [“any written or oral statement or writing made in connection with an issue
+KO
+              under consideration or review by a...judicial body”]. “Statements made in litigation, or in
+PO
+              connection with litigation, are protected by” the anti-SLAPP statute. (Bergstein v. Stroock & Stroock
+
+BBHRBSB
+Kw            & Lavan LLP (2015) 236 Cal.App.4th 793, 803; Navellier v. Sletten (2002) 29 Cal.4th 82, 90 [The
+KH            constitutional right of petition encompasses the basic act of filing litigation.”’] [citation simplified];
+
+bw            Ahmed v. Collect Access, LLC (2025) 114 Cal.App.Sth 1092 [equitable action to vacate a judgment
+NO
+              triggered prong one of the anti-SLAPP statute].)                                 .
+              //
+
+BNRRRR        Hf                 .
+                            Kn
+                       4                                           2
+               [PROPOSED] ORDER GRANTING DEFENDANT CSAA INSURANCE EXCHANGE, MICHAEL CHAMBERS,
+                        AND CARBONE, SMITH & KOYAMA’S MOTION TO STRIKE AMENDED COMPLAINT
+  eK          Here, plaintiff seeks to vacate a prior court judgment and recover “ancillary monetary relief”
+  NY   based on allegedly fraudulent litigation conduct. (FAC, 27:13-26.) The litigation conduct itself is
+  WD
+       the wrong that plaintiff complains of. The FAC specifically references protected litigation activity.
+  SF
+       (See, e.g., FAC. 10:18-19 [“CSAA Insurance Exchange, made multiple false and misleading
+  NH
+       representations to the Court...”]; FAC, 3:6-9["The defense obstructed Plaintiff's ability to present
+       material evidence”]; FAC, 6:21-22 [Defense counsels’ “conduct constituted fraud on the court and
+  NN   was a proximate cause of the process corruption that procured the judgment.”].)
+
+  fo
+               Plaintiff's citation to Code of Civil Procedure, § 425.17, subdivision (c) [commercial
+
+  o    exemption] is inapposite. Plaintiff sues over litigation conduct, not commercial activity.
+
+               Since defendants meet prong one, the plaintiff must establish via admissible evidence a
+
+       probability of prevailing on the claims (prong two). (See Computer Xpress, Inc. v. Jackson (2001)
+
+       93 Cal.App.4th 993, 1010.) At prong two, “a plaintiff must make a prima facie showing of facts
+ee
+       which would, if proved at trial, support a judgment in plaintiffs favor. This standard is similar to
+
+oe
+       the standard used in determining motions for nonsuit, directed verdict, or summary judgment, in
+       that the court cannot weigh the evidence. However, the plaintiff cannot simply rely on the allegations
+
+       in the complaint, but must provide the court with sufficient evidence to permit the court to determine
+
+       whether there is a probability that the plaintiff will prevail on the claim.” Ud. [citation simplified].)
+a
+
+
+               Plaintiff does not meet his prong two. While plaintiff attempts to characterize his claim as an
+       equitable action to vacate a judgment based on extrinsic fraud, it is really a non-cognizable claim based
+
+NO
+       on intrinsic fraud.
+
+|              “The extrinsic/intrinsic fraud rule is a doctrine developed in courts of equity governing the basis
+
+       for successful collateral attack on a final judgment by way of an independent proceeding. The rule is
+
+       that fraud internal to the adversary proceeding, such as perjury committed during trial or error or mistake
+
+       during the trial, is intrinsic and is not a basis for relief; but fraud that prevented the trial of a claim or
+
+we)    prevented the defrauded party from getting into court at all, is extrinsic to the proceeding and is a basis
+
+       for relief. Obviously, where there has been little or no judicial time invested in trial of a cause or an
+       issue, the factor of judicial economy which otherwise weighs in favor of finality is less strong, and the
+
+       equitable considerations of fair hearing and of penalizing fraud weigh more compellingly.” (Los Angeles
+               om                              3
+        [PROPOSED] ORDER GRANTING DEFENDANT CSAA INSURANCE EXCHANGE, MICHAEL CHAMBERS,
+                 AND CARBONE, SMITH & KOYAMA’S MOTION TO STRIKE AMENDED.COMPLAINT
+      Airways, Inc. v. Hughes Tool Co. (1979) 95 Cal.App.3d 1, 7.) In this case, plaintiff is seeking to vacate
+ NY
+      a judgment after a full-blown trial and is even appealing the judgment. “Extrinsic fraud usually arises
+ WY
+      whena party is denied a fair adversary hearing because he has been deliberately kept in ignorance of the
+ FF
+      action or proceeding, or in some other way fraudulently prevented from presenting his claim or defense.”
+
+ AW
+      (Kulchar v. Kulchar (1969) 1 Cal.3d 467, 471 [citation simplified].) Plaintiff complains that movants
+      obstructed his ability to present evidence, but the issues he raises in the FAC were fully litigated in the
+
+ ND   trial court. (See RFJN Ex. E, Def’s MIL # 6; RFJN Ex. F, Def’s MIL # 8; RFJN Ex. G, Def’s MIL # 17;
+ Se
+      and RFJN Ex. H, Order re Trial Scheduling and MILs). Plaintiff presented his case, lost, and may pursue
+
+ o    his appeal rights.
+
+              Civil Code § 47(b) [litigation privilege] does not bar a claim to vacate a claim to vacate a
+
+      judgment based on extrinsic fraud. (Rubenstein y. Rubenstein (2000) 81 Cal.App.4th 1131, 1147
+      [absolute litigation privilege bars derivative tort actions (including fraud) but does not eliminate the
+
+      equitable remedy of vacating a fraudulently obtained judgment].) If plaintiff merely sought to vacate the
+      judgment, there would be no need to name movants (insurer and defense counsel). The litigation
+      privilege, however, does bar plaintiffs request for “ancillary monetary relief,” which is really a claim
+
+      for fraud damages against defendants. "The usual formulation is that the privilege applies to any
+
+      communication (1) made in judicial or quasi-judicial proceedings; (2) by litigants or other participants
+
+eet   authorized by law; (3) to achieve the objects of the litigation; and (4) that have some connection or
+      logical relation to the action." (Silberg v. Anderson (1990) 50 Cal.3d 205, 212.) Defendants establish
+NO    these elements. “Any doubt about whether the privilege applies is resolved in favor of applying it."
+RO
+      (Kashian v.     Harriman    (2002)   98   Cal.App.4th       892,   913.)   The   privilege   also   “extends to
+
+PO
+      noncommunicative acts that are necessarily related to the communicative conduct...” (Rusheen v. Cohen
+
+NO
+      (2006) 37 Cal.4th 1048, 1065.)
+
+ND
+      /
+
+      H
+
+N
+
+
+
+
+      /
+
+      H
+
+               one                                            4
+       [PROPOSED] ORDER GRANTING ‘DEFENDANT CSAA INSURANCE EXCHANGE, MICHAEL CHAMBERS,
+               _ AND CARBONE, SMITH & KOYAMA’S MOTION TO STRIKE AMENDED COMPLAINT
+                     The court grants defendants’ motion to strike the FAC in its entirety. Defendants may seek fees
+  NY         by separate motion. (Code Civ. Proc., § 425.16, subd. (c)(1).) The court does not consider plaintiff’s
+  WY
+             various supplemental opposition briefs, which were filed without authorization, but does consider
+  FF
+             plaintiff's requests for judicial notice.
+  UH
+
+
+
+
+                     IT IS SO ORDERED.
+
+  NDB
+
+
+
+
+             Dated: \! | C | Wu                               ZA
+  Oe
+
+
+
+
+  oO
+                          -    Tt                             JUDGEOF           SUPERIOR COURT
+
+                                                                 CHRISTINE VAN AKEN
+AS
+eo
+
+
+
+
+ee
+
+
+
+
+oe
+
+
+
+
+ee
+
+
+
+
+WAABDEBR
+
+a
+
+
+
+
+SEGRE
+NO
+
+
+
+
+|
+NO
+
+
+
+
+BNRRRRBRBE
+
+                         Vy                                      5
+              [PRSROSED] ORDER GRANTING DEFENDANT CSAA INSURANCE EXCHANGE, MICHAEL CHAMBERS,
+                        AND CARBONE, SMITH & KOYAMA’S MOTION TO STRIKE AMENDED COMPLAINT  - 
+
+```

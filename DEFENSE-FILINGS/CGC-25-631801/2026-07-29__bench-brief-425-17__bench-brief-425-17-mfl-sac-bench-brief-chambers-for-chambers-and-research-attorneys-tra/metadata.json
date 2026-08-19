@@ -1,0 +1,16 @@
+{
+  "original_filename": "191__2026-07-29__plaintiff__bench-brief-425-17__bench-brief-chambers-for-chambers-and-research-attorneys-tra.pdf",
+  "normalized_stem": "BENCH BRIEF CHAMBERS FOR CHAMBERS AND RESEARCH ATTORNEYS (TRANSACTION ID # 80165836) FILED BY PLAINTIFF ROSARIO, FRANCIS",
+  "case_number": "CGC-25-631801",
+  "filing_date": "2026-07-29",
+  "filing_date_inferred_from_motion_bundle": false,
+  "pleading_type": "bench-brief-425-17",
+  "motion_family": "mfl-sac",
+  "transaction_id": "80165836",
+  "view_url": "https://webapps.sftc.org/ci/CaseInfo.dll?SessionID=B98DCF5AAA96E782D9AE8ED5D632A76913396B9D&URL=https%3A%2F%2Fimgquery.sftc.org%2FSha1_newApp%2Fmainpage.aspx%3FWeb_Server%3Dimgquery.sftc.org%26MINDS_Server%3Dhoj-imx-01%26Category%3DC%26DocID%3D10346750%26Timestamp%3D20260810095929%26Digest%3D7cc2da3dd43f4dc4b969f8c8931c40d68e658131",
+  "sha256": "40f4a4cd7859bc91d699782b3888ad5abb854740f826448685efc241419192ca",
+  "source": "sftc_getroa_manifest",
+  "manifest_seq": "191",
+  "docid": "10346750",
+  "output_relpath": "DEFENSE-FILINGS/CGC-25-631801/2026-07-29__bench-brief-425-17__bench-brief-425-17-mfl-sac-bench-brief-chambers-for-chambers-and-research-attorneys-tra/191__2026-07-29__plaintiff__bench-brief-425-17__bench-brief-chambers-for-chambers-and-research-attorneys-tra.pdf"
+}
