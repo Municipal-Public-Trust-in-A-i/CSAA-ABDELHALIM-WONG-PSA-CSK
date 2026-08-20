@@ -247,6 +247,12 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 ---
 
+## What's new (August 20, 2026)
+
+- **802 ROA refresh (GetROA 9:16 am; paste 9:05 am):** 329 rows (was 324). Newest date **2026-08-14**. Notice of appeal **on ROA** Tx `80347004` (DocIDs `10377025` / `10377027` / `10377028`). CMC of Sep 9 **continued to Oct 21, 2026, 10:30 a.m., Dept. 610** (DocID `10376074`). Stay / fee opp / plaintiff CM-110 still off-register. Previously missing seq 323-324 PDFs now LOCAL. [STATE-2026-08-20](03-CASE-CGC-25-631802/docket-state/STATE-2026-08-20.md) · [ROA-AUDIT-2026-08-20](03-CASE-CGC-25-631802/docket-state/ROA-AUDIT-2026-08-20.md).
+- **801 ROA refresh (GetROA 9:16 am; paste 9:13 am):** 212 rows (was 203). Notice of appeal **on ROA** Tx `80347363` (DocIDs `10377050` / `10377052` / `10377053`). MC-010 **is** a separate DocID `10369596` (seq 201). Fee papers remapped to seq 202-204 (DocIDs unchanged). Same Oct 21 CMC continuance (DocID `10376072`). Stay / fee opp / tax still off-register. [STATE-2026-08-20](02-CASE-CGC-25-631801/docket-state/STATE-2026-08-20.md) · [CALENDAR-2026-08-20](02-CASE-CGC-25-631801/docket-state/CALENDAR-2026-08-20.md).
+- **Live calendar:** Aug 26, 9:00 a.m., Dept. 302 / Quinn (802 fees + vexatious); Sept 8, 9:00 a.m., Dept. 301 (801 fees); **Oct 21, 10:30 a.m., Dept. 610 CMC**.
+
 ## What's new (August 14, 2026)
 
 - **Notices of appeal filed in both cases.** 802 Tx `80347004` (2:33 p.m. PDT) from the July 1 order (DocID `10297081`). 801 Tx `80347363` (2:40 p.m. PDT) from the Aug 6 strike order (DocID `10361462`). Forum: **California Court of Appeal, First Appellate District**. Appellate numbers **TBA**. [802 hub](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 hub](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [802 synopsis](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/PUBLIC-SYNOPSIS.md) · [801 synopsis](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/PUBLIC-SYNOPSIS.md).
