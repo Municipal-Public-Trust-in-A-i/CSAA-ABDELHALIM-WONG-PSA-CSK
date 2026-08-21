@@ -7,6 +7,19 @@ Neutral milestone summary. Not legal advice.
 
 ---
 
+## August 21, 2026 update
+
+Four things changed after the August 14 wave described below.
+
+1. **Both notices of appeal are imaged on the civil register.** 802 Tx `80347004` at seq 327-329 (DocIDs `10377025` / `10377027` / `10377028`); 801 Tx `80347363` at seq 207-209 (DocIDs `10377050` / `10377052` / `10377053`). Register pulls taken August 20, 2026, 9:16 a.m.
+2. **The stay notices, fee oppositions, 801 tax motion, and plaintiff CM-110s are not on that register.** They were File & Serve accepted on August 14. Whether they post as civil ROA rows remains `[VERIFY-HUMAN]`.
+3. **The case management conference moved.** September 9 is continued to **October 21, 2026, 10:30 a.m., Dept. 610** in both cases (801 DocID `10376072`; 802 DocID `10376074`). August 26 (Dept. 302) and September 8 (Dept. 301) are unchanged.
+4. **The next plaintiff deadline is a record designation.** Form APP-003 under CRC 8.121 is due **August 24, 2026**, filed once per superior-court file. APP-004 waits on the Court of Appeal clerk's notice. Appellate numbers remain **TBA**.
+
+**Register sources:** [802 STATE-2026-08-20](../03-CASE-CGC-25-631802/docket-state/STATE-2026-08-20.md) · [801 STATE-2026-08-20](../02-CASE-CGC-25-631801/docket-state/STATE-2026-08-20.md)
+
+---
+
 ## Dual anti-SLAPP appeals (filed August 14, 2026)
 
 Both superior-court cases are now on appeal to the **California Court of Appeal, First Appellate District**. This is not a federal district-court filing. Appellate numbers are **TBA**. Do not invent them.
