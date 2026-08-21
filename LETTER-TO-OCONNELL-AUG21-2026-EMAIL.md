@@ -1,6 +1,6 @@
 # Personal dialogue: email-ready twin (August 21, 2026)
 
-> Email-ready twin of [`LETTER-TO-OCONNELL-AUG21-2026.md`](LETTER-TO-OCONNELL-AUG21-2026.md). This is **personal dialogue** and public commentary. It is **not** a pleading, **not** a settlement offer, and **not** a paper for filing. Formal positions remain those in papers on file.
+> Email-ready twin of [`LETTER-TO-OCONNELL-AUG21-2026.md`](LETTER-TO-OCONNELL-AUG21-2026.md). This is **personal dialogue** and public commentary. It is **not** a pleading, **not** a settlement offer, and **not** a paper for filing. Formal positions remain those in papers on file. Indexed in the [correspondence archive](correspondence/INDEX.md). **Not claimed served.**
 
 ---
 

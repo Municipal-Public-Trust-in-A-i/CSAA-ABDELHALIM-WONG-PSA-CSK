@@ -85,6 +85,7 @@ Authority-by-authority rebuttal to CSAA’s Anti-SLAPP memorandum (court file 10
 - **[csaa-investigation/](csaa-investigation/)**: CSAA investigation memos.
 - **[strategy-essays/](strategy-essays/)**: academic and public-statement strategy files.
 - **[Personal dialogue letter to O'Connell (Aug. 21, 2026)](../LETTER-TO-OCONNELL-AUG21-2026.md)**: First Amendment / article I, section 2 commentary, with a face waiver that it is personal dialogue and **not a filing**. Email-ready twin: [LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md](../LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md). Formal positions remain those in papers on file.
+- **[Correspondence archive (split labels)](../correspondence/INDEX.md)**: Rosario-to-defense emails and letters. Personal dialogue keeps the First Amendment waiver. Meet-and-confer, CCP 128.7, Evidence Code 1152, and service transmittals keep the character they had when sent. Not a filing. Not new service.
 
 **Related cases:** all proceedings.
 
@@ -113,6 +114,7 @@ Senior-memorandum-style review of the April 2026 demurrer volley. Narrates what 
 | Anti-SLAPP rebuttal hub | CSAA Anti-SLAPP memorandum rebuttal; O’Connell declaration | CGC-25-631802 |
 | Demurrer rebuttal hub | Ground-by-ground review of the April 2026 demurrer volley; consequences to the defense | CGC-25-631802 |
 | Aug. 21 personal dialogue letter | First Amendment commentary to O'Connell; not a filing | All proceedings |
+| Correspondence archive | Split-label Rosario-to-defense hub; not a filing | All proceedings |
 
 Each document builds on the same evidentiary record -- the certified transcripts, clerk's transcript, and defense filings -- but approaches it from a different analytical angle. Together they provide a comprehensive picture of the fraud on the court and the litigation response.
 

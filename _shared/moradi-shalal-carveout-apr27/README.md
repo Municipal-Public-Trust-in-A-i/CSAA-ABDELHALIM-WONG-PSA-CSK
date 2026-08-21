@@ -1,4 +1,6 @@
-# *Moradi-Shalal* common-law carve-out — Apr. 27, 2026 (cross-case)
+# *Moradi-Shalal* common-law carve-out - Apr. 27, 2026 (cross-case)
+
+> **Class: meet-and-confer.** The April 27, 2026 letter **was** a meet-and-confer paper on the date sent. Publishing it here does not convert it into personal dialogue. It is not a First Amendment commentary letter. It is not a new filing. Archive hub: [correspondence/INDEX.md](../../correspondence/INDEX.md).
 
 Case-collective materials served on the same defense team for **CGC-25-631801** and **CGC-25-631802**: meet-and-confer on the controlling *Moradi-Shalal v. Fireman's Fund Ins. Companies* (1988) 46 Cal.3d 287 common-law preservation clause, plus a standalone legal analysis memorandum.
 

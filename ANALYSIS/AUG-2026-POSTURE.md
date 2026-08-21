@@ -20,7 +20,7 @@ Stay notices cite CCP 916 and *Varian Medical Systems, Inc. v. Delfino* (2005) 3
 
 The older **A173827** appeal of the CGC-21-594102 trial verdict remains a separate proceeding. Appellant's reply brief and companion papers (motion to disregard extra-record matter, supplemental RJN, exhibits, proposed orders) are dated August 20, 2026. Hub: [01-APPEAL/aug20-2026-reply](../01-APPEAL/aug20-2026-reply/README.md).
 
-On August 21, 2026, plaintiff published a **personal dialogue** letter to Tyler J. O'Connell, with a First Amendment / article I, section 2 waiver on its face. It is **not a filing**. Canonical: [LETTER-TO-OCONNELL-AUG21-2026.md](../LETTER-TO-OCONNELL-AUG21-2026.md).
+On August 21, 2026, plaintiff published a **personal dialogue** letter to Tyler J. O'Connell, with a First Amendment / article I, section 2 waiver on its face. It is **not a filing**. Canonical: [LETTER-TO-OCONNELL-AUG21-2026.md](../LETTER-TO-OCONNELL-AUG21-2026.md). Same day: public [correspondence archive](../correspondence/INDEX.md) with split labels (not a filing; not new service; does not restart any 128.7 clock).
 
 ---
 

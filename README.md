@@ -243,12 +243,13 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 **Deeper attorney reading:** [CASE-DOSSIER.md](CASE-DOSSIER.md) (Markdown) · **[CASE-DOSSIER.pdf](CASE-DOSSIER.pdf)** (download) · [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md) · [RISK-AND-ECONOMICS.md](RISK-AND-ECONOMICS.md).
 
-**Big-picture analytical writing already on this site:** [ANALYSIS/README.md](ANALYSIS/README.md) · [CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md) · [CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md](CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) · [CONTRADICTION-LETTER.md](CONTRADICTION-LETTER.md) · [LETTER-TO-OCONNELL-AUG21-2026.md](LETTER-TO-OCONNELL-AUG21-2026.md) (personal dialogue; not a filing) · [SPINE.md](SPINE.md) · [BOOK-OUTLINE.md](BOOK-OUTLINE.md) (every Markdown file on the site).
+**Big-picture analytical writing already on this site:** [ANALYSIS/README.md](ANALYSIS/README.md) · [CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md) · [CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md](CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) · [CONTRADICTION-LETTER.md](CONTRADICTION-LETTER.md) · [LETTER-TO-OCONNELL-AUG21-2026.md](LETTER-TO-OCONNELL-AUG21-2026.md) (personal dialogue; not a filing) · [correspondence/INDEX.md](correspondence/INDEX.md) (Rosario-to-defense archive; split labels) · [SPINE.md](SPINE.md) · [BOOK-OUTLINE.md](BOOK-OUTLINE.md) (every Markdown file on the site).
 
 ---
 
 ## What's new (August 21, 2026)
 
+- **Correspondence archive (split labels; not a filing).** Rosario-to-defense emails and letters, classified as they were when sent. Personal-dialogue items carry the First Amendment / article I, section 2 waiver. Meet-and-confer, CCP 128.7, Evidence Code 1152, and service transmittals keep that legal character. Publishing does not convert those papers into personal dialogue, does not restart any 128.7 clock, and is not new service. Hub: [correspondence/INDEX.md](correspondence/INDEX.md) (32 events). August 21 letter: **not claimed served**.
 - **Personal dialogue letter to Tyler J. O'Connell (not a filing).** First Amendment / article I, section 2 commentary addressed to CSAA's counsel of record, with a face waiver that it is personal dialogue, not a pleading, not a settlement offer, and not a substitute for papers on file. Canonical: [LETTER-TO-OCONNELL-AUG21-2026.md](LETTER-TO-OCONNELL-AUG21-2026.md) · email-ready twin: [LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md](LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md). Formal positions remain those in the filed 801/802 and A173827 papers.
 
 ## What's new (August 20, 2026)
@@ -775,6 +776,7 @@ The story of how one brain-injured plaintiff, proceeding alone against a multi-b
 ├── CONTRADICTION-LETTER.md
 ├── LETTER-TO-OCONNELL-AUG21-2026.md (personal dialogue; not a filing)
 ├── LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md
+├── correspondence/                  (Rosario-to-defense archive; split labels; not a filing)
 ├── SPINE.md  +  BOOK-OUTLINE.md
 ├── evidence.md  +  evidence.html
 ├── ROSARIO.md                        (long-form case overview)
@@ -826,6 +828,7 @@ This repository publishes **public** PDFs for transparency. It is **not** legal 
 - [ROSARIO.md](ROSARIO.md): long-form case overview and document index.
 - [evidence.md](evidence.md) and [evidence.html](evidence.html): 911 audio, body-worn camera, images.
 - [08-LEGAL-ANALYSIS/INDEX.md](08-LEGAL-ANALYSIS/INDEX.md): legal analysis index.
+- [correspondence/INDEX.md](correspondence/INDEX.md): Rosario-to-defense correspondence archive (split labels; not a filing).
 - [NOVEL/README.md](NOVEL/README.md): literary track.
 - [README.LEGACY.md](README.LEGACY.md): legacy navigation index (kept for diff history).
 - [Support the legal fund (SpotFund)](https://www.spotfund.com/story/88e93d31-3915-409e-b4ac-e29a5d1fd6d6).

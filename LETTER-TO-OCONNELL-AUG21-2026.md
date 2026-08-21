@@ -76,3 +76,4 @@ E: soltrinox@gmail.com
 | Cases named for context only | CGC-25-631801; CGC-25-631802; A173827; CGC-21-594102 |
 | Email-ready twin | [LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md](LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md) |
 | Related public letters | [CONTRADICTION-LETTER.md](CONTRADICTION-LETTER.md) · [CONTRADICTION-LETTER-EMAIL.md](CONTRADICTION-LETTER-EMAIL.md) |
+| Correspondence archive | [correspondence/INDEX.md](correspondence/INDEX.md) (split-label hub; this letter stays personal dialogue; **not claimed served**) |

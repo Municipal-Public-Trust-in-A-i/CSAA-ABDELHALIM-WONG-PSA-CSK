@@ -1,3 +1,5 @@
+> **Class: meet-and-confer.** This communication **was** a meet-and-confer paper on March 27, 2026. Publishing it here does not convert it into personal dialogue. It is not a First Amendment commentary letter. It is not a new filing. Archive hub: [correspondence/INDEX.md](../../correspondence/INDEX.md).
+
 From: Franciscus Dylan Rosario (soltrinox@gmail.com)
 To: Tyler J. O'Connell (toconnell@porterscott.com)
 Cc: Monique Schubert (mschubert@porterscott.com)

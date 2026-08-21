@@ -1,6 +1,6 @@
 # Book outline — Markdown files under GITHUB-PAGE
 
-Total: **271** files (auto-generated). Start at [README.md](README.md).
+Total: **271** files (auto-generated; plus the August 21 correspondence hub under [correspondence/INDEX.md](correspondence/INDEX.md)). Start at [README.md](README.md).
 
 ## 01-APPEAL
 - [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md)
@@ -176,6 +176,10 @@ Total: **271** files (auto-generated). Start at [README.md](README.md).
 - [08-LEGAL-ANALYSIS/strategy-essays/PUBLIC-STATEMENT-THREE-CASES-STRATEGY.md](08-LEGAL-ANALYSIS/strategy-essays/PUBLIC-STATEMENT-THREE-CASES-STRATEGY.md)
 - [08-LEGAL-ANALYSIS/strategy-essays/PUBLIC-STATEMENT-THREE-CASES.md](08-LEGAL-ANALYSIS/strategy-essays/PUBLIC-STATEMENT-THREE-CASES.md)
 - [08-LEGAL-ANALYSIS/strategy-essays/README.md](08-LEGAL-ANALYSIS/strategy-essays/README.md)
+
+## correspondence
+- [correspondence/INDEX.md](correspondence/INDEX.md) (split-label archive; not a filing)
+- [correspondence/README.md](correspondence/README.md)
 
 ## (root)
 - [LETTER-TO-OCONNELL-AUG21-2026.md](LETTER-TO-OCONNELL-AUG21-2026.md) (personal dialogue; not a filing)
