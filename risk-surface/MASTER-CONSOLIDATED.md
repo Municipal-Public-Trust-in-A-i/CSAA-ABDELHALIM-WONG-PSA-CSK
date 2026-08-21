@@ -15,7 +15,7 @@ Each pleaded cause of action (Appeal; 801 Counts 1–7; 802 Counts 1–3; retria
 | Proceeding | Case number | Forum | Posture | Operative pleading | Defense-side parties |
 |------------|--------------|-------|---------|-------------------|----------------------|
 | Underlying trial | CGC-21-594102 | S.F. Superior | Judgment entered; challenged | N/A | Abdelhalim |
-| **Appeal** | **A173827** | First Appellate District | Briefing complete | Opening Brief | **Abdelhalim only** |
+| **Appeal** | **A173827** | First Appellate District | Reply filed August 20, 2026 | Reply Brief | **Abdelhalim only** |
 | **Equity** | **CGC-25-631801** | S.F. Superior | Active | Second Amended Complaint | Abdelhalim, CSAA, PSA, Navaratnasingham, Reyna, Chambers, CSK |
 | **Fraud / UCL** | **CGC-25-631802** | S.F. Superior | Active | Proposed SAC | **CSAA + DOES** |
 

@@ -6,6 +6,7 @@
 
 | Date | Case | Event | Key papers in this site |
 |------|------|--------|-------------------------|
+| **August 20, 2026** | **A173827** | Appellant's reply brief, motion to disregard extra-record matter, supplemental RJN, consolidated exhibits, proposed orders | [aug20 reply hub](01-APPEAL/aug20-2026-reply/README.md) · [09-Appellants-Reply-Brief.pdf](01-APPEAL/09-Appellants-Reply-Brief.pdf) |
 | **August 14, 2026** | **802 + 801** | Notices of appeal, stay notices, fee oppositions, CM-110s; 801 tax motion | [802 Aug 14 hub](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 Aug 14 hub](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) |
 | **August 11, 2026** | **CGC-25-631801** | Reconsideration of May 12 / Aug 6 anti-SLAPP order **DENIED** (ROA minutes; no appearance; proposed order directed to prevailing party; no DocID yet; seq 199-200) | [801 STATE-2026-08-13](02-CASE-CGC-25-631801/docket-state/STATE-2026-08-13.md) · [CALENDAR-2026-08-13](02-CASE-CGC-25-631801/docket-state/CALENDAR-2026-08-13.md) |
 | August 6, 2026 | CGC-25-631801 | Entered order granting motion to strike amended complaint | [801 Aug 6 order PDF](02-CASE-CGC-25-631801/court-orders/2026-08-06-strike-order-grant/README.md) |

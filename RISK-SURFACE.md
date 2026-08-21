@@ -101,7 +101,7 @@ The remainder of this document develops each element of that chain with line-ite
 | Proceeding | Case Number | Forum | Posture | Operative Pleading | Defense-Side Parties |
 |---|---|---|---|---|---|
 | Underlying Trial | CGC-21-594102 | S.F. Superior | Judgment entered; under challenge | N/A (concluded) | Abdelhalim |
-| **Appeal** | **A173827** | First Appellate District | Briefing complete; awaiting decision | Appellant's Opening Brief | Respondent: **Abdelhalim only** |
+| **Appeal** | **A173827** | First Appellate District | Reply filed August 20, 2026; awaiting decision | Appellant's Reply Brief | Respondent: **Abdelhalim only** |
 | **Equity Action** | **CGC-25-631801** | S.F. Superior | Active; demurrer/opposition stage | Second Amended Complaint | **Abdelhalim, CSAA, PSA (Navaratnasingham, Reyna), Chambers, CSK** |
 | **Fraud / UCL Action** | **CGC-25-631802** | S.F. Superior | Active; motion for leave to amend | Proposed Second Amended Complaint | **CSAA + DOES only** (Abdelhalim and law firms are NOT defendants) |
 
@@ -232,8 +232,8 @@ This section isolates each of the three active proceedings to show precisely whi
 |---|---|
 | Case Number | A173827 |
 | Forum | California Court of Appeal, First Appellate District |
-| Procedural Posture | Briefing complete; awaiting decision |
-| Operative Pleading | Appellant's Opening Brief |
+| Procedural Posture | Reply filed August 20, 2026; awaiting decision |
+| Operative Pleading | Appellant's Reply Brief (with Opening Brief) |
 
 **Parties**
 

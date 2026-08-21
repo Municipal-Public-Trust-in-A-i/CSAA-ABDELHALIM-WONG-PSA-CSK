@@ -18,7 +18,7 @@ Both superior-court cases are now on appeal to the **California Court of Appeal,
 
 Stay notices cite CCP 916 and *Varian Medical Systems, Inc. v. Delfino* (2005) 35 Cal.4th 180. That is plaintiff's filed legal position. It is not a court order taking August 26 or September 8 off calendar.
 
-The older **A173827** appeal of the CGC-21-594102 trial verdict remains a separate proceeding.
+The older **A173827** appeal of the CGC-21-594102 trial verdict remains a separate proceeding. Appellant's reply brief and companion papers (motion to disregard extra-record matter, supplemental RJN, exhibits, proposed orders) are dated August 20, 2026. Hub: [01-APPEAL/aug20-2026-reply](../01-APPEAL/aug20-2026-reply/README.md).
 
 ---
 

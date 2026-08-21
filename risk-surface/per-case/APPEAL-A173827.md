@@ -1,4 +1,4 @@
-# Appeal A173827 — Per-case risk (canonical: retrial for dollar breakdown)
+# Appeal A173827 - Per-case risk (canonical: retrial for dollar breakdown)
 
 **Source:** [`RISK.SURFACE.md`](../../RISK.SURFACE.md) § IV.A.
 
@@ -8,8 +8,8 @@
 |-------|-------|
 | Case Number | A173827 |
 | Forum | California Court of Appeal, First Appellate District |
-| Procedural Posture | Briefing complete; awaiting decision |
-| Operative Pleading | Appellant's Opening Brief |
+| Procedural Posture | Reply filed August 20, 2026; awaiting decision |
+| Operative Pleading | Appellant's Reply Brief (with Opening Brief) |
 
 ## Parties
 
@@ -26,7 +26,7 @@
 |-----|-------|------------------------------|--------|
 | 1 | Jury question on Vehicle Code duties | CCP § 614; Veh. Code §§ 22107, 21804(a) | Deliberating jury asked about statutory turning duties; court barred consideration and refused instruction |
 | 2 | Instructional error / "not in evidence" mis-framing | Evid. Code § 451(a); *Sesler v. Ghumman* (1990) 219 Cal.App.3d 218 | Court told jury statutes were "not in evidence" despite mandatory judicial notice of law |
-| 3 | Prejudice | *Soule v. General Motors Corp.* (1994) 8 Cal.4th 548; *People v. Watson* (1956) 46 Cal.2d 818 | 9–3 liability verdict; error at verdict formation; reasonable probability of different result |
+| 3 | Prejudice | *Soule v. General Motors Corp.* (1994) 8 Cal.4th 548; *People v. Watson* (1956) 46 Cal.2d 818 | 9-3 liability verdict; error at verdict formation; reasonable probability of different result |
 | 4 | Asymmetric "not in evidence" treatment | Veh. Code § 360 | Definitions supplied after prohibiting §§ 22107/21804 |
 | 5 | Defense closing asymmetry | *Cassim v. Allstate Ins. Co.* (2004) 33 Cal.4th 780 | Defense used excluded materials and officer "fault" opinion without reciprocal access |
 
@@ -39,13 +39,13 @@
 | Direct monetary award | **No** | Appellate court does not award damages |
 | Costs on appeal | Yes | If appellant prevails |
 
-**Unavailable here:** Compensatory damages, punitive damages, restitution, injunction — only at retrial.
+**Unavailable here:** Compensatory damages, punitive damages, restitution, injunction: only at retrial.
 
 ## Win probability
 
 | Scenario | Probability range |
 |----------|-------------------|
-| Reversal and remand for new trial | 70% – 80% |
+| Reversal and remand for new trial | 70% to 80% |
 
 ## Monetary exposure in *this* case (Abdelhalim only)
 
@@ -53,7 +53,7 @@
 
 **Derivative exposure** if the appeal succeeds = **retrial** exposure for Abdelhalim. **All dollar figures for that scenario appear only once**, here:
 
-**→ [RETRIAL-CGC-21-594102.md — Abdelhalim totals](RETRIAL-CGC-21-594102.md#retrial-totals-abdelhalim)** (conservative / median / upper).
+**→ [RETRIAL-CGC-21-594102.md - Abdelhalim totals](RETRIAL-CGC-21-594102.md#retrial-totals-abdelhalim)** (conservative / median / upper).
 
 *Line-item PI breakdown:* [compensatory line items](RETRIAL-CGC-21-594102.md#retrial-compensatory-line-items) · [punitive band](RETRIAL-CGC-21-594102.md#retrial-punitive-abdelhalim).
 

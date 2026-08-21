@@ -35,7 +35,8 @@ The May 2026 scaffold packet at [POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL](P
 ## A173827 (trial appeal; separate proceeding)
 
 **Underlying Case:** CGC-21-594102 (Rosario v. Abdelhalim et al.)  
-**Respondent:** Subhi Abdelhalim et al.
+**Respondent:** Subhi Abdelhalim et al.  
+**August 20, 2026 hub:** [aug20-2026-reply/README.md](aug20-2026-reply/README.md)
 
 | # | Document | PDF |
 |---|----------|-----|
@@ -46,6 +47,13 @@ The May 2026 scaffold packet at [POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL](P
 | 5 | Appellant's Supplemental Memorandum | [05-Appellants-Supplemental-Memorandum.pdf](05-Appellants-Supplemental-Memorandum.pdf) |
 | 6 | Motion to Augment Record | [06-Motion-to-Augment-Record.pdf](06-Motion-to-Augment-Record.pdf) |
 | 7 | Appeal Exhibits (combined) | [07-Appeal-Exhibits.pdf](07-Appeal-Exhibits.pdf) |
+| 8 | Respondent's Opening Brief (August 3, 2026) | [08-Respondents-Opening-Brief.pdf](08-Respondents-Opening-Brief.pdf) |
+| 9 | Appellant's Reply Brief (August 20, 2026) | [09-Appellants-Reply-Brief.pdf](09-Appellants-Reply-Brief.pdf) |
+| 10 | Motion to Disregard Matters Outside the Record in Respondent's Brief, or in the Alternative to Strike | [10-Motion-to-Disregard-RB.pdf](10-Motion-to-Disregard-RB.pdf) |
+| 11 | Supplemental Request for Judicial Notice | [11-Supplemental-RJN.pdf](11-Supplemental-RJN.pdf) |
+| 12 | Consolidated Exhibits (reply wave) | [12-Consolidated-Exhibits.pdf](12-Consolidated-Exhibits.pdf) |
+| 13 | Proposed Order (Motion to Disregard) | [13-Proposed-Order-Disregard-RB.pdf](13-Proposed-Order-Disregard-RB.pdf) |
+| 14 | Proposed Order (Supplemental RJN) | [14-Proposed-Order-SRJN.pdf](14-Proposed-Order-SRJN.pdf) |
 
 ---
 
