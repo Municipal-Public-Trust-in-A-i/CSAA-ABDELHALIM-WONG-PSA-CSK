@@ -6,7 +6,7 @@
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud, now appellate-preservation posture) · CGC-25-631802 (UCL / denial-letter fraud, live trial-court front)
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
-**Last refresh:** August 20, 2026 (see [What's new](#whats-new)).
+**Last refresh:** August 21, 2026 (see [What's new](#whats-new)).
 
 > **Posture (August 14, 2026):** Notices of appeal were File & Serve authorized in **both** CGC-25-631802 (Tx `80347004`) and CGC-25-631801 (Tx `80347363`). Those appeals go to the **California Court of Appeal, First Appellate District**. Appellate numbers are **TBA**. Same-day stay notices (CCP 916 / *Varian*) were authorized in Dept. 302 (Tx `80347745`) and Dept. 301 (Tx `80347943`). The defense is seeking **$32,928.27** in 802 fees (Aug 26, Dept. 302) and **$37,110.46** in 801 fees (Sept 8, Dept. 301, ROA-confirmed), plus a vexatious-litigant order in 802 on Aug 26. Plaintiff opposed both fee motions and filed an 801 motion to tax costs. **Next CMC:** September 9, 2026, 10:30 a.m., Dept. 610. See [802 Aug 14 hub](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 Aug 14 hub](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [ANALYSIS/AUG-2026-POSTURE.md](ANALYSIS/AUG-2026-POSTURE.md).
 
@@ -243,9 +243,13 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 **Deeper attorney reading:** [CASE-DOSSIER.md](CASE-DOSSIER.md) (Markdown) · **[CASE-DOSSIER.pdf](CASE-DOSSIER.pdf)** (download) · [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md) · [RISK-AND-ECONOMICS.md](RISK-AND-ECONOMICS.md).
 
-**Big-picture analytical writing already on this site:** [ANALYSIS/README.md](ANALYSIS/README.md) · [CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md) · [CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md](CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) · [CONTRADICTION-LETTER.md](CONTRADICTION-LETTER.md) · [SPINE.md](SPINE.md) · [BOOK-OUTLINE.md](BOOK-OUTLINE.md) (every Markdown file on the site).
+**Big-picture analytical writing already on this site:** [ANALYSIS/README.md](ANALYSIS/README.md) · [CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md) · [CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md](CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) · [CONTRADICTION-LETTER.md](CONTRADICTION-LETTER.md) · [LETTER-TO-OCONNELL-AUG21-2026.md](LETTER-TO-OCONNELL-AUG21-2026.md) (personal dialogue; not a filing) · [SPINE.md](SPINE.md) · [BOOK-OUTLINE.md](BOOK-OUTLINE.md) (every Markdown file on the site).
 
 ---
+
+## What's new (August 21, 2026)
+
+- **Personal dialogue letter to Tyler J. O'Connell (not a filing).** First Amendment / article I, section 2 commentary addressed to CSAA's counsel of record, with a face waiver that it is personal dialogue, not a pleading, not a settlement offer, and not a substitute for papers on file. Canonical: [LETTER-TO-OCONNELL-AUG21-2026.md](LETTER-TO-OCONNELL-AUG21-2026.md) · email-ready twin: [LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md](LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md). Formal positions remain those in the filed 801/802 and A173827 papers.
 
 ## What's new (August 20, 2026)
 
@@ -769,6 +773,8 @@ The story of how one brain-injured plaintiff, proceeding alone against a multi-b
 ├── CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md
 ├── CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md
 ├── CONTRADICTION-LETTER.md
+├── LETTER-TO-OCONNELL-AUG21-2026.md (personal dialogue; not a filing)
+├── LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md
 ├── SPINE.md  +  BOOK-OUTLINE.md
 ├── evidence.md  +  evidence.html
 ├── ROSARIO.md                        (long-form case overview)
