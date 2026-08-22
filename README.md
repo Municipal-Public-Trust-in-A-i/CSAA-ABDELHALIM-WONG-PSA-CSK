@@ -11,6 +11,14 @@
 
 This page is written to be read start to finish. It is an analysis of four proceedings that share one evidentiary spine, told in the order the dispute actually developed: the two documents that cannot both be true, the trial that turned on them, the appeal from that trial, and the two 2025 actions that ask a court to look at the same contradiction from the equity side and the insurance side. For each proceeding: the question presented, where the defense stands, what the filed record shows, and what is scheduled next.
 
+> ### Before the case numbers, there is a person
+>
+> Someone crossed a street. Three weeks later, while they were still in a hospital bed, a company that had never listened to the recording of the collision decided in writing that its investigation was concluded. Everything below this line, four proceedings and several thousand pages, is the downstream consequence of that one decision.
+>
+> Nobody chooses this. Litigation is what is left over when a company certifies an investigation it did not perform and no other institution will look.
+>
+> **[Read the story, told without names](WHAT-HAPPENS-TO-A-PERSON.md)**
+
 Retired homepage, with the April 2026 motion-practice narrative and dated refresh history: [README.ARCHIVE-2026-08.md](README.ARCHIVE-2026-08.md). Earlier still: [README.LEGACY.md](README.LEGACY.md).
 
 ---
@@ -42,7 +50,11 @@ A fifth thing is now happening alongside all of it. On August 26, 2026 the insur
 
 The materials at issue are not marginal. They are the 911 audio, the body-worn camera footage, and the computer-aided dispatch records: the contemporaneous account of a collision with no neutral eyewitness. The 911 exclusion is the reason a jury deciding a crosswalk collision never heard the driver's own words in the minutes after impact.
 
-Reconciling the two writings requires that one of the two representations be false. That single proposition is the spine of every proceeding described below. Element-by-element statement with pleading-paragraph citations: [MERITS.md](MERITS.md). Source exhibits: [MERITS-EXHIBITS/](MERITS-EXHIBITS/README.md).
+Reconciling the two writings requires that one of the two representations be false. That single proposition is the spine of every proceeding described below.
+
+Stated as a document problem it sounds technical. Stated as what it is, a letter telling an injured person that a search was performed when the search was not performed, it is not technical at all: [what happens to a person](WHAT-HAPPENS-TO-A-PERSON.md).
+
+Element-by-element statement with pleading-paragraph citations: [MERITS.md](MERITS.md). Source exhibits: [MERITS-EXHIBITS/](MERITS-EXHIBITS/README.md).
 
 ---
 
@@ -230,6 +242,7 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 
 | Audience | Entry point | What it gives you |
 |----------|-------------|-------------------|
+| Anyone who has ever been denied | [WHAT-HAPPENS-TO-A-PERSON.md](WHAT-HAPPENS-TO-A-PERSON.md) | The human shape of a claim denial, told with no names and no case numbers |
 | California counsel | [FOR-ATTORNEYS.md](FOR-ATTORNEYS.md) | One-page intake brief |
 | Journalists and writers | [JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md) | Newsroom narrative |
 | Researchers and public | [CASE-DOSSIER.md](CASE-DOSSIER.md) ([PDF](CASE-DOSSIER.pdf)) | Thirty-minute curated tour |
