@@ -201,12 +201,12 @@ Full index with sent-status detail: [correspondence/INDEX.md](correspondence/IND
 
 ## The completeness set
 
-Phase 1 of the August 21, 2026 Porter Scott mailbox export publishes the challenged threads in full, so a reader can check the curated table above against the raw mail. **187 messages across 75 email threads**, every one of them a readable page with its own link:
+The August 21, 2026 Porter Scott mailbox export is published in full, so a reader can check the curated table above against the raw mail. **302 messages across 103 email threads**, every one of them a readable page with its own link:
 
 | Set | Files | What it is |
 |-----|-------|------------|
-| [THREADS.md](correspondence/full-archive/THREADS.md) | all 187 | Every thread, collected into nine chronological groups, each group introduced by one paragraph explaining what that stretch of correspondence is about. Start here. |
-| [outbound/INDEX.md](correspondence/full-archive/outbound/INDEX.md) | 76 | Rosario-sent bodies, listed by date with subject and correspondent. Where a span is withheld under Rule 3, a visible marker appears that does not describe the withheld words. |
+| [THREADS.md](correspondence/full-archive/THREADS.md) | all 302 | Every thread, collected into ten chronological groups, each group introduced by one paragraph explaining what that stretch of correspondence is about. Start here. |
+| [outbound/INDEX.md](correspondence/full-archive/outbound/INDEX.md) | 191 | Rosario-sent bodies, listed by date with subject and correspondent. Where a span is withheld under Rule 3, a visible marker appears that does not describe the withheld words. |
 | [inbound/INDEX.md](correspondence/full-archive/inbound/INDEX.md) | 86 | Defense mail, labeled as defense speech, not Rosario speech. |
 | [court-staff/INDEX.md](correspondence/full-archive/court-staff/INDEX.md) | 25 | Department 301 and 302 calendar and tentative-ruling mail, never labeled as Rosario speech. |
 | [UNREDACTED-COURT-SEEN.md](correspondence/full-archive/UNREDACTED-COURT-SEEN.md) | 80 IDs | Threads already lodged as exhibits, published with zero redaction, matching the filed exhibit. Tone is not cleaned. |

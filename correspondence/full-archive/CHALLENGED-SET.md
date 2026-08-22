@@ -1,4 +1,4 @@
-# Challenged-set map (Phase 1)
+# Challenged-set map
 
 **This page is not a filing.** It is not new service. It does not restart any CCP 128.7 clock. It does not describe withheld words.
 
@@ -31,7 +31,7 @@ Lodged PDF: [defense-03-DECL-OCONNELL.pdf](../../03-CASE-CGC-25-631802/vexatious
 
 Index: [12-SUPPLEMENTAL-EXHIBIT-INDEX-DEFENSE-EMAILS.pdf](../../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/plaintiff/12-SUPPLEMENTAL-EXHIBIT-INDEX-DEFENSE-EMAILS.pdf)
 
-## Other Phase 1 challenged bodies
+## Other challenged bodies
 
 NavaRAT / Reyna characterization bodies and the July 22-28 vexatious-thread bodies are in `outbound/` or `inbound/` by From-line. One July 27 128.7 letter is **not** reclassified here; see [../safe-harbor-1287/2026-07-27-1287-vexatious-802.md](../safe-harbor-1287/2026-07-27-1287-vexatious-802.md).
 

@@ -6,12 +6,12 @@ This is the completeness set of Porter Scott query correspondence (export dated 
 
 ## Start here
 
-187 messages across 75 email threads. Four ways in:
+302 messages across 103 email threads. Four ways in:
 
 | Page | Covers | Best for |
 |------|--------|----------|
-| [THREADS.md](THREADS.md) | all 187, grouped into 9 chronological groups | reading the correspondence as a story, with one paragraph explaining each group |
-| [outbound/INDEX.md](outbound/INDEX.md) | 76 Rosario-sent | finding a specific message that plaintiff sent |
+| [THREADS.md](THREADS.md) | all 302, grouped into 10 chronological groups | reading the correspondence as a story, with one paragraph explaining each group |
+| [outbound/INDEX.md](outbound/INDEX.md) | 191 Rosario-sent | finding a specific message that plaintiff sent |
 | [inbound/INDEX.md](inbound/INDEX.md) | 86 defense-sent | finding a specific message from defense counsel |
 | [court-staff/INDEX.md](court-staff/INDEX.md) | 25 court-staff | the Department 301 and 302 calendar and tentative-ruling record |
 
@@ -24,12 +24,14 @@ Every message page carries its date, correspondent, subject, direction, and tier
 3. **Inbound defense mail** is labeled as defense speech, not Rosario speech.
 4. **Court-staff mail** lives in [court-staff/](court-staff/) and is never labeled as Rosario speech.
 
+Attachment PDFs and their extracted text are **not** copied into this folder. Where a thread is a filed exhibit, each page links the lodged PDF instead.
+
 Statutory class archives stay where they are. Do not treat this folder as a substitute for:
 
 - [Evidence Code 1152 settlement papers](../settlement-1152/)
 - [CCP 128.7 safe-harbor papers](../safe-harbor-1287/)
 
-Phase 1 is the challenged set, inbound defense mail, and court-staff mail. Remaining outbound is Phase 2.
+The completeness set now carries the whole export: the challenged set, inbound defense mail, court-staff mail, and the full run of outbound sent mail. 80 export ids are court-seen and publish unredacted.
 
 Publishing is not service. Completeness is not immunity from CCP 391.
 
