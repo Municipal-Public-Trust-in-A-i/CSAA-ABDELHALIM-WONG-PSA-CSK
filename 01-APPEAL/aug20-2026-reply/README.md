@@ -3,7 +3,7 @@
 > **Forum:** California Court of Appeal, First Appellate District, Division Three.  
 > **Case:** A173827 (review of San Francisco Superior Court CGC-21-594102).  
 > **Filing date:** August 20, 2026 (proof of service executed that date). TrueFiling envelope ID is not in this workspace.  
-> **Hold:** This is the trial-verdict appeal. It is not a federal district-court filing. It is not the August 14 anti-SLAPP notices in CGC-25-631801 / CGC-25-631802.
+> **Hold:** This hub mirrors the A173827 trial-verdict appeal papers.
 
 Public mirror of appellant's reply to Respondent's Opening Brief (dated August 3, 2026), plus companion papers filed the same day: a motion to disregard extra-record matter in the respondent's brief, a supplemental request for judicial notice, consolidated exhibits, and two proposed orders.
 
@@ -15,7 +15,7 @@ Public mirror of appellant's reply to Respondent's Opening Brief (dated August 3
 
 Appellant (Franciscus Dylan Rosario, in pro per) filed a reply brief answering respondent Subhi Abdelhalim's August 3, 2026 brief. The companion motion asks the Court of Appeal to disregard, or in the alternative strike, matters outside the appellate record. The supplemental RJN asks the court to notice specified records. Proposed orders travel with those applications.
 
-This layer does not ask the First District to decide the 801 equity action or the 802 UCL action.
+This layer is the A173827 trial-verdict appeal. The 801 equity action and the 802 UCL action remain in their own hubs.
 
 ---
 
