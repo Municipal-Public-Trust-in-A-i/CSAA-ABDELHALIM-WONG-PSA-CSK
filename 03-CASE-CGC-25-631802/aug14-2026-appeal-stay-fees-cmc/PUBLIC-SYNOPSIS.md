@@ -1,7 +1,7 @@
 # August 14, 2026 - public synopsis (802 appeal, stay, and fees)
 
 **Case:** CGC-25-631802 · **Court:** San Francisco Superior Court · **Appeal forum:** California Court of Appeal, First Appellate District  
-**This page is a journalist-readable overview of filed papers.** It does not predict outcomes. Full PDFs: [hub README](README.md).
+**This page is a journalist-readable overview of filed papers.** Full PDFs: [hub README](README.md).
 
 ---
 
@@ -44,11 +44,5 @@ The older A173827 appeal of the 2021 trial verdict is a **different** proceeding
 | August 26, 2026, 9:00 a.m., Dept. 302 | 802 defense access/fee hearing |
 | September 8, 2026, 9:00 a.m., Dept. 301 | 801 fee motion ($37,110.46) |
 | September 9, 2026, 10:30 a.m., Dept. 610 | CMC, both cases |
-
----
-
-## 5. What this page does not include
-
-No Contra Costa complaint. No CDI complaint. No hearing-kit drafts. No predraft opening brief. Those items are not on the San Francisco Superior Court docket for this wave.
 
 Nothing here is legal advice. Allegations in complaints remain unproven until adjudicated.

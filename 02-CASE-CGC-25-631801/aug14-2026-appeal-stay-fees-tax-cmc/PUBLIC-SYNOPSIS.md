@@ -1,7 +1,7 @@
 # August 14, 2026 - public synopsis (801 appeal, stay, fees, and tax)
 
 **Case:** CGC-25-631801 · **Court:** San Francisco Superior Court · **Appeal forum:** California Court of Appeal, First Appellate District  
-**This page is a journalist-readable overview of filed papers.** It does not predict outcomes. Full PDFs: [hub README](README.md).
+**This page is a journalist-readable overview of filed papers.** Full PDFs: [hub README](README.md).
 
 ---
 
@@ -50,11 +50,5 @@ The older A173827 appeal of the 2021 trial verdict is a **different** proceeding
 | September 9, 2026, 10:30 a.m., Dept. 610 | CMC, both cases |
 
 Reconsideration of the 801 strike order was **denied August 11, 2026**. No written-order DocID is on the register yet.
-
----
-
-## 5. What this page does not include
-
-No Contra Costa complaint. No CDI complaint. No hearing-kit drafts. No predraft opening brief. No invented DocID for the August 11 minutes or for a separate 801 MC-010.
 
 Nothing here is legal advice. Allegations in complaints remain unproven until adjudicated.

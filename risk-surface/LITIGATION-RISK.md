@@ -345,13 +345,13 @@ To avoid over-narrating, here is a **menu** of plaintiff options commonly on the
 19. **Insurance / indemnity mapping** if additional pockets matter.  
 20. **Post-judgment enforcement** planning as part of litigation strategy, not as an afterthought.
 
-### A.15 — Guardrails (what this appendix is not)
+### A.15 — Guardrails
 
-This appendix is not a promise that any option is **available**, **wise**, or **lawful** in your specific posture. Some branches implicate **ethics** (communications, settlement authority, misrepresentation risk). Some branches implicate **procedure** that varies by department, judge, and current local rules. Some branches depend on whether claims are **individual**, **class**, or **representative**, which changes the entire tree.
+Each branch is case-specific. Ethics rules, local procedure, and whether a claim is individual, class, or representative control whether a branch applies.
 
 ### A.16 — Illustrative post-order playbook (30 / 60 / 90 days; dual-case aware)
 
-This section is **not** a litigation plan for any real docket. It is a **scenario pacing model** to show how the option tree compresses into calendars when plaintiff wins the threshold motions in **both** cases at roughly the same time (or in close sequence). The point is to make explicit that “winning demurrer/anti-SLAPP” converts into **workstreams** that compete for the same hours: fees, appeals, discovery, experts, MSJ defense, trial prep, settlement, and enforcement planning.
+This section is a **scenario pacing model**. It shows how the option tree compresses into calendars when plaintiff wins the threshold motions in **both** cases at roughly the same time (or in close sequence). The point is to make explicit that “winning demurrer/anti-SLAPP” converts into **workstreams** that compete for the same hours: fees, appeals, discovery, experts, MSJ defense, trial prep, settlement, and enforcement planning.
 
 **Days 0–14 (stabilize the win and prevent accidental leakage).** The immediate work is administrative and forensic: obtain **clean orders** and minute orders; confirm **operative pleading**; identify whether any **leave to amend** language still exists that could reopen pleading fights; map **deadlines** triggered by the orders; and build a **single master calendar** for 801 and 802 if both are active. In parallel, plaintiff-side counsel typically begins a **claim chart** (elements, proof gaps, damages hooks) and a **defense-theory chart** (what answers and affirmative defenses now frame the battlefield). If anti-SLAPP fee relief is part of the strategy, this window is when teams decide **file now** versus **package later**, including whether fee motion **tone** should be “routine statutory recovery” or “signal-sending,” which can affect settlement chemistry. If there is meaningful **appellate risk**, this is also when you begin **record hygiene**: ensure transcripts are ordered where needed, ensure the court’s reasoning is captured in a way that will not create ambiguity later, and identify whether any post-order motion practice is anticipated (for example, clarification requests—always fact-specific and judge-dependent).
 

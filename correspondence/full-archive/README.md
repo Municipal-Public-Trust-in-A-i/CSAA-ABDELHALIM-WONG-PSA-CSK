@@ -26,13 +26,13 @@ Every message page carries its date, correspondent, subject, direction, and tier
 
 Attachment PDFs and their extracted text are **not** copied into this folder. Where a thread is a filed exhibit, each page links the lodged PDF instead.
 
-Statutory class archives stay where they are. Do not treat this folder as a substitute for:
+Statutory class archives stay where they are:
 
 - [Evidence Code 1152 settlement papers](../settlement-1152/)
 - [CCP 128.7 safe-harbor papers](../safe-harbor-1287/)
 
 The completeness set now carries the whole export: the challenged set, inbound defense mail, court-staff mail, and the full run of outbound sent mail. 80 export ids are court-seen and publish unredacted.
 
-Publishing is not service. Completeness is not a substitute for papers already on file.
+Publishing is not service. This page is not a filing. It does not restart any Code of Civil Procedure section 128.7 clock.
 
 [Thread groups](THREADS.md) · [Challenged-set map](CHALLENGED-SET.md) · [Correspondence hub](../README.md) · [Site root](../../README.md)

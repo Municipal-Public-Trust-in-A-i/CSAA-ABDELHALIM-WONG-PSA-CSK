@@ -211,11 +211,9 @@ Co-counsel arrangements, referral relationships, consultation, and other forms o
 
 ---
 
-## XI. A NOTE ON WHAT THIS STATEMENT DOES AND DOES NOT CONTAIN
+## XI. THE PUBLIC RECORD
 
-This statement contains facts drawn from the public record of the Superior Court of California, County of San Francisco, and sworn testimony documented in the Reporter's Transcripts. It does not contain privileged information, internal strategy, or specific pleading arguments that will be developed in future filings. Procedural and substantive positions on anticipated defense motions are being prepared and will be presented to the court at the appropriate time. The three-case structure provides multiple avenues, procedural tools, and legal theories, not all of which are described here. Interested attorneys who wish to understand the full scope of available options are invited to review the case files and to contact Mr. Rosario for a more detailed discussion.
-
-Every statement in the underlying complaints is made in good faith, is supported by the record, and is subject to verification by anyone who obtains the court file. Steps have been taken to preserve the record, to ensure that related cases are properly coordinated, and to protect the integrity of the evidence. Additional filings and discovery are expected as the cases progress. The courts handling the related complaints are aware of the appeal, and the appellate court is aware of the trial-level complaints. Each proceeding moves forward on its own schedule, but the courts have the full picture.
+This statement draws facts from the public record of the Superior Court of California, County of San Francisco, and sworn testimony documented in the Reporter's Transcripts. Every statement in the underlying complaints is made in good faith, is supported by the record, and is subject to verification by anyone who obtains the court file. The courts handling the related complaints are aware of the appeal, and the appellate court is aware of the trial-level complaints. Each proceeding moves forward on its own schedule, but the courts have the full picture.
 
 The record in this case is extraordinary. It is rare for a trial record to contain, in one place, a defendant's authenticated admission, sworn testimony about evidence service that no one has contradicted, verbatim transcripts of representations to the court that are directly at odds with that testimony, a jury's written question asking for the governing law, the court's written refusal to provide it, and a 9-3 verdict. Usually, some of these elements are present and others must be inferred. Here, they are all documented. That is why these cases deserve attention. Not because one side says so, but because the record says so.
 

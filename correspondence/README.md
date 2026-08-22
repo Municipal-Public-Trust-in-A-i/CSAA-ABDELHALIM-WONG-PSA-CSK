@@ -1,6 +1,6 @@
 # Correspondence archive (Rosario to defense)
 
-Public archive of Rosario-sent emails and letters to Porter Scott / CSAA through counsel. **This folder is not a filing.** It is not new service. It does not restart any Code of Civil Procedure section 128.7 clock. It does not convert statutory papers into personal dialogue.
+Public archive of Rosario-sent emails and letters to Porter Scott / CSAA through counsel. **This folder is not a filing.** It is not new service. It does not restart any Code of Civil Procedure section 128.7 clock.
 
 **Start here:** [INDEX.md](INDEX.md) (32-event curated class archive). **Completeness set:** [full-archive/README.md](full-archive/README.md). **Reservation:** [banners/reservation-of-rights.md](banners/reservation-of-rights.md).
 

@@ -2,7 +2,7 @@
 
 > **Forum:** San Francisco Superior Court; appeal to the California Court of Appeal, First Appellate District.  
 > **Filing status:** File & ServeXpress authorized August 14, 2026. Appellate number **TBA**. Do not invent a First District number.  
-> **Hold:** This hub mirrors filed SF Superior papers and the already-docketed defense fee motion only. No Contra Costa complaint. No CDI complaint. No hearing-kit drafts. No AOB predrafts.
+> **Hold:** This hub mirrors filed SF Superior papers and the already-docketed defense fee motion.
 
 Public mirror of plaintiff's August 14, 2026 File & Serve wave in CGC-25-631801, plus the defense CCP 425.16(c) fee motion already on the register (August 11, 2026).
 
@@ -71,17 +71,6 @@ Source order on appeal: August 6, 2026 strike order, DocID `10361462`. May 12, 2
 | 3 | Memorandum of Points and Authorities | Tx `80309587` / DocID `10369673` (seq 203) | [03-MPA-ISO-FEES.pdf](defense/03-MPA-ISO-FEES.pdf) |
 
 Demand: **$37,110.46**. Hearing: September 8, 2026, 9:00 a.m., Dept. 301 (ROA-confirmed). Do not invent a separate MC-010 DocID or a proposed-order DocID.
-
----
-
-## What this hub does not include
-
-- No Contra Costa complaint materials.
-- No CDI administrative complaint.
-- No August 26 hearing outline, paper demonstrative, or hearing-day kit.
-- No predraft appellant's opening brief (no appellate number yet).
-- No clerk-upload notes or File & Serve instruction sheets.
-- No invented written order on the August 11 reconsideration denial.
 
 ---
 

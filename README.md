@@ -2,7 +2,7 @@
 
 > Open public record. All documents are California court filings. Nothing here is legal advice; allegations in complaints are unproven until adjudicated.
 
-> **Speech and petition (governing).** This archive is published as speech. The lawsuits are filed as petitions. Those are two different rights, and this site does not mix them. The homepage states them in full under [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public). Publishing a page here is not a filing, is not service, and does not restart any Code of Civil Procedure section 128.7 period.
+> **Speech and petition (governing).** This archive is published as speech. The lawsuits are filed as petitions. Those are two different rights. The homepage states them in full under [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public). Publishing a page here is not a filing, is not service, and does not restart any Code of Civil Procedure section 128.7 period.
 
 **Plaintiff:** Franciscus Dylan Rosario (in pro per)
 **Forums:** San Francisco Superior Court; California Court of Appeal, First Appellate District
@@ -43,7 +43,7 @@ Pages on this site that are **not** court papers say so on their face. The human
 
 The **First Amendment** also protects the right to petition the government for a redress of grievances. **Article I, section 3** of the California Constitution protects the right of the people to instruct their representatives, petition government for redress, and assemble. **Article I, section 16** protects jury trial. Plaintiff's appearance in propria persona, and the July 27, 2026 safe-harbor letter on the defense access/fee papers, invoke article I, sections 3 and 16 on their face: [2026-07-27-1287-vexatious-802.md](correspondence/safe-harbor-1287/2026-07-27-1287-vexatious-802.md).
 
-The petitions are the complaints, the oppositions, the notices of appeal, and the other papers already on file in CGC-21-594102, A173827, CGC-25-631801, and CGC-25-631802. This website is not a substitute for those papers. It is not a new petition. It is not an amendment of any filed theory. Positions directed to a party or to a tribunal remain solely those stated in the file.
+The petitions are the complaints, the oppositions, the notices of appeal, and the other papers already on file in CGC-21-594102, A173827, CGC-25-631801, and CGC-25-631802. Positions directed to a party or to a tribunal remain solely those stated in the file.
 
 That separation is deliberate. Speech about a case is not a filing in the case. Attaching a commentary page as an exhibit does not make it a filing by the speaker, and it does not erase the papers that actually state the positions.
 
@@ -52,15 +52,6 @@ That separation is deliberate. Speech about a case is not a filing in the case. 
 The **Fourteenth Amendment** and **article I, section 7** of the California Constitution protect due process, including access to the courts. Exercise of speech and petition cannot be used as the reason to deny that access, or as the reason to punish it.
 
 A company that certified an empty investigation later treats the claimant's public speech and court filings as the problem. After the 2021 denial-letter versus 2025 MIL-declaration contradiction, and after choosing anti-SLAPP on a 2021 claims letter, the defense asked a trial court for an access bar and fees on the strength of rulings now on appeal. That is an escape from merits adjudication, not a separate story. What remains here is the public statement of the rights already invoked in papers a court has seen: that a self-represented claimant may speak about a public record, may petition a court on that record, and may not be told that doing both is itself the offense.
-
-### What publishing here does, and what it does not do
-
-| This site does | This site does not |
-|---|---|
-| Publish speech about public court proceedings and a regulated insurer's claim-handling | Convert that speech into a pleading, motion, declaration, or judicial admission |
-| Mirror papers already filed or served | Serve anyone, restart any section 128.7 clock, or substitute for the official docket |
-| Keep each sent letter in the legal class it had on the day it was sent | Reclassify a settlement letter, a safe-harbor letter, or a service transmittal as commentary |
-| Reserve petition rights to the filed papers | Preview unfiled instruments, tactics, or sequencing |
 
 ---
 
@@ -250,7 +241,7 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 | Audience | Entry point | What it gives you |
 |----------|-------------|-------------------|
 | Anyone who has ever been denied | [WHAT-HAPPENS-TO-A-PERSON.md](WHAT-HAPPENS-TO-A-PERSON.md) | The human shape of a claim denial, told with no names and no case numbers |
-| Speech and petition rights | [this page](#speech-petition-and-why-this-archive-is-public) · [reservation of rights](correspondence/banners/reservation-of-rights.md) · [personal dialogue](correspondence/banners/personal-dialogue.md) | First Amendment; California Constitution article I, sections 2, 3, 7, and 16; what publishing is and is not |
+| Speech and petition rights | [this page](#speech-petition-and-why-this-archive-is-public) · [reservation of rights](correspondence/banners/reservation-of-rights.md) · [personal dialogue](correspondence/banners/personal-dialogue.md) | First Amendment; California Constitution article I, sections 2, 3, 7, and 16 |
 | California counsel | [FOR-ATTORNEYS.md](FOR-ATTORNEYS.md) | One-page intake brief |
 | Journalists and writers | [JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md) | Newsroom narrative |
 | Researchers and public | [CASE-DOSSIER.md](CASE-DOSSIER.md) ([PDF](CASE-DOSSIER.pdf)) | Thirty-minute curated tour |

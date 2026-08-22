@@ -8,4 +8,4 @@
 >
 > **3. Due process / retaliation.** Exercise of speech and petition rights cannot be used to deny **Fourteenth Amendment** due process or **article I, section 7** of the California Constitution, or to punish access to the courts. A company that certified an empty investigation later treats the claimant's public speech and court filings as the problem.
 >
-> Publishing this archive is not service. This page is not a filing.
+> Publishing this archive is not service. This page is not a filing. It does not restart any Code of Civil Procedure section 128.7 clock.

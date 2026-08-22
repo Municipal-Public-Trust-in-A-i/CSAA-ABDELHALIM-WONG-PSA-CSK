@@ -201,12 +201,6 @@ Two 911 audio channels are described on [evidence.md](../evidence.md): a **passe
 
 ---
 
-## 6Q. What this narrative intentionally omits
-
-It omits **graphic medical detail** because the public record PDFs already contain it where introduced. It omits **settlement negotiations** unless a **filed** document in this folder references them. It omits **social media** posts. It omits **witness addresses** and **sealed** discovery.
-
----
-
 ## 6R. Reading order for a single weekend
 
 **Saturday morning:** Read [evidence.md](../evidence.md) and listen to both 911 WAV links while following the printed transcripts on that page. **Saturday afternoon:** Read the **February 18, 2025** hearing PDF through the sections where discovery and continuance are discussed. **Sunday morning:** Read **Trial Day 7** and **Day 8** reporter PDFs in full, pausing at sidebar markers. **Sunday afternoon:** Skim **Day 11** for verdict-related colloquy, then open the **clerk’s transcript** at the appeal index’s CT cites for the **orders** that match those trial days.

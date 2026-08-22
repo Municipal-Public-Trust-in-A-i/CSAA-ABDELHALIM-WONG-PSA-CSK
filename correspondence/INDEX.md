@@ -2,7 +2,7 @@
 
 **Published:** August 21, 2026 (same-day public GitHub archive).
 **Cases named for context:** CGC-25-631801 · CGC-25-631802 · A173827 · CGC-21-594102.
-**This index is not a filing.** It is not new service on Porter Scott. It does not restart any Code of Civil Procedure section 128.7 clock. It does not convert meet-and-confer, 128.7, Evidence Code 1152, or service papers into personal dialogue.
+**This index is not a filing.** It is not new service on Porter Scott. It does not restart any Code of Civil Procedure section 128.7 clock.
 
 One row per **event** (not per `_1.md` twin). Canonical path is the public file that holds the Rosario-sent text, or a stub that links to a body already on this site.
 
@@ -60,14 +60,5 @@ Folder overview: [README.md](README.md)
 | 2026-08-21 | Personal dialogue letter to Tyler J. O'Connell | Personal dialogue | Published; **not claimed served** | [STUB](personal-dialogue/STUB-2026-08-21-letter.md) · [LETTER-TO-OCONNELL-AUG21-2026.md](../LETTER-TO-OCONNELL-AUG21-2026.md) · [email twin](../LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md) |
 
 **Row count:** 32 events.
-
----
-
-## What this archive is not
-
-- Not a new wave of email to Porter Scott.
-- Not a court filing in CGC-25-631801, CGC-25-631802, A173827, or CGC-21-594102.
-- Not a substitute for papers already on file. Commentary can still be attached as an exhibit; the banner exists so the exhibit stays labeled speech, not a plaintiff filing.
-- Not a restart of any 128.7 clock five days before the August 26, 2026, 9:00 a.m., Dept. 302 hearing.
 
 [← Site root](../README.md) · [Hearings calendar](../HEARINGS-CALENDAR.md) · [Legal analysis](../08-LEGAL-ANALYSIS/INDEX.md) · [August 2026 posture](../ANALYSIS/AUG-2026-POSTURE.md)

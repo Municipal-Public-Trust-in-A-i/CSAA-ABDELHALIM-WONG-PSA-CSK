@@ -1,6 +1,6 @@
 # Personal dialogue: email-ready twin (August 21, 2026)
 
-> Email-ready twin of [`LETTER-TO-OCONNELL-AUG21-2026.md`](LETTER-TO-OCONNELL-AUG21-2026.md). This is **personal dialogue** and public commentary. It is **not** a pleading, **not** a settlement offer, and **not** a paper for filing. Formal positions remain those in papers on file. Indexed in the [correspondence archive](correspondence/INDEX.md). **Not claimed served.**
+> Email-ready twin of [`LETTER-TO-OCONNELL-AUG21-2026.md`](LETTER-TO-OCONNELL-AUG21-2026.md). This is **personal dialogue** and public commentary. **This is not a court filing.** Formal positions remain those in papers on file. Indexed in the [correspondence archive](correspondence/INDEX.md). **Not claimed served.**
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## Waiver (paste at the top of the email)
 
-This email is my personal dialogue and public commentary. It is protected expression under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is not a pleading, motion, declaration, request for judicial notice, Evidence Code section 1152 settlement offer, or Code of Civil Procedure section 128.7 safe-harbor notice. I am not offering it for filing. Formal positions I direct to CSAA Insurance Exchange, to any other party, or to any tribunal remain solely those stated in papers already on file. Do not conflate this personal dialogue with those filed positions. If you attach this email as an exhibit, it remains personal dialogue. It is not a judicial admission.
+This email is my personal dialogue and public commentary. It is protected expression under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. This is not a court filing. Formal positions I direct to CSAA Insurance Exchange, to any other party, or to any tribunal remain solely those stated in papers already on file. Do not conflate this personal dialogue with those filed positions. If you attach this email as an exhibit, it remains personal dialogue.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Forum:** San Francisco Superior Court; appeal to the California Court of Appeal, First Appellate District.  
 > **Filing status:** File & ServeXpress authorized August 14, 2026. Appellate number **TBA**. Do not invent a First District number.  
-> **Hold:** This hub mirrors filed SF Superior papers and the already-docketed defense fee motion only. No Contra Costa complaint. No CDI complaint. No hearing-kit drafts. No AOB predrafts.
+> **Hold:** This hub mirrors filed SF Superior papers and the already-docketed defense fee motion.
 
 Public mirror of plaintiff's August 14, 2026 File & Serve wave in CGC-25-631802, plus the defense CCP 425.16(c) fee motion already on the register (July 17, 2026).
 
@@ -66,17 +66,6 @@ Demand as noticed: **$32,928.27**. Hearing: August 26, 2026, 9:00 a.m., Dept. 30
 
 ---
 
-## What this hub does not include
-
-- No Contra Costa complaint materials.
-- No CDI administrative complaint.
-- No August 26 hearing outline, paper demonstrative, or hearing-day kit.
-- No predraft appellant's opening brief (no appellate number yet).
-- No clerk-upload notes or File & Serve instruction sheets.
-- Defense access/fee papers stay in [vexatious-opposition-aug26-2026/](../vexatious-opposition-aug26-2026/README.md).
-
----
-
 ## Navigation
 
-[PUBLIC-SYNOPSIS](PUBLIC-SYNOPSIS.md) · [802 index](../INDEX.md) · [801 companion hub](../../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [Hearings calendar](../../HEARINGS-CALENDAR.md) · [Aug 2026 posture](../../ANALYSIS/AUG-2026-POSTURE.md) · [Site root](../../README.md)
+[PUBLIC-SYNOPSIS](PUBLIC-SYNOPSIS.md) · [802 index](../INDEX.md) · [defense access/fee papers](../vexatious-opposition-aug26-2026/README.md) · [801 companion hub](../../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [Hearings calendar](../../HEARINGS-CALENDAR.md) · [Aug 2026 posture](../../ANALYSIS/AUG-2026-POSTURE.md) · [Site root](../../README.md)

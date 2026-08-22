@@ -3,7 +3,7 @@ header-includes:
   - \usepackage{pdfpages}
 ---
 
-> **Class: meet-and-confer.** This communication **was** a meet-and-confer paper on April 27, 2026. Publishing it here does not convert it into personal dialogue. It is not a First Amendment commentary letter. It is not a new filing. Archive hub: [correspondence/INDEX.md](../../correspondence/INDEX.md).
+> **Class: meet-and-confer.** This communication **was** a meet-and-confer paper on April 27, 2026. Publishing it here keeps that class. Archive hub: [correspondence/INDEX.md](../../correspondence/INDEX.md).
 
 **Franciscus Dylan Rosario**  
 Plaintiff in Pro Per  
