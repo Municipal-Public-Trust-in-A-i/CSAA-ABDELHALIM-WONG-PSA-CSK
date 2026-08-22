@@ -19,8 +19,6 @@ This page is written to be read start to finish. It is an analysis of four proce
 >
 > **[Read the story, told without names](WHAT-HAPPENS-TO-A-PERSON.md)**
 
-Retired homepage, with the April 2026 motion-practice narrative and dated refresh history: [README.ARCHIVE-2026-08.md](README.ARCHIVE-2026-08.md). Earlier still: [README.LEGACY.md](README.LEGACY.md).
-
 ---
 
 ## Speech, petition, and why this archive is public

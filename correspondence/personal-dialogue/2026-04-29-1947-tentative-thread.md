@@ -12,7 +12,7 @@
 >
 > **Do not conflate the two.** If any party later attaches this commentary as an exhibit, it remains what it is on its face: personal dialogue. Attaching it does not make it a filing by me, and it does not erase the filed papers that actually state my positions.
 >
-> **Vexatious is a statutory finding, not a speech code.** A careful critique of motion practice, including in personal dialogue, does not make the speaker "vexatious." Code of Civil Procedure section 391 is not a prior restraint. It is not a license to punish commentary because an unrepresented claimant declined to be quiet.
+> **Speech is not a filing.** A careful critique of motion practice, including in personal dialogue, does not convert commentary into a pleading. A company that certified an empty investigation later treats the claimant's public speech and court filings as the problem.
 >
 > Publishing this archive is not service. This page is not a filing.
 
@@ -27,7 +27,7 @@ This page archives Rosario-sent text. Defense From text is omitted. This page is
 | Sent status | Sent. Nested From: Dylan Rosario in Porter Scott May 6, 2026 export 00030. |
 | Source | `porterscott_com_20260506/00030` lines 34-80 (ignore `_1.md` twin) |
 | Cases named | CGC-25-631802 |
-| Defense text | Omitted, including the April 30 O'Connell 'cease personal attacks / I will move vexatious' email at the top of 00030. That is defense-originated. |
+| Defense text | Omitted, including the April 30 O'Connell email pressing withdrawal and threatening an access bar at the top of 00030. That is defense-originated. |
 
 ## Sent text (Rosario only; as sent)
 

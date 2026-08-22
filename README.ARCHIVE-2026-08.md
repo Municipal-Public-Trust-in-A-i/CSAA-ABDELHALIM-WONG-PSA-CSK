@@ -14,7 +14,7 @@
 **Verdict:** 9 to 3 defense, April 23, 2025 (the bare minimum civil majority).
 **Last refresh:** August 21, 2026 (see [What's new](#whats-new)).
 
-> **Posture (August 21, 2026):** Notices of appeal are **on the civil register of actions** in **both** CGC-25-631802 (Tx `80347004`; DocIDs `10377025` / `10377027` / `10377028`) and CGC-25-631801 (Tx `80347363`; DocIDs `10377050` / `10377052` / `10377053`). Those appeals go to the **California Court of Appeal, First Appellate District**. Appellate numbers are **TBA**; do not infer them. Same-day stay notices (CCP 916 / *Varian*) were authorized in Dept. 302 (Tx `80347745`) and Dept. 301 (Tx `80347943`) and are **not yet on the register**. The defense is seeking **$32,928.27** in 802 fees (Aug 26, Dept. 302) and **$37,110.46** in 801 fees (Sept 8, Dept. 301, ROA-confirmed), plus a CCP 391 vexatious-litigant order in 802 on Aug 26. Plaintiff opposed both fee motions and filed an 801 motion to tax costs. In the older trial appeal **A173827**, plaintiff filed the **Appellant's Reply Brief** and four companion papers on **August 20, 2026**. **CMC continued:** September 9 is now **October 21, 2026, 10:30 a.m., Dept. 610** (801 DocID `10376072` / 802 DocID `10376074`). See [Where each side stands](#where-each-side-stands-august-21-2026) · [802 Aug 14 hub](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 Aug 14 hub](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [ANALYSIS/AUG-2026-POSTURE.md](ANALYSIS/AUG-2026-POSTURE.md).
+> **Posture (August 21, 2026):** Notices of appeal are **on the civil register of actions** in **both** CGC-25-631802 (Tx `80347004`; DocIDs `10377025` / `10377027` / `10377028`) and CGC-25-631801 (Tx `80347363`; DocIDs `10377050` / `10377052` / `10377053`). Those appeals go to the **California Court of Appeal, First Appellate District**. Appellate numbers are **TBA**; do not infer them. Same-day stay notices (CCP 916 / *Varian*) were authorized in Dept. 302 (Tx `80347745`) and Dept. 301 (Tx `80347943`) and are **not yet on the register**. The defense is seeking **$32,928.27** in 802 fees (Aug 26, Dept. 302) and **$37,110.46** in 801 fees (Sept 8, Dept. 301, ROA-confirmed), plus a defense access bar in 802 on Aug 26, used as an escape after the empty-file / anti-SLAPP contradiction. Plaintiff opposed both fee motions and filed an 801 motion to tax costs. In the older trial appeal **A173827**, plaintiff filed the **Appellant's Reply Brief** and four companion papers on **August 20, 2026**. **CMC continued:** September 9 is now **October 21, 2026, 10:30 a.m., Dept. 610** (801 DocID `10376072` / 802 DocID `10376074`). See [Where each side stands](#where-each-side-stands-august-21-2026) · [802 Aug 14 hub](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 Aug 14 hub](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [ANALYSIS/AUG-2026-POSTURE.md](ANALYSIS/AUG-2026-POSTURE.md).
 
 ---
 
@@ -24,16 +24,16 @@
 
 - **Appeals filed August 14, 2026, now on the register:** both cases to the **First Appellate District**. 802 Tx `80347004` (July 1 order, DocID `10297081`; ROA seq 327-329). 801 Tx `80347363` (Aug 6 order, DocID `10361462`; ROA seq 207-209). Appellate numbers **TBA**.
 - **Stay notices same day:** 802 Dept. 302 Tx `80347745`; 801 Dept. 301 Tx `80347943`. Filed legal position under CCP 916 / *Varian*; **not** on the August 20 register, and not a court order taking hearings off calendar.
-- **What the defense wants:** 802 fees **$32,928.27** (Aug 26, Dept. 302) plus a CCP 391 vexatious order and a section 391.7 prefiling bar the same morning; 801 fees and costs **$37,110.46** (Sept 8, Dept. 301, ROA-confirmed Tx `80309587`), stated as 169.30 hours at $210/hr plus two anticipated hearing hours, with an MC-010 costs memo of $1,137.46.
+- **What the defense wants:** 802 fees **$32,928.27** (Aug 26, Dept. 302) plus a defense access bar the same morning, used as an escape after the empty-file / anti-SLAPP contradiction; 801 fees and costs **$37,110.46** (Sept 8, Dept. 301, ROA-confirmed Tx `80309587`), stated as 169.30 hours at $210/hr plus two anticipated hearing hours, with an MC-010 costs memo of $1,137.46.
 - **What plaintiff filed in response:** 802 fee opposition Tx `80348027`; 801 fee opposition Tx `80348365`; 801 motion to tax costs Tx `80349087` (hearing TBD / specially set); CM-110s Tx `80349265` (802) and `80349330` (801). Those four remain **off** the August 20 register.
-- **Still on calendar:** August 26, 2026, 9:00 a.m., Dept. 302 (802 vexatious + fees); September 8, 2026, 9:00 a.m., Dept. 301 (801 fees); **October 21, 2026, 10:30 a.m., Dept. 610** (CMC both cases; continued from Sept 9). Confirm on the portal.
+- **Still on calendar:** August 26, 2026, 9:00 a.m., Dept. 302 (802 defense access/fee hearing); September 8, 2026, 9:00 a.m., Dept. 301 (801 fees); **October 21, 2026, 10:30 a.m., Dept. 610** (CMC both cases; continued from Sept 9). Confirm on the portal.
 - **Record designation:** CRC 8.121 notices designating the record (form APP-003) are due in each superior-court file by **August 24, 2026**, ten days after the notices of appeal. APP-004 waits on the Court of Appeal clerk's notice.
-- **802 case hub:** [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [vexatious opposition](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [802 PUBLIC-SYNOPSIS](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/PUBLIC-SYNOPSIS.md)
+- **802 case hub:** [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [defense papers as filed](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [802 PUBLIC-SYNOPSIS](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/PUBLIC-SYNOPSIS.md)
 - **801 case hub:** [02-CASE-CGC-25-631801/INDEX.md](02-CASE-CGC-25-631801/INDEX.md) · [801 PUBLIC-SYNOPSIS](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/PUBLIC-SYNOPSIS.md)
 
 Most recent 802 filings:
 - [**August 14 appeal / stay / fee opposition / CM-110** (Tx `80347004` / `80347745` / `80348027` / `80349265`)](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md)
-- [**Aug 26 section 391 opposition hub** (Tx `80094866` / `80105728`)](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)
+- [**Aug 26 defense access/fee papers as filed** (Tx `80094866` / `80105728`)](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)
 - [Court e-filed Apr. 28 to 29 wave (six SFTC transactions, 35 served titles)](03-CASE-CGC-25-631802/served-sftc-apr28-29-2026/README.md)
 - [Clerk filing build Apr. 28 (DOCUSERV mirror, 99 PDFs)](03-CASE-CGC-25-631802/clerk-filing-2026-04-28/README.md)
 - [Cross-hearing § 425.17(c) stack (Apr. 30)](03-CASE-CGC-25-631802/cross-hearing-42517-apr30-2026/README.md)
@@ -49,7 +49,7 @@ Neutral description of filed positions across four forums. Nothing below predict
 | Front | Defense position as filed | Amount / relief | Next date |
 |-------|---------------------------|-----------------|-----------|
 | **802** (CSAA denial letter / UCL) | Won the July 1, 2026 special motion to strike (DocID `10297081`); demurrer mooted; leave to file a TAC denied | CCP 425.16(c) fees **$32,928.27** (Tx `80070231`) | Aug 26, 2026, Dept. 302 |
-| **802** | Moved to declare plaintiff a vexatious litigant, for security, and for a CCP 391.7 prefiling order | Access bar (Tx `80094857`) | Same Aug 26 morning |
+| **802** | Moved for an access bar after the July 1 strike (escape from empty-file / anti-SLAPP contradiction) | Access bar (Tx `80094857`) | Same Aug 26 morning |
 | **802** | MC-010 costs memorandum | **$1,137.46** (Tx `80123223`) | Cost calendar (matured Aug 10) |
 | **801** (equity / extrinsic fraud) | Won the Aug 6, 2026 order striking the amended complaint (DocID `10361462`); opposed reconsideration, which was denied Aug 11 on minutes | Fees and costs **$37,110.46** (Tx `80309587`) | Sept 8, 2026, Dept. 301 |
 | **A173827** (trial appeal) | Filed the Respondent's Brief on Aug 3, 2026 | Affirmance of the 9 to 3 defense verdict | Reply filed; argument not yet set |
@@ -65,7 +65,7 @@ Neutral description of filed positions across four forums. Nothing below predict
 | **801** | Appeal of the Aug 6 strike order | Notice of appeal Tx `80347363` | On ROA seq 207-209; First District number TBA |
 | **Both** | Automatic stay of trial-court proceedings embraced by the appeals | Stay notices Tx `80347745` (Dept. 302) / `80347943` (Dept. 301) under CCP 916 and *Varian* | Filed legal position; off the Aug 20 register; hearings remain on the portal |
 | **802** | Opposition to the $32,928.27 fee demand | Tx `80348027` | Filed Aug 14; off the Aug 20 register |
-| **802** | Opposition to the CCP 391 vexatious motion | Tx `80094866` / `80105728` | On ROA; [hub](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) |
+| **802** | Opposition to the defense access motion | Tx `80094866` / `80105728` | On ROA; [hub](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) |
 | **801** | Opposition to the $37,110.46 fee demand | Tx `80348365` | Filed Aug 14; off the Aug 20 register |
 | **801** | Motion to tax or strike costs (CRC 3.1700(b)) | Tx `80349087` | Hearing to be specially set |
 | **A173827** | Appellant's Reply Brief plus motion to disregard extra-record matter in the Respondent's Brief, supplemental RJN, consolidated exhibits, and two proposed orders | Served Aug 20, 2026 | [aug20 reply hub](01-APPEAL/aug20-2026-reply/README.md) |
@@ -76,7 +76,7 @@ Neutral description of filed positions across four forums. Nothing below predict
 
 1. **The two anti-SLAPP appeals are real and imaged.** Both notices of appeal now carry register sequence numbers and clerk DocIDs, so the appellate lane no longer depends on File & Serve receipts alone. What is still unknown is the First District case number for each.
 2. **The stay question is unresolved on paper.** Plaintiff's CCP 916 position is filed; the Aug 26 and Sept 8 fee hearings are still on the portal. Nothing on the register shows the court taking either matter off calendar.
-3. **The CMC moved.** September 9 became **October 21, 2026**, in both cases, so the only near-term contested settings are the two fee hearings and the vexatious motion.
+3. **The CMC moved.** September 9 became **October 21, 2026**, in both cases, so the only near-term contested settings are the two fee hearings and the defense access motion.
 4. **The trial appeal is fully briefed on the merits.** With the Aug 3 Respondent's Brief answered by the Aug 20 reply, A173827 is in the window between briefing and argument.
 5. **The next plaintiff deadline is a record designation, not a brief.** Form APP-003 is due August 24, 2026, separately in each trial-court file.
 
@@ -287,7 +287,7 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 - Who is asking for what, right now → [Where each side stands](#where-each-side-stands-august-21-2026)
 - Dual anti-SLAPP appeals filed Aug 14, now on the register (First District; numbers TBA) → [802 Aug 14 hub](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 Aug 14 hub](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md)
-- Live trial-court motion practice (Aug 26 section 391 + 802 fees; Sept 8 801 fees; Oct 21 CMC) → [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)
+- Live trial-court motion practice (Aug 26 defense access/fee hearing; Sept 8 801 fees; Oct 21 CMC) → [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)
 - Trial appeal A173827, now fully briefed → [aug20 reply hub](01-APPEAL/aug20-2026-reply/README.md) · [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md) · [POST-MAY-12-FILING-STACK](01-APPEAL/POST-MAY-12-FILING-STACK/README.md)
 - Cross-case theory / leverage / risk → [MERITS.md](MERITS.md) · [RISK-SURFACE.md](RISK-SURFACE.md)
 
@@ -299,8 +299,8 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 ## What's new (August 21, 2026)
 
-- **Correspondence full-archive (not a filing; not service; not a 128.7 restart).** Phase 1 of the August 21, 2026 Porter Scott mailbox export is published under [correspondence/full-archive/](correspondence/full-archive/README.md): challenged-set threads, inbound defense mail (labeled as defense speech), and court-staff mail (labeled as court-staff, not Rosario speech). Sent bodies stay as sent except where a visible Rule 3 marker replaces a span; the marker does not describe withheld words. Court-seen vexatious-hearing threads match the lodged exhibits. Face reservation: [correspondence/banners/reservation-of-rights.md](correspondence/banners/reservation-of-rights.md). Completeness is not CCP 391 immunity. The 32-event class table remains at [correspondence/INDEX.md](correspondence/INDEX.md).
-- **Homepage posture rewritten to the current position of both sides.** New section: [Where each side stands](#where-each-side-stands-august-21-2026), with a defense ask-by-ask table (802 fees, CCP 391 vexatious and 391.7 prefiling bar, MC-010 costs, 801 fees, A173827 respondent's brief) beside the plaintiff response table (two notices of appeal, two stay notices, two fee oppositions, 801 tax motion, A173827 reply wave, CM-110s).
+- **Correspondence full-archive (not a filing; not service; not a 128.7 restart).** Phase 1 of the August 21, 2026 Porter Scott mailbox export is published under [correspondence/full-archive/](correspondence/full-archive/README.md): challenged-set threads, inbound defense mail (labeled as defense speech), and court-staff mail (labeled as court-staff, not Rosario speech). Sent bodies stay as sent except where a visible Rule 3 marker replaces a span; the marker does not describe withheld words. Court-seen threads from the defense access/fee hearing exhibits match the lodged exhibits. Face reservation: [correspondence/banners/reservation-of-rights.md](correspondence/banners/reservation-of-rights.md). Completeness is not a substitute for papers already on file. The 32-event class table remains at [correspondence/INDEX.md](correspondence/INDEX.md).
+- **Homepage posture rewritten to the current position of both sides.** New section: [Where each side stands](#where-each-side-stands-august-21-2026), with a defense ask-by-ask table (802 fees, defense access bar, MC-010 costs, 801 fees, A173827 respondent's brief) beside the plaintiff response table (two notices of appeal, two stay notices, two fee oppositions, 801 tax motion, A173827 reply wave, CM-110s).
 - **Calendar corrected site-wide.** The September 9 case management conference is **continued to October 21, 2026, 10:30 a.m., Dept. 610** in both cases (801 DocID `10376072`; 802 DocID `10376074`). The Aug 26 and Sept 8 hearings are unchanged.
 - **Notices of appeal confirmed on the register.** Both August 14 notices now carry register sequence numbers and clerk DocIDs (802 seq 327-329; 801 seq 207-209). The stay notices, fee oppositions, 801 tax motion, and plaintiff CM-110s were **not** on the August 20 register pull.
 - **Next plaintiff deadline is the record designation.** Form APP-003 under CRC 8.121 is due **August 24, 2026**, filed separately in each superior-court file. APP-004 waits on the Court of Appeal clerk's notice; appellate numbers remain **TBA**.
@@ -313,7 +313,7 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 - **A173827 reply wave published.** Appellant's Reply Brief (80 pages) plus motion to disregard extra-record matter in the respondent's brief, supplemental RJN, consolidated exhibits, and two proposed orders. Proof of service executed August 20, 2026. Respondent's Opening Brief (August 3, 2026) is mirrored with the set. Hub: [01-APPEAL/aug20-2026-reply](01-APPEAL/aug20-2026-reply/README.md) · [09-Appellants-Reply-Brief.pdf](01-APPEAL/09-Appellants-Reply-Brief.pdf). This is the trial-verdict appeal in the First Appellate District, Division Three; not the August 14 801/802 anti-SLAPP notices.
 - **802 ROA refresh (GetROA 9:16 am; paste 9:05 am):** 329 rows (was 324). Newest date **2026-08-14**. Notice of appeal **on ROA** Tx `80347004` (DocIDs `10377025` / `10377027` / `10377028`). CMC of Sep 9 **continued to Oct 21, 2026, 10:30 a.m., Dept. 610** (DocID `10376074`). Stay / fee opp / plaintiff CM-110 still off-register. Previously missing seq 323-324 PDFs now LOCAL. [STATE-2026-08-20](03-CASE-CGC-25-631802/docket-state/STATE-2026-08-20.md) · [ROA-AUDIT-2026-08-20](03-CASE-CGC-25-631802/docket-state/ROA-AUDIT-2026-08-20.md).
 - **801 ROA refresh (GetROA 9:16 am; paste 9:13 am):** 212 rows (was 203). Notice of appeal **on ROA** Tx `80347363` (DocIDs `10377050` / `10377052` / `10377053`). MC-010 **is** a separate DocID `10369596` (seq 201). Fee papers remapped to seq 202-204 (DocIDs unchanged). Same Oct 21 CMC continuance (DocID `10376072`). Stay / fee opp / tax still off-register. [STATE-2026-08-20](02-CASE-CGC-25-631801/docket-state/STATE-2026-08-20.md) · [CALENDAR-2026-08-20](02-CASE-CGC-25-631801/docket-state/CALENDAR-2026-08-20.md).
-- **Live calendar:** Aug 26, 9:00 a.m., Dept. 302 / Quinn (802 fees + vexatious); Sept 8, 9:00 a.m., Dept. 301 (801 fees); **Oct 21, 10:30 a.m., Dept. 610 CMC**.
+- **Live calendar:** Aug 26, 9:00 a.m., Dept. 302 / Quinn (802 fees + defense access motion); Sept 8, 9:00 a.m., Dept. 301 (801 fees); **Oct 21, 10:30 a.m., Dept. 610 CMC**.
 
 ## What's new (August 14, 2026)
 
@@ -328,7 +328,7 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 - **802 ROA refresh:** Portal paste Generated 2026-08-12 1:03 pm. Newest register date still **2026-07-28**. Two rows after the July 27 register: defense MC-010 $1,137.46 (Tx `80123223`, mature Aug 10) and plaintiff RFJN (Tx `80146159`). No August ROA rows, no NOA, no July 1 NOE label, no judgment, no defense reply. [STATE-2026-08-12](03-CASE-CGC-25-631802/docket-state/STATE-2026-08-12.md) · [ROA-AUDIT-2026-08-12](03-CASE-CGC-25-631802/docket-state/ROA-AUDIT-2026-08-12.md).
 - **801 ROA refresh:** Portal paste Generated 2026-08-12 1:06 pm (200 of 200). Reconsideration **DENIED** Aug 11 on ROA (minutes; no appearance; no DocID). No NOE. Fee motion served Aug 11 is **not** on ROA or Calendar. Only live 801 setting: Sep 9 CMC. [STATE-2026-08-12](02-CASE-CGC-25-631801/docket-state/STATE-2026-08-12.md) · [CALENDAR-2026-08-12](02-CASE-CGC-25-631801/docket-state/CALENDAR-2026-08-12.md).
-- **Live calendar confirmed (802):** Aug 26, 9:00 a.m., Dept. 302 / Quinn (fees + vexatious); Sep 9, 10:30 a.m., Dept. 610 CMC. [802 CALENDAR-2026-08-12](03-CASE-CGC-25-631802/docket-state/CALENDAR-2026-08-12.md).
+- **Live calendar confirmed (802):** Aug 26, 9:00 a.m., Dept. 302 / Quinn (fees + defense access motion); Sep 9, 10:30 a.m., Dept. 610 CMC. [802 CALENDAR-2026-08-12](03-CASE-CGC-25-631802/docket-state/CALENDAR-2026-08-12.md).
 
 ## What's new (July 27, 2026)
 
@@ -336,17 +336,17 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 ## What's new (July 22, 2026)
 
-- **NEW hub (802):** [Opposition to vexatious-litigant motion (Aug 26)](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) - 14 plaintiff PDFs + 6 defense PDFs; [PUBLIC-SYNOPSIS](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md). Portal Tx / DocIDs TBD after e-file.
-- **Active fight:** August 26, 2026, 9:00 a.m., Dept. 302 (CCP § 391). **Next CMC** remains September 9, 2026 (Dept. 610).
+- **NEW hub (802):** [Defense access/fee papers as filed (Aug 26)](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) - 14 plaintiff PDFs + 6 defense PDFs; [PUBLIC-SYNOPSIS](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md). Portal Tx / DocIDs TBD after e-file.
+- **Active fight:** August 26, 2026, 9:00 a.m., Dept. 302 (defense access/fee hearing). **Next CMC** remains September 9, 2026 (Dept. 610).
 - **July 1 order:** Limited anti-SLAPP / FAC strike; not empty-file merits adjudication.
 - **Analysis:** [AUG-2026-POSTURE](ANALYSIS/AUG-2026-POSTURE.md) (current) · [JULY-2026-POSTURE](ANALYSIS/JULY-2026-POSTURE.md) (prior).
 
 ## What's new (July 2026)
 
-- **Site posture refresh:** June 24 hearing historical; **802 July 1 anti-SLAPP grant confirmed**; **Aug 26 Dept 302** (fees + vexatious); **801 reconsideration July 31**; **September 9 CMC**. Current 802 snapshot: [STATE-2026-08-12](03-CASE-CGC-25-631802/docket-state/STATE-2026-08-12.md). July 27 802 register: [`REGISTER-OF-ACTIONS-20260727-802.md`](../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260727-802.md).
+- **Site posture refresh:** June 24 hearing historical; **802 July 1 anti-SLAPP grant confirmed**; **Aug 26 Dept 302** (fees + defense access motion); **801 reconsideration July 31**; **September 9 CMC**. Current 802 snapshot: [STATE-2026-08-12](03-CASE-CGC-25-631802/docket-state/STATE-2026-08-12.md). July 27 802 register: [`REGISTER-OF-ACTIONS-20260727-802.md`](../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260727-802.md).
 - **NEW hubs (802):** [June 15 pre-hearing](03-CASE-CGC-25-631802/june-15-2026-pre-hearing/README.md) · [June 16 preliminary statement](03-CASE-CGC-25-631802/june-16-2026-preliminary-statement/README.md) · [September 9 CMC](03-CASE-CGC-25-631802/cmc-september-9-2026/README.md).
 - **801 portal facts (July 27 paste):** Recon continued to July 31 (premature); defense opp + plaintiff reply on ROA; defense proposed-order packaging (Tx `80059270` / `80082937`); NOE still not on ROA (Day Zero frozen). [ROA audit July 27](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-27.md).
-- **802 portal facts (July 27 paste):** July 1 order granting special motion to strike on ROA; fees motion Tx `80070231` and vexatious motion Tx `80094857` set Aug 26 Dept 302; plaintiff opp waves Tx `80094866` / `80105728`. Superseded by [Aug 12 ROA audit](03-CASE-CGC-25-631802/docket-state/ROA-AUDIT-2026-08-12.md); July 27 register: [`REGISTER-OF-ACTIONS-20260727-802.md`](../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260727-802.md).
+- **802 portal facts (July 27 paste):** July 1 order granting special motion to strike on ROA; fees motion Tx `80070231` and defense access motion Tx `80094857` set Aug 26 Dept 302; plaintiff opp waves Tx `80094866` / `80105728`. Superseded by [Aug 12 ROA audit](03-CASE-CGC-25-631802/docket-state/ROA-AUDIT-2026-08-12.md); July 27 register: [`REGISTER-OF-ACTIONS-20260727-802.md`](../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260727-802.md).
 - **Analysis:** [JULY-2026-POSTURE](ANALYSIS/JULY-2026-POSTURE.md).
 
 ## What's new (June 11, 2026)
@@ -432,7 +432,7 @@ gantt
     section CGC-25-631802
     August 14 NOA and stay (filed) :done, n802, 2026-08-14, 1d
     August 24 APP-003 record designation :crit, r802, 2026-08-24, 1d
-    August 26 vexatious and fees :crit, m802a, 2026-08-26, 1d
+    August 26 defense access and fees :crit, m802a, 2026-08-26, 1d
     October 21 CMC :m802c, 2026-10-21, 1d
     section CGC-25-631801
     August 14 NOA and stay (filed) :done, n801, 2026-08-14, 1d
@@ -451,7 +451,7 @@ gantt
 | **August 14, 2026** | **802 + 801** | **Notices of appeal and stay notices filed** (First District; numbers TBA; NOAs now on the register) | [802 hub](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 hub](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) |
 | **August 20, 2026** | **A173827** | Appellant's Reply Brief and four companion papers served | [aug20 reply hub](01-APPEAL/aug20-2026-reply/README.md) |
 | **August 24, 2026** | **802 + 801** | **Record designation due** (CRC 8.121; form APP-003, one per trial-court file) | SF Superior (not TrueFiling) |
-| **August 26, 2026, 9:00 a.m.** | **CGC-25-631802** | **Section 391 / vexatious and CCP 425.16(c) fees ($32,928.27)** | **Dept. 302** |
+| **August 26, 2026, 9:00 a.m.** | **CGC-25-631802** | **Defense access/fee hearing and CCP 425.16(c) fees ($32,928.27)** | **Dept. 302** |
 | **September 8, 2026, 9:00 a.m.** | **CGC-25-631801** | **CCP 425.16(c) fees and costs ($37,110.46)** | **Dept. 301** |
 | **October 21, 2026, 10:30 a.m.** | **CGC-25-631802 + 631801** | **Case Management Conference** (continued from Sept 9) | **Dept. 610** |
 | August 11, 2026 | CGC-25-631801 | Reconsideration DENIED (minutes; no written-order DocID yet) | Dept. 301 |
@@ -682,8 +682,8 @@ The central evidentiary record. The 911 call captures the driver's admission; bo
 
 **Forum:** San Francisco Superior Court
 **Theory:** CSAA's pre-litigation false denial letter (21 days post-collision); bad faith; Unfair Competition Law.
-**Appeals:** Notice of appeal filed August 14, 2026 (Tx `80347004`; on ROA seq 327-329, DocIDs `10377025` / `10377027` / `10377028`); First District; number TBA. **Active fight still on calendar:** August 26, 2026, 9:00 a.m., Dept. 302 (section 391 **and** $32,928.27 fees). **Record designation:** APP-003 due August 24, 2026. **Next CMC:** October 21, 2026, 10:30 a.m., Dept. 610 (continued from Sept 9; DocID `10376074`).
-[Full index](03-CASE-CGC-25-631802/INDEX.md) · [Aug 14 appeal / fee hub](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [Aug 26 vexatious hub](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md).
+**Appeals:** Notice of appeal filed August 14, 2026 (Tx `80347004`; on ROA seq 327-329, DocIDs `10377025` / `10377027` / `10377028`); First District; number TBA. **Active fight still on calendar:** August 26, 2026, 9:00 a.m., Dept. 302 (defense access/fee hearing **and** $32,928.27 fees). **Record designation:** APP-003 due August 24, 2026. **Next CMC:** October 21, 2026, 10:30 a.m., Dept. 610 (continued from Sept 9; DocID `10376074`).
+[Full index](03-CASE-CGC-25-631802/INDEX.md) · [Aug 14 appeal / fee hub](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [Aug 26 papers as filed](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md).
 
 | # | Document | PDF |
 |---|----------|-----|
