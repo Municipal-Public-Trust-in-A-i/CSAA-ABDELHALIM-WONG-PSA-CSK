@@ -6,7 +6,7 @@
 
 ## Archive wrapper
 
-Copy of a historical letter for the public archive. Publishing does not convert this paper into personal dialogue. It is not a new filing. It does not restart any Code of Civil Procedure section 128.7 clock.
+Copy of a historical letter for the public archive. This page is not a filing. It is not new service. It does not restart any Code of Civil Procedure section 128.7 clock.
 
 | Field | Value |
 |-------|-------|
