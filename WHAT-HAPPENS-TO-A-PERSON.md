@@ -162,4 +162,4 @@ This page deliberately contains no names, no dates, and no case numbers, because
 
 The filings are on the [homepage](README.md), with the transcripts, the exhibits, and both sides' papers as they were actually filed. Whether any of the above is supported by a record is a question you should answer by reading it, not by trusting an essay.
 
-[Homepage](README.md) · [Publication rule](PUBLICATION-RULE.md) · [The evidence](evidence.md)
+[Homepage](README.md) · [The evidence](evidence.md)

@@ -8,8 +8,6 @@
 
 > Open public record. All documents are California court filings. Nothing here is legal advice; allegations in complaints are unproven until adjudicated.
 
-> **Publication rule (governing).** Nothing appears on this site until it has been **filed with a court or served on the opposing party**. Analysis is published only where the theory or argument is already in a paper a court has seen. **Future theory, tactics, and strategy are never published here**, even when the underlying paper is filed and served. Full policy: **[PUBLICATION-RULE.md](PUBLICATION-RULE.md)**.
-
 **Plaintiff:** Franciscus Dylan Rosario (in pro per)
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
 **Cases:** CGC-21-594102 (underlying trial) · A173827 (appeal) · CGC-25-631801 (equity / extrinsic fraud, now appellate-preservation posture) · CGC-25-631802 (UCL / denial-letter fraud, live trial-court front)
@@ -283,7 +281,6 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 | **Journalists / writers** | **[JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md)** | Newsroom narrative |
 | **Researchers / public** | **[CASE-DOSSIER.md](CASE-DOSSIER.md)** | 30-minute curated tour |
 | **Plaintiff-authored analysis** | **[ANALYSIS/README.md](ANALYSIS/README.md)** | Long-form memos (not court filings) |
-| **Anyone asking why a document is or is not here** | **[PUBLICATION-RULE.md](PUBLICATION-RULE.md)** | Governing publication policy |
 | **Case law and statutes** | **[LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md)** | Mirror index: [CASE-LAW-AND-STATUTES/INDEX.md](CASE-LAW-AND-STATUTES/INDEX.md), [opinions PDF](CASE-LAW-AND-STATUTES/opinions-pdf/), [statutes](CASE-LAW-AND-STATUTES/statutes-cal/) |
 
 **Where do I start (quick links)?**
@@ -303,7 +300,6 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 ## What's new (August 21, 2026)
 
 - **Correspondence full-archive (not a filing; not service; not a 128.7 restart).** Phase 1 of the August 21, 2026 Porter Scott mailbox export is published under [correspondence/full-archive/](correspondence/full-archive/README.md): challenged-set threads, inbound defense mail (labeled as defense speech), and court-staff mail (labeled as court-staff, not Rosario speech). Sent bodies stay as sent except where a visible Rule 3 marker replaces a span; the marker does not describe withheld words. Court-seen vexatious-hearing threads match the lodged exhibits. Face reservation: [correspondence/banners/reservation-of-rights.md](correspondence/banners/reservation-of-rights.md). Completeness is not CCP 391 immunity. The 32-event class table remains at [correspondence/INDEX.md](correspondence/INDEX.md).
-- **Publication rule adopted and posted.** [PUBLICATION-RULE.md](PUBLICATION-RULE.md) is now the governing policy for this repository: served or filed first; court-seen theory only; and no forward theory, tactics, or strategy at any time, even when the underlying paper is filed and served. Draft and predraft briefs, unfiled pleadings, hearing-preparation materials, and sequencing plans are categorically excluded. Already-sent correspondence may use a visible span marker rather than whole-document omission; court-seen vexatious-hearing threads publish unredacted. The rule includes a five-step pre-publication checklist and states the limits of the commentary carve-out.
 - **Homepage posture rewritten to the current position of both sides.** New section: [Where each side stands](#where-each-side-stands-august-21-2026), with a defense ask-by-ask table (802 fees, CCP 391 vexatious and 391.7 prefiling bar, MC-010 costs, 801 fees, A173827 respondent's brief) beside the plaintiff response table (two notices of appeal, two stay notices, two fee oppositions, 801 tax motion, A173827 reply wave, CM-110s).
 - **Calendar corrected site-wide.** The September 9 case management conference is **continued to October 21, 2026, 10:30 a.m., Dept. 610** in both cases (801 DocID `10376072`; 802 DocID `10376074`). The Aug 26 and Sept 8 hearings are unchanged.
 - **Notices of appeal confirmed on the register.** Both August 14 notices now carry register sequence numbers and clerk DocIDs (802 seq 327-329; 801 seq 207-209). The stay notices, fee oppositions, 801 tax motion, and plaintiff CM-110s were **not** on the August 20 register pull.
@@ -834,7 +830,6 @@ The story of how one brain-injured plaintiff, proceeding alone against a multi-b
 ```
 .
 ├── README.md                         (this file: main navigation)
-├── PUBLICATION-RULE.md               (governing policy: what may and may not be published here)
 ├── README.LEGACY.md                  (older index, kept for diffs)
 ├── MERITS.md                         (TAC-aligned merits statement + implications)
 ├── IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md (anticipation-of-litigation → purpose confession; 2 flowcharts)
@@ -898,13 +893,11 @@ Static Markdown and PDF. Typical Pages setting: deploy `main` from root, or move
 
 This repository publishes **public** PDFs for transparency. It is **not** legal advice. Allegations in complaints are unproven until adjudicated. Inquiries from licensed California attorneys are welcome via [FOR-ATTORNEYS.md](FOR-ATTORNEYS.md); reading or contacting the plaintiff does not create an attorney-client relationship.
 
-Publication is governed by [PUBLICATION-RULE.md](PUBLICATION-RULE.md): filed or served first, court-seen theory only, and no forward theory, tactics, or strategy. Publishing a paper here is not service and does not restart any Code of Civil Procedure section 128.7 period.
+Publishing a paper here is not service and does not restart any Code of Civil Procedure section 128.7 period.
 
 ---
 
 ## References
-
-- [PUBLICATION-RULE.md](PUBLICATION-RULE.md): governing policy for what may and may not be published here.
 - [ROSARIO.md](ROSARIO.md): long-form case overview and document index.
 - [evidence.md](evidence.md) and [evidence.html](evidence.html): 911 audio, body-worn camera, images.
 - [08-LEGAL-ANALYSIS/INDEX.md](08-LEGAL-ANALYSIS/INDEX.md): legal analysis index.

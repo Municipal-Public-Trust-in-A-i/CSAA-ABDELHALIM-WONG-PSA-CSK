@@ -2,12 +2,12 @@
 
 > Open public record. All documents are California court filings. Nothing here is legal advice; allegations in complaints are unproven until adjudicated.
 
-> **Publication rule (governing).** Nothing appears on this site until it has been **filed with a court or served on the opposing party**. Analysis is published only where the theory is already in a paper a court has seen. **Future theory, tactics, and strategy are never published here.** Full policy: **[PUBLICATION-RULE.md](PUBLICATION-RULE.md)**.
+> **Speech and petition (governing).** This archive is published as speech. The lawsuits are filed as petitions. Those are two different rights, and this site does not mix them. The homepage states them in full under [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public). Publishing a page here is not a filing, is not service, and does not restart any Code of Civil Procedure section 128.7 period.
 
 **Plaintiff:** Franciscus Dylan Rosario (in pro per)
 **Forums:** San Francisco Superior Court; California Court of Appeal, First Appellate District
 **Cases:** CGC-21-594102 (trial) · A173827 (appeal) · CGC-25-631801 (equity, on appeal) · CGC-25-631802 (denial-letter fraud, on appeal)
-**Last refresh:** August 21, 2026
+**Last refresh:** August 22, 2026
 
 This page is written to be read start to finish. It is an analysis of four proceedings that share one evidentiary spine, told in the order the dispute actually developed: the two documents that cannot both be true, the trial that turned on them, the appeal from that trial, and the two 2025 actions that ask a court to look at the same contradiction from the equity side and the insurance side. For each proceeding: the question presented, where the defense stands, what the filed record shows, and what is scheduled next.
 
@@ -20,6 +20,51 @@ This page is written to be read start to finish. It is an analysis of four proce
 > **[Read the story, told without names](WHAT-HAPPENS-TO-A-PERSON.md)**
 
 Retired homepage, with the April 2026 motion-practice narrative and dated refresh history: [README.ARCHIVE-2026-08.md](README.ARCHIVE-2026-08.md). Earlier still: [README.LEGACY.md](README.LEGACY.md).
+
+---
+
+## Speech, petition, and why this archive is public
+
+> **This section is commentary.** It is published as speech under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is not a court filing. It is not service of any paper on any party. It does not restart any Code of Civil Procedure section 128.7 period. Formal positions remain those stated in papers already on file.
+
+A reader who lands here should know, first, by what right this page exists at all.
+
+This site is a public record of court papers and of correspondence that was actually sent. It is also speech: a party's own account of public court proceedings, insurance claim-handling, and the conduct of litigation in which that party is a named plaintiff. Those two facts are not in tension. They are the point. The filings are how a person petitions a court. The site is how a person speaks about what those filings show. Mixing the two is how a public record gets recast as misconduct.
+
+The rights are not slogans. They are specific, they are already invoked in papers a court has seen, and they are the reason a self-represented claimant may publish this archive without converting it into a pleading.
+
+### Speech
+
+The **First Amendment** protects freedom of speech. **Article I, section 2** of the California Constitution does the same, and on its face it is at least as protective: every person may speak, write, and publish on all subjects, being responsible for the abuse of that right.
+
+What is being spoken about here is a matter of public concern. A collision on a public street. A licensed insurer's written certification that an investigation was concluded. Sworn representations to a trial court about the same evidence. A later request that the speaker be barred from filing again anywhere in California. Court proceedings are public. Insurance claim-handling is a regulated industry. Commentary on either one does not become a pleading because it is addressed to counsel, posted on a docket-mirror, or disliked by the people it describes.
+
+Pages on this site that are **not** court papers say so on their face. The human narrative at [WHAT-HAPPENS-TO-A-PERSON.md](WHAT-HAPPENS-TO-A-PERSON.md) is commentary. Personal dialogue in the correspondence archive is commentary. This section is commentary. Face banners used throughout the archive: [personal dialogue](correspondence/banners/personal-dialogue.md) · [reservation of rights](correspondence/banners/reservation-of-rights.md).
+
+### Petition
+
+The **First Amendment** also protects the right to petition the government for a redress of grievances. **Article I, section 3** of the California Constitution protects the right of the people to instruct their representatives, petition government for redress, and assemble. **Article I, section 16** protects jury trial. Plaintiff's appearance in propria persona, and the July 27, 2026 safe-harbor letter challenging the section 391 papers, invoke article I, sections 3 and 16 on their face: [2026-07-27-1287-vexatious-802.md](correspondence/safe-harbor-1287/2026-07-27-1287-vexatious-802.md).
+
+The petitions are the complaints, the oppositions, the notices of appeal, and the other papers already on file in CGC-21-594102, A173827, CGC-25-631801, and CGC-25-631802. This website is not a substitute for those papers. It is not a new petition. It is not an amendment of any filed theory. Positions directed to a party or to a tribunal remain solely those stated in the file.
+
+That separation is deliberate. Speech about a case is not a filing in the case. Attaching a commentary page as an exhibit does not make it a filing by the speaker, and it does not erase the papers that actually state the positions.
+
+### Due process, and what section 391 is not
+
+The **Fourteenth Amendment** and **article I, section 7** of the California Constitution protect due process, including access to the courts. Exercise of speech and petition cannot be used as the reason to deny that access, or as the reason to punish it.
+
+Code of Civil Procedure section 391 is a statutory finding about litigation conduct. It is not a speech code. It is not a prior restraint. A careful critique of motion practice, including in personal dialogue, does not make the speaker vexatious. Volume of speech is not abuse. The served opposition and the July 27 letter put those points in a tribunal's hands. What remains here is the public statement of the same rights: that a self-represented claimant may speak about a public record, may petition a court on that record, and may not be told that doing both is itself the offense.
+
+On August 26, 2026, the moving papers offer, in substantial part, this plaintiff's own speech as evidence that the speaker should lose the ability to file. That is the inversion already stated later on this page: **the exercise of the right is offered as proof of the abuse of the right.** The access fight is [Part 7](#part-7-the-access-fight-what-is-actually-being-asked-on-august-26).
+
+### What publishing here does, and what it does not do
+
+| This site does | This site does not |
+|---|---|
+| Publish speech about public court proceedings and a regulated insurer's claim-handling | Convert that speech into a pleading, motion, declaration, or judicial admission |
+| Mirror papers already filed or served | Serve anyone, restart any section 128.7 clock, or substitute for the official docket |
+| Keep each sent letter in the legal class it had on the day it was sent | Reclassify a settlement letter, a safe-harbor letter, or a service transmittal as commentary |
+| Reserve petition rights to the filed papers | Preview unfiled instruments, tactics, or sequencing |
 
 ---
 
@@ -183,7 +228,9 @@ The served safe-harbor letter of July 27, 2026 challenging those papers appears 
 
 A documented contradiction between an insurer's written certification and its counsel's sworn representations should not be resolvable by quietly making the person who noticed it go away. Every document here is a court filing or a communication actually sent. The site publishes nothing a tribunal has not seen and nothing that has not been served, which is the discipline that makes the archive worth reading at all.
 
-**Plaintiff-authored commentary, clearly labeled.** The constitutional framing in this section is plaintiff's own, published as speech under the First Amendment and article I, section 2 of the California Constitution. It is not a court filing, it is not service on anyone, and it does not restart any Code of Civil Procedure section 128.7 period.
+The rights that make that publication lawful are stated at the front of this page: [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public). Speech is the First Amendment and article I, section 2. Petition is the First Amendment and article I, section 3. Jury trial is article I, section 16. Due process and court access are the Fourteenth Amendment and article I, section 7. Section 391 is a statutory finding, not a speech code.
+
+**Plaintiff-authored commentary, clearly labeled.** The constitutional framing in this section is plaintiff's own, published as speech under those provisions. It is not a court filing, it is not service on anyone, and it does not restart any Code of Civil Procedure section 128.7 period.
 
 ---
 
@@ -207,7 +254,7 @@ Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and postur
 
 ## The correspondence archive
 
-Every communication published here was **actually sent**. Publishing it is not a filing, is not new service, and does not restart any section 128.7 period. Each item keeps the legal character it had on the day it was sent: a settlement communication stays a settlement communication, a safe-harbor letter stays a safe-harbor letter, and commentary stays commentary.
+Every communication published here was **actually sent**. Publishing it is not a filing, is not new service, and does not restart any section 128.7 period. Each item keeps the legal character it had on the day it was sent: a settlement communication stays a settlement communication, a safe-harbor letter stays a safe-harbor letter, and commentary stays commentary. Speech and petition are not the same right; the homepage states both: [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public).
 
 The archive matters analytically because the access motion is built out of it. A reader who wants to test the characterization of plaintiff's emails can read them in full rather than through a declaration's summary.
 
@@ -243,6 +290,7 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 | Audience | Entry point | What it gives you |
 |----------|-------------|-------------------|
 | Anyone who has ever been denied | [WHAT-HAPPENS-TO-A-PERSON.md](WHAT-HAPPENS-TO-A-PERSON.md) | The human shape of a claim denial, told with no names and no case numbers |
+| Speech and petition rights | [this page](#speech-petition-and-why-this-archive-is-public) · [reservation of rights](correspondence/banners/reservation-of-rights.md) · [personal dialogue](correspondence/banners/personal-dialogue.md) | First Amendment; California Constitution article I, sections 2, 3, 7, and 16; what publishing is and is not |
 | California counsel | [FOR-ATTORNEYS.md](FOR-ATTORNEYS.md) | One-page intake brief |
 | Journalists and writers | [JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md) | Newsroom narrative |
 | Researchers and public | [CASE-DOSSIER.md](CASE-DOSSIER.md) ([PDF](CASE-DOSSIER.pdf)) | Thirty-minute curated tour |
@@ -254,7 +302,6 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 | Authorities | [LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md) | Mirrored opinions and statutes |
 | Evidence and media | [evidence.md](evidence.md) | 911 audio, body-worn camera, CAD |
 | Exposure and economics | [RISK-SURFACE.md](RISK-SURFACE.md) | Filed-position risk map |
-| Why a document is or is not here | [PUBLICATION-RULE.md](PUBLICATION-RULE.md) | Governing policy |
 | Every page on this site | [SPINE.md](SPINE.md) | Full file index |
 
 ---
@@ -262,3 +309,5 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 ## Disclaimer
 
 This is a mirror maintained by a party, not the official record. The San Francisco Superior Court register of actions and the Court of Appeal docket are authoritative. Allegations in pleadings remain unproven until adjudicated. Nothing on this site is legal advice, and nothing here is service of any paper on any party.
+
+Commentary on this site is speech under the First Amendment and article I, section 2 of the California Constitution. Filings remain petitions under the First Amendment and article I, section 3. Publishing one does not become the other. The rights, and the line between them, are stated above.
