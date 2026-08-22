@@ -53,7 +53,7 @@ This archive exists so that a documented contradiction between an insurer's writ
 
 **Plaintiff-authored commentary, clearly labeled.** The constitutional framing of the paragraphs above is plaintiff's own, published as speech under the First Amendment and article I, section 2 of the California Constitution. It is not a court filing, it is not service on anyone, and it does not restart any Code of Civil Procedure section 128.7 period.
 
-**And the honest limit.** Publishing a complete correspondence archive is **not** immunity from section 391 and is not offered as a defense to it. Commentary can be attached to a motion as an exhibit. The face labels on these pages exist so that when it is attached, it stays labeled as what it was when it was written. See [correspondence/banners/reservation-of-rights.md](correspondence/banners/reservation-of-rights.md).
+
 
 ---
 
