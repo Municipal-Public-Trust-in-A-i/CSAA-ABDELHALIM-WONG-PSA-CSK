@@ -4,6 +4,19 @@
 
 This is the completeness set of Porter Scott query correspondence (export dated August 21, 2026). The 32-event table in [../INDEX.md](../INDEX.md) remains the curated class archive. Face reservation: [../banners/reservation-of-rights.md](../banners/reservation-of-rights.md).
 
+## Start here
+
+187 messages across 75 email threads. Four ways in:
+
+| Page | Covers | Best for |
+|------|--------|----------|
+| [THREADS.md](THREADS.md) | all 187, grouped into 9 chronological groups | reading the correspondence as a story, with one paragraph explaining each group |
+| [outbound/INDEX.md](outbound/INDEX.md) | 76 Rosario-sent | finding a specific message that plaintiff sent |
+| [inbound/INDEX.md](inbound/INDEX.md) | 86 defense-sent | finding a specific message from defense counsel |
+| [court-staff/INDEX.md](court-staff/INDEX.md) | 25 court-staff | the Department 301 and 302 calendar and tentative-ruling record |
+
+Every message page carries its date, correspondent, subject, direction, and tier. Every row in every index links to the full message.
+
 ## How to read
 
 1. **Court-seen threads** publish complete and unredacted, matching the lodged exhibit. See [UNREDACTED-COURT-SEEN.md](UNREDACTED-COURT-SEEN.md).
@@ -20,4 +33,4 @@ Phase 1 is the challenged set, inbound defense mail, and court-staff mail. Remai
 
 Publishing is not service. Completeness is not immunity from CCP 391.
 
-[Challenged-set map](CHALLENGED-SET.md) · [Correspondence hub](../README.md) · [Site root](../../README.md)
+[Thread groups](THREADS.md) · [Challenged-set map](CHALLENGED-SET.md) · [Correspondence hub](../README.md) · [Site root](../../README.md)
