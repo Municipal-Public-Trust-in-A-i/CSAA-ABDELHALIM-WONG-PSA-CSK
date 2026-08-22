@@ -1,57 +1,29 @@
-# August 26, 2026 - public synopsis (section 391 opposition)
+# August 26, 2026 - public synopsis (defense access/fee papers as filed)
 
 **Case:** CGC-25-631802 · **Hearing:** August 26, 2026, 9:00 a.m., Dept. 302  
 **Papers:** Operative opposition cohort (July 22, 2026 signature / POS dates). Portal Tx / DocIDs pending File & Serve confirmation.
 
-This page is a journalist-readable overview of the filed opposition. It does not predict outcomes. Full PDFs: [hub README](README.md).
+This page is a journalist-readable overview of papers already on file. It does not predict outcomes. It does not brief a designation theory. Full PDFs: [hub README](README.md).
 
 ---
 
-## 1. What section 391 seeks
+## 1. What the defense filed after the strike order
 
-Defendant CSAA Insurance Exchange (through Porter Scott) asks the Court to:
+After the July 1, 2026 special motion to strike, CSAA Insurance Exchange (through Porter Scott) filed papers seeking to end court access, together with a fee demand heard the same morning. That is an escape from merits adjudication of the empty-file / anti-SLAPP contradiction, not a separate story. The 2021 denial letter and the 2025 MIL declarations still cannot both be true. Choosing anti-SLAPP on a 2021 claims letter did not make the letter disappear. Asking a trial court for an access bar and fees on the strength of a ruling now on appeal is the next move after that choice.
 
-- Designate Plaintiff a **vexatious litigant** under Code of Civil Procedure section 391;
-- Require **security** under section 391.3 before Plaintiff may proceed;
-- Impose **statewide prefiling screening** under section 391.7.
-
-Those remedies chill court access. California law requires strict statutory predicates; volume and pejorative labels are not enough. (*Morton v. Wagner* (2007) 156 Cal.App.4th 963; *Shalant v. Girardi* (2011) 51 Cal.4th 1164.)
+Defense moving papers as filed: [defense/](defense/).
 
 ---
 
-## 2. Continuum: certification → empty file → dispositive stack → email gatekeeping → section 391
+## 2. What this hub mirrors
 
-Plaintiff's opposition frames a continuous course of conduct:
+Plaintiff's filed PDFs from the same setting are mirrored here as filed. The site's analysis of those papers is the escape-vehicle point in section 1, not a merits adjudication of the letter, and not a separate legal memo about designation.
 
-1. **Certification.** CSAA's February 25, 2021 denial letter represented a "concluded" investigation.
-2. **Empty file.** Foundational materials (911 audio, body-worn camera, CAD) were not in the claim file as pleaded.
-3. **Dispositive stack.** Multi-track motions (anti-SLAPP, demurrer, section 436 strike) against Plaintiff's leave / SAC path.
-4. **Email gatekeeping.** April-May 2026 defense emails press withdrawal, brand filings with artificial-intelligence pejoratives, and demand "cease filings."
-5. **Section 391 endgame.** July 21, 2026 motion seeking designation, security, and screening.
-
-The Supplemental MPA and Exhibits F-N address the email / access layer of that continuum. Exhibit **K** (April 30, 2026) expressly threatens a vexatious-litigant motion; the July 21 filing fulfills that threat.
+The July 1, 2026 limited anti-SLAPP / FAC strike practice is not empty-file merits adjudication.
 
 ---
 
-## 3. Distinct primary rights (*Crowley* / *Mycogen* / *Baral*)
-
-Plaintiff argues the rights pursued against CSAA concern the insurer's certification and empty-investigation controversy, **not** the negligence primary right previously tried against the insured driver. Distinct primary rights may proceed without being dismissed as "the same case" under *Crowley v. Katleman* (1994) 8 Cal.4th 666, *Mycogen Corp. v. Monsanto Co.* (2002) 28 Cal.4th 888, and *Baral v. Schnitt* (2016) 1 Cal.5th 376. July 1, 2026 limited anti-SLAPP / FAC strike practice is not empty-file merits adjudication.
-
----
-
-## 4. *Morton* volume ≠ abuse; Exhibit K → July 21
-
-Under *Morton*, docket volume and adjectives ("harassing," "frivolous," "clogging") do not establish flagrant abuse under section 391(b)(3). Plaintiff lodges the April-May email sequence (Exhibits F-N) as evidence of Defendant's litigation objectives, including the April 30 threat (Ex. K) that preceded the July 21 motion.
-
----
-
-## 5. Proposed-order overbreadth (section 391.3 vs. section 391.7)
-
-Plaintiff's objections to the defense proposed order argue overbreadth: conflating **security** (section 391.3) with **statewide screening** (section 391.7) without the findings *Shalant* requires. Plaintiff's [proposed] order denies the motion.
-
----
-
-## 6. What this hub does **not** include
+## 3. What this hub does **not** include
 
 - No clerk up-letter (courtesy cover only; not part of the FSX 1-14 serve set).
 - No tax / MC-010 opposition papers (cost calendar is separate from August 26).

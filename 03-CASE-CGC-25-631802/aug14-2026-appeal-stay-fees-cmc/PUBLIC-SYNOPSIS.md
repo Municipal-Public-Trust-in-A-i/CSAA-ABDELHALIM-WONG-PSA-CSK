@@ -7,7 +7,7 @@
 
 ## 1. What the defense is trying to do
 
-After the July 1, 2026 order granting the special motion to strike, CSAA Insurance Exchange asked the trial court for **$32,928.27** in attorneys' fees and costs under Code of Civil Procedure section 425.16(c). That motion is set for **August 26, 2026, 9:00 a.m., Department 302**, on the same calendar as the defense motion to declare plaintiff a vexatious litigant.
+After the July 1, 2026 order granting the special motion to strike, CSAA Insurance Exchange asked the trial court for **$32,928.27** in attorneys' fees and costs under Code of Civil Procedure section 425.16(c). That motion is set for **August 26, 2026, 9:00 a.m., Department 302**, on the same calendar as a defense access motion seeking to end court access after the strike order. After the empty-file / anti-SLAPP contradiction, that access ask is an escape from merits adjudication, not a separate story.
 
 Separately, the defense filed an MC-010 memorandum of costs for **$1,137.46**.
 
@@ -41,7 +41,7 @@ The older A173827 appeal of the 2021 trial verdict is a **different** proceeding
 
 | Date | Event |
 |------|--------|
-| August 26, 2026, 9:00 a.m., Dept. 302 | 802 vexatious motion and 802 fee motion |
+| August 26, 2026, 9:00 a.m., Dept. 302 | 802 defense access/fee hearing |
 | September 8, 2026, 9:00 a.m., Dept. 301 | 801 fee motion ($37,110.46) |
 | September 9, 2026, 10:30 a.m., Dept. 610 | CMC, both cases |
 

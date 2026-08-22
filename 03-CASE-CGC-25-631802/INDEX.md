@@ -1,6 +1,6 @@
 > **POSTURE (August 14, 2026).** Notice of appeal File & Serve authorized (Tx `80347004`) from the July 1, 2026 order (DocID `10297081`) to the **First Appellate District** (number TBA). Stay notice Tx `80347745`. Fee opposition Tx `80348027`. CM-110 Tx `80349265`. Hub: [aug14-2026-appeal-stay-fees-cmc/](aug14-2026-appeal-stay-fees-cmc/README.md) · [PUBLIC-SYNOPSIS](aug14-2026-appeal-stay-fees-cmc/PUBLIC-SYNOPSIS.md).
 >
-> **Still on calendar:** August 26, 2026, 9:00 a.m., Dept. 302 / Quinn (CCP 391 / vexatious litigant **and** CCP 425.16(c) fees, $32,928.27). Vexatious hub: [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md). **Next CMC:** September 9, 2026, 10:30 a.m., Dept. 610. July 1, 2026 order is limited anti-SLAPP / FAC strike practice, not empty-file merits adjudication. Companion 801 appeal: [aug14-2026-appeal-stay-fees-tax-cmc](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md).
+> **Still on calendar:** August 26, 2026, 9:00 a.m., Dept. 302 / Quinn (defense access/fee hearing **and** CCP 425.16(c) fees, $32,928.27). After the empty-file / anti-SLAPP contradiction, that access ask is an escape from merits adjudication. Hub: [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md). **Next CMC:** September 9, 2026, 10:30 a.m., Dept. 610. July 1, 2026 order is limited anti-SLAPP / FAC strike practice, not empty-file merits adjudication. Companion 801 appeal: [aug14-2026-appeal-stay-fees-tax-cmc](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md).
 
 # Case CGC-25-631802 — Insurance Fraud and UCL Action
 
@@ -28,7 +28,7 @@
 | Hub | Description |
 |-----|-------------|
 | [aug14-2026-appeal-stay-fees-cmc/](aug14-2026-appeal-stay-fees-cmc/README.md) | **FILED Aug 14:** NOA Tx `80347004`; stay Tx `80347745`; fee opp Tx `80348027`; CM-110 Tx `80349265`; plus July 17 defense fee PDFs ($32,928.27) |
-| [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md) | **ACTIVE Aug 26:** CCP 391 opposition (14 plaintiff + 6 defense PDFs); Tx `80094866` / `80105728` |
+| [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md) | **ACTIVE Aug 26:** defense access/fee papers as filed (14 plaintiff + 6 defense PDFs); Tx `80094866` / `80105728` |
 | [hearing-package-may-8-2026/](hearing-package-may-8-2026/README.md) | May 8 cure batch (operative oppositions + supporting papers) |
 | [calendar-continuance-may-13-2026/](calendar-continuance-may-13-2026/README.md) | May 13 continuance to June 24 + restamp notices |
 | [june-24-cohort-2026-05-26/](june-24-cohort-2026-05-26/README.md) | May 26 four-transaction filing wave |

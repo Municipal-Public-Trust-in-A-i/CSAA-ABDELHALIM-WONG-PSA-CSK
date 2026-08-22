@@ -1,10 +1,10 @@
-# CGC-25-631802 - Opposition to vexatious-litigant motion (Aug 26, 2026)
+# CGC-25-631802 - Defense access/fee papers as filed (Aug 26, 2026)
 
 > **Hearing:** August 26, 2026, 9:00 a.m., Dept. 302  
 > **Filing status:** Operative opposition cohort (signature / POS dates July 22, 2026). **Portal Tx `80094866` (July 21) and `80105728` (July 22 operative updates)** per Aug 12 ROA paste. DocIDs still `[VERIFY-HUMAN]` pending PDF harvest.  
-> **Hold:** This hub mirrors the Tier A vexatious serve set only. No Contra Costa complaint materials. No internal work product. The 802 fee opposition and the 801 tax papers filed August 14 live in the [802 Aug 14 hub](../aug14-2026-appeal-stay-fees-cmc/README.md) and the [801 Aug 14 hub](../../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md).
+> **Hold:** This hub mirrors the filed serve set only. No Contra Costa complaint materials. No internal work product. The 802 fee opposition and the 801 tax papers filed August 14 live in the [802 Aug 14 hub](../aug14-2026-appeal-stay-fees-cmc/README.md) and the [801 Aug 14 hub](../../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md).
 
-Public mirror of Plaintiff's opposition to Defendant's Code of Civil Procedure section 391 motion (vexatious-litigant designation, security, and prefiling screening), plus the defense moving papers served July 21, 2026.
+After the July 1 strike order, the defense filed papers seeking to end court access. Plaintiff's filed PDFs are mirrored here as filed. The site's analysis of those papers is that they are an escape from the empty-file / anti-SLAPP contradiction, not a merits adjudication. Folder name unchanged so existing links keep resolving.
 
 **Journalist / plain-English overview:** [PUBLIC-SYNOPSIS.md](PUBLIC-SYNOPSIS.md)
 

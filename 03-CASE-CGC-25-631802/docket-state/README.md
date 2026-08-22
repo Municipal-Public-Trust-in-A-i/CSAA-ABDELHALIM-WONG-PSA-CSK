@@ -4,7 +4,7 @@
 |------|--------|
 | [STATE-2026-08-20.md](STATE-2026-08-20.md) | **Current** (GetROA Aug 20 9:16 am): 329 rows; NOA on ROA Tx `80347004`; CMC continued to Oct 21; Aug 26 still live |
 | [ROA-AUDIT-2026-08-20.md](ROA-AUDIT-2026-08-20.md) | Calendar / Day Zero / harvest audit (August 20, 2026) |
-| [CALENDAR-2026-08-20.md](CALENDAR-2026-08-20.md) | Aug 26 fees + vexatious; Oct 21 CMC |
+| [CALENDAR-2026-08-20.md](CALENDAR-2026-08-20.md) | Aug 26 defense access/fee hearing; Oct 21 CMC |
 | [STATE-2026-08-12.md](STATE-2026-08-12.md) | Prior (Aug 12 1:03 pm portal paste): newest ROA still July 28; CMC Sep 9 |
 | [ROA-AUDIT-2026-08-12.md](ROA-AUDIT-2026-08-12.md) | Prior Calendar / Day Zero / harvest audit (August 12, 2026) |
 | [CALENDAR-2026-08-12.md](CALENDAR-2026-08-12.md) | Prior 27-entry Calendar tab (August 12, 2026) |

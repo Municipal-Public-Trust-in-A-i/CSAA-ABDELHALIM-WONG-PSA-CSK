@@ -28,10 +28,10 @@ Neutral, minute-based summary of what the court docket shows. Not legal advice.
 | June 24, 2026 consolidated hearing | Argued and taken under submission; outcomes entered July 1 |
 | July 1, 2026 order | **Anti-SLAPP granted**; demurrer moot; leave TAC denied; sanctions/compel denied; certificate of service by mail filed |
 | Fees motion (CCP 425.16(c)) | Noticed July 17 (Tx `80070231`); hearing **Aug 26, 2026, 9:00 a.m., Dept. 302** |
-| Vexatious litigant / security | Noticed July 21 (Tx `80094857`); hearing **Aug 26, 2026, 9:00 a.m., Dept. 302** |
+| Defense access motion after the July 1 strike | Noticed July 21 (Tx `80094857`); hearing **Aug 26, 2026, 9:00 a.m., Dept. 302** |
 | Plaintiff opposition | July 21 Tx `80094866`; July 22 operative updates Tx `80105728` |
 | CMC July 8 to September 9 | **Continued** per June 10 minutes (DocIDs `10260028` / `10260030`) |
-| Next L&M | **August 26, 2026, Dept. 302** (fees + vexatious) |
+| Next L&M | **August 26, 2026, Dept. 302** (fees + defense access motion) |
 | Next CMC | **September 9, 2026, 10:30 a.m., Dept. 610** |
 
 **Docket state:** [802 STATE-2026-08-12](../03-CASE-CGC-25-631802/docket-state/STATE-2026-08-12.md) · [ROA-AUDIT-2026-08-12](../03-CASE-CGC-25-631802/docket-state/ROA-AUDIT-2026-08-12.md)

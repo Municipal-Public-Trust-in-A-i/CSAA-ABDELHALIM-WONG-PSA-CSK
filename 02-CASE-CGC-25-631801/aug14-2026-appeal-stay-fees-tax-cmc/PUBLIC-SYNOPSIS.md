@@ -45,7 +45,7 @@ The older A173827 appeal of the 2021 trial verdict is a **different** proceeding
 
 | Date | Event |
 |------|--------|
-| August 26, 2026, 9:00 a.m., Dept. 302 | 802 vexatious motion and 802 fee motion |
+| August 26, 2026, 9:00 a.m., Dept. 302 | 802 defense access/fee hearing |
 | September 8, 2026, 9:00 a.m., Dept. 301 | 801 fee motion ($37,110.46) |
 | September 9, 2026, 10:30 a.m., Dept. 610 | CMC, both cases |
 

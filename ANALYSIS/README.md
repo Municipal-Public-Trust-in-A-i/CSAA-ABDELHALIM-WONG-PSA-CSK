@@ -25,7 +25,7 @@ This folder collects **long-form analytical memoranda** and links to related nar
 - [801-APPEAL STRATEGIC-TACTICAL-PLEADINGS-MEMO-2026-05-19.md](../../801-APPEAL/STRATEGIC-TACTICAL-PLEADINGS-MEMO-2026-05-19.md)
 - [June 24 cohort PUBLIC-SYNOPSIS](../03-CASE-CGC-25-631802/june-24-cohort-2026-05-26/PUBLIC-SYNOPSIS.md)
 - [Aug 14 dual-appeal hubs](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 companion](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md)
-- [Aug 26 vexatious opposition hub](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [PUBLIC-SYNOPSIS](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md)
+- [Aug 26 defense access/fee papers as filed](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [PUBLIC-SYNOPSIS](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md)
 
 ## Related narrative (site root; not moved)
 

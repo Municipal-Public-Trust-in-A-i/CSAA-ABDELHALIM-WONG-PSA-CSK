@@ -13,7 +13,7 @@ Reusable face banners: [reservation of rights](banners/reservation-of-rights.md)
 **Rules observed**
 
 - Historical sent text is left as sent (typos, emoji, punctuation).
-- Defense From is omitted **from this 32-event table**. The April 30 O'Connell "cease personal attacks / I will move vexatious" email is defense-originated and is not Rosario speech. The same inbound mail **is** published in [full-archive/inbound/](full-archive/inbound/) as defense speech, with a face label.
+- Defense From is omitted **from this 32-event table**. The April 30 O'Connell email pressing withdrawal and threatening an access bar is defense-originated and is not Rosario speech. The same inbound mail **is** published in [full-archive/inbound/](full-archive/inbound/) as defense speech, with a face label.
 - August 21, 2026 letter: **not claimed served**.
 - Contradiction pair: send-status **[VERIFY-HUMAN]** (not in the May 6, 2026 Porter Scott export).
 - April 25 TAC-aligned merits: **[VERIFY-HUMAN]** (promoted from `TEMP/MERITS/0003.md`; no Support polished twin located).
@@ -56,7 +56,7 @@ Folder overview: [README.md](README.md)
 | 2026-05-07 | CCP 128.7 safe-harbor letter (801) | Safe-harbor 128.7 | Standalone served-only letter | [safe-harbor-1287/2026-05-07-1287-801.md](safe-harbor-1287/2026-05-07-1287-801.md) |
 | 2026-05-08 | CCP 128.7 safe-harbor letter (802) | Safe-harbor 128.7 | Standalone letter dated May 8, 2026 | [safe-harbor-1287/2026-05-08-1287-802.md](safe-harbor-1287/2026-05-08-1287-802.md) |
 | (date [VERIFY-HUMAN]) | Contradiction letter (structural contradiction / settlement) | Settlement (Evid. Code 1152) | **[VERIFY-HUMAN]** not in May 6 Porter Scott export | [STUB](settlement-1152/STUB-contradiction-letter.md) · [CONTRADICTION-LETTER.md](../CONTRADICTION-LETTER.md) · [email twin](../CONTRADICTION-LETTER-EMAIL.md) |
-| 2026-07-27 | CCP 128.7 safe-harbor re 802 vexatious papers | Safe-harbor 128.7 | Standalone letter dated/served July 27, 2026 | [safe-harbor-1287/2026-07-27-1287-vexatious-802.md](safe-harbor-1287/2026-07-27-1287-vexatious-802.md) |
+| 2026-07-27 | CCP 128.7 safe-harbor on defense access/fee papers | Safe-harbor 128.7 | Standalone letter dated/served July 27, 2026 | [safe-harbor-1287/2026-07-27-1287-vexatious-802.md](safe-harbor-1287/2026-07-27-1287-vexatious-802.md) |
 | 2026-08-21 | Personal dialogue letter to Tyler J. O'Connell | Personal dialogue | Published; **not claimed served** | [STUB](personal-dialogue/STUB-2026-08-21-letter.md) · [LETTER-TO-OCONNELL-AUG21-2026.md](../LETTER-TO-OCONNELL-AUG21-2026.md) · [email twin](../LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md) |
 
 **Row count:** 32 events.
@@ -67,7 +67,7 @@ Folder overview: [README.md](README.md)
 
 - Not a new wave of email to Porter Scott.
 - Not a court filing in CGC-25-631801, CGC-25-631802, A173827, or CGC-21-594102.
-- Not First Amendment immunity from CCP 391. Commentary can still be attached as an exhibit; the banner exists so the exhibit stays labeled speech, not a plaintiff filing.
+- Not a substitute for papers already on file. Commentary can still be attached as an exhibit; the banner exists so the exhibit stays labeled speech, not a plaintiff filing.
 - Not a restart of any 128.7 clock five days before the August 26, 2026, 9:00 a.m., Dept. 302 hearing.
 
 [← Site root](../README.md) · [Hearings calendar](../HEARINGS-CALENDAR.md) · [Legal analysis](../08-LEGAL-ANALYSIS/INDEX.md) · [August 2026 posture](../ANALYSIS/AUG-2026-POSTURE.md)

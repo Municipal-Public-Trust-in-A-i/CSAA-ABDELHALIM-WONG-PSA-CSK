@@ -33,6 +33,6 @@ Statutory class archives stay where they are. Do not treat this folder as a subs
 
 The completeness set now carries the whole export: the challenged set, inbound defense mail, court-staff mail, and the full run of outbound sent mail. 80 export ids are court-seen and publish unredacted.
 
-Publishing is not service. Completeness is not immunity from CCP 391.
+Publishing is not service. Completeness is not a substitute for papers already on file.
 
 [Thread groups](THREADS.md) · [Challenged-set map](CHALLENGED-SET.md) · [Correspondence hub](../README.md) · [Site root](../../README.md)

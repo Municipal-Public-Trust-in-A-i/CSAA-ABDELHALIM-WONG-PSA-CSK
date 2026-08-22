@@ -37,25 +37,23 @@ The rights are not slogans. They are specific, they are already invoked in paper
 
 The **First Amendment** protects freedom of speech. **Article I, section 2** of the California Constitution does the same, and on its face it is at least as protective: every person may speak, write, and publish on all subjects, being responsible for the abuse of that right.
 
-What is being spoken about here is a matter of public concern. A collision on a public street. A licensed insurer's written certification that an investigation was concluded. Sworn representations to a trial court about the same evidence. A later request that the speaker be barred from filing again anywhere in California. Court proceedings are public. Insurance claim-handling is a regulated industry. Commentary on either one does not become a pleading because it is addressed to counsel, posted on a docket-mirror, or disliked by the people it describes.
+What is being spoken about here is a matter of public concern. A collision on a public street. A licensed insurer's written certification that an investigation was concluded. Sworn representations to a trial court about the same evidence. A later request that the speaker lose access to the courts rather than that the letter be explained. Court proceedings are public. Insurance claim-handling is a regulated industry. Commentary on either one does not become a pleading because it is addressed to counsel, posted on a docket-mirror, or disliked by the people it describes.
 
 Pages on this site that are **not** court papers say so on their face. The human narrative at [WHAT-HAPPENS-TO-A-PERSON.md](WHAT-HAPPENS-TO-A-PERSON.md) is commentary. Personal dialogue in the correspondence archive is commentary. This section is commentary. Face banners used throughout the archive: [personal dialogue](correspondence/banners/personal-dialogue.md) · [reservation of rights](correspondence/banners/reservation-of-rights.md).
 
 ### Petition
 
-The **First Amendment** also protects the right to petition the government for a redress of grievances. **Article I, section 3** of the California Constitution protects the right of the people to instruct their representatives, petition government for redress, and assemble. **Article I, section 16** protects jury trial. Plaintiff's appearance in propria persona, and the July 27, 2026 safe-harbor letter challenging the section 391 papers, invoke article I, sections 3 and 16 on their face: [2026-07-27-1287-vexatious-802.md](correspondence/safe-harbor-1287/2026-07-27-1287-vexatious-802.md).
+The **First Amendment** also protects the right to petition the government for a redress of grievances. **Article I, section 3** of the California Constitution protects the right of the people to instruct their representatives, petition government for redress, and assemble. **Article I, section 16** protects jury trial. Plaintiff's appearance in propria persona, and the July 27, 2026 safe-harbor letter on the defense access/fee papers, invoke article I, sections 3 and 16 on their face: [2026-07-27-1287-vexatious-802.md](correspondence/safe-harbor-1287/2026-07-27-1287-vexatious-802.md).
 
 The petitions are the complaints, the oppositions, the notices of appeal, and the other papers already on file in CGC-21-594102, A173827, CGC-25-631801, and CGC-25-631802. This website is not a substitute for those papers. It is not a new petition. It is not an amendment of any filed theory. Positions directed to a party or to a tribunal remain solely those stated in the file.
 
 That separation is deliberate. Speech about a case is not a filing in the case. Attaching a commentary page as an exhibit does not make it a filing by the speaker, and it does not erase the papers that actually state the positions.
 
-### Due process, and what section 391 is not
+### Due process, and the later request to close the courthouse
 
 The **Fourteenth Amendment** and **article I, section 7** of the California Constitution protect due process, including access to the courts. Exercise of speech and petition cannot be used as the reason to deny that access, or as the reason to punish it.
 
-Code of Civil Procedure section 391 is a statutory finding about litigation conduct. It is not a speech code. It is not a prior restraint. A careful critique of motion practice, including in personal dialogue, does not make the speaker vexatious. Volume of speech is not abuse. The served opposition and the July 27 letter put those points in a tribunal's hands. What remains here is the public statement of the same rights: that a self-represented claimant may speak about a public record, may petition a court on that record, and may not be told that doing both is itself the offense.
-
-On August 26, 2026, the moving papers offer, in substantial part, this plaintiff's own speech as evidence that the speaker should lose the ability to file. That is the inversion already stated later on this page: **the exercise of the right is offered as proof of the abuse of the right.** The access fight is [Part 7](#part-7-the-access-fight-what-is-actually-being-asked-on-august-26).
+A company that certified an empty investigation later treats the claimant's public speech and court filings as the problem. After the 2021 denial-letter versus 2025 MIL-declaration contradiction, and after choosing anti-SLAPP on a 2021 claims letter, the defense asked a trial court for an access bar and fees on the strength of rulings now on appeal. That is an escape from merits adjudication, not a separate story. What remains here is the public statement of the rights already invoked in papers a court has seen: that a self-represented claimant may speak about a public record, may petition a court on that record, and may not be told that doing both is itself the offense.
 
 ### What publishing here does, and what it does not do
 
@@ -83,7 +81,7 @@ Four proceedings take that single proposition and ask different courts different
 | CGC-25-631801 | Should the judgment be set aside because it was procured by extrinsic fraud? | Struck August 6, 2026; on appeal |
 | CGC-25-631802 | Was the 2021 denial letter itself an actionable misrepresentation? | Struck July 1, 2026; on appeal |
 
-A fifth thing is now happening alongside all of it. On August 26, 2026 the insurer asks the Superior Court to declare the plaintiff a vexatious litigant and to require prefiling permission before he may file again anywhere in California. That motion is analyzed at the end of this page, because it is the consequence of everything above it rather than a separate story.
+A fifth thing is now happening alongside all of it. After the fatal contradiction, and after choosing anti-SLAPP on a 2021 claims letter, the defense asked a trial court for an access bar and fees on the strength of the strike orders now on appeal. That is an escape from merits adjudication, not a separate story. It is heard August 26, 2026, in Department 302, with the 802 fee demand.
 
 ---
 
@@ -173,11 +171,11 @@ An insurer owes no duty to a third-party claimant to settle. That is *Moradi-Sha
 
 **Where it stands.** The court granted the special motion to strike on **July 1, 2026** (DocID `10297081`). The demurrer was mooted and leave to file a third amended complaint was denied. Plaintiff filed a notice of appeal on **August 14, 2026** (Tx `80347004`, register sequence 327 to 329) with a same-day stay notice (Tx `80347745`).
 
-**Where the defense stands.** Three things on one morning, **August 26, 2026, 9:00 a.m., Department 302**: fees of **$32,928.27** under section 425.16(c); a vexatious-litigant designation with security under sections 391 and 391.3; and statewide prefiling screening under section 391.7.
+**Where the defense stands.** On **August 26, 2026, 9:00 a.m., Department 302**: fees of **$32,928.27** under section 425.16(c), and a defense access motion seeking to end court access after the strike order. After the empty-file / anti-SLAPP contradiction, that access ask is an escape from merits adjudication, not a separate case.
 
-**Plaintiff's response as filed.** Fee opposition Tx `80348027`; opposition to the section 391 motion Tx `80094866` and `80105728`.
+**Plaintiff's response as filed.** Fee opposition Tx `80348027`; opposition to the defense access motion Tx `80094866` and `80105728`.
 
-Hubs: [aug14-2026-appeal-stay-fees-cmc](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md).
+Hubs: [aug14-2026-appeal-stay-fees-cmc](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [defense moving papers as filed](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md).
 
 ---
 
@@ -192,45 +190,9 @@ The defense chose the special motion to strike as its vehicle to end both cases.
 3. **It walked into the section 425.17(c) gateway.** Commercial and insurer factual representations are carved out of section 425.16 altogether under *Simpson Strong-Tie Co. v. Gore* (2010) 49 Cal.4th 12, a threshold bar that operates before either prong. See [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) · [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md).
 4. **It manufactured the appeal it now has to answer.** An order granting a special motion to strike is immediately appealable under section 904.1(a)(13). The two orders the defense won on July 1 and August 6 are the same two orders that created the appellate lane, and on plaintiff's filed section 916 and *Varian* position they suspend the trial-court proceedings embraced by the appeals.
 
-The net position is that the defense is asking a trial court for $70,038.73 and an access bar, on the strength of two rulings now on appeal, in a posture whose central premise concedes that the claims investigation was adversarial rather than objective.
+The net position is that the defense is asking a trial court for $70,038.73 and an access bar, on the strength of two rulings now on appeal, in a posture whose central premise concedes that the claims investigation was adversarial rather than objective. After that choice, the August 26, 2026 Department 302 setting is a defense access/fee hearing used as an escape from merits adjudication of the empty-file contradiction, not a separate story. Defense moving papers as filed: [vexatious-opposition-aug26-2026/defense/](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/defense/). Plaintiff's filed PDFs from the same setting are mirrored in that hub as filed. The site's analysis of those papers is the escape-vehicle point already stated in this Part, not a merits adjudication of the letter.
 
 Expanded, with pleading-paragraph citations: [DEFENSE-FATAL-FLAWS.md](DEFENSE-FATAL-FLAWS.md). Exposure map: [RISK-SURFACE.md](RISK-SURFACE.md).
-
----
-
-## Part 7. The access fight: what is actually being asked on August 26
-
-**On August 26, 2026, at 9:00 a.m. in Department 302, CSAA Insurance Exchange asks the Superior Court to declare a self-represented plaintiff a vexatious litigant, to require security before he may proceed, and to impose statewide prefiling screening under Code of Civil Procedure section 391.7.**
-
-The evidence offered for that request is, in substantial part, **this plaintiff's own speech**. The O'Connell declaration filed July 21, 2026 attaches plaintiff's emails as **Exhibit 1**. Those threads are catalogued here unredacted at [correspondence/full-archive/UNREDACTED-COURT-SEEN.md](correspondence/full-archive/UNREDACTED-COURT-SEEN.md) and mapped at [correspondence/full-archive/CHALLENGED-SET.md](correspondence/full-archive/CHALLENGED-SET.md). The moving papers are mirrored at [vexatious-opposition-aug26-2026/defense/](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/defense/).
-
-That is the shape of the thing. **The exercise of the right is offered as proof of the abuse of the right.**
-
-### The continuum, as the filed opposition frames it
-
-Plaintiff's opposition, served July 22, 2026, describes one continuous course of conduct rather than five unrelated events ([public synopsis](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md)):
-
-1. **Certification.** The February 25, 2021 denial letter represents that an investigation was concluded.
-2. **Empty file.** The foundational materials (911 audio, body-worn camera, CAD) are not in the claim file as pleaded.
-3. **Dispositive stack.** Anti-SLAPP, demurrer, and section 436 strike motions aimed at the amendment path.
-4. **Email gatekeeping.** April and May 2026 defense emails press withdrawal, brand plaintiff's filings with artificial-intelligence pejoratives, and demand that he cease filing.
-5. **Section 391 endgame.** The July 21, 2026 motion for designation, security, and statewide screening.
-
-Step four is documented in plaintiff's own filed exhibits. **Exhibit K, dated April 30, 2026, is a defense email expressly threatening a vexatious-litigant motion.** The July 21 filing carries out that threat. Both the exhibit index and the supplemental memorandum addressing the access layer are public: [12-SUPPLEMENTAL-EXHIBIT-INDEX-DEFENSE-EMAILS.pdf](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/plaintiff/12-SUPPLEMENTAL-EXHIBIT-INDEX-DEFENSE-EMAILS.pdf) · [11-SUPPLEMENTAL-MPA-ACCESS-DEFENSE-EMAILS.pdf](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/plaintiff/11-SUPPLEMENTAL-MPA-ACCESS-DEFENSE-EMAILS.pdf) · [13-EXHIBITS-COMBINED-F-N.pdf](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/plaintiff/13-EXHIBITS-COMBINED-F-N.pdf).
-
-### What the law requires before a court closes its doors
-
-Volume is not abuse. Adjectives are not findings. Under *Morton v. Wagner* (2007) 156 Cal.App.4th 963, docket count and pejorative labels such as harassing, frivolous, or clogging do not establish flagrant abuse under section 391(b)(3). Under *Shalant v. Girardi* (2011) 51 Cal.4th 1164, security under section 391.3 and statewide prefiling screening under section 391.7 are distinct remedies with distinct predicates, and the findings for one do not supply the findings for the other. Plaintiff's objections to the defense proposed order argue exactly that overbreadth: [05-OBJECTIONS-TO-PROPOSED-ORDER.pdf](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/plaintiff/05-OBJECTIONS-TO-PROPOSED-ORDER.pdf).
-
-The served safe-harbor letter of July 27, 2026 challenging those papers appears in his own name under **article I, sections 3 and 16 of the California Constitution**: [2026-07-27-1287-vexatious-802.md](correspondence/safe-harbor-1287/2026-07-27-1287-vexatious-802.md).
-
-### Why this archive exists
-
-A documented contradiction between an insurer's written certification and its counsel's sworn representations should not be resolvable by quietly making the person who noticed it go away. Every document here is a court filing or a communication actually sent. The site publishes nothing a tribunal has not seen and nothing that has not been served, which is the discipline that makes the archive worth reading at all.
-
-The rights that make that publication lawful are stated at the front of this page: [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public). Speech is the First Amendment and article I, section 2. Petition is the First Amendment and article I, section 3. Jury trial is article I, section 16. Due process and court access are the Fourteenth Amendment and article I, section 7. Section 391 is a statutory finding, not a speech code.
-
-**Plaintiff-authored commentary, clearly labeled.** The constitutional framing in this section is plaintiff's own, published as speech under those provisions. It is not a court filing, it is not service on anyone, and it does not restart any Code of Civil Procedure section 128.7 period.
 
 ---
 
@@ -241,7 +203,7 @@ The rights that make that publication lawful are stated at the front of this pag
 | CGC-21-594102 | Judgment entered; on appeal | See A173827 |
 | A173827 | Fully briefed August 20, 2026 | Argument not set |
 | CGC-25-631801 | Struck August 6; on appeal (First District number not yet assigned) | Sept 8, 2026, Dept. 301 (fees) |
-| CGC-25-631802 | Struck July 1; on appeal (First District number not yet assigned) | Aug 26, 2026, Dept. 302 (section 391 and fees) |
+| CGC-25-631802 | Struck July 1; on appeal (First District number not yet assigned) | Aug 26, 2026, Dept. 302 (defense access/fee hearing) |
 | Both 2025 cases | Case management statements filed August 14 | Oct 21, 2026, 10:30 a.m., Dept. 610 |
 
 **Appellate numbers are not yet assigned. Do not infer them.** Under rule 8.121, a notice designating the record on appeal (form APP-003) is due in each superior-court file by **August 24, 2026**, ten days after the August 14 notices of appeal. Form APP-004 waits on the Court of Appeal clerk's notice.
@@ -256,14 +218,14 @@ Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and postur
 
 Every communication published here was **actually sent**. Publishing it is not a filing, is not new service, and does not restart any section 128.7 period. Each item keeps the legal character it had on the day it was sent: a settlement communication stays a settlement communication, a safe-harbor letter stays a safe-harbor letter, and commentary stays commentary. Speech and petition are not the same right; the homepage states both: [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public).
 
-The archive matters analytically because the access motion is built out of it. A reader who wants to test the characterization of plaintiff's emails can read them in full rather than through a declaration's summary.
+The archive matters because, after the empty-file certification, the defense treats the correspondence as the problem rather than explaining the letter. A reader who wants to test that characterization can read the emails in full rather than through a declaration's summary.
 
 | Class | Events | What the class is | Representative item |
 |---|---|---|---|
 | Evidence Code 1152 settlement | 4 | Written toward compromise; inadmissible to prove liability | [March 7, 2026 global demand](correspondence/settlement-1152/2026-03-07-demand-75m.md) |
 | Service transmittal | 10 | Transmits papers or proofs of service | [May 4, 2026 electronic service under section 1010.6](correspondence/service-transmittal/2026-05-04-0943-801-e-service.md) |
 | Meet and confer | 7 | Satisfies a statutory conference obligation before a motion | [April 25, 2026 merits letter](correspondence/meet-and-confer/2026-04-25-tac-aligned-merits.md) |
-| CCP 128.7 safe harbor | 7 | Starts or preserves the twenty-one day sanctions clock | [July 27, 2026 letter on the section 391 papers](correspondence/safe-harbor-1287/2026-07-27-1287-vexatious-802.md) |
+| CCP 128.7 safe harbor | 7 | Starts or preserves the twenty-one day sanctions clock | [July 27, 2026 safe-harbor letter on defense access/fee papers](correspondence/safe-harbor-1287/2026-07-27-1287-vexatious-802.md) |
 | Personal dialogue | 4 | Speech, not a filing and not a statutory paper | [August 21, 2026 letter, published and not claimed served](LETTER-TO-OCONNELL-AUG21-2026.md) |
 
 Full 32-event table with per-item sent status: [correspondence/INDEX.md](correspondence/INDEX.md). Face banners: [reservation of rights](correspondence/banners/reservation-of-rights.md) · [personal dialogue](correspondence/banners/personal-dialogue.md) · [meet and confer](correspondence/banners/meet-and-confer.md) · [safe harbor 128.7](correspondence/banners/safe-harbor-1287.md) · [settlement 1152](correspondence/banners/settlement-1152.md) · [service transmittal](correspondence/banners/service-transmittal.md)
@@ -295,7 +257,7 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 | Journalists and writers | [JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md) | Newsroom narrative |
 | Researchers and public | [CASE-DOSSIER.md](CASE-DOSSIER.md) ([PDF](CASE-DOSSIER.pdf)) | Thirty-minute curated tour |
 | The merits, element by element | [MERITS.md](MERITS.md) | Every count tied to pleading paragraphs |
-| The access fight | [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) | Both sides' section 391 papers |
+| Defense access/fee papers as filed | [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) | Defense moving papers after the strike orders; plaintiff's filed PDFs mirrored as filed |
 | Plaintiff-authored analysis | [ANALYSIS/README.md](ANALYSIS/README.md) | Long-form memos; not court filings |
 | Defense filings as filed | [DEFENSE-FILINGS/](DEFENSE-FILINGS/) | Clerk PDFs |
 | Correspondence | [correspondence/INDEX.md](correspondence/INDEX.md) | Class archive and completeness set |

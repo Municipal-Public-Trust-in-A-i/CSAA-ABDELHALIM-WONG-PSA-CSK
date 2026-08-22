@@ -42,7 +42,7 @@ On August 21, 2026, plaintiff published a **personal dialogue** letter to Tyler 
 | Case | Ask | Amount | Hearing | Docket lock |
 |------|-----|--------|---------|-------------|
 | 802 | CCP 425.16(c) fees after the July 1 grant | **$32,928.27** | Aug 26, 2026, 9:00 a.m., Dept. 302 | Tx `80070231` |
-| 802 | CCP 391 vexatious designation, security, 391.7 prefiling | Access bar | Same Aug 26 setting | Tx `80094857`; plaintiff opp Tx `80094866` / `80105728` |
+| 802 | Defense access motion after the July 1 strike (escape from empty-file / anti-SLAPP contradiction) | Access bar | Same Aug 26 setting | Tx `80094857`; plaintiff opp Tx `80094866` / `80105728` |
 | 802 | MC-010 costs | **$1,137.46** | Cost calendar (matured Aug 10) | Tx `80123223` / DocID `10338159` |
 | 801 | CCP 425.16(c) fees and costs after the Aug 6 strike order | **$37,110.46** ($35,973 fees + $1,137.46 costs) | Sept 8, 2026, 9:00 a.m., Dept. 301 | Tx `80309587`; DocIDs `10369670` / `10369671` / `10369673` |
 
@@ -84,7 +84,7 @@ On August 21, 2026, plaintiff published a **personal dialogue** letter to Tyler 
 | Newest ROA date on that paste | **2026-07-28** |
 | August 14 wave | File & Serve authorized; residual check is stamped PDF / ROA DocID |
 
-**Docket state:** [802 STATE-2026-08-12](../03-CASE-CGC-25-631802/docket-state/STATE-2026-08-12.md) · [vexatious hub](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)
+**Docket state:** [802 STATE-2026-08-12](../03-CASE-CGC-25-631802/docket-state/STATE-2026-08-12.md) · [Aug 26 papers as filed](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)
 
 ---
 

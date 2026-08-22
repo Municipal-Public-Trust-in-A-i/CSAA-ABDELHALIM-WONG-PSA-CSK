@@ -2,7 +2,7 @@
 
 **This page is not a filing.** It is not new service. It does not restart any CCP 128.7 clock. It does not describe withheld words.
 
-Export IDs below map to papers already lodged for the August 26, 2026 CCP 391 hearing (O'Connell Declaration Exhibit 1; plaintiff Exhibits A and F-N; O'Connell reply declaration Exhibit A). Tone is not cleaned.
+Export IDs below map to papers already lodged for the August 26, 2026 defense access/fee hearing (O'Connell Declaration Exhibit 1; plaintiff Exhibits A and F-N; O'Connell reply declaration Exhibit A). Tone is not cleaned. After the empty-file / anti-SLAPP contradiction, those papers are an escape from merits adjudication, not a separate story.
 
 ## Defense Exhibit 1 / plaintiff Exhibit A
 
@@ -33,7 +33,7 @@ Index: [12-SUPPLEMENTAL-EXHIBIT-INDEX-DEFENSE-EMAILS.pdf](../../03-CASE-CGC-25-6
 
 ## Other challenged bodies
 
-NavaRAT / Reyna characterization bodies and the July 22-28 vexatious-thread bodies are in `outbound/` or `inbound/` by From-line. One July 27 128.7 letter is **not** reclassified here; see [../safe-harbor-1287/2026-07-27-1287-vexatious-802.md](../safe-harbor-1287/2026-07-27-1287-vexatious-802.md).
+NavaRAT / Reyna characterization bodies and the July 22-28 access-motion thread bodies are in `outbound/` or `inbound/` by From-line. One July 27 128.7 letter is **not** reclassified here; see [../safe-harbor-1287/2026-07-27-1287-vexatious-802.md](../safe-harbor-1287/2026-07-27-1287-vexatious-802.md).
 
 Where a sent body is not court-seen, a visible marker may replace a Rule 3 span. The marker is not a description of the withheld words.
 

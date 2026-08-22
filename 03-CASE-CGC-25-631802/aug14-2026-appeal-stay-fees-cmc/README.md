@@ -17,10 +17,10 @@ After the July 1, 2026 anti-SLAPP / FAC strike order (DocID `10297081`), CSAA In
 | Ask | Amount / remedy | Hearing |
 |-----|-----------------|---------|
 | CCP 425.16(c) attorneys' fees and costs | **$32,928.27** as noticed July 17, 2026 (Tx `80070231`) | **August 26, 2026, 9:00 a.m., Dept. 302** |
-| CCP 391 vexatious designation, security, and 391.7 prefiling | Access bar (separate hub) | Same August 26 setting |
+| Defense access motion after the July 1 strike | Access bar (separate hub) | Same August 26 setting |
 | MC-010 costs | **$1,137.46** (Tx `80123223` / DocID `10338159`) | Cost calendar; matured August 10, 2026 |
 
-The vexatious papers remain at [vexatious-opposition-aug26-2026/](../vexatious-opposition-aug26-2026/README.md). This hub is the **fee motion and the appeal / stay / CMC** layer.
+The defense access/fee papers remain at [vexatious-opposition-aug26-2026/](../vexatious-opposition-aug26-2026/README.md). This hub is the **fee motion and the appeal / stay / CMC** layer.
 
 ---
 
@@ -73,7 +73,7 @@ Demand as noticed: **$32,928.27**. Hearing: August 26, 2026, 9:00 a.m., Dept. 30
 - No August 26 hearing outline, paper demonstrative, or hearing-day kit.
 - No predraft appellant's opening brief (no appellate number yet).
 - No clerk-upload notes or File & Serve instruction sheets.
-- Vexatious-litigant papers stay in [vexatious-opposition-aug26-2026/](../vexatious-opposition-aug26-2026/README.md).
+- Defense access/fee papers stay in [vexatious-opposition-aug26-2026/](../vexatious-opposition-aug26-2026/README.md).
 
 ---
 

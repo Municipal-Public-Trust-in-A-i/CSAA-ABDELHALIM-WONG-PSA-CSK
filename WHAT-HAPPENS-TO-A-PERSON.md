@@ -116,9 +116,9 @@ It is learning civil procedure at night, while healing, from books and public ru
 
 It is doing all of that against people who do this for a living, who are paid by the hour to do it, and who have colleagues.
 
-And then, at the end, comes the last inversion.
+And then, at the end, comes the last move.
 
-The fact that the person keeps using the courts becomes the argument for not letting them use the courts. The volume of paper generated in response to motions filed against them is offered as proof that they file too much. The exercise of the right is offered as proof of the abuse of the right.
+After the empty-file certification, the institution tries to close the courthouse rather than explain the letter. The fact that the person kept asking for an answer is offered as the reason they should not be allowed to ask.
 
 ---
 
@@ -146,7 +146,7 @@ So instead, the structural facts, which do not depend on anyone's optimism.
 
 A file like this does not improve with time. The contradiction lives in transcripts and on letterhead, which means it can never be walked back, only defended. Every additional motion adds another signature to a position that becomes more expensive to hold, and each signature is a public document.
 
-Attempts to shut the record down become part of the record. A fee award, a security requirement, an order restricting access: each is a filed paper, dated, available to anyone who looks, and each one is easier to explain to a court than to explain to a stranger reading it later.
+Attempts to shut the record down become part of the record. A fee award, an order closing the courthouse: each is a filed paper, dated, available to anyone who looks, and each one is easier to explain to a court than to explain to a stranger reading it later.
 
 Regulators read denial letters for a living. They are not persuaded by adjectives and they are not impressed by volume. They know what a claim file is supposed to contain.
 

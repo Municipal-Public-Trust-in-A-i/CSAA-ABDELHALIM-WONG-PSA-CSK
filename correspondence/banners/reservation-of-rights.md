@@ -6,6 +6,6 @@
 >
 > **2. Petition.** Formal positions remain solely those stated in papers already on file. The right to petition the government for redress is reserved under **article I, section 3** of the California Constitution. This archive is not a substitute petition and is not a new filing.
 >
-> **3. Due process / retaliation.** Exercise of speech and petition rights cannot be used to deny **Fourteenth Amendment** due process or **article I, section 7** of the California Constitution, or to punish access to the courts. Code of Civil Procedure section 391 is a statutory finding. It is not a speech code.
+> **3. Due process / retaliation.** Exercise of speech and petition rights cannot be used to deny **Fourteenth Amendment** due process or **article I, section 7** of the California Constitution, or to punish access to the courts. A company that certified an empty investigation later treats the claimant's public speech and court filings as the problem.
 >
 > Publishing this archive is not service. This page is not a filing.
