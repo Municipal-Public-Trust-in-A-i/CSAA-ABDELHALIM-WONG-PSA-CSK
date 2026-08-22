@@ -6,12 +6,14 @@
 
 One row per **event** (not per `_1.md` twin). Canonical path is the public file that holds the Rosario-sent text, or a stub that links to a body already on this site.
 
-Reusable face banners: [personal-dialogue](banners/personal-dialogue.md) · [meet-and-confer](banners/meet-and-confer.md) · [safe-harbor-1287](banners/safe-harbor-1287.md) · [settlement-1152](banners/settlement-1152.md) · [service-transmittal](banners/service-transmittal.md)
+Reusable face banners: [reservation of rights](banners/reservation-of-rights.md) · [personal-dialogue](banners/personal-dialogue.md) · [meet-and-confer](banners/meet-and-confer.md) · [safe-harbor-1287](banners/safe-harbor-1287.md) · [settlement-1152](banners/settlement-1152.md) · [service-transmittal](banners/service-transmittal.md)
+
+**Completeness set:** [full-archive/README.md](full-archive/README.md) publishes Phase 1 of the August 21, 2026 Porter Scott mailbox export (challenged set, inbound defense mail, and court-staff mail). The 32-event table below remains the curated class archive. `full-archive/` is the completeness set. Inbound defense From is published there as defense speech, labeled as such. Court-staff mail is in [full-archive/court-staff/](full-archive/court-staff/) and is not Rosario speech. Publishing is not a filing, not new service, and does not restart any CCP 128.7 clock.
 
 **Rules observed**
 
 - Historical sent text is left as sent (typos, emoji, punctuation).
-- Defense From is omitted. The April 30 O'Connell "cease personal attacks / I will move vexatious" email is defense-originated and is not Rosario speech.
+- Defense From is omitted **from this 32-event table**. The April 30 O'Connell "cease personal attacks / I will move vexatious" email is defense-originated and is not Rosario speech. The same inbound mail **is** published in [full-archive/inbound/](full-archive/inbound/) as defense speech, with a face label.
 - August 21, 2026 letter: **not claimed served**.
 - Contradiction pair: send-status **[VERIFY-HUMAN]** (not in the May 6, 2026 Porter Scott export).
 - April 25 TAC-aligned merits: **[VERIFY-HUMAN]** (promoted from `TEMP/MERITS/0003.md`; no Support polished twin located).

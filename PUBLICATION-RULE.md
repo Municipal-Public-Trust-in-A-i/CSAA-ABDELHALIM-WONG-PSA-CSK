@@ -59,7 +59,39 @@ This site never publishes forward-looking litigation planning, regardless of how
 - Internal assessments of an opponent's expected positions and how they will be answered in future papers.
 - Anything characterizing a not-yet-filed instrument as forthcoming.
 
-A document is excluded in full if it contains such material. It is not excerpted, redacted, or summarized around the excluded parts. Mixed documents stay off the site until a version exists that is wholly composed of filed material and court-seen theory.
+A document is excluded in full if it contains such material, **except for already-sent correspondence** under the narrow carve-out below. Mixed internal analysis, predrafts, hearing scripts, and any document that is not already-sent correspondence stay off the site. They are not excerpted, redacted, or summarized around the excluded parts.
+
+---
+
+## Already-sent correspondence: span redaction and court-seen exception
+
+This section is a **narrow carve-out** for correspondence that was actually sent or received. It does not authorize publishing drafts, predrafts, hearing scripts, sequencing plans, or internal analysis.
+
+### 1. Span redaction of Rule 3 material in sent mail
+
+Sent correspondence may be published with a **visible redaction** of Rule 3 spans (unfiled instruments, sequencing, timing, lead-with / hold-back allocation, and any description of a not-yet-filed instrument). The rest of the sent body stays as sent.
+
+The marker must not paraphrase, quote, or name the withheld content. Locked wording:
+
+```text
+[REDACTED - forthcoming instrument; not a description of the withheld words]
+```
+
+The same ban applies to README pages, indices, challenged-set maps, and homepage What's new entries. Naming a planned filing on those pages is itself a Rule 3 failure.
+
+### 2. Court-seen unredacted exception (vexatious-hearing pleadings)
+
+If the same correspondence already appears in a vexatious-hearing pleading for the August 26, 2026 CCP 391 motion (defense exhibit or plaintiff exhibit), the **full email thread** publishes with **zero redaction**, matching the filed exhibit. Tone, emoji, and characterizations stay as they appear in the filing. Do not silently clean the record.
+
+"Full email thread" means the message attached or quoted in the filed exhibit, plus on-thread replies in the same conversation.
+
+### 3. Publishing is not service
+
+Publishing correspondence here is **not** service, does not restart any Code of Civil Procedure section 128.7 safe-harbor period, and does not convert sent mail into a filing. Sent correspondence keeps the legal character it had when sent.
+
+### 4. Whole-document exclusion still applies to everything else
+
+Whole-document exclusion remains the rule for internal analysis, predrafts, hearing scripts, courtesy-copy plans, and any document that is **not** already-sent correspondence. Those items are never published by redacting around the excluded parts.
 
 ---
 
@@ -81,7 +113,7 @@ This site publishes some material that is expressly **not** a court filing: pers
 
 That material is subject to the same three rules with one adjustment. Commentary authored for publication is published as commentary, on the date it is published, and is **never held out as served or filed**. Every such page carries a face label saying what it is and what it is not.
 
-Commentary is still bound by Rule 3. Publishing something as commentary does not create a route for forward strategy to reach the site.
+Commentary is still bound by Rule 3. Publishing something as commentary does not create a route for forward strategy to reach the site, except the already-sent correspondence carve-out above (span redaction of Rule 3 spans; court-seen threads unredacted).
 
 Correspondence that was actually sent keeps the legal character it had when it was sent. Meet-and-confer letters, section 128.7 safe-harbor letters, Evidence Code section 1152 settlement communications, and service transmittals remain what they were. Publishing them here does not reclassify them as commentary, does not restart any clock, and is not new service. See [correspondence/INDEX.md](correspondence/INDEX.md).
 
@@ -93,7 +125,7 @@ Every addition to this site must clear all five items.
 
 1. **Filed or served?** Identify the filing or service date. If neither exists, stop.
 2. **Court-seen theory?** Identify the filed paper in which the argument already appears. If none, stop.
-3. **Forward-looking content?** Scan for the excluded categories in Rule 3. If any are present, stop and leave the document off the site.
+3. **Forward-looking content?** Scan for the excluded categories in Rule 3. If any are present in a document that is **not** already-sent correspondence, stop and leave the document off the site. If the document **is** already-sent correspondence, apply the span-redaction carve-out, or the court-seen unredacted exception, instead of whole-document omission. Markers must not describe withheld words.
 4. **Labeled correctly?** Filings say what they are. Commentary says it is not a filing. Uncertain service status is disclosed rather than implied.
 5. **Links resolve?** Every path points to a file that exists in this repository, so no reader is sent to a page that is not actually public.
 

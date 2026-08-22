@@ -15,3 +15,5 @@
 > **Vexatious is a statutory finding, not a speech code.** A careful critique of motion practice, including in personal dialogue, does not make the speaker "vexatious." Code of Civil Procedure section 391 is not a prior restraint. It is not a license to punish commentary because an unrepresented claimant declined to be quiet.
 >
 > Publishing this archive is not service. This page is not a filing.
+>
+> See also [reservation of rights](reservation-of-rights.md).
