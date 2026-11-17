@@ -3,7 +3,7 @@
 
 > Open public record. Plaintiff-authored narrative, not a court filing. Every block-quoted statute or case excerpt is verbatim from the published source. Internal-monologue paragraphs are analytical inference about strategic logic; they are not direct quotation of any party's subjective state. The four-hypothesis framework in Section IX is offered as inference bounded by signals, not as fact.
 
-**Composed:** May 9, 2026  ·  **Length:** approximately 7,000 words  ·  **Companions:** [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md), [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md), [MERITS.md](MERITS.md).
+**Composed:** May 9, 2026  ·  **Length:** approximately 7,000 words  ·  **Companions:** [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md), [DELAY-IMMUNITY-GAMBIT-801-802.md](DELAY-IMMUNITY-GAMBIT-801-802.md), [MERITS.md](MERITS.md).
 
 *Hand-composed prose. Conventional California citations; verbatim statute and case-law text imported inline from the [California case-law and statute mirror](CASE-LAW-AND-STATUTES/) and from the MAY-13-HEARING-PACKAGE-CGC-25-631802 source bundle (filed for the originally-noticed mid-May 2026 calendar). No em-dashes. Anti-SLAPP focused; collateral motion families appear only as they bear on the consequence chains traced here.*
 
@@ -276,7 +276,7 @@ What the May 29 hearing will not decide by itself is the section 128.7 safe-harb
 ## Companion documents
 
 - [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md): doctrinal walkthrough of the Code of Civil Procedure section 425.16 / section 425.17 off-ramps; case-specific 801 / 802 anchors; bench-statement précis.
-- [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md): unified narrative on the two-layer immunity rhetoric, section 425.17(c) as the first-and-only gateway question, section 425.17(e) and interlocutory-review limits, and the case-management Tracks 1 to 3.
+- [DELAY-IMMUNITY-GAMBIT-801-802.md](DELAY-IMMUNITY-GAMBIT-801-802.md): court-seen Layer A / Layer B delay-immunity description, section 425.17(c) gateway, and section 425.17(e) interlocutory-review limits already assigned in filed 801/802 papers.
 - [MERITS.md](MERITS.md): TAC-aligned merits statement and meet-and-confer letter for CGC-25-631801 and CGC-25-631802.
 - [DEFENSE-FATAL-FLAWS.md](DEFENSE-FATAL-FLAWS.md): quick map of the 631802 procedural posture defects.
 - [LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md): navigation hub for the California case-law, statutes, and rules mirror under [CASE-LAW-AND-STATUTES/](CASE-LAW-AND-STATUTES/INDEX.md).

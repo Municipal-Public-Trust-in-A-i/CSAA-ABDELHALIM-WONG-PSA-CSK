@@ -4,7 +4,9 @@
 
 **Published:** September 22, 2026.
 
-This ledger lists every plaintiff writing the defense lodged as a ground for the Code of Civil Procedure section 391 motion in CGC-25-631802, and points to the published page for each item. It does not add a theory. It does not describe a filing that has not been made.
+**Caption.** Defense lodged plaintiff speech and discovery papers as Code of Civil Procedure section 391 grounds in CGC-25-631802. That is the **Oppose** choice in the [consequence registry](CONSEQUENCE-REGISTRY.md): access bar and fees on strike orders then on appeal.
+
+This ledger lists every plaintiff writing the defense lodged as a ground for that motion, and points to the published page for each item. It does not add a theory. It does not describe a filing that has not been made.
 
 **Speech, not a pleading.** Personal dialogue and other correspondence stay what they were when sent. Attaching them to a declaration does not convert them into pleadings. That point is already in the July 22, 2026 evidentiary objections to the O'Connell declaration (DocID `10333986`, [PDF](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/plaintiff/07-EVIDENTIARY-OBJECTIONS-TO-OCONNELL-DECL.pdf)) and in the sent page [September 22, 2026, 4:32 p.m. public-records commentary](../correspondence/personal-dialogue/2026-09-22-first-amendment-public-records.md).
 
@@ -13,6 +15,8 @@ Plaintiff Exhibits F-N are defense-authored mail. They are not in this ledger. C
 ---
 
 ## Defense papers that lodged these writings
+
+**Actor.** CSAA, through the O'Connell declarations. **Act.** Lodge plaintiff correspondence and discovery papers as CCP 391 exhibits. **Object.** An access bar.
 
 | Defense paper | Date | What it says about plaintiff writings |
 |---------------|------|----------------------------------------|

@@ -18,15 +18,15 @@ Posting this page is not service and does not restart any Code of Civil Procedur
 
 [Four-stage record guide (commentary), November 17, 2026](COMMENTARY/2026-11-17-s299144-four-stage-record-guide.md)
 
-**Defense failure commentary (November 17, 2026).** Face-labeled commentary; not a filing. [DEFENSE.FAILURE.md](DEFENSE.FAILURE.md) summarizes how the respondent's Court of Appeal briefing and Supreme Court Answer treated the April 23 record: reordered colloquy chronology, omitted the immediate qualification after acknowledgment, treated CACI numbering as if it answered a deliberating jury's section 614 request, and expanded objections about distinct judicial acts into purported consent to the completed refusal to instruct. The piece argues that those moves left the instructional and prejudice questions untested on the court-seen papers now collected on the [S299144 hub](01-APPEAL/s299144-supreme-court/README.md).
+**Defense failure commentary (November 17, 2026).** Face-labeled commentary; not a filing. [DEFENSE.FAILURE.md](DEFENSE.FAILURE.md) names four acts in the Respondent's Brief and Answer: reorder 11 RT chronology; omit 11 RT 4:11-14; swap CACI numbers for a section 614 duty; expand objections into consent to Refusal 1. Those acts left instructional correctness and *Soule* prejudice untested on the [S299144 hub](01-APPEAL/s299144-supreme-court/README.md). Registry: [Oppose](COMMENTARY/CONSEQUENCE-REGISTRY.md#jury-prohibition).
 
 ![Commentary illustration: satirical figure labeled Cherry Pickin' Esq., CSAA collar, ladder legs reading STITCHING THE RECORD and REWRITING HISTORY](REB.ESQ.png)
 
-> **Commentary visual; not a filing; not a court finding.** The cartoon labels cherry-picking and record stitching. On the court-seen papers, [DEFENSE.FAILURE.md](DEFENSE.FAILURE.md) and the Answer / Respondent's Brief already show reordered colloquy chronology, omitted immediate qualification after acknowledgment, CACI numbering treated as disposing of a deliberating jury's section 614 request, and objections about distinct judicial acts expanded into purported consent to the completed refusal to instruct.
+> **Commentary visual; not a filing; not a court finding.** The cartoon labels cherry-picking and record stitching. The prose accusation, with pins, is in [DEFENSE.FAILURE.md](DEFENSE.FAILURE.md): chronology reorder, omitted qualification, CACI-number swap, objection expansion into consent.
 
 ---
 
-**Judicial discretion and the Fourteenth Amendment (commentary, October 18, 2026).** Face-labeled commentary; not a filing. [When Judicial Discretion Collides With the Fourteenth Amendment](COMMENTARY/2026-10-18-judicial-discretion-fourteenth-amendment.md) analyzes whether a trial judge may invoke discretion, substantive correctness, or an absence of prejudice to excuse noncompliance with Code of Civil Procedure section 614 when a materially modified jury response is transmitted without prior party review, and how that delivery sequence implicates due process under the Fourteenth Amendment. The piece stays with Rosario's account of the Reply No. 2 enhancement chronology and the recorded justifications at 11 RT.
+**Notice charge versus discretion (commentary, October 18, 2026; shortened November 17).** Face-labeled commentary; not a filing. [Notice charge versus discretion: Reply No. 2 and section 614](COMMENTARY/2026-10-18-judicial-discretion-fourteenth-amendment.md) states the section 614 notice charge for the Reply No. 2 enhancement and why discretion, a correct statutory quote, and a no-prejudice claim do not meet that charge. Pins stay on Rosario's account and 11 RT.
 
 ---
 
@@ -314,9 +314,10 @@ Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and postur
 
 | Commentary set | What it is |
 |----------------|------------|
-| [Judicial discretion and the Fourteenth Amendment](COMMENTARY/2026-10-18-judicial-discretion-fourteenth-amendment.md) | October 18, 2026 commentary on section 614 notice before a materially modified jury response and due process. Face-labeled. Not a filing. |
-| [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md) | Why this entire record is of public interest. Face-labeled commentary only. Not a filing. |
-| [Consequence registry](COMMENTARY/CONSEQUENCE-REGISTRY.md) | Conclusion, inference, and consequence of the deny, delay, defend, and oppose choices already on file, including the jury-question prohibition and the litigation-privilege choice. Face-labeled commentary. Not a filing. |
+| [Notice charge versus discretion (Reply No. 2)](COMMENTARY/2026-10-18-judicial-discretion-fourteenth-amendment.md) | Section 614 notice charge for the Reply No. 2 enhancement; discretion / correct-answer / no-prejudice answers. Face-labeled. Not a filing. |
+| [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md) | Why this entire record is of public interest: Deny letter, Delay MIL declarations, Oppose access bar. Face-labeled commentary only. Not a filing. |
+| [Consequence registry](COMMENTARY/CONSEQUENCE-REGISTRY.md) | Actor + act + object for Deny, Delay, Defend, Oppose already on file, including the jury-question void and the litigation-privilege choice. Face-labeled commentary. Not a filing. |
+| [Delay-immunity gambit (801 / 802)](DELAY-IMMUNITY-GAMBIT-801-802.md) | What the April 9, 2026 anti-SLAPP papers did: deny merits and claim immunity so merits never run (Layer A / Layer B). Face-labeled commentary. Not a filing. |
 | [CSAA and Porter Scott correspondence](COMMENTARY/csaa-porter-scott-correspondence/README.md) | Index of every message in the Porter Scott mailbox export (sent and received), plus the `@csaa.com` subset, with links into the completeness set. Face-labeled commentary only. |
 | [September 21-23, 2026 sent commentary and served 802 papers](COMMENTARY/2026-09-22-defense-outbound/README.md) | Mail actually sent to CSAA and Porter Scott, plus the September 22, 2026 papers served that day and the September 23, 2026 Department 302 chamber-copy delivery. |
 | [September 23, 2026 investigative referral](correspondence/personal-dialogue/2026-09-23-investigative-referral.md) | Sent commentary inviting independent review of the CSAA denial and the public-safety record. Not a filing. Blind-copy recipients omitted. |

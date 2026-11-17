@@ -4,7 +4,7 @@
 
 **Cases (context):** CGC-25-631801 · CGC-25-631802 · Claim No. 1004-09-1054  
 **Homepage:** [README.md](README.md)  
-**Companions:** [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md) · [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md) · [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) · [MERITS.md](MERITS.md)
+**Companions:** [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md) · [DELAY-IMMUNITY-GAMBIT-801-802.md](DELAY-IMMUNITY-GAMBIT-801-802.md) · [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) · [MERITS.md](MERITS.md)
 
 ---
 
@@ -196,4 +196,4 @@ In insurance evaluation, **purpose is the metric by which reasonableness is judg
 * **Figure 1** (above): [assets/immunity-claims-handling-strategy.png](assets/immunity-claims-handling-strategy.png)
 * **Figure 2** (above): [assets/immunity-anti-slapp-cascade.png](assets/immunity-anti-slapp-cascade.png)
 
-[← Site root](README.md) · [Anti-SLAPP consequence radius](ANTI-SLAPP-CONSEQUENCE-RADIUS.md) · [Delay-tactic immunity gambit](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md) · [802 case hub](03-CASE-CGC-25-631802/INDEX.md)
+[Site root](README.md) · [Anti-SLAPP consequence radius](ANTI-SLAPP-CONSEQUENCE-RADIUS.md) · [Delay-immunity gambit](DELAY-IMMUNITY-GAMBIT-801-802.md) · [802 case hub](03-CASE-CGC-25-631802/INDEX.md)

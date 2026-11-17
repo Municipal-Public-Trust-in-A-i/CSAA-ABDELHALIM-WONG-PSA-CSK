@@ -2,6 +2,18 @@
 
 > **This page is commentary.** It is the message sent October 20, 2026, at 11:46 a.m. Pacific, from soltrinox@gmail.com to Rebekah.Morrissey@csaa.com, toconnell@porterscott.com, ctapp@porterscott.com, and mschubert@porterscott.com. It is published as speech under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is not a court filing. Posting this page is not service and does not restart any Code of Civil Procedure section 128.7 period. The message keeps the character it had when it was sent.
 
+## Preface (November 17, 2026)
+
+**Actor.** Respondent counsel in A173827 / S299144.
+
+**Act.** Reorder April 23 colloquy chronology, omit 11 RT 4:11-14, treat CACI numbering as if it answered a section 614 jury request, and expand objections about distinct judicial acts into purported consent to Refusal 1.
+
+**Object.** The trial judge's failure to instruct before deliberations (the void). The jury's ask is the manifestation.
+
+Full blunt map of those four acts: [DEFENSE.FAILURE.md](../DEFENSE.FAILURE.md). Consequence diction: [CONSEQUENCE-REGISTRY.md](CONSEQUENCE-REGISTRY.md) (**Oppose** / [jury-prohibition](CONSEQUENCE-REGISTRY.md#jury-prohibition)). Four-stage reading guide: [2026-11-17-s299144-four-stage-record-guide.md](2026-11-17-s299144-four-stage-record-guide.md).
+
+The email body below is unchanged from the October 20, 2026 send. It is already-sent correspondence, not a filing.
+
 Subject as sent: COMMENTARY: on CA Supreme Court - Filing Accepted - Case No. S299144 | ROSARIO v. ABDELHALIM
 
 The served application and corrected petition: [PDF](../01-APPEAL/S299144-application-substitute-corrected-petition-served-2026-10-19.pdf).

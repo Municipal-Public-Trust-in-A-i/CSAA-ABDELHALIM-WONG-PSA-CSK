@@ -90,7 +90,7 @@ Neutral description of filed positions across four forums. Nothing below predict
 
 **Spine:** day-21 denial as “anticipation of litigation”; 10 CCR § 2695.7(d) objectivity; *Action Apartment* privilege predicate; *Wilson* contemporaneous-file rule; *Egan* one-sided investigation; *Aguilar* judicial estoppel; Ins. Code § 790.03 / Fair Claims as **standard of care only** (*Moradi-Shalal* / *Zhang*).
 
-**Companion to:** [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md) · [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md) · [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) · [MERITS.md](MERITS.md).
+**Companion to:** [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md) · [DELAY-IMMUNITY-GAMBIT-801-802.md](DELAY-IMMUNITY-GAMBIT-801-802.md) · [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) · [MERITS.md](MERITS.md).
 
 ### **➤ [Open IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md and read the full narrative](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md)**
 
@@ -198,7 +198,7 @@ CSAA’s liability arises from its affirmative representation that a competent i
 
 **Spine:** § 425.17(c) as threshold bar; thirteen-row maneuver-to-consequence ledger; discovery stay backfire under [§ 425.16(g)](CASE-LAW-AND-STATUTES/statutes-cal/CCP-425.16.md); conscription of the claim record; omitted controlling authorities and candor toward the tribunal; the reply maneuver and page-cap counter-trap; deem-admit and compel as independent channels; reply declaration and § 1005 trap.
 
-**Companion to:** [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) (doctrinal off-ramps walkthrough) · [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md) (strategic-memo voice) · [IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md) (anticipation-of-litigation → purpose confession) · [MERITS.md](MERITS.md) (TAC-aligned merits statement).
+**Companion to:** [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) (doctrinal off-ramps walkthrough) · [DELAY-IMMUNITY-GAMBIT-801-802.md](DELAY-IMMUNITY-GAMBIT-801-802.md) (delay-immunity commentary) · [IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md) (anticipation-of-litigation → purpose confession) · [MERITS.md](MERITS.md) (TAC-aligned merits statement).
 
 ### **➤ [Open ANTI-SLAPP-CONSEQUENCE-RADIUS.md and read the full narrative](ANTI-SLAPP-CONSEQUENCE-RADIUS.md)**
 
@@ -214,7 +214,7 @@ California’s special motion to strike under CCP § 425.16 is a two-step burden
 
 **→ [Read the full doctrinal walkthrough → ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md)**
 
-**→ [Strategic memo: delay-tactic immunity gambit (801 / 802) → STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md):** CCP § 425.17(c) gateway, § 425.17(e) and appellate leverage, two-layer immunity rhetoric (Layer A / B), per-case catalogs, and Tracks 1–3 case-management readout (plaintiff-authored narrative; not a court filing).
+**→ [Delay-immunity gambit (801 / 802) → DELAY-IMMUNITY-GAMBIT-801-802.md](DELAY-IMMUNITY-GAMBIT-801-802.md):** CCP section 425.17(c) gateway, section 425.17(e) interlocutory-review limits, two-layer immunity rhetoric (Layer A / B), per-case catalogs of filed papers (commentary; not a court filing).
 
 **→ [Immunity mapping to bad-faith signal → IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md):** How “anticipation of litigation” becomes a purpose confession under 10 CCR § 2695.7(d), *Action Apartment*, *Wilson*, and *Aguilar*; two flowcharts (claims-handling contradiction + adverse-inference cascade) (plaintiff-authored narrative; not a court filing).
 
@@ -332,7 +332,7 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 ## What's new (July 27, 2026)
 
-- **NEW featured narrative:** [IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md) - how reaching for litigation privilege / anti-SLAPP “anticipation of litigation” maps into a Fair Claims / *Egan* / *Wilson* purpose confession. Inline Figures 1-2: [claims-handling contradiction](assets/immunity-claims-handling-strategy.png) · [adverse-inference cascade](assets/immunity-anti-slapp-cascade.png). Companion to [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md) and [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md).
+- **NEW featured narrative:** [IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md) - how reaching for litigation privilege / anti-SLAPP “anticipation of litigation” maps into a Fair Claims / *Egan* / *Wilson* purpose confession. Inline Figures 1-2: [claims-handling contradiction](assets/immunity-claims-handling-strategy.png) · [adverse-inference cascade](assets/immunity-anti-slapp-cascade.png). Companion to [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md) and [DELAY-IMMUNITY-GAMBIT-801-802.md](DELAY-IMMUNITY-GAMBIT-801-802.md).
 
 ## What's new (July 22, 2026)
 
@@ -378,8 +378,8 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 
 **May 4, 2026 refresh.**
 
-- **NEW:** [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md): focused 7,000-word narrative on the consequence radius of the defense's April 9, 2026 anti-SLAPP filings in CGC-25-631801 and CGC-25-631802. Anchored on the [CCP § 425.17(c)](CASE-LAW-AND-STATUTES/statutes-cal/) carve-out as threshold bar under *Simpson Strong-Tie Co., Inc. v. Gore* (2010) 49 Cal.4th 12. Includes a thirteen-row maneuver-to-consequence ledger and a four-hypothesis framework for reading defense conduct from documentary signals. Companion to [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) and [STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md).
-- **NEW:** [Strategic memo: delay-tactic immunity gambit (801 / 802)](STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md): unified narrative on defense two-layer immunity rhetoric, CCP § 425.17(c) as first-and-only gateway question, § 425.17(e) and interlocutory-review limits, *Moradi-Shalal* / *Zhang*, sanctions and case-management Tracks 1–3; companion to [EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md](EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md) and the [Apr. 30 cross-hearing hubs](#april-2829-2026--preparation-for-apr-30-hearing-cgc-25-631802). *(Memo cites some workspace-only paths for PDFs elsewhere in the authoring repo; core cross-links above live on this site.)*
+- **NEW:** [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md): focused 7,000-word narrative on the consequence radius of the defense's April 9, 2026 anti-SLAPP filings in CGC-25-631801 and CGC-25-631802. Anchored on the [CCP § 425.17(c)](CASE-LAW-AND-STATUTES/statutes-cal/) carve-out as threshold bar under *Simpson Strong-Tie Co., Inc. v. Gore* (2010) 49 Cal.4th 12. Includes a thirteen-row maneuver-to-consequence ledger and a four-hypothesis framework for reading defense conduct from documentary signals. Companion to [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) and [DELAY-IMMUNITY-GAMBIT-801-802.md](DELAY-IMMUNITY-GAMBIT-801-802.md).
+- **NEW:** [Delay-immunity gambit (801 / 802)](DELAY-IMMUNITY-GAMBIT-801-802.md): court-seen two-layer immunity rhetoric, CCP section 425.17(c) gateway, section 425.17(e) interlocutory-review limits; companion to [EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md](EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md) and the [Apr. 30 cross-hearing hubs](#april-2829-2026--preparation-for-apr-30-hearing-cgc-25-631802).
 
 **May 1, 2026 refresh.**
 
@@ -834,7 +834,7 @@ The story of how one brain-injured plaintiff, proceeding alone against a multi-b
 ├── MERITS.md                         (TAC-aligned merits statement + implications)
 ├── IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md (anticipation-of-litigation → purpose confession; 2 flowcharts)
 ├── ANTI-SLAPP-OFF-RAMPS.md           (CCP § 425.16 / § 425.17 off-ramps; 801 vs. 802)
-├── STRATEGIC-MEMO-DELAY-TACTIC-IMMUNITY-GAMBIT-801-802.md (425.17(c)/(e); immunity-as-delay narrative)
+├── DELAY-IMMUNITY-GAMBIT-801-802.md (425.17(c)/(e); immunity-as-delay narrative)
 ├── assets/                           (homepage narrative figures, incl. immunity flowcharts)
 ├── MERITS-EXHIBITS/                  (3 cornerstone PDFs + 2 certified TAC PDFs)
 ├── FOR-ATTORNEYS.md                  (intake cover for California counsel)

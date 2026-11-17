@@ -16,13 +16,17 @@ Filed papers referenced here (hub): [S299144 supreme-court hub](../01-APPEAL/s29
 | Overlength reply (filed Nov. 16, 2026) | [Reply PDF](../01-APPEAL/s299144-supreme-court/06-reply-to-answer-filed-2026-11-16.pdf) |
 | Clerk letter (Nov. 16, 2026) | [Letter PDF](../01-APPEAL/s299144-supreme-court/07-clerk-letter-2026-11-16.pdf) |
 
-This guide maps four stages that the filed corrected petition and the filed overlength reply organize from the April 23, 2025 reporter's record and the jury note already in the superior-court file: (1) forfeiture and invited error; (2) instructional error under Code of Civil Procedure section 614; (3) prejudice under *Soule*; (4) the disposition those papers request once prejudice is found. Every stage below cites a filed paper on the hub, or a reporter / superior-court pin those papers already use.
+This guide maps four stages the filed corrected petition and the filed overlength reply organize from the April 23, 2025 reporter's record and the jury note already in the superior-court file: (1) forfeiture and invited error; (2) instructional error under Code of Civil Procedure section 614; (3) prejudice under *Soule*; (4) the disposition those papers request once prejudice is found. Every stage cites a filed paper on the hub, or a reporter / superior-court pin those papers already use. Diction: [Deny / Delay / Defend / Oppose](CONSEQUENCE-REGISTRY.md). Object-mismatch acts: [DEFENSE.FAILURE.md](../DEFENSE.FAILURE.md).
 
 ---
 
 ## Stage 1. Forfeiture and invited error
 
-The Opinion treated agreement and invited error as closing instructional and prejudice review. (Opinion pp. 2-4.) The Answer endorses that invited-error bar. (Answer pp. 4, 8-9.)
+**Actor.** The Court of Appeal Opinion and the Answer.
+
+**Act.** Treat agreement and invited error as closing instructional and prejudice review. (Opinion pp. 2-4; Answer pp. 4, 8-9.)
+
+**Object.** The completed refusal to instruct (Refusal 1), not a separate Form No. 2 sending.
 
 The corrected petition and the filed reply assign distinct objects on the afternoon colloquy:
 
@@ -43,6 +47,12 @@ The corrected petition disputes whether the completed refusal clause was include
 ---
 
 ## Stage 2. Instructional error under section 614
+
+**Actor.** The trial court.
+
+**Act.** Complete a dual prohibition: jurors may not consider Vehicle Code sections 22107 and 21804(a), and the court will not instruct on them. (11 RT 6:23-27.)
+
+**Object.** The void: failure to instruct before deliberations on the statutes the jury named. Registry: [jury-prohibition](CONSEQUENCE-REGISTRY.md#jury-prohibition).
 
 ### A. The jury's written request
 
@@ -98,11 +108,11 @@ The original verdict's first finding was that Respondent was not negligent. The 
 
 ## Controlling connection (as the filed papers present it)
 
-1. **Forfeiture.** The defense has not established legally effective consent to the particular completed refusal.
-2. **Instructional error.** The deliberating jury expressly requested applicable turning-duty law, and the court categorically withheld it without an adequate substitute.
-3. **Prejudice.** The missing legal guidance concerned the defendant's admitted maneuver, the exact subject of the jury's question, the focus of defense argument, and the nine-vote negligence finding.
+1. **Forfeiture.** Respondent **Opposed** merits review by expanding colloquy into consent; the filed papers assign that expansion as legally ineffective consent to the completed refusal. ([DEFENSE.FAILURE.md](../DEFENSE.FAILURE.md))
+2. **Instructional error.** The deliberating jury requested applicable turning-duty law; the court withheld it without an adequate substitute (the void).
+3. **Prejudice.** The missing guidance concerned the defendant's admitted maneuver, the jury's written question, defense argument that the turn was lawful, and the nine-vote negligence finding.
 4. **Disposition.** The filed papers request vacatur, reconsideration of the consent bar, and adjudication of section 614 and *Soule* prejudice, with remand for a new trial if prejudice is found.
 
-The central record assignment is not merely that the trial court failed to give a particular CACI form. The jury itself raised the governing statutory issue during deliberations, sought guidance from the judge, and received an affirmative prohibition instead. That assignment appears in the corrected petition and the filed overlength reply now on the hub.
+The central record assignment is the jury's own request for governing statutory law during deliberations and the court's affirmative prohibition in reply. That assignment appears in the corrected petition and the filed overlength reply on the hub.
 
 [Commentary index](README.md) · [S299144 hub](../01-APPEAL/s299144-supreme-court/README.md) · [Site root](../README.md)
