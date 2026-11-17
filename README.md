@@ -51,15 +51,13 @@ This entire record is of public interest. The reasons are stated in [Public Inte
 
 **The core wrong is independent common-law deceit about completed historical acts.** CSAA represented that it had "concluded our investigation" after "carefully reviewing the facts and circumstances." The filed complaint alleges that the claim file recorded no request, receipt, or review of the police-report-identified 911, body-worn-camera, and computer-aided-dispatch materials before closure. The action seeks reliance damages under Civil Code sections 1709, 1710, subdivision (1), and 3333. It does not seek private enforcement of Insurance Code section 790.03, policy benefits, or the value of the underlying bodily-injury claim.
 
-[*Moradi-Shalal v. Fireman's Fund Insurance Companies*](04-CASE-C26-02801/INDEX.md#the-preservation-clause) (1988) 46 Cal.3d 287, 304-305 expressly preserves appropriate traditional common-law actions against insurers, including fraud, while barring an implied private cause of action under section 790.03.
+*[Moradi-Shalal v. Fireman's Fund Insurance Companies](04-CASE-C26-02801/INDEX.md#the-preservation-clause)* (1988) 46 Cal.3d 287, 304-305 expressly preserves appropriate traditional common-law actions against insurers, including fraud, while barring an implied private cause of action under section 790.03.
 
 **[Read the full legal argument and supporting record links.](04-CASE-C26-02801/INDEX.md)** The sent September 22, 2026 email is [here](correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md). The filed complaint PDF is [here](04-CASE-C26-02801/VERIFIED-COMPLAINT-C26-02801.pdf).
 
 ---
 
 ## San Francisco and appellate
-
-<a id="ten-defense-acts"></a>
 
 ## Ten defense acts
 
@@ -68,23 +66,14 @@ This entire record is of public interest. The reasons are stated in [Public Inte
 These ten are the sharpest illegal acts in the defense chronology. Each one is already in the claim file, the reporter's transcript, or a paper a court has seen.
 
 1. **The denial letter certified an investigation that was never done.** On February 25, 2021, CSAA claims representative Sarah Rash wrote that the insurer had "concluded our investigation" and that the insured was not liable. The file did not contain the driver's 911 call, the body-worn camera video, or the dispatch record. [015](DEFENSE-OFFENSE-CHRONOLOGY.md#015)
-
 2. **The Answer accused the injured pedestrian of a DUI conviction he does not have.** On September 14, 2021, Michael R. Chambers filed a fifth affirmative defense alleging plaintiff was driving in violation of Vehicle Code sections 23152 or 23153 "for which violation(s) plaintiff was convicted," and used that allegation to cut non-economic damages. Plaintiff was the pedestrian. No such conviction exists. [023A](DEFENSE-OFFENSE-CHRONOLOGY.md#023A)
-
 3. **A sworn motion told the trial court the confession tape had not been produced.** On January 17, 2025, Priya D. Navaratnasingham filed Motion in Limine No. 6 (transaction 80936030) representing that the recorded materials "were not produced in discovery." The defense file had held them since the August 18, 2022 deposition. [035](DEFENSE-OFFENSE-CHRONOLOGY.md#035)
-
 4. **Confronted with sworn proof of that production, counsel told the judge it was "news to me."** On February 18, 2025, after Jeremy Jessup testified that the 911 audio, body-worn camera videos, and dispatch records were produced to defense counsel, Navaratnasingham said: "So this is news to me." The court answered: "I see. Okay." [040](DEFENSE-OFFENSE-CHRONOLOGY.md#040)
-
 5. **Minutes after telling 911 he hit the man, the driver told the officer he felt no impact.** On the February 4, 2021 recording the driver said "BOOM! I just hit him." He then told Officer Fernandez he did not feel any impact, did not see the plaintiff, and that the van had no damage. The police report adopted that account and assigned fault to the injured party. [005](DEFENSE-OFFENSE-CHRONOLOGY.md#005)
-
 6. **The driver left the injured person and later swore he never left.** He moved the van away. A passerby's 911 call reported "a hit and run ... nobody helping him." At deposition he said "I never left." The pleaded defect is the hit-and-run duty in Vehicle Code section 20001. [003](DEFENSE-OFFENSE-CHRONOLOGY.md#003)
-
 7. **The admission that the defense had the videos came only after the exclusion rulings.** On April 16, 2025, trial day 7, counsel said the videos "were provided by Dolan" and described cutting five videos down to about eight or nine minutes. That concession came after the rulings the "unknown origin" motions had already procured. [050](DEFENSE-OFFENSE-CHRONOLOGY.md#050)
-
 8. **The jury asked for the turning statutes by number and was told they were not evidence.** On April 23, 2025, the jury asked whether it could consider Vehicle Code sections 22107 and 21804. The court answered that neither section was part of the evidence: "They simply are not permitted to consider that as evidence in the case, period." The defense stood by, then accepted Vehicle Code definitions it had requested. The later appeal treated that refusal as the plaintiff's waiver. [062](DEFENSE-OFFENSE-CHRONOLOGY.md#062)
-
 9. **The insurer's own anti-SLAPP brief admitted it never obtained the 911 call, the video, or the dispatch record, and still called the investigation complete.** The April 9, 2026 memorandum in CGC-25-631802 (transaction 79007560) concedes those materials were not obtained before the February 25, 2021 letter, and still describes the investigation as a review of the available evidence. [107](DEFENSE-OFFENSE-CHRONOLOGY.md#107)
-
 10. **Counsel asked a trial court to gate every future filing in California and to brand the injured party vexatious for suing on the empty file.** The July 21, 2026 motion under Code of Civil Procedure section 391 sought judicial approval for any further filings in the State of California. The collision case was against the driver, it was on appeal, and there had been no finally determined action against CSAA on the claims-handling claim. [130](DEFENSE-OFFENSE-CHRONOLOGY.md#130)
 
 **[Read the full list](DEFENSE-OFFENSE-CHRONOLOGY.md)**
@@ -293,7 +282,7 @@ Hubs: [aug14-2026-appeal-stay-fees-cmc](03-CASE-CGC-25-631802/aug14-2026-appeal-
 
 ---
 
-<a id="part-6"></a>
+
 
 ## Part 6. The one error that runs through both 2025 cases
 
