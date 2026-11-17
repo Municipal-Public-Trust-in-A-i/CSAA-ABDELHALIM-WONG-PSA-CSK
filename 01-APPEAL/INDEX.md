@@ -34,6 +34,21 @@ The May 2026 scaffold packet at [POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL](P
 
 ---
 
+## S299144 (Supreme Court petition for review from A173827)
+
+**Hub:** [s299144-supreme-court/README.md](s299144-supreme-court/README.md)
+
+| Paper | Date | Link |
+|-------|------|------|
+| Corrected petition + substitute application | Served/filed Oct. 19, 2026; order granting substitution Oct. 20, 2026 | [Petition PDF](S299144-application-substitute-corrected-petition-served-2026-10-19.pdf) · [Order](s299144-supreme-court/02-substitution-order-2026-10-20.pdf) |
+| Answer to petition | Received Nov. 10, 2026 | [Answer PDF](s299144-supreme-court/03-answer-to-petition-received-2026-11-10.pdf) |
+| Overlength reply + application | Filed Nov. 16, 2026 (clerk letter: leave granted; reply filed; supplement denied) | [Reply](s299144-supreme-court/06-reply-to-answer-filed-2026-11-16.pdf) · [Application](s299144-supreme-court/05-application-overlength-reply-2026-11-16.pdf) · [Clerk letter](s299144-supreme-court/07-clerk-letter-2026-11-16.pdf) |
+| Opinion under review | Filed Sept. 10, 2026 | [Opinion PDF](s299144-supreme-court/04-opinion-filed-2026-09-10.pdf) |
+
+Commentary reading guide: [2026-11-17 four-stage record guide](../COMMENTARY/2026-11-17-s299144-four-stage-record-guide.md). Posting is not service.
+
+---
+
 ## A173827 (trial appeal; separate proceeding)
 
 **Underlying Case:** CGC-21-594102 (Rosario v. Abdelhalim et al.)  

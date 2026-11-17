@@ -4,13 +4,19 @@ Rosario asks the Supreme Court three questions in the corrected petition. The fi
 
 His account is that the court omitted Vehicle Code sections 22107 and 21804(a) from the charge, instructed on general negligence and section 21651(b), and never furnished the promised completed charge. Jury Request No. 1 then asked whether, in considering the defendant's negligence, the jury should consider those two sections and, if so, could be instructed on them. He objected to the trial judge's failure to instruct the jury before deliberations, which, in his understanding, left jurors needing to seek legal guidance concerning the evidence. His objection to that resulting predicament is not an objection to supplying the instructions, and it is not consent to refusing them. He states that the completed replies contained two additions he and his assisting team had not been shown: a refusal to instruct in Reply No. 1, and a highway and street explanation added to Reply No. 2 and sent to the jury. He maintains that section 614 required notice of that revised content before delivery, and that the Court of Appeal treated his mistrial motion, the word "immaterial," and his discussion of an earlier formulation as agreement to the completed refusal.
 
-The application and corrected petition stating that account were served on October 19, 2026, in Supreme Court No. S299144. The served copy carries the legend "Document received by the CA Supreme Court." A TrueFiling notice forwarded to counsel on October 20, 2026 states that the Supreme Court filed S299144-corrected-petition-signed on October 19, 2026, at 11:55 p.m., as a petition for review (fee previously paid). Substitution remains subject to the Court's order. The October 15, 2026 petition remains the petition on file until that order.
+The application and corrected petition stating that account were served on October 19, 2026, in Supreme Court No. S299144. A TrueFiling notice states that the Supreme Court filed S299144-corrected-petition-signed on October 19, 2026, at 11:55 p.m., as a petition for review (fee previously paid). By order filed October 20, 2026, the Court granted permission to substitute that corrected petition. The corrected petition is the operative petition for review.
+
+Respondent's answer to the petition was received November 10, 2026. The Supreme Court clerk letter of November 16, 2026 states that permission was granted to file a reply in excess of 4,200 words, that reply was filed that date, and permission to file a supplemental memorandum in support of the petition was denied.
+
+Hub of court papers (petition, Oct. 20 order, Answer, opinion, overlength application, filed reply, clerk letter): [01-APPEAL/s299144-supreme-court/](01-APPEAL/s299144-supreme-court/README.md)
 
 [Application and corrected petition, served October 19, 2026 (PDF)](01-APPEAL/S299144-application-substitute-corrected-petition-served-2026-10-19.pdf)
 
 Posting this page is not service and does not restart any Code of Civil Procedure section 128.7 period.
 
 [Sent commentary, October 20, 2026, 11:46 a.m.](COMMENTARY/2026-10-20-s299144-filing-accepted-commentary.md)
+
+[Four-stage record guide (commentary), November 17, 2026](COMMENTARY/2026-11-17-s299144-four-stage-record-guide.md)
 
 ---
 
