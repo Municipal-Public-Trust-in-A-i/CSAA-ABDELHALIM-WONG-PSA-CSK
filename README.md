@@ -18,11 +18,13 @@ Posting this page is not service and does not restart any Code of Civil Procedur
 
 [Four-stage record guide (commentary), November 17, 2026](COMMENTARY/2026-11-17-s299144-four-stage-record-guide.md)
 
+[Sent commentary, November 17, 2026, 1:13 p.m.: LOOK WHO REWROTE HISTORY!](COMMENTARY/2026-11-17-look-who-rewrote-history.md)
+
 **Defense failure commentary (November 17, 2026).** Face-labeled commentary; not a filing. [DEFENSE.FAILURE.md](DEFENSE.FAILURE.md) names four acts in the Respondent's Brief and Answer: reorder 11 RT chronology; omit 11 RT 4:11-14; swap CACI numbers for a section 614 duty; expand objections into consent to Refusal 1. Those acts left instructional correctness and *Soule* prejudice untested on the [S299144 hub](01-APPEAL/s299144-supreme-court/README.md). Registry: [Oppose](COMMENTARY/CONSEQUENCE-REGISTRY.md#jury-prohibition).
 
 ![Commentary illustration: satirical figure labeled Cherry Pickin' Esq., CSAA collar, ladder legs reading STITCHING THE RECORD and REWRITING HISTORY](REB.ESQ.png)
 
-> **Commentary visual; not a filing; not a court finding.** The cartoon labels cherry-picking and record stitching. The prose accusation, with pins, is in [DEFENSE.FAILURE.md](DEFENSE.FAILURE.md): chronology reorder, omitted qualification, CACI-number swap, objection expansion into consent.
+> **Commentary visual; not a filing; not a court finding.** The cartoon labels cherry-picking and record stitching. The prose accusation, with pins, is in [DEFENSE.FAILURE.md](DEFENSE.FAILURE.md): chronology reorder, omitted qualification, CACI-number swap, objection expansion into consent. The November 17, 2026 sent email publishing the same theme, with both cropped cartoons, is [LOOK WHO REWROTE HISTORY!](COMMENTARY/2026-11-17-look-who-rewrote-history.md).
 
 ---
 
@@ -320,6 +322,7 @@ Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and postur
 | [Delay-immunity gambit (801 / 802)](DELAY-IMMUNITY-GAMBIT-801-802.md) | What the April 9, 2026 anti-SLAPP papers did: deny merits and claim immunity so merits never run (Layer A / Layer B). Face-labeled commentary. Not a filing. |
 | [CSAA and Porter Scott correspondence](COMMENTARY/csaa-porter-scott-correspondence/README.md) | Index of every message in the Porter Scott mailbox export (sent and received), plus the `@csaa.com` subset, with links into the completeness set. Face-labeled commentary only. |
 | [September 21-23, 2026 sent commentary and served 802 papers](COMMENTARY/2026-09-22-defense-outbound/README.md) | Mail actually sent to CSAA and Porter Scott, plus the September 22, 2026 papers served that day and the September 23, 2026 Department 302 chamber-copy delivery. |
+| [LOOK WHO REWROTE HISTORY! (Nov. 17, 2026 sent commentary)](COMMENTARY/2026-11-17-look-who-rewrote-history.md) | Already-sent November 17, 2026, 1:13 p.m. defense-team commentary; cropped cartoons; Test 3 spans redacted. Face-labeled. Not a filing. |
 | [September 23, 2026 investigative referral](correspondence/personal-dialogue/2026-09-23-investigative-referral.md) | Sent commentary inviting independent review of the CSAA denial and the public-safety record. Not a filing. Blind-copy recipients omitted. |
 | [September 23, 2026 A173827 supplement application](01-APPEAL/sept23-2026-supplement-rehearing/README.md) | TrueFiling-accepted application for leave to supplement the September 11 petition for rehearing. Counsel notice email published as a service transmittal. |
 
