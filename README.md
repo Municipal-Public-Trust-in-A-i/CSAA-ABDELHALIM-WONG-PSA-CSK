@@ -18,6 +18,8 @@ Posting this page is not service and does not restart any Code of Civil Procedur
 
 [Four-stage record guide (commentary), November 17, 2026](COMMENTARY/2026-11-17-s299144-four-stage-record-guide.md)
 
+**Defense failure commentary (November 17, 2026).** Face-labeled commentary; not a filing. [DEFENSE.FAILURE.md](DEFENSE.FAILURE.md) summarizes how the respondent's Court of Appeal briefing and Supreme Court Answer treated the April 23 record: reordered colloquy chronology, omitted the immediate qualification after acknowledgment, treated CACI numbering as if it answered a deliberating jury's section 614 request, and expanded objections about distinct judicial acts into purported consent to the completed refusal to instruct. The piece argues that those moves left the instructional and prejudice questions untested on the court-seen papers now collected on the [S299144 hub](01-APPEAL/s299144-supreme-court/README.md).
+
 ---
 
 # When Judicial Discretion Collides With the Fourteenth Amendment
